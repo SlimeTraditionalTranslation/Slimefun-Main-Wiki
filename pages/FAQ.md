@@ -1,7 +1,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <details>
-<summary>Table of Contents</summary>
+<summary>目錄</summary>
 
 - [How can I download / install Slimefun or its Addons?](#how-can-i-download--install-slimefun-or-its-addons)
 - [Can I install Slimefun on a Singleplayer world?](#can-i-install-slimefun-on-a-singleplayer-world)

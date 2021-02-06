@@ -1,15 +1,15 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <details>
-<summary>Table of Contents</summary>
+<summary>目錄</summary>
 
-- [1. Keeping an eye on performance](#1-時刻關注效能狀態)
-- [2. Choosing the right Server Software](#2-選擇合適的伺服器軟體)
-- [3. Avoiding /reload](#3-避免-reload)
-- [4. Disabling backwards-compatibility](#4-disabling-backwards-compatibility)
+- [1. 時刻關注效能狀態](#1-%E6%99%82%E5%88%BB%E9%97%9C%E6%B3%A8%E6%95%88%E8%83%BD%E7%8B%80%E6%85%8B)
+- [2. 選擇合適的伺服器軟體](#2-%E9%81%B8%E6%93%87%E5%90%88%E9%81%A9%E7%9A%84%E4%BC%BA%E6%9C%8D%E5%99%A8%E8%BB%9F%E9%AB%94)
+- [3. 避免 /reload](#3-%E9%81%BF%E5%85%8D-reload)
+- [4. 關閉向後兼容](#4-%E9%97%9C%E9%96%89%E5%90%91%E5%BE%8C%E5%85%BC%E5%AE%B9)
 - [5. Slower Tick-rates](#5-slower-tick-rates)
 - [6. Handling Cargo networks](#6-handling-cargo-networks)
-- [7. Enabling Automatic updates](#7-enabling-automatic-updates)
+- [7. 啟用自動更新](#7-%E5%95%9F%E7%94%A8%E8%87%AA%E5%8B%95%E6%9B%B4%E6%96%B0)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
