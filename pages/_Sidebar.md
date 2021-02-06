@@ -1,7 +1,7 @@
 ## 總覽
 * [甚麼是黏液科技?](https://github.com/xMikux/Slimefun4/wiki/Slimefun-in-a-nutshell)
 * [如何安裝黏液科技](https://github.com/xMikux/Slimefun4/wiki/Installing-Slimefun)
-* [Getting Started](https://github.com/xMikux/Slimefun4/wiki/Getting-Started)
+* [入門](https://github.com/xMikux/Slimefun4/wiki/Getting-Started)
 * [Common Issues and Problems](https://github.com/xMikux/Slimefun4/wiki/Common-Issues)
 * [How to report bugs](https://github.com/xMikux/Slimefun4/wiki/How-to-report-bugs)
 * [Help us expand the Wiki!](https://github.com/xMikux/Slimefun4/wiki/Expanding-the-Wiki)

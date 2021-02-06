@@ -3,14 +3,15 @@
 因此, 對Wiki的貢獻是非常感謝!
 
 **請注意 此非為黏液科技官方Wiki** 官方Wiki [請點我](https://github.com/Slimefun/Slimefun4)
+此Wiki還正在進行翻譯中! 如果有翻譯錯誤 或者導向錯誤 請多見諒.
 
-# Overview
-* [What is Slimefun?](https://github.com/xMikux/Slimefun4/wiki/Slimefun-in-a-nutshell)
-* [How to install Slimefun](https://github.com/xMikux/Slimefun4/wiki/Installing-Slimefun)
-  * [Optimizing your Slimefun Server](https://github.com/xMikux/Slimefun4/wiki/Server-Optimizations)
-* [Addons for Slimefun 4](https://github.com/xMikux/Slimefun4/wiki/Addons)
-* [Getting Started](https://github.com/xMikux/Slimefun4/wiki/Getting-Started)
-* [Permissions](https://github.com/xMikux/Slimefun4/wiki/Permissions) & [Commands](https://github.com/xMikux/Slimefun4/wiki/Commands)
+# 總覽
+* [甚麼是黏液科技?](https://github.com/xMikux/Slimefun4/wiki/Slimefun-in-a-nutshell)
+* [如何安裝黏液科技](https://github.com/xMikux/Slimefun4/wiki/Installing-Slimefun)
+  * [優化你的黏液科技伺服器](https://github.com/xMikux/Slimefun4/wiki/Server-Optimizations)
+* [黏液科技的附加插件](https://github.com/xMikux/Slimefun4/wiki/Addons)
+* [入門](https://github.com/xMikux/Slimefun4/wiki/Getting-Started)
+* [權限](https://github.com/xMikux/Slimefun4/wiki/Permissions) & [Commands](https://github.com/xMikux/Slimefun4/wiki/Commands)
 * [Help us expand the Wiki!](https://github.com/xMikux/Slimefun4/wiki/Expanding-the-Wiki)
 * [Help us translate Slimefun!](https://github.com/xMikux/Slimefun4/wiki/Translating-Slimefun)
 * [Frequently Asked Questions (FAQ)](https://github.com/xMikux/Slimefun4/wiki/FAQ)
