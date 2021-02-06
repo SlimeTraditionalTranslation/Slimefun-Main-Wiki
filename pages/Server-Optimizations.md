@@ -1,13 +1,13 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <details>
-<summary>Table of Contents</summary>
+<summary>目錄</summary>
 
-- [1. Keeping an eye on performance](#1-keeping-an-eye-on-performance)
-- [2. Choosing the right Server Software](#2-choosing-the-right-server-software)
-- [3. Avoiding /reload](#3-avoiding-reload)
-- [4. Disabling backwards-compatibility](#4-disabling-backwards-compatibility)
-- [5. Slower Tick-rates](#5-slower-tick-rates)
+- [1. 時刻關注效能](#1-keeping-an-eye-on-performance)
+- [2. 選擇合適的伺服器軟體](#2-choosing-the-right-server-software)
+- [3. 避免 /reload](#3-avoiding-reload)
+- [4. 關閉向後兼容](#4-disabling-backwards-compatibility)
+- [5. 放慢Tick速度](#5-slower-tick-rates)
 - [6. Handling Cargo networks](#6-handling-cargo-networks)
 - [7. Enabling Automatic updates](#7-enabling-automatic-updates)
 </details>
