@@ -2,10 +2,11 @@ Want to spice up your Slimefun4-Server? Then you have come to the right place!<b
 Here is a list of all Slimefun Addons (that we currently know of). You can install these addons to add even more content to your Slimefun-based Minecraft Servers!
 
 ### Table of contents
-1. [Official Addons](#official-addons)
-2. [Third-Party Addons](#third-party-addons)
-3. [Other Third-Party Plugins](#third-party-plugins)
-4. [How to create your own Addon](https://github.com/Slimefun/Slimefun4/wiki/Addons#creating-your-own-addons)
+- [Official Addons](#official-addons)
+- [Third-Party Addons](#third-party-addons)
+- [Third-Party Plugins](#third-party-plugins)
+- [Addon Jams](#addon-jams)
+  - [Creating your own Addons?](#creating-your-own-addons)
 
 ## Official Addons
 These Addons were developed closely to Slimefun.<br>
@@ -53,6 +54,7 @@ Liquid | Seggan, NCBPFluffyBear | <details><summary>expand</summary>This addon a
 DynaTech | ProfElements | <details><summary>expand</summary>An addon that adds random technology that happens to be dynamic in some concepts.</details> | [Readme](https://github.com/ProfElements/DynaTech/blob/master/README.md) | [GitHub](https://github.com/ProfElements/DynaTech) | [Builds](https://thebusybiscuit.github.io/builds/ProfElements/DynaTech/master)
 SlimyRepair | NCBPFluffyBear | <details><summary>expand</summary>An addon that allows players to repair Slimefun tools and weapons using customizable vanilla or Slimefun materials.</details> | [Readme](https://github.com/NCBPFluffyBear/SlimyRepair/blob/master/README.md) | [GitHub](https://github.com/NCBPFluffyBear/SlimyRepair) | [Builds](https://thebusybiscuit.github.io/builds/NCBPFluffyBear/SlimyRepair/master)
 SlimeCustomizer | NCBPFluffyBear | <details><summary>expand</summary>An addon that allows server owners to easily build their own Slimefun machines without any coding knowledge.</details> | [Readme](https://github.com/NCBPFluffyBear/SlimeCustomizer/blob/master/README.md) | [GitHub](https://github.com/NCBPFluffyBear/SlimeCustomizer) | [Builds](https://thebusybiscuit.github.io/builds/NCBPFluffyBear/SlimeCustomizer/master)
+GeneticChickengineering | kii-chan-reloaded | <details><summary>expand</summary>Genetic Chickengineering (GCE) is a mid- to late-game, resource-generating plugin heavily inspired by the Forge mod Chicken. GCE allows players to selectively breed special chickens to passively produce various vanilla resources, plus some Slimefun resources (mostly metal ore dusts).</details> | [Readme](https://github.com/kii-chan-reloaded/GeneticChickengineering) | [GitHub](https://github.com/kii-chan-reloaded/GeneticChickengineering) | [Releases](https://github.com/kii-chan-reloaded/GeneticChickengineering/releases)
 
 ## Third-Party Plugins
 These Plugins are not Addons, but integrate with Slimefun in some way or another.
@@ -76,4 +78,4 @@ Here is a list of all Addon Jams that have been hosted so far:
 Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
 
 If you have made an Addon for Slimefun and want it to be listed on here, then just create an Issue and select the "Addition" template:
-https://github.com/TheBusyBiscuit/Slimefun4-Wiki/issues
+https://github.com/Slimefun/Wiki/issues
