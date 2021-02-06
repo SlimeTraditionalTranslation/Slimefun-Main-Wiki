@@ -3,9 +3,9 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [1. Keeping an eye on performance](#1-keeping-an-eye-on-performance)
-- [2. Choosing the right Server Software](#2-choosing-the-right-server-software)
-- [3. Avoiding /reload](#3-avoiding-reload)
+- [1. Keeping an eye on performance](#1-時刻關注效能狀態)
+- [2. Choosing the right Server Software](#2-選擇合適的伺服器軟體)
+- [3. Avoiding /reload](#3-避免-reload)
 - [4. Disabling backwards-compatibility](#4-disabling-backwards-compatibility)
 - [5. Slower Tick-rates](#5-slower-tick-rates)
 - [6. Handling Cargo networks](#6-handling-cargo-networks)
@@ -14,13 +14,13 @@
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-Slimefun is a really big plugin and therefore always raises questions about its performance.<br>
-The plugin has been around since 2013 and has received many alterations and optimizations over the years. But depending on how you use this plugin, performance might differ.
+黏液科技是一個非常大的插件, 因此總是對其性能產生疑問.<br>
+此插件自2013年以來就一直存在, 並多年來進行許多更改與優化. 但根據您使用此插件的方式, 效能可能會有所不同.
 
 This article should help you discover bottlenecks and limitations and guide you to optimize your server and your Slimefun configuration to run as smooth as possible.<br>
 Here are some of the most important tips on how to optimize your Server or your Slimefun configuration:
 
-## 1. Keeping an eye on performance
+## 1. 時刻關注效能狀態
 The most important aspect of Server-optimization is information.<br>
 You need to know what to look for in order to improve performance, so here are some very important tools you should get familiar with:
 
@@ -45,7 +45,7 @@ In addition to your standard timings-tool, there are also some third-party tools
 We personally recommend [:zap: Spark by @Luck](https://www.spigotmc.org/resources/spark.57242/).
 Reports from Spark have helped us tackle a few optimization problems and identify bottlenecks already, so it seems like a very useful asset for both, server owners and developers.
 
-## 2. Choosing the right Server Software
+## 2. 選擇合適的伺服器軟體
 Choosing the right Server Software plays an important role in Server-optimization.<br>
 Since the discontinuation of CraftBukkit, [Spigot](https://www.spigotmc.org/) has become the standard Server software.
 But there are countless alternatives and forks to choose from.
@@ -62,13 +62,13 @@ There have been many external guides on how to do that, so we will just link som
 * [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/) (Posted by @Celbrimbor on the SpigotMC Forums)
 * [Optimizing Java Garbage Collection](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) (@aikar's personal blog)
 
-## 3. Avoiding /reload
-**Do not use `/reload`. Ever.**<br>
+## 3. 避免 /reload
+**永遠不要使用 `/reload`.**<br>
 Whenever you add a new plugin or edit a config file, restart your Server. Using `/reload` can cause huge [memory leaks](https://en.wikipedia.org/wiki/Memory_leak) that negatively impact your Server's performance. `/reload` is not safe to use and you should avoid it at all costs.
 
 A lot of plugins are not meant to deal with reloads and Slimefun is one of them, you should always restart your server instead.
 
-## 4. Disabling backwards-compatibility
+## 4. 關閉向後兼容
 Slimefun has been around for a long time and there have been many Servers who use it since years.<br>
 Any Server that has used Slimefun **before summer 2019** will have a bunch of old Slimefun Items. 
 These items are likely to still use an old Item format which is slow and inefficient.
@@ -139,10 +139,11 @@ networks:
   cargo-ticker-delay: 1
 ```
 
-## 7. Enabling Automatic updates
-Lastly, one of the most effective ways to optimize your performance is to keep automatic Slimefun updates enabled at all times!<br>
-We regularly release patches, fixes and small performance optimizations and the plugin gets better (content- and performance-wise) with every newly released build.
-You should always use the latest version, so we highly recommend you to enable `auto-updates` in your `plugins/Slimefun/config.yml`.
+## 7. 啟用自動更新
+最後, 最能優化效能的方法是始終保持啟用自動Slimefun更新!<br>
+我們會定期發布補丁, 修復與小的性能優化, 並且每個新發布版本都會使插件變得更好. (內容與性能方面)
+您應該始終使用最新版本, 因此我們強烈建議您在`plugins/Slimefun/config.yml` 內啟用 `auto-updates`.
+不過 因為**非官方**繁體版沒有自動更新, 所以必須手動更新! 還是強烈建議定期更新最新版.
 ```yaml
 options:
   auto-update: true

@@ -10,14 +10,11 @@
 目前還正在進行中 歡迎幫助 透過下面的非官方Discord連結加入並討論!
 
 如果您有任何疑問, 也可以加入Slimefun Discord伺服器並提問 :)
+左邊是官方伺服器, 右邊是非官方繁體伺服器
 <p align="center">
   <a href="https://discord.gg/slimefun">
     <img src="https://discordapp.com/api/guilds/565557184348422174/widget.png?style=banner3" alt="Discord Invite"/>
   </a>
-</p>
-
-非官方Discord伺服器連結.
-<p align="center">
   <a href="https://discord.gg/GF4CwjFXT9">
     <img src="https://discordapp.com/api/guilds/769186119551156224/widget.png?style=banner3" alt="Discord Invite"/>
   </a>

@@ -18,7 +18,7 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           TARGET_PATHS: 'pages/Common-Issues.md,pages/FAQ.md,pages/Server-Optimizations.md'
-          TOC_TITLE: '**Table of Contents**'
+          TOC_TITLE: '**目錄**'
           COMMIT_MESSAGE: 'Updated Table of Contents'
           COMMIT_NAME: 'EfinaBot'
           FOLDING: true
