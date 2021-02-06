@@ -20,7 +20,7 @@ jobs:
           TARGET_PATHS: 'pages/Common-Issues.md,pages/FAQ.md,pages/Server-Optimizations.md'
           TOC_TITLE: '**Table of Contents**'
           COMMIT_MESSAGE: 'Updated Table of Contents'
-          COMMIT_NAME: 'TheBusyBot'
+          COMMIT_NAME: 'EfinaBot'
           FOLDING: true
           CREATE_PR: false
           MAX_HEADER_LEVEL: 2

@@ -3,10 +3,10 @@ const fs = require('fs');
 const http = require("https");
 
 // This is the URL to the deployed wiki
-const url = "https://github.com/Slimefun/Slimefun4/wiki/";
+const url = "https://github.com/xMikux/Slimefun4/wiki/";
 
 // The regular expression to check for links that lead to a wiki page
-const regex = /\(https:\/\/github\.com\/Slimefun\/Slimefun4\/wiki\/[A-Za-z-]+\)/g;
+const regex = /\(https:\/\/github\.com\/xMikux\/Slimefun4\/wiki\/[A-Za-z-]+\)/g;
 
 /**
  * These are the options for our PATCH request to update Issue #2
@@ -15,7 +15,7 @@ const regex = /\(https:\/\/github\.com\/Slimefun\/Slimefun4\/wiki\/[A-Za-z-]+\)/
 const options = {
     method: "PATCH",
     hostname: "api.github.com",
-    path: "/repos/Slimefun/Wiki/issues/2",
+    path: "/repos/xMikux/Wiki/issues/2",
     headers: {
         "User-Agent": "Slimefun Wiki Action",
         "authorization": `token ${process.env.ACCESS_TOKEN}`,
@@ -39,7 +39,7 @@ const missingPageTemplate = fs.readFileSync("pages/missing.md", "UTF-8");
 var issueBody =  `## :spider_web: The following pages are still missing!
 Help us out by contributing to the wiki and create one or more of these pages, it would be awesome! :heart:<br>
 We have a detailed guide on how to submit changes to the wiki for you right here:
-https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki
+https://github.com/xMikux/Slimefun4/wiki/Expanding-the-Wiki
 
 ## :books: List of missing pages
 
