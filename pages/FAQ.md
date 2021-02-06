@@ -11,6 +11,7 @@
 - [Can you stack Talismans?](#can-you-stack-talismans)
 - [What can I do with stone chunks?](#what-can-i-do-with-stone-chunks)
 - [How do I disable items per-world?](#how-do-i-disable-items-per-world)
+- [How to disable all or individual researches?](#how-to-disable-all-or-individual-researches)
 - [How much RAM does Slimefun use?](#how-much-ram-does-slimefun-use)
 - [How does XYZ work?](#how-does-xyz-work)
 - [How do I repair Slimefun items?](#how-do-i-repair-slimefun-items)
