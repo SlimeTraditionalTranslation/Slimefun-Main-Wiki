@@ -1,6 +1,6 @@
 歡迎來到Slimefun4's的新版與改進過的Wiki!
-The old Wiki was abandoned for obvious reasons, this one is centered around you, the community.
-Contributions to the Wiki are therefore much appreciated!
+舊的Wiki出於明顯的原因而被廢棄, 這個Wiki以您和社區為中心.
+因此, 對Wiki的貢獻是非常感謝!
 
 **請注意 此非為黏液科技官方Wiki** 官方Wiki [請點我](https://github.com/Slimefun/Slimefun4)
 
@@ -39,5 +39,8 @@ Contributions to the Wiki are therefore much appreciated!
 * [Seasonal Categories](https://github.com/xMikux/Slimefun4/wiki/Seasonal-Categories)
 
 ## Discord
-Slimefun also has a Discord Server for you to make suggestions, discuss features or just chat around.
-https://discord.gg/fsD4Bkh
+Slimefun還具有Discord伺服器, 您可以提供意見, 討論功能或聊天.
+https://discord.gg/slimefun
+
+非官方的黏液科技翻譯也有Discord伺服器! 歡迎加入並討論黏液科技相關的東西.
+https://discord.gg/GF4CwjFXT9

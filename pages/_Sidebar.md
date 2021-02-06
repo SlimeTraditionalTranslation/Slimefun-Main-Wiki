@@ -36,3 +36,6 @@
 <p>
   <a href="https://discord.gg/slimefun">https://discord.gg/slimefun</a>
 </p>
+<p>
+  <a href="https://discord.gg/GF4CwjFXT9">https://discord.gg/GF4CwjFXT9 (非官方繁體翻譯)</a>
+</p>
