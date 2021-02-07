@@ -11,7 +11,7 @@
   * [優化你的黏液科技伺服器](https://github.com/xMikux/Slimefun4/wiki/Server-Optimizations)
 * [黏液科技的附加插件](https://github.com/xMikux/Slimefun4/wiki/Addons)
 * [入門](https://github.com/xMikux/Slimefun4/wiki/Getting-Started)
-* [權限](https://github.com/xMikux/Slimefun4/wiki/Permissions) & [Commands](https://github.com/xMikux/Slimefun4/wiki/Commands)
+* [權限](https://github.com/xMikux/Slimefun4/wiki/Permissions) & [指令](https://github.com/xMikux/Slimefun4/wiki/Commands)
 * [Help us expand the Wiki!](https://github.com/xMikux/Slimefun4/wiki/Expanding-the-Wiki)
 * [Help us translate Slimefun!](https://github.com/xMikux/Slimefun4/wiki/Translating-Slimefun)
 * [Frequently Asked Questions (FAQ)](https://github.com/xMikux/Slimefun4/wiki/FAQ)

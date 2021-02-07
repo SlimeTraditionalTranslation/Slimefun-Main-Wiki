@@ -1,28 +1,28 @@
-This is a full list of all Permission nodes added by Slimefun.
-Most of them are used for commands, so make sure to also see the wiki page about [Commands](https://github.com/Slimefun/Slimefun4/wiki/Commands).
+這是黏液科技的所有權限節點.
+它們大多數都用於指令, 因此確保你也看過[指令](https://github.com/xMikux/Slimefun4/wiki/Commands)的維基頁面.
 
-## Permissions for commands
+## 指令的權限
 
-| Permission | Description | Default assignment |
+| 權限 | 描述 | 預設分配 |
 | -------- | -------------------------| --------- |
-| slimefun.cheat.items | Allows you to use `/sf give` and `/sf cheat` | OP |
-| slimefun.cheat.researches | Allows you to use `/sf research` | OP |
-| slimefun.stats.others | Allows you to use `/sf stats` on other Players | OP |
-| slimefun.command.timings | Allows you to use `/sf timings` | OP |
-| slimefun.command.teleporter | Allows you to use `/sf teleporter` | OP |
-| slimefun.command.versions | Allows you to use `/sf versions` | OP |
-| slimefun.command.guide | Allows you to use `/sf guide` | Everyone |
-| slimefun.command.search | Allows you to use `/sf search` | Everyone |
-| slimefun.command.open_guide | Allows you to use `/sf open_guide` | OP |
-| slimefun.command.backpack | Allows you to use `/sf backpack` | OP |
-| slimefun.command.charge | Allows you to use `/sf charge` | OP |
-| slimefun.debugging | Allows you to use `/sf debug_fish` | OP |
+| slimefun.cheat.items | 允許你使用 `/sf give` 和 `/sf cheat` | OP |
+| slimefun.cheat.researches | 允許你使用 `/sf research` | OP |
+| slimefun.stats.others | 允許你使用 `/sf stats` 在其他玩家上 | OP |
+| slimefun.command.timings | 允許你使用 `/sf timings` | OP |
+| slimefun.command.teleporter | 允許你使用 `/sf teleporter` | OP |
+| slimefun.command.versions | 允許你使用 `/sf versions` | OP |
+| slimefun.command.guide | 允許你使用 `/sf guide` | 全部人 |
+| slimefun.command.search | 允許你使用 `/sf search` | 全部人 |
+| slimefun.command.open_guide | 允許你使用 `/sf open_guide` | OP |
+| slimefun.command.backpack | 允許你使用 `/sf backpack` | OP |
+| slimefun.command.charge | 允許你使用 `/sf charge` | OP |
+| slimefun.debugging | 允許你使用 `/sf debug_fish` | OP |
 
-## Permissions for blocks
-| Permission | Description | Default assignment |
+## 方塊的權限
+| 權限 | 描述 | 預設分配 |
 | -------- | -------------------------| --------- |
-| slimefun.inventory.bypass | Allows you to open Slimefun machines that belong to other Players | OP |
-| slimefun.cargo.bypass | Allows you to use Cargo Nodes that belong to other Players | OP |
-| slimefun.gps.bypass | Allows you to use GPS devices that belong to other Players | OP |
-| slimefun.android.bypass | Allows you to use Programmable Androids that belong to other Players | OP |
-| slimefun.android.upload-script | Allows you to share Android Scripts with other Players on your Server | OP |
+| slimefun.inventory.bypass | 允許你開啟屬於其他玩家的黏液科技機器 | OP |
+| slimefun.cargo.bypass | 允許你使用其他玩家的物流節點 | OP |
+| slimefun.gps.bypass | 允許你使用屬於其他玩家的GPS設備 | OP |
+| slimefun.android.bypass | 允許你使用屬於其他玩家的可編輯機器人 | OP |
+| slimefun.android.upload-script | 允許你與伺服器上的其他玩家分享你的機器人腳本 | OP |

@@ -1,50 +1,55 @@
-## Prerequisites
-* A Bukkit/Spigot Server (most preferabbly the latest version)
+## 先決條件
+* Spigot/Paper 或任何Spigot的分支伺服器版本 (最好是最新版本)
 
-### Slimefun 4 Downloads
-You can choose between two branches of slimefun, the ["stable" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/stable/) or the ["development" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/).
-Stable builds have been around for quite a while and were thoroughly tested, development builds are the latest builds of Slimefun you can get.
-If your Server is very reliant on a working build of Slimefun, choose a stable build.
-But if you want to help contribute to Slimefun4 by reporting issues and helping us identify those more quickly, please consider using a development build (Bug Reports from "stable" builds may be ignored since they are outdated).
+### 下載黏液科技
+你可以在兩個黏液科技分支中做選擇, ["穩定" 分支](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/stable/) 或 ["開發" 分支](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/).
+穩定構建已經存在很長的時間, 並以經過測試, 開發版是你可以獲得最新的構建.
+如果你的伺服器非常依賴於可運作的黏液科技構建, 請選擇穩定構建.
+但如果你想要回報問題並幫助我們更快的發現問題並為黏液科技做出貢獻, 請考慮使用開發構建 ( "穩定"構建的錯誤回報可能會被忽略, 因為他們已經過時).
 
-You can click on any Slimefun build to see all compatible Minecraft Versions for that build.
+你可以點擊任何黏液科技構建, 以查看該構建的所有兼容Minecraft的版本.
 
-## How to install
-Drag and drop the necessary jar files into your servers */plugins* directory. Then, restart your server.
-***Do not use /reload, as it can cause intense memory leaks.***
+## 如何安裝
+將必要的Jar檔案拖放到伺服器 */plugins* 檔案夾中. 然後重開你的伺服器.
+***請勿使用 /reload, 因為它可能會導致大量的記憶體洩漏.***
 
-After the restart, you should notice a new folder called */data-storage* in your servers root directory. This folder contains all necessary Slimefun data.
-If you plan to upgrade or move servers, or create a backup, it is ***very*** important that you also back this folder up, as
-deleting it results in loss of ALL Slimefun related data, such as Levels, Unlocked Items, etc.
+重啟伺服器後, 你會注意到在伺服器根目錄中有一個名為 */data-storage* 的新資料夾. 此資料夾中包含了所有必要的黏液科技資料.
+如果你打算升級或移動伺服器, 或創建備份, 則 ***非常*** 重要的是備份該資料夾, 因為當你刪除它將導致所有與黏液科技有關的資料遺失, 例如等級, 解鎖的物品, 等等.
 
-## Configuring Slimefun
-This guide assumes you only have Slimefun 4 and CS-Corelib installed on your server.
+## 設定黏液科技
+本指南僅假定你只有安裝黏液科技與CS-Corelib在伺服器上. (請注意Slimefun DEV #791, 黏液就不需要再依賴CS-Corelib)
 
-When viewing the Slimefun plugin folder, you will notice 5 different .YML files. Start by viewing *config.yml* in your favorite text editor.
-Personally, I recommend [Notepad++](https://notepad-plus-plus.org).
+查看插件資料夾內的Slimefun資料夾, 你會注意到7個不同的.YML檔案. 你可以用你最喜歡使用的文字編輯器來查看 *config.yml*.
+就個人而言, 我建議使用 [Notepad++](https://notepad-plus-plus.org).
 
-Most of the things in this file are very self explanatory, from enabling certain items to choose how Slimefun Research behaves in creative mode.
-Slimefun uses an auto-updater to check for updates periodically, if you wish to disable this, or your host has somehow disabled things like that, set it to *false*
+此檔案中的大多數內容都很容易解釋, 它們的使某些物品能夠選擇黏液科技研究在創造模式下的行為.
+黏液科技使用 auto-updater 自動更新來定期更新, 如果你想關閉它, 或者你的主機關機關閉了類似的東西, 請將其設置為 *false*
 
-**Items.yml*** allows you to enable or disable certain items *globally*. If you install multiple addons for Slimefun, this file can get very big,
-so, a recommendation is to take your time and install addons slowly, if again, you plan on enabling or disabling certain items.
+**Items.yml** 允許你 *全局* 啟用或禁用某些物品. 如果你為黏液科技安裝了多個附加, 則此檔案可能會非常大,
+因此, 建議你花一些時間慢慢安裝附加, 如果你計畫要在啟用或禁用某些物品, 則建議你.
 
-**whitelist.yml** allows you to enable/disable the items you choose in a *per world basis*.
+~~**whitelist.yml** 允許你在 *每個世界* 上啟用/禁用你所選擇的物品. ~~
 
-**messages.yml** contains all data for messages when using Slimefun. You can edit what the plugin sends a player when a certain event occurs.
+**messages.yml** 包含所有黏液科技所發送的消息資料. 你可以編輯在特定事件時插件向玩家發送的訊息.
 
-**Researches.yml** allows you to edit the XP Values of items in Slimefun, as well as their names, you can also disable researching all together if you wish to allow players
-the ability to use all of Slimefun right off the bat.
+**Researches.yml** 允許你編輯黏液科技中的物品經驗所需以及它們的名稱, 如果你希望允許玩家馬上使用黏液科技的所有功能,
+也可以禁用所有研究.
 
-Any changes you make should be saved, then restart the server. Again, ***do not use /reload.*** If you are experiencing issues, and you issued a server reload,
-just stop and restart the server, since this fixes most issues.
+**permissions.yml** 允許你添加特定物品的使用權限, 與無權限時顯示的訊息.
 
-### Server Optimization
-Here is a full article on how to [Optimize your Slimefun Server](https://github.com/Slimefun/Slimefun4/wiki/Server-Optimizations)
+**item-models.yml** 允許你增加自訂的NBT標籤給黏液科技套用上材質包.
 
-# Additional Addons
-If you wish to install additional addons, refer to [this page](https://github.com/Slimefun/Slimefun4/wiki/Addons) to see all the addons that are compatible with your version of Slimefun4.
+**resources.yml** 允許你啟用/禁用特定的GEO挖礦資源.
 
-These additional addons require Slimefun4 and will create their own independent folders within your /plugins folder.
-Configuration should be very straight forward for these plugins as well.
-Remember that you can also disable any Items from Addons in Slimefun's Items.yml file.
+你所做的任何更該都應保存, 並重啟伺服器. 再次聲明, ***不要使用 /reload.*** 如果你遇到問題, 並且有使用過伺服器重新加載(/reload),
+則只需要關閉並重啟伺服器, 即可解決大多數問題.
+
+### 伺服器優化
+這是有關如何 [優化你的黏液科技伺服器](https://github.com/xMikux/Slimefun4/wiki/Server-Optimizations)
+
+# 附加插件
+如果你想安裝其他額外的附加, 請參考 [此頁面](https://github.com/xMikux/Slimefun4/wiki/Addons) 以查看與你的黏液科技版本兼容的所有附加插件.
+
+這些附加插件需要黏液科技本體, 並將它放在 /plugins 檔案夾中, 它將會創建自己的獨立檔案夾.
+這些插件的配置也應該非常簡單.
+請記住, 你可以關閉任何來自附加的所有物品在 Slimefun 中的 Items.yml 檔案.
