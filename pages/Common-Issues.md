@@ -3,7 +3,7 @@
 <details>
 <summary>目錄</summary>
 
-- [Floating tags](#floating-tags)
+- [漂浮文字](#%E6%BC%82%E6%B5%AE%E6%96%87%E5%AD%97)
 - [Unplaceable blocks](#unplaceable-blocks)
 - [Circuit Boards not dropping](#circuit-boards-not-dropping)
 
