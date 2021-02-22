@@ -17,22 +17,21 @@
 黏液科技是一個非常大的插件, 因此總是對其性能產生疑問.<br>
 此插件自2013年以來就一直存在, 並多年來進行許多更改與優化. 但根據您使用此插件的方式, 效能可能會有所不同.
 
-This article should help you discover bottlenecks and limitations and guide you to optimize your server and your Slimefun configuration to run as smooth as possible.<br>
-Here are some of the most important tips on how to optimize your Server or your Slimefun configuration:
+本文章幫助你發現瓶頸和局限性, 並指道你優化伺服器和Slimefun設定, 以使其盡可能的運行.<br>
+以下是有關如何優化或Slimefun設定的一些重要提示:
 
 ## 1. 時刻關注效能狀態
-The most important aspect of Server-optimization is information.<br>
-You need to know what to look for in order to improve performance, so here are some very important tools you should get familiar with:
+伺服器優化最重要的是資訊.<br>
+你需要知道要尋找甚麼才能提高性能, 因此這裡是你應該熟悉的一些非常重要的工具:
 
-### a) Server Profiling (/timings)
-Spigot and Paper both come with their own profiler already. You can access this profiler by running `/timings` in chat.
-These profilers provide insight into what your Server is struggling with, it can even break it down into each plugin you use and even the specific tasks of these plugins.
+### a) 伺服器分析 (/timings)
+Spigot 和 Paper 都已經帶有自己的分析. 你可以透過聊天室執行 `/timings` 來訪問此分析.
+這些事件分析器可以深入聊解你的伺服器所面臨的問題, 甚至可以將其分解為你所使用的各個插件, 和這些插件的特定執行任務.
 
-**Note:** Understanding a timings-report can be a difficult task. 
-Please refer to this [wiki article on spigotmc.org](https://www.spigotmc.org/wiki/timings/) for a general overview of how timings work.
+**注意:** 理解 timings-report 可能是一項艱難的任務.
+請參閱此 [Spigotmc.org 上的Wiki文章](https://www.spigotmc.org/wiki/timings/), 以獲得有關於timings的工作原理.
 
-But keep in mind that not every number in these reports is important, particularly "startup-tasks" can show up as red while they don't have any impact on performance since they
-only run during the server's startup sequence.
+但請記住, 並非這些報告中的每個數字都很重要, 特別是"startup-tasks"在不影響性能的狀況下可能會顯示為紅色, 因為它們僅在伺服器啟動過程中運行.
 
 ### b) Slimefun Profiling (/sf timings)
 Slimefun also provides its own profiling tool which allows you to find sources of lag.<br>
@@ -64,9 +63,9 @@ There have been many external guides on how to do that, so we will just link som
 
 ## 3. 避免 /reload
 **永遠不要使用 `/reload`.**<br>
-Whenever you add a new plugin or edit a config file, restart your Server. Using `/reload` can cause huge [memory leaks](https://en.wikipedia.org/wiki/Memory_leak) that negatively impact your Server's performance. `/reload` is not safe to use and you should avoid it at all costs.
+每當你添加了新的插件或編輯的設定文件時, 請重新啟動伺服器. 使用 `/reload` 將會導致巨大的 [記憶體洩漏](https://en.wikipedia.org/wiki/Memory_leak), 對伺服器的性能產生負面影響. `/reload` 並不是安全使用, 應不惜一切代價避免使用.
 
-A lot of plugins are not meant to deal with reloads and Slimefun is one of them, you should always restart your server instead.
+許多插件並不意味著要處理重新加載, Slimefun是其中之一, 你應該始終重啟你的伺服器.
 
 ## 4. 關閉向後兼容
 Slimefun has been around for a long time and there have been many Servers who use it since years.<br>

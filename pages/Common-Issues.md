@@ -10,24 +10,24 @@
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-This page contains useful information about common in game issues and how to resolve them.<br>
-Most of the following will require varying degrees of permission only staff members may have: make sure to link people higher up in your staff team here if you don't!
+此頁面將包含有關遊戲常見問題以及如何解決它們的資訊.<br>
+以下大多數情況都需要有不同程度權限的工作人員: 如果沒有, 請將此連結給有更高權限的人!
 
 **WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](https://github.com/Slimefun/Slimefun4/wiki/How-to-report-bugs)**
 
-## Floating tags
-Some Slimefun items automatically create floating tags when placed, in particular the [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) and the [Cargo Manager](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager).<br>
-These tags are supposed to disappear when breaking the machine but sometimes things can go wrong and you're left with some text that just doesn't want to go away. How can you solve this?
+## 漂浮文字
+有些Slimefun的物品會在放置時自動創建漂浮文字, 尤其是  [能量調節器](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) 和 [物流核心](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager).<br>
+這些漂浮文字應在破壞機器時消失, 但有時可能出錯, 並留下一些不想消失的文字. 你要怎麼解決?
 
-_Note: make sure this isn't due to a ghost block (check "Unplaceable Blocks")!_
+_注意: 請確保這不是由鬼方塊引起的 (請檢察 "不可放置的方塊")!_
 
-### How to fix this (Stage 1)
-Remove any regulators/managers below the floating tag, then stand close to it and run this as operator:
->/execute as <your_name> at @s run execute as @e[type=armor_stand,nbt={Invisible:1b},distance=..3] run data merge entity @s {Invisible:0}
+### 如何解決這個 (第一階段)
+移除任何在漂浮文字下方的調節器/核心, 然後靠近他並以管理員身分運行:
+>/execute as <你的遊戲ID> at @s run execute as @e[type=armor_stand,nbt={Invisible:1b},distance=..3] run data merge entity @s {Invisible:0}
 
-You can now punch the armor stand to destroy it. You may need to punch out multiple stands as they may have been spawned and stacked onto each other depending on which plugins you use.
+你現在可以直接用手打掉盔座. 你可能需要打好幾次, 因為它們可能已經升成了一些並堆疊在一起, 這取決於你所使用的插件.
 
-*Tip: it is recommended using MyCommands, CommandOverride or similar plugins and setting an alias, easier to remember and teach (an example could be /holokill).*
+*提示: 建議使用 MyCommands, CommandOverride 或任何相似的插件來設定一個別名, 以便於記憶與教導 (一個範例像是 /holokill).*
 
 ### How to fix this (Stage 2)
 Switch to spectator mode via

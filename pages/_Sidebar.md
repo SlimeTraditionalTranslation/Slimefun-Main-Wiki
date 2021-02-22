@@ -8,10 +8,10 @@
 * [Help us translate Slimefun!](https://github.com/xMikux/Slimefun4/wiki/Translating-Slimefun)
 * [FAQ](https://github.com/xMikux/Slimefun4/wiki/FAQ)
 
-## Other Plugins
+## 其他插件
 * [Addons for Slimefun 4](https://github.com/xMikux/Slimefun4/wiki/Addons)
 * [Create your own Addon](https://github.com/xMikux/Slimefun4/wiki/Developer-Guide)
-* [Supported Protection Plugins](https://github.com/xMikux/Slimefun4/wiki/Protection-Plugins)
+* [支持的保護插件](https://github.com/xMikux/Slimefun4/wiki/Protection-Plugins)
 
 ## Categories
 * [Weapons](https://github.com/xMikux/Slimefun4/wiki/Weapons)
