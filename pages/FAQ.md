@@ -16,6 +16,7 @@
 - [How does XYZ work?](#how-does-xyz-work)
 - [How do I repair Slimefun items?](#how-do-i-repair-slimefun-items)
 - [Can I enchant Slimefun items?](#can-i-enchant-slimefun-items)
+- [How long does coolant last in reactors?](#how-long-does-coolant-last-in-reactors)
 - [Is it Slimefun or SlimeFun](#is-it-slimefun-or-slimefun)
 
 </details>
