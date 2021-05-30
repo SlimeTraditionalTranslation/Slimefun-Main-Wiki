@@ -2,15 +2,15 @@ Want to spice up your Slimefun4-Server? Then you have come to the right place!<b
 Here is a list of all Slimefun Addons (that we currently know of). You can install these addons to add even more content to your Slimefun-based Minecraft Servers!
 
 ### Table of contents
-- [Official Addons](#official-addons)
-- [Third-Party Addons](#third-party-addons)
-- [Third-Party Plugins](#third-party-plugins)
-- [Addon Jams](#addon-jams)
-  - [Creating your own Addons?](#creating-your-own-addons)
+- [:star: Official Addons](#star-official-addons)
+- [:heart: Community Addons](#heart-community-addons)
+- [:gift: Third-Party Plugins](#gift-third-party-plugins)
+- [:trophy: Addon Jams](#trophy-addon-jams)
+- [:black_nib: Create your own addons!](#black_nib-create-your-own-addons)
 
-## Official Addons
-These Addons were developed closely to Slimefun.<br>
-They were most often developed by an active contributor to the project too.
+## :star: Official Addons
+These addons were developed closely to Slimefun by active members of this project.<br>
+We provide support for these on our [Discord Server](https://discord.gg/slimefun) as well!
 
 Name | Author(s) | Description | Source code | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- |
@@ -27,14 +27,15 @@ ExtraHeads | TheBusyBiscuit | <details><summary>expand</summary>This Addon adds 
 SlimefunOreChunks | TheBusyBiscuit | <details><summary>expand</summary>This Addon adds all existing dusts to the GEO-Miner. You can get stuff like "Copper Ore Chunks" from the GEO-Miner and then turn those into Dusts using an Ore Crusher.</details> | [GitHub](https://github.com/TheBusyBiscuit/SlimefunOreChunks) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimefunOreChunks/master/)
 DyedBackpacks | TheBusyBiscuit | <details><summary>expand</summary>This Addon adds 16 dyed variants for every Slimefun Backpack</details> | [GitHub](https://github.com/TheBusyBiscuit/DyedBackpacks) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/DyedBackpacks/master/)
 SlimyTreeTaps | TheBusyBiscuit | <details><summary>expand</summary>This Addon adds Tree Taps and rubber, an alternative way to obtain Plastic Sheets.</details> | [GitHub](https://github.com/TheBusyBiscuit/SlimyTreeTaps) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimyTreeTaps/master/)
-MobCapturer | TheBusyBiscuit | <details><summary>expand</summary>This Addon adds a Mob Capturing Cannon which you can use to capture mobs as items. You can find more info on the project page, it is inspired by the Safari-Nets from the mod MineFactory Reloaded.</details> | [GitHub](https://github.com/TheBusyBiscuit/MobCapturer) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/MobCapturer/master/)
-LiteXpansion | J3fftw1, Walshy | <details><summary>expand</summary>A remake of SlimeXpansion but without many of the unused items. This addon won't be as packed as SlimeXpansion as the name says, it will rather be "Lite".</details> | [GitHub](https://github.com/J3fftw1/litexpansion) | [Builds](https://thebusybiscuit.github.io/builds/J3fftw1/LiteXpansion/master/)
+MobCapturer | TheBusyBiscuit | <details><summary>expand</summary>This Addon adds a Mob Capturing Cannon which you can use to capture mobs as items. You can find more info on the project page, it is inspired by the Safari-Nets from the mod MineFactory Reloaded.</details> | [GitHub](https://github.com/Slimefun-Addon-Community/MobCapturer) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/MobCapturer/master/)
+LiteXpansion | J3fftw1, Walshy | <details><summary>expand</summary>A remake of SlimeXpansion but without many of the unused items. This addon won't be as packed as SlimeXpansion as the name says, it will rather be "Lite".</details> | [GitHub](https://github.com/Slimefun-Addon-Community/LiteXpansion) | [Builds](https://thebusybiscuit.github.io/builds/J3fftw1/LiteXpansion/master/)
 EcoPower | TheBusyBiscuit, poma123 | <details><summary>expand</summary>This addon is focused on climate-friendly and renewable energy sources. It features, wind turbines, steam turbines and more! You can even harness energy from lightning bolts!</details> | [GitHub](https://github.com/TheBusyBiscuit/EcoPower) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EcoPower/master/)
 
-## Third-Party Addons
-These Addons come from Third-Party developers, we are not responsible for this software or their content.
-We cannot provide support for these on our official Discord Server, nor can we guarantee that they work. Some of them could be outdated or broken.
-If you encounter problems with these, contact the respective developer, not us.
+## :heart: Community Addons
+These addons have been created by talented developers from our community.
+We can't provide any support for these on our official Discord Server though.
+Nor can we guarantee that these will work, some of them could be outdated or broken, we are not responsible for this software or their content.
+If you encounter problems with these, please contact the respective developer, not us.
 
 Name | Author(s) | Description | More info | Source Code | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
@@ -43,7 +44,6 @@ ClayTech | ClayCoffee | <details><summary>expand</summary>This Addon adds some w
 ExtraTools | Sfiguz | <details><summary>expand</summary>ExtraTools is a Slimefun4 Addon created to supply useful tools which, although unnecessary, are certain to improve your Slimefun experience.</details> | N/A | [GitHub](https://github.com/Sfiguz7/ExtraTools) | [Builds](https://thebusybiscuit.github.io/builds/Sfiguz7/ExtraTools/master/)
 TranscEndence | Sfiguz | <details><summary>expand</summary>This Addon adds tools to get permanent potion effects via a quantum physics-like experience. It was submitted as an entry to the 2020 Slimefun Addon Jam.</details> | N/A | [GitHub](https://github.com/Sfiguz7/TranscEndence) | [Builds](https://thebusybiscuit.github.io/builds/Sfiguz7/TranscEndence/master/)
 SFCalc | Seggan | <details><summary>expand</summary>This addon is a continuation of the old SlimeCalculator by John000708. It provides a command to calculate the required amounts of base resources for any given Slimefun item.</details> | N/A | [GitHub](https://github.com/Seggan/SFCalc) | [Builds](https://thebusybiscuit.github.io/builds/Seggan/SFCalc/master/)
-Slimy Power Suits (WIP) | Seggan | <details><summary>expand</summary>This addon is an expansion for the popular addon LiteXpansion. It adds modular power suits to Slimefun.</details> | N/A | [GitHub](https://github.com/Seggan/Slimy-Power-Suits) | [Builds](https://thebusybiscuit.github.io/builds/Seggan/Slimy-Power-Suits/master/)
 MoreTools (WIP) | LinoxGH | <details><summary>expand</summary>This addon adds more tools to Slimefun. These tools are meant to improve your gameplay experience, like Crescent Hammer(Wrench) and Cargo Copier.</details> | N/A | [GitHub](https://github.com/LinoxGH/MoreTools) | [Builds](https://thebusybiscuit.github.io/builds/LinoxGH/MoreTools/build/)
 FluffyMachines | NCBPFluffyBear | <details><summary>expand</summary>This addon adds early and late game machines, generators, and items to make automation more fun. Among these are the Auto Crafting Table, Auto Ancient Altar, and Ender Chest Cargo Nodes.</details> | [Readme](https://github.com/NCBPFluffyBear/FluffyMachines/blob/master/README.md) | [GitHub](https://github.com/NCBPFluffyBear/FluffyMachines) | [Builds](https://thebusybiscuit.github.io/builds/NCBPFluffyBear/FluffyMachines/master/)
 InfinityExpansion | Mooy1 | <details><summary>expand</summary>This addon adds many machines and endgame crafting recipes.</details> | [Readme](https://github.com/Mooy1/InfinityExpansion/blob/master/README.md) | [GitHub](https://github.com/Mooy1/InfinityExpansion) | [Builds](https://thebusybiscuit.github.io/builds/Mooy1/InfinityExpansion/master/)
@@ -56,9 +56,10 @@ DynaTech | ProfElements | <details><summary>expand</summary>An addon that adds r
 SlimyRepair | NCBPFluffyBear | <details><summary>expand</summary>An addon that allows players to repair Slimefun tools and weapons using customizable vanilla or Slimefun materials.</details> | [Readme](https://github.com/NCBPFluffyBear/SlimyRepair/blob/master/README.md) | [GitHub](https://github.com/NCBPFluffyBear/SlimyRepair) | [Builds](https://thebusybiscuit.github.io/builds/NCBPFluffyBear/SlimyRepair/master)
 SlimeCustomizer | NCBPFluffyBear | <details><summary>expand</summary>An addon that allows server owners to easily build their own Slimefun machines without any coding knowledge.</details> | [Readme](https://github.com/NCBPFluffyBear/SlimeCustomizer/blob/master/README.md) | [GitHub](https://github.com/NCBPFluffyBear/SlimeCustomizer) | [Builds](https://thebusybiscuit.github.io/builds/NCBPFluffyBear/SlimeCustomizer/master)
 GeneticChickengineering | kii-chan-reloaded | <details><summary>expand</summary>Genetic Chickengineering (GCE) is a mid- to late-game, resource-generating plugin heavily inspired by the Forge mod Chicken. GCE allows players to selectively breed special chickens to passively produce various vanilla resources, plus some Slimefun resources (mostly metal ore dusts).</details> | [Readme](https://github.com/kii-chan-reloaded/GeneticChickengineering) | [GitHub](https://github.com/kii-chan-reloaded/GeneticChickengineering) | [Releases](https://github.com/kii-chan-reloaded/GeneticChickengineering/releases)
+SimpleMaterialGenerators (SMG) | waleks647 | <details><summary>expand</summary>A simple addon with simple generators to reduce some grind.</details> | [Readme](https://github.com/waleks647/SMG/blob/master/README.md) | [GitHub](https://github.com/waleks647/SMG) | [Builds](https://thebusybiscuit.github.io/builds/waleks647/SMG/master)
 
-## Third-Party Plugins
-These Plugins are not Addons, but integrate with Slimefun in some way or another.
+## :gift: Third-Party Plugins
+These Plugins are not Addons, but they do integrate with Slimefun in some way or another.
 
 Name | Author(s) | Description | More info | Source Code | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
@@ -66,18 +67,19 @@ SensibleToolbox (WIP) | desht, TheBusyBiscuit | <details><summary>expand</summar
 Brewery | Sn0wStorm and others | <details><summary>expand</summary>Brewery is a Bukkit / Spigot plugin for an alternate brewing process, including alcoholic Potions. It allows you to customize recipes, add your own beverages and more. Brewery supports the usage of items from Slimefun and any of its addons (including ExoticGarden) in their recipes.</details> | [Wiki](https://github.com/DieReicheErethons/Brewery/wiki) | [GitHub](https://github.com/DieReicheErethons/Brewery) | [Releases](https://github.com/DieReicheErethons/Brewery/releases)
 PlaceholderAPI | extended_clip, Glare | <details><summary>expand</summary>Slimefun adds placeholders that can be used with PlaceholderAPI, you can find more Info on the Wiki link.</details> | [Wiki](https://github.com/Slimefun/Slimefun4/wiki/PlaceholderAPI) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
 WhatIsThis | steve4744 | <details><summary>expand</summary>WhatIsThis is a plugin inspired by the Minecraft mod WAILA, it adds a little info display to give you information about the block you are looking at. Later versions also support this feature for Slimefun blocks.</details> | N/A | [GitHub](https://github.com/steve4744/WhatIsThis) | [SpigotMC](https://www.spigotmc.org/resources/whatisthis-identify-the-block-you-are-looking-at-multi-language-support.65050/)
+DankTech | Sefiraat | <details><summary>expand</summary>DankTech is a plugin that attempts to recreate the Dank Storage Mod and /Dank/Null/ items from Modded. Features include mass volume storage backpacks with auto-voiding, building, easy unloading and more! DankTech adds all of it's recipes to the Slimefun Guide when applicable.</details> | [Wiki](https://github.com/Sefiraat/DankTech/wiki) | [GitHub](https://github.com/Sefiraat/DankTech) | [SpigotMC](https://www.spigotmc.org/resources/%E2%9A%A1-danktech-%E2%9A%A1-dank-storage-plugin.92031/)
 
-## Addon Jams
+## :trophy: Addon Jams
 In 2020 we started hosting our very first "Slimefun Addon Jam" on our discord server.<br>
 We hope to make this a re-occurring thing. The basic premise is the following: At the start of the Jam we will announce a theme and every developer has a limited time frame to create a Slimefun Addon - from scratch - based on that theme. When the Jam has ended we will review their submissions, rate them and hand out prizes to the addons that performed the best.<br>
 Here is a list of all Addon Jams that have been hosted so far:
 
 1. [Addon Jam 2020](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2020)
 
-### Creating your own Addons?
+## :black_nib: Create your own addons!
 Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
 
 If you have made an Addon for Slimefun and want it to be listed on here, simply make a new pull request on our wiki repository. You can find a tutorial here:
 https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki.  
 If a pull request is not possible, then just create an Issue and select the "Addition" template:  
-https://github.com/TheBusyBiscuit/Slimefun4-Wiki/issues
+https://github.com/Slimefun/Wiki/issues
