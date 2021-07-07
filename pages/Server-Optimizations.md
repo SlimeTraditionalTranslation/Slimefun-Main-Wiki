@@ -7,8 +7,8 @@
 - [2. 選擇合適的伺服器軟體](#2-%E9%81%B8%E6%93%87%E5%90%88%E9%81%A9%E7%9A%84%E4%BC%BA%E6%9C%8D%E5%99%A8%E8%BB%9F%E9%AB%94)
 - [3. 避免 /reload](#3-%E9%81%BF%E5%85%8D-reload)
 - [4. 關閉向後兼容](#4-%E9%97%9C%E9%96%89%E5%90%91%E5%BE%8C%E5%85%BC%E5%AE%B9)
-- [5. 緩慢的Tick-rates](#5-slower-tick-rates)
-- [6. 處理物流網路](#6-handling-cargo-networks)
+- [5. 較慢的Tick-rates](#5-%E8%BC%83%E6%85%A2%E7%9A%84tick-rates)
+- [6. 處理物流網路](#6-%E8%99%95%E7%90%86%E7%89%A9%E6%B5%81%E7%B6%B2%E8%B7%AF)
 - [7. 啟用自動更新](#7-%E5%95%9F%E7%94%A8%E8%87%AA%E5%8B%95%E6%9B%B4%E6%96%B0)
 
 </details>
