@@ -8,7 +8,7 @@
 - [3. 避免 /reload](#3-%E9%81%BF%E5%85%8D-reload)
 - [4. 關閉向後兼容](#4-%E9%97%9C%E9%96%89%E5%90%91%E5%BE%8C%E5%85%BC%E5%AE%B9)
 - [5. 緩慢的Tick-rates](#5-slower-tick-rates)
-- [6. Handling Cargo networks](#6-handling-cargo-networks)
+- [6. 處理物流網路](#6-handling-cargo-networks)
 - [7. 啟用自動更新](#7-%E5%95%9F%E7%94%A8%E8%87%AA%E5%8B%95%E6%9B%B4%E6%96%B0)
 
 </details>

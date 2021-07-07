@@ -12,7 +12,7 @@ jobs:
 
     name: Synchronize Wiki
     runs-on: ubuntu-latest
-    if: github.repository == 'xMikux/Wiki'
+    if: github.repository == 'SlimeTraditionalTranslation/Wiki'
 
     steps:
     - name: Checking out Repository
