@@ -49,12 +49,12 @@ Slimefun4也支持了一些保護紀錄器.<br>
 | LogBlock | :heavy_check_mark: | :x: |
 
 ## 為你的保護插件添加支持
-保護集成在CS-CoreLib2 (https://github.com/TheBusyBiscuit/CS-CoreLib2)中進行處理.<br>
+保護集成在 dough (https://github.com/baked-libs/dough).<br>
 要對自己的插件進行支持, 你所需要的是對該專案發出合併請求.<br>
 這是你需要做的:
-1. 將插件做為依賴選項添加至 [pom.xml](https://github.com/TheBusyBiscuit/CS-CoreLib2/blob/master/pom.xml)
-2. 創建一個擴展 [ProtectionModule.java](https://github.com/TheBusyBiscuit/CS-CoreLib2/blob/master/src/main/java/io/github/thebusybiscuit/cscorelib2/protection/ProtectionModule.java) 並將其添加至 [modules - package](https://github.com/TheBusyBiscuit/CS-CoreLib2/tree/master/src/main/java/io/github/thebusybiscuit/cscorelib2/protection/modules)
-3. 覆蓋所需的函數; 確保區分 [ProtectableAction.java](https://github.com/TheBusyBiscuit/CS-CoreLib2/blob/master/src/main/java/io/github/thebusybiscuit/cscorelib2/protection/ProtectableAction.java) 的不同類型; 並考慮增加對離線玩家的支持,如果沒有請進行檢查.
-4. 載入一個例子當你的插件載入了 [ProtectionManager.java](https://github.com/TheBusyBiscuit/CS-CoreLib2/blob/master/src/main/java/io/github/thebusybiscuit/cscorelib2/protection/ProtectionManager.java)
-5. 向 CS-CoreLib2 提交 [合併請求](https://github.com/TheBusyBiscuit/CS-CoreLib2/pulls)
+1. 將插件做為依賴選項添加至 pom.xml (in [dough-api](https://github.com/baked-libs/dough/blob/main/dough-protection/pom.xml) 和 [dough-protection](https://github.com/baked-libs/dough/blob/main/dough-protection/pom.xml))
+2. 創建一個擴展 [ProtectionModule.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/ProtectionModule.java) 並將其添加至 [modules - package](https://github.com/baked-libs/dough/tree/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/modules)
+3. 覆蓋所需的函數; 確保區分 [Interaction.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/Interaction.java) 的不同類型; 並考慮增加對離線玩家的支持,如果沒有請進行檢查.
+4. 載入一個例子當你的插件載入了 [ProtectionManager.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/ProtectionManager.java)
+5. 向 dough 提交 [Pull Request](https://github.com/baked-libs/dough/pulls)
 (**請注意** 這可能翻譯得不好 建議直接看原文)
