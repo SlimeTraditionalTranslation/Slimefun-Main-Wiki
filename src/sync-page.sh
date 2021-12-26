@@ -25,6 +25,4 @@ git add -A
 git commit -m "GitHub Action - Page Sync"
 
 echo "Pushing to website..."
-git status
-# git remote add origin https://${ACCESS_TOKEN}@github.com/SlimeTraditionalTranslation/SlimeTraditionalTranslation.github.io.git
-# git push origin main 
+git push origin main 
