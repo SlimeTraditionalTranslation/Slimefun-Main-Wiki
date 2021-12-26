@@ -3,6 +3,7 @@ They consist of the Soulbound Pickaxe, Soulbound Axe, Soulbound Shovel and Soulb
 They are unenchanted Diamond tools and may be enchanted like any other tool.
 
 ## See also
+
 * [Soulbound Weapons](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Weapons)
 * [Soulbound Armor](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Armor)
 * [Soulbound Backpack](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Backpack)

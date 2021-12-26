@@ -1,6 +1,7 @@
 This category contains various machines that have simple functionalities and do not require any electricity.
 
 ## Table of contents
+
 * [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table)
 * [Grind Stone](https://github.com/Slimefun/Slimefun4/wiki/Grind-Stone)
 * [Armor Forge](https://github.com/Slimefun/Slimefun4/wiki/Armor-Forge)

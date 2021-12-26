@@ -2,6 +2,7 @@ The Wither Assembler is an [Electric Machine](https://github.com/Slimefun/Slimef
 This is an End-Game machine and should be handled cautiously.
 
 ## Tiers
+
 It currently only comes in one tier.  
 
 **Buffer:** 4096 J  

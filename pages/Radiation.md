@@ -5,7 +5,9 @@ More specifically, it is a deadly combination of status effects you receive when
 For this reason, it is highly recommended you only carry them for a short amount of time. Better yet, wear a full [hazmat suit](https://github.com/Slimefun/Slimefun4/wiki/Armor#hazmat-suit): this will make you completely immune to the effects of radiation.
 
 ## Radioactive items
+
 The following items will induce radiation while in your inventory:
+
 * [Blistering Ingot](https://github.com/Slimefun/Slimefun4/wiki/Blistering-Ingot)
 * [Small Chunk of Uranium](https://github.com/Slimefun/Slimefun4/wiki/Uranium)
 * [Uranium](https://github.com/Slimefun/Slimefun4/wiki/Uranium)

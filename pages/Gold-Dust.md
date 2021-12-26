@@ -8,6 +8,7 @@ Gold Dust is one of the nine [dusts](https://github.com/Slimefun/Slimefun4/wiki/
 - If you are using the [SlimefunOreChunks](https://github.com/Slimefun/Slimefun4/wiki/Addons#official-addons) addon, you can use the same machines to turn Gold Ore Chunks from the [GEO Miner](https://github.com/Slimefun/Slimefun4/wiki/GEO-Miner) into Gold Dust.
 
 ## Usage
+
 Gold Dust can be smelted into [4-carat to 24-carat Gold Ingots](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory).<br>
 It is also used in the [Corinthian Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Corinthian-Bronze-Ingot) [alloy](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Alloys), which can be made in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery).
 

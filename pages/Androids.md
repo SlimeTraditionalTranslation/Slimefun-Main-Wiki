@@ -1,6 +1,7 @@
 The Programmable Androids category contains robots that are able to automate tasks.
 
 ## Table of Contents
+
 * [Android Interfaces](https://github.com/Slimefun/Slimefun4/wiki/Android-Interfaces)
 * [Programmable Android (Normal)](https://github.com/Slimefun/Slimefun4/wiki/Normal-Androids)
 * [Programmable Android (Miner)](https://github.com/Slimefun/Slimefun4/wiki/Miner-Androids)

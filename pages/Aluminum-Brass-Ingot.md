@@ -7,7 +7,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * 1 [Brass Ingot](https://github.com/Slimefun/Slimefun4/wiki/Brass-Ingot)
 * 1 [Aluminum Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Ingot)
 
-#### Total base material cost 
+#### Total base material cost
 
 * 2 [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust)
 * 2 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)

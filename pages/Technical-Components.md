@@ -1,6 +1,7 @@
 The Technical Components category contains various items which can be used in the crafting and operation of numerous items and machines.
 
 ## Table of contents
+
 * [Basic Circuit Board](https://github.com/Slimefun/Slimefun4/wiki/Circuit-Boards)
 * [Advanced Circuit Board](https://github.com/Slimefun/Slimefun4/wiki/Circuit-Boards)
 * [Battery](https://github.com/Slimefun/Slimefun4/wiki/Battery)

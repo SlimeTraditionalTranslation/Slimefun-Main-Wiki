@@ -23,6 +23,7 @@ It's the least you can do to relieve our shoulders.
 It is absolutely **crucial** that you check your versions, 90% of issues can already be solved in this step alone.<br>
 
 Gather the following information:
+
 * **Your Server Software** *(Are you running Bukkit, Spigot, Paper or something else?)*
 * **Your Minecraft Version** *(Is it 1.8, is it 1.14, 1.9001? You should know that.)*
 * **Your Slimefun Version** *(What version have you installed? Is it a DEV build or a "stable" version?)*
@@ -74,7 +75,7 @@ If the name of one of your installed addons comes up in that stacktrace, post it
 
 If you don't have file access to the server, then contact one of your admins, explain them your issue and link them to this guide.
 
-### 6. Make sure it is Slimefun!
+### 6. Make sure it is Slimefun
 
 When you encounter problems with content in Slimefun, then please make sure that the Item/Block/Machine is actually from Slimefun and not from an addon.<br>
 If your problem revolves around items from ExoticGarden or any other Slimefun addons, then report them on their bug tracker and not here.

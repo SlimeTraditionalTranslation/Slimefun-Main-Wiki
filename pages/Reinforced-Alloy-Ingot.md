@@ -10,7 +10,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * 1 [Billon Ingot](https://github.com/Slimefun/Slimefun4/wiki/Billon-Ingot)
 * 1 [Gold Ingot (24-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot#Gold-Ingot-24-Carat)
 
-#### Total base material cost 
+#### Total base material cost
 
 * 8 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)
 * 4 [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust)

@@ -1,6 +1,7 @@
 The Food category contains a variety of foods and [juices](https://github.com/Slimefun/Slimefun4/wiki/Juices)
 
 ## Table of Contents
+
 * [Fortune Cookie](https://github.com/Slimefun/Slimefun4/wiki/Fortune-Cookie)
 * [Diet Cookie](https://github.com/Slimefun/Slimefun4/wiki/Diet-Cookie)
 * [Beef Jerky](https://github.com/Slimefun/Slimefun4/wiki/Meat-Jerky)

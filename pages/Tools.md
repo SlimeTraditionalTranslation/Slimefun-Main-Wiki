@@ -1,6 +1,7 @@
 The Tools category contains various tools with special properties.
 
 ## Table of contents
+
 * [Gold Pan](https://github.com/Slimefun/Slimefun4/wiki/Gold-Pan)
 * [Nether Gold Pan](https://github.com/Slimefun/Slimefun4/wiki/Nether-Gold-Pan)
 * [Grappling Hook](https://github.com/Slimefun/Slimefun4/wiki/Grappling-Hook)
@@ -19,5 +20,6 @@ The Tools category contains various tools with special properties.
 * [Soulbound Hoe](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Tools)
 
 ## See also
+
 * [Magical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Magical-Gadgets)
 * [Technical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets)

@@ -8,7 +8,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * 1 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
 * 1 [Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Bronze-Ingot)
 
-#### Total base material cost 
+#### Total base material cost
 
 * 1 [Silver Dust](https://github.com/Slimefun/Slimefun4/wiki/Silver-Dust)
 * 1 [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust)

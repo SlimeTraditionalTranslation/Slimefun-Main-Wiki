@@ -8,4 +8,4 @@ The Auto Breeder still respects the vanilla breeding time.
 There is only one tier of the Auto Breeder and it has the following properties:  
 
 **Power Usage**: 60 J/Animal  
-**Buffer**: 1024 J  
+**Buffer**: 1024 J

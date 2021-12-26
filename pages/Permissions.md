@@ -19,6 +19,7 @@
 | slimefun.debugging | 允許你使用 `/sf debug_fish` | OP |
 
 ## 方塊的權限
+
 | 權限 | 描述 | 預設分配 |
 | -------- | -------------------------| --------- |
 | slimefun.inventory.bypass | 允許你開啟屬於其他玩家的黏液科技機器 | OP |

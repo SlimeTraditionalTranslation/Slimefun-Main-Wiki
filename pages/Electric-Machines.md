@@ -10,13 +10,16 @@ Electric machines are best used with a [Cargo Management System](https://github.
 For more information on the individual items in this category, see the table of contents below.
 
 ## Table of contents
+
 ### Energy management
+
 * [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator)
 * [Energy Connector](https://github.com/Slimefun/Slimefun4/wiki/Energy-Connector)
 * [Energy Capacitors](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
 * [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#multimeter)
 
 ### Energy generation
+
 * [Solar Generator](https://github.com/Slimefun/Slimefun4/wiki/Solar-Generator)
 * [Bio Reactor](https://github.com/Slimefun/Slimefun4/wiki/Bio-Reactor)
 * [Coal Generator](https://github.com/Slimefun/Slimefun4/wiki/Coal-Generator)
@@ -26,6 +29,7 @@ For more information on the individual items in this category, see the table of 
 * [Reactors](https://github.com/Slimefun/Slimefun4/wiki/Reactors)
 
 ### Machines
+
 * [Animal Growth Accelerator](https://github.com/Slimefun/Slimefun4/wiki/Animal-Growth-Accelerator)
 * [Auto Anvil](https://github.com/Slimefun/Slimefun4/wiki/Auto-Anvil)
 * [Auto Disenchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Disenchanter)

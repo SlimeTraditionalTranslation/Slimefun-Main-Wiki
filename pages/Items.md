@@ -1,6 +1,7 @@
 The Items category contains various items that all have their own unique use.
 
 ## Table of Contents
+
 * [Portable Crafter](https://github.com/Slimefun/Slimefun4/wiki/Portable-Crafter)
 * [Portable Dustbin](https://github.com/Slimefun/Slimefun4/wiki/Portable-Dustbin)
 * [Rag](https://github.com/Slimefun/Slimefun4/wiki/Medical-Supplies)

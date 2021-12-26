@@ -1,6 +1,7 @@
 The Armor Forge is in the [Basic Machines](https://github.com/Slimefun/Slimefun4/wiki/Basic-Machines) category. It is a multiblock structure.<br>
 
 ## Obtaining
+
 The Armor Forge is a multiblock structure, it consists of a dispenser and an anvil.<br>
 **Note:** It must be a standard anvil, damaged anvils will not work.<br>
 

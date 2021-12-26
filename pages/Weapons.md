@@ -1,6 +1,7 @@
 The Weapons category contains various items which can be used as weapons.
 
 ## Table of contents
+
 * [Grandmas Walking Stick](https://github.com/Slimefun/Slimefun4/wiki/Walking-Sticks)
 * [Grandpas Walking Stick](https://github.com/Slimefun/Slimefun4/wiki/Walking-Sticks)
 * [Sword of Beheading](https://github.com/Slimefun/Slimefun4/wiki/Sword-of-Beheading)

@@ -2,6 +2,7 @@ This is the **seventh Part** of our Developer Guide, you can find a full overvie
 If you haven't checked out the [sixth Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(6-Custom-Heads)), then please do that.
 
 ## 1. A recap
+
 In the last part we discussed how to create custom heads and use these heads in items and categories.<br>
 Today we will expand upon that knowledge and create a new ore that is obtainable through the [GEO - Miner](https://github.com/Slimefun/Slimefun4/wiki/GEO-Miner).<br>
 But before we dive into that, here is our code from the last part:
@@ -33,12 +34,14 @@ research.register();
 ```
 
 ## 2. Creating a new Item
+
 GEO Resources obviously need an Item form too, so we will start with that.<br>
 Right below our previous code we will start to create a new SlimefunItem. As usual we are gonna start with the ItemStack.
 
 But wait... first we will need to come up with a resource.<br>
 How about an ore that is exclusive to the End dimension? An Ender Ore? Yeah let's go with that.<br>
 We are still inside our `onEnable()` method and right below the code from earlier:
+
 ```java
 // ...
 
@@ -73,6 +76,7 @@ Now our item is pretty much done and registered.<br>
 We still need to create the resource for the GEO Miner though, so that's what we will do next.
 
 ## 3. Creating a GEOResource
+
 For this we will need to create a new class again.<br>
 So create a new class/file and name it something meaningful, we will just call it "EnderOreResource".
 
@@ -257,6 +261,7 @@ public class EnderOreResource implements GEOResource {
 ```
 
 ## 4. Final registration
+
 Now we created a new SlimefunItem and a new GEOResource. We only need to register the resource now, so we head back to our main class and into our `onEnable()` method.
 
 ```java

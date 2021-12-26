@@ -4,6 +4,7 @@ If you haven't checked out the [third Part of this Guide](https://github.com/Sli
 *The fourth part is divided into two sections, this is Section b*.
 
 ## 1. A Recap of part 4a
+
 Part 4a is not necessarily *required* to follow this part.<br>
 However we introduced some very important principles that we will need here too, so instead of re-explaining everything, go check out [part 4a](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(4a-Right-Clicks)) if something is unclear.
 
@@ -46,6 +47,7 @@ public class FireCake extends SlimefunItem {
 We can ignore the preRegister() and right-click methods for now, those were covered in part 4a.
 
 ## 2. Item Attributes
+
 Slimefun items can have functionality (called ItemHandlers) but they can also have some properties (called ItemAttributes).<br>
 Note that these attributes are not related to Minecraft's attributes system.
 
@@ -56,6 +58,7 @@ To add an ItemAttribute, simply add it to your class declaration.<br>
 However ItemAttributes are interfaces, not classes. So you need to use the keyword `implements` here.<br>
 As we covered in the last part: Classes can only have one direct parent class. But they can implement as many interfaces as they want.<br>
 Let's implement the `Radioactive` interface. Now your code may look like this:
+
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
     
@@ -73,6 +76,7 @@ We are not done yet though, each interface often defines a set of methods that w
 Your IDE should already prompt you to do that.
 
 In the case of `Radioactive`, there is only one method: `getRadioactivity()`. Implement that method like this:
+
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
     
@@ -98,6 +102,7 @@ An enum has a limited amount of possible states and each state is saved as a con
 You can see all constants from that enum on our [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/io/github/thebusybiscuit/slimefun4/core/attributes/Radioactivity.html).
 
 We are just gonna choose the level HIGH for now. We can simply return that constant.
+
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
     
@@ -119,6 +124,7 @@ Now your item is already radioactive, it will damage players and require them to
 However our unsuspecting player have no way to know that this item is radioactive...
 
 ## 3. Changing the item lore
+
 The best way of letting players know what your item does is through the lore.<br>
 Let's go back inside our `onEnable()` method from the main class.
 
@@ -174,6 +180,7 @@ cake.register(this);
 Now our item will have the appropriate tooltips.
 
 ## 4. Implementing any other ItemAttribute
+
 The process for implementing any `ÌtemAttribute` is pretty much the same.<br>
 It is always recommended to inform the user of these attributes via the `LoreBuilder` class or manually.
 
@@ -182,6 +189,7 @@ You can find a full list of all available Item Attributes on the [Javadocs](http
 As a little bonus, let's implement the "WitherProof" attribute.<br>
 This attribute will prevent Withers from destroying our block.<br>
 Let's go back to our class and implement that interface too. You can seperate interfaces you wanna implement with a comma.
+
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     
@@ -197,6 +205,7 @@ public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
 Now your process will be the same, WitherProof also has a method it requires to be implemented.<br>
 The method is called `onAttack()` and it will be run whenever a Wither tried to destroy this block. Solely implementing that interface will already prevent that though.
 So with that method generated, the code will look like this.
+
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     
@@ -283,6 +292,7 @@ public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
 ```
 
 So at the end of the day we have made a Cake that...
+
 * sets you on fire when you try to eat it
 * gives you radiation when you carry it
 * gives you one XP level when you right-click it

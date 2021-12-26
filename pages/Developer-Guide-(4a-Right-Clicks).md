@@ -4,10 +4,12 @@ If you haven't checked out the [third Part of this Guide](https://github.com/Sli
 *The fourth part is divided into two sections, this is Section a*.
 
 ## 1. What we did last time
+
 On the last part we covered how to create our own Slimefun items, item groups, and recipes.<br>
 If you missed it, then please head back now. You will need this info to progress any further.
 
 Still/Back here? Good. Now this is the code from last time (it should be inside your 'onEnable' method).
+
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
 CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4Our very cool Category");
@@ -30,12 +32,13 @@ sfItem.register(this);
 ```
 
 <!--TODO: a more detailed guide on compiling and testing-->
-Now, you can compile your addon and test it ingame. See [Publishing](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(Publishing)) for details.<br> 
+Now, you can compile your addon and test it ingame. See [Publishing](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(Publishing)) for details.<br>
 As you can see our Slimefunitem can already be seen and crafted ingame.<br>
 But there is not much value to this item yet, it doesn't do anything.<br>
 Let's change that.
 
 ## 2. Extending SlimefunItem
+
 For our previous item we simply used the class `SlimefunItem`, this is fine and good. But it doesn't do anything by default.<br>
 So we will need to create our own class instead.<br>
 This should be very straightforward and you will need to create classes all the time.
@@ -73,6 +76,7 @@ We will need a constructor. A constructor defines **how** objects are created fr
 And the `SlimefunItem` constructor requires a few parameters which all child classes need to provide too.
 
 If we think back of our previous code, the constructor looked like this:
+
 ```java
 new SlimefunItem(itemGroup, itemStack, recipeType, recipe);
 ```
@@ -118,6 +122,7 @@ cake.register(this);
 **IMPORTANT: Remember to change the SlimefunItemStack to be a cake, otherwise you won't be able to eat it.**
 
 ## 3. Adding an Item Handler (BlockUseHandler)
+
 Now that we swapped our the class, the addon should still work as expected. However nothing has changed.<br>
 All we have done so far is basically add a new class which acts exactly like a SlimefunItem.<br>
 We need to add actual features to the class now.
@@ -127,6 +132,7 @@ There are several Item Handler types available to choose from.<br>
 You can find a full list on our JavaDocs - that are linked above - under the point "All Known Subinterfaces".
 
 To add our ItemHandler, we go back to our custom item class.
+
 ```java
 public class FireCake extends SlimefunItem {
     
@@ -202,7 +208,9 @@ private void onBlockRightClick(PlayerRightClickEvent event) {
     // This method will now be called whenever this Block is right-clicked.
 }
 ```
+
 Now back to this part:
+
 ```java
 BlockUseHandler blockUseHandler = ???;
 ```
@@ -266,6 +274,7 @@ Test it out ingame, craft the cake and see if you are set on fire.<br>
 **Make sure that you didn't forget to change your item type to `Material.CAKE`**
 
 ## 4. Adding multiple Item handlers (ItemUseHandler)
+
 You can add as many Item handlers as you want, the ItemUseHandler for example is triggered when a Player right-clicks with the cake in their hand.<br>
 Now when they right-click the placed cake.
 

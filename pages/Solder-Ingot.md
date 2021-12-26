@@ -7,7 +7,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * 1 [Tin Dust](https://github.com/Slimefun/Slimefun4/wiki/Tin-Dust)
 * 1 [Lead Ingot](https://github.com/Slimefun/Slimefun4/wiki/Lead-Ingot)
 
-#### Total base material cost 
+#### Total base material cost
 
 * 2 [Lead Dust](https://github.com/Slimefun/Slimefun4/wiki/Lead-Dust)
 * 1 [Tin Dust](https://github.com/Slimefun/Slimefun4/wiki/Tin-Dust)

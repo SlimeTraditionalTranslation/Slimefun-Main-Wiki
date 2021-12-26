@@ -1,6 +1,7 @@
 The Halloween Seasonal Category is only available during Halloween month, better known as October.
 
 ## Table of contents
+
 - Rainbow Wool (Halloween Edition)
 - Rainbow Glass (Halloween Edition)
 - Rainbow Glass Pane (Halloween Edition)

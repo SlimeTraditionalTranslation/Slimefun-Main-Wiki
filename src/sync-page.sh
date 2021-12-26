@@ -15,6 +15,7 @@ cp -r ../../../../pages/ slimefun
 echo "Remove don't sync files"
 rm slimefun/_Footer.md
 rm slimefun/_Sidebar.md
+rm slimefun/missing.md
 
 echo "Setting up Authentication..."
 git config user.name "EfinaBot"

@@ -1,6 +1,7 @@
 The Technical Gadgets category has a variety of gadgets that are useful when playing Slimefun.  
 
 ## Table of contents
+
 * [Electric Jetpack - I](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
 * [Electric Jetpack - II](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
 * [Electric Jetpack - III](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
@@ -30,13 +31,17 @@ The Technical Gadgets category has a variety of gadgets that are useful when pla
 * [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#multimeter)
 
 ### Parachute
+
 The Parachute can be used to slowly decend while you're in the air. You need to wear it and crouch for it to activate.
 
 ### Solar Helmet
+
 The Solar Helmet when worn will charge any electric armor and anything electric in the player's hands.
 
 ### Night Vision Goggles
+
 When worn, this piece of head armor gives you night vision.
 
 ### Multimeter
+
 The Multimeter is a simple tool that will show you how much energy a certain block has.

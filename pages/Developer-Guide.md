@@ -4,6 +4,7 @@ This page is still under construction, as this is a huge topic and will most lik
 Anyway, let's get started!
 
 ## Prerequisites
+
 We will try to target a wide range of developers, even ones with less experience.<br>
 However, we do not want to reinvent the wheel, there are already a lot of extensive tutorials on how to learn Java or how to create bukkit plugins.
 
@@ -17,6 +18,7 @@ You can click on the discord badge at the bottom of the page to join.
 You can also check out our [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/) to get some more technical information about how the API is structured. But we would advise you to check this guide first.
 
 ## Table of Contents
+
 1. [Setting up your project](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(1-Project-Setup))
 2. [Creating a new addon](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(2-Creating-the-Addon))
 3. [Creating your first Item](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item))

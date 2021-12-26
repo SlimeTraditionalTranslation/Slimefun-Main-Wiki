@@ -4,6 +4,7 @@ The three weapons which can be soulbound are the Soulbound Sword, Soulbound Trid
 They are an unenchanted Diamond Sword, Trident and a Bow, respectively, and may be enchanted like any other weapon.  
 
 ## See also
+
 * [Soulbound Tools](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Tools)
 * [Soulbound Armor](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Armor)
 * [Soulbound Backpack](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Backpack)

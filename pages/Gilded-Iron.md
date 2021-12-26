@@ -6,7 +6,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * 1 [Gold Ingot (24-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot#Gold-Ingot-24-Carat)
 * 1 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)
 
-#### Total base material cost 
+#### Total base material cost
 
 * 11 [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust)
 * 1 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)

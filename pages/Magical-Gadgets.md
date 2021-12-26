@@ -1,7 +1,9 @@
 The Magical Gadgets contains various gadgets with magical powers. Use your [Magical Items](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items) to craft these!
 
 ## Table of contents
+
 ----
+
 - [Ender Backpack](https://github.com/Slimefun/Slimefun4/wiki/Ender-Backpack)  
 - [Magic Eye of Ender](https://github.com/Slimefun/Slimefun4/wiki/Magic-Eye-of-Ender)  
 - [Elemental Staff](https://github.com/Slimefun/Slimefun4/wiki/Elemental-Staves)  

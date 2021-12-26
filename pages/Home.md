@@ -6,6 +6,7 @@
 此Wiki還正在進行翻譯中! 如果有翻譯錯誤 或者導向錯誤 請多見諒.
 
 # 總覽
+
 * [甚麼是黏液科技?](https://github.com/xMikux/Slimefun4/wiki/Slimefun-in-a-nutshell)
 * [如何安裝黏液科技](https://github.com/xMikux/Slimefun4/wiki/Installing-Slimefun)
   * [優化你的黏液科技伺服器](https://github.com/xMikux/Slimefun4/wiki/Server-Optimizations)
@@ -19,6 +20,7 @@
 * [Create your own Addon](https://github.com/xMikux/Slimefun4/wiki/Developer-Guide)
 
 ## Content / Item Categories
+
 * [Weapons](https://github.com/xMikux/Slimefun4/wiki/Weapons)
 * [Items](https://github.com/xMikux/Slimefun4/wiki/Items)
 * [Food](https://github.com/xMikux/Slimefun4/wiki/Food)
@@ -40,8 +42,9 @@
 * [Seasonal Categories](https://github.com/xMikux/Slimefun4/wiki/Seasonal-Categories)
 
 ## Discord
+
 Slimefun還具有Discord伺服器, 您可以提供意見, 討論功能或聊天.
-https://discord.gg/slimefun
+<https://discord.gg/slimefun>
 
 非官方的黏液科技翻譯也有Discord伺服器! 歡迎加入並討論黏液科技相關的東西.
-https://discord.gg/GF4CwjFXT9
+<https://discord.gg/GF4CwjFXT9>

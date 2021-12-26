@@ -2,6 +2,7 @@ Want to spice up your Slimefun4-Server? Then you have come to the right place!<b
 Here is a list of all Slimefun Addons (that we currently know of). You can install these addons to add even more content to your Slimefun-based Minecraft Servers!
 
 ### Table of contents
+
 - [:star: Official Addons](#star-official-addons)
 - [:heart: Community Addons](#heart-community-addons)
 - [:gift: Third-Party Plugins](#gift-third-party-plugins)
@@ -9,6 +10,7 @@ Here is a list of all Slimefun Addons (that we currently know of). You can insta
 - [:black_nib: Create your own addons!](#black_nib-create-your-own-addons)
 
 ## :star: Official Addons
+
 These addons were developed closely to Slimefun by active members of this project.<br>
 We provide support for these on our [Discord Server](https://discord.gg/slimefun) as well!
 
@@ -33,6 +35,7 @@ EcoPower | TheBusyBiscuit, poma123 | <details><summary>expand</summary>This addo
 Hardcore Slimefun | Walshy, TheBusyBiscuit | <details><summary>expand</summary>Hardcore Slimefun is an addon designed to make Slimefun as hard as possible for those who don't like a true challenge (or server owners who want to be nice to their players!). Features include research loss, research failures and android malfunctions with more to come!</details> | [GitHub](https://github.com/Slimefun-Addon-Community/HardcoreSlimefun) | [Builds](https://thebusybiscuit.github.io/builds/Slimefun-Addon-Community/HardcoreSlimefun/main/)
 
 ## :heart: Community Addons
+
 These addons have been created by talented developers from our community.
 We can't provide any support for these on our official Discord Server though.
 Nor can we guarantee that these will work, some of them could be outdated or broken, we are not responsible for this software or their content.
@@ -73,6 +76,7 @@ Networks | Sefiraat | <details><summary>expand</summary>Networks is an addon tha
 SfChunkInfo | FN_FAL113 | <details><summary>expand</summary>Scan the amount of slimefun blocks in a chunk using a single command.</details> | [Readme](https://github.com/FN-FAL113/SfChunkInfo/blob/main/README.md) | [GitHub](https://github.com/FN-FAL113/SfChunkInfo) | [Releases](https://github.com/FN-FAL113/SfChunkInfo/releases)
 
 ## :gift: Third-Party Plugins
+
 These Plugins are not Addons, but they do integrate with Slimefun in some way or another.
 
 Name | Author(s) | Description | More info | Source Code | Download
@@ -85,6 +89,7 @@ DankTech | Sefiraat | <details><summary>expand</summary>***This version of DankT
 EquivalencyTech | Sefiraat | <details><summary>expand</summary>EquivalencyTech (EquiTech) is an attempt to recreate elements of the ProjectE mod as a plugin. EquiTech adds EMC as a new form of currency to condense items down or synthesize new ones from learned recipes. All EMC values are configurable by server owners. EquiTech adds all of it's recipes to the Slimefun Guide when applicable.</details> | [Wiki](https://github.com/Sefiraat/EquivalencyTech/wiki) | [GitHub](https://github.com/Sefiraat/EquivalencyTech/) | [SpigotMC](https://www.spigotmc.org/resources/%E2%AD%90-equitech-%E2%AD%90-equivalent-exchange-plugin.92970/)
 
 ## :trophy: Addon Jams
+
 In 2020 we started hosting our very first "Slimefun Addon Jam" on our discord server.<br>
 We hope to make this a re-occurring thing. The basic premise is the following: At the start of the Jam we will announce a theme and every developer has a limited time frame to create a Slimefun Addon - from scratch - based on that theme. When the Jam has ended we will review their submissions, rate them and hand out prizes to the addons that performed the best.<br>
 Here is a list of all Addon Jams that have been hosted so far:
@@ -92,10 +97,11 @@ Here is a list of all Addon Jams that have been hosted so far:
 1. [Addon Jam 2020](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2020)
 2. [Addon Jam 2021](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2021)
 
-## :black_nib: Create your own addons!
+## :black_nib: Create your own addons
+
 Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
 
 If you have made an Addon for Slimefun and want it to be listed on here, simply make a new pull request on our wiki repository. You can find a tutorial here:
-https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki.  
+<https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki>.  
 If a pull request is not possible, then just create an Issue and select the "Addition" template:  
-https://github.com/Slimefun/Wiki/issues
+<https://github.com/Slimefun/Wiki/issues>

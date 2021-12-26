@@ -3,9 +3,11 @@
 如果你正在尋找指南有關如何使用黏液科技, 請在[此處](https://github.com/xMikux/Slimefun4/wiki/Getting-Started)開始.
 
 ## 黏液科技是做甚麼的?
+
 黏液科技是無需安裝模組就即可將物品添加至Minecraft.
 僅黏液科技本體就包含了400多個新物品與方塊.
 其中一些包括:
+
 * 背包
 * 核能
 * 古代祭壇, 魔法符文和法杖
@@ -17,11 +19,13 @@
 * 還有很多, 很多, 很多, 很多...
 
 ## 為何要使用黏液科技
+
 你不必使用黏液科技.
 但是事實證明, 它本身就是一個有趣的增加對於許多伺服器.
 無論使用哪種遊戲模式, 它都能增強任何生存體驗.
 
 ## 會持續的不斷更新嗎?
+
 是, 但也不是.
 
 在 [TheBusyBiscuit's 網站](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/) 上, 你會發現非常頻繁(自動上傳)的更新 (非官方繁體黏液[點此](https://xmikux.github.io/builds/xMikux/Slimefun4/master/)).
@@ -34,6 +38,7 @@
 建議你開發一個附加, 它的速度要快很多.
 
 ## 黏液科技的故事(歷史)
+
 黏液科技是由mrCookieSlime在**2013**時開發的Bukkit(水桶)插件, 目標很簡單: 讓Bukkit伺服器感覺像一個現代的模組包, 而無需安裝任何實際的模組.
 在**2013年底** Slimefun2發布. 它的特色是研究, 一個合適的黏液科技指南, 裝備, 武器與更多的物品可以幫助你在Minecraft中生存.
 

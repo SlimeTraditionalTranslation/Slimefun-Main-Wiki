@@ -16,14 +16,14 @@ This category mostly consists of different kinds of food.
 | Christmas Caramel Apple | 1 Christmas Caramel, 1 Apple, 1 Stick | [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) | 2 |
 | Christmas Chocolate Apple | 1 Cocoa Beans, 1 Apple, 1 Stick | [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) | 2 |
 
-
 ## Christmas Present
+
 The Christmas Present is even more special because it has Santa's Magic!<br>
 When you open 1 of these, you obtain a random item.
 
 ### Obtaining
-The present can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench) like so:
 
+The present can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench) like so:
 
 |  | Name Tag |  |
 | - | -------- | - |

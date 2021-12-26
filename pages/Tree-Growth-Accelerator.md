@@ -2,6 +2,7 @@ The Tree Growth Accelerator is an [Electric Machine](https://github.com/Slimefun
 It's an End-Game machine but it can be useful for tree farms.
 
 ## Tiers
+
 It currently comes in only one tier.  
 
 **Radius:** 9x9  

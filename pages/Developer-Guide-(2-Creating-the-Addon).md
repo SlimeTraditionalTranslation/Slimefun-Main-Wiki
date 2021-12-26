@@ -2,6 +2,7 @@ This is the **second Part** of our Developer Guide, you can find a full overview
 If you haven't checked out the [first Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(1-Project-Setup)), then please do that.
 
 ## 1. Your main class
+
 Alright, now that your workspace and project is set up properly, we can start to dive into some code.<br>
 Open up the class file of your project that you can find under your renamed package in `src/main/java/`.
 
@@ -13,33 +14,33 @@ package ...;
 import ...;
 
 public class SlimefunAddon extends JavaPlugin implements SlimefunAddon {
-	
-	@Override
-	public void onEnable() {
-		// ...
-	}
-	
-	@Override
-	public void onDisable() {
-		// Logic for disabling the plugin...
-	}
-	
-	@Override
-	public JavaPlugin getJavaPlugin() {
-		// This is a method that links your SlimefunAddon to your Plugin.
-		// Just return "this" in this case, so they are linked
-		return this;
-	}
-	
-	@Override
-	public String getBugTrackerURL() {
-		// Here you can return a link to your Bug Tracker.
-		// This link will be displayed to Server Owners if there is an issue
-		// with this Addon. Return null if you have no bug tracker.
-		// Normally you can just use GitHub's Issues tab:
-		// https://github.com/YOURNAME/YOURPROJECT/issues
-		return null;
-	}
+ 
+ @Override
+ public void onEnable() {
+  // ...
+ }
+ 
+ @Override
+ public void onDisable() {
+  // Logic for disabling the plugin...
+ }
+ 
+ @Override
+ public JavaPlugin getJavaPlugin() {
+  // This is a method that links your SlimefunAddon to your Plugin.
+  // Just return "this" in this case, so they are linked
+  return this;
+ }
+ 
+ @Override
+ public String getBugTrackerURL() {
+  // Here you can return a link to your Bug Tracker.
+  // This link will be displayed to Server Owners if there is an issue
+  // with this Addon. Return null if you have no bug tracker.
+  // Normally you can just use GitHub's Issues tab:
+  // https://github.com/YOURNAME/YOURPROJECT/issues
+  return null;
+ }
 
 }
 ```
@@ -57,6 +58,7 @@ This class also contains two `methods`.<br>
 `onDisable()` is called when the plugin is disabled, due to a server shutdown for example. You can ignore this one for now.
 
 ## 2. The `onEnable` method - Config
+
 The `onEnable` method is already filled with a bunch of stuff in our template.<br>
 We will go over each thing individually, but let's start with something basic.
 
@@ -73,6 +75,7 @@ You can find your default config under `src/main/resources/config.yml`.
 
 This `Config` class comes from Slimefun / dough. So you won't see this in any non-Slimefun Projects.<br>
 You can read values directly from this class using the appropriate getters:
+
 ```java
 cfg.getBoolean("path.to.your.boolean");
 cfg.getString("path.to.your.string");

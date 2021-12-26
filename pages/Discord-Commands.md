@@ -4,6 +4,7 @@ Note that the following commands only work on our [Official Discord Server](http
 If you are looking for the commands you can perform ingame then see [this page](https://github.com/Slimefun/Slimefun4/wiki/Commands).
 
 ## Commands
+
 Commands are associated with certain actions, commands usually take in arguments or perform certain tasks on the server.<br>
 Commands are prefixed with `!`.<br>
 Here is a full list:
@@ -20,6 +21,7 @@ Here is a full list:
 | `!helpful` | Assigns yourself our `@Helpful` role. This role gives others the explicit permission to tag you if they have a question. | `!helpful` |
 
 ## Tags
+
 Tags are static commands. They cannot take in arguments or perform actions, they only serve informational purpose.<br>
 Tags are prefixed with `?`.<br>
 Here is a full list:

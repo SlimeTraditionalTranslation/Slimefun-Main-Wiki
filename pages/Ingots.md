@@ -1,7 +1,9 @@
 Slimefun introduces 25 new ingots, including 17 alloys. They are essential crafting [resources](https://github.com/Slimefun/Slimefun4/wiki/Resources).
 
 ## Metals
+
 The following ingots are obtained by smelting the matching [dusts](https://github.com/Slimefun/Slimefun4/wiki/Dusts) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory):
+
 * [Iron Ingot](https://github.com/Slimefun/Slimefun4/wiki/Iron-Ingot) (not added by Slimefun, but crafted and used in new ways)
 * [Gold Ingot (4 to 24-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot)
 * [Copper Ingot](https://github.com/Slimefun/Slimefun4/wiki/Copper-Ingot)
@@ -13,7 +15,9 @@ The following ingots are obtained by smelting the matching [dusts](https://githu
 * [Magnesium Ingot](https://github.com/Slimefun/Slimefun4/wiki/Magnesium-Ingot)
 
 ## Alloys
+
 The following ingots are obtained by combining metals in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery):
+
 * [Aluminum Brass Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Brass-Ingot)
 * [Aluminum Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Bronze-Ingot)
 * [Billon Ingot](https://github.com/Slimefun/Slimefun4/wiki/Billon-Ingot)
