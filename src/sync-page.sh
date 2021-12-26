@@ -18,12 +18,11 @@ rm slimefun/_Sidebar.md
 
 echo "Setting up Authentication..."
 git config user.name "EfinaBot"
-git config user.email "${LOGIN_EMAIL}"
+git config user.email ${LOGIN_EMAIL}
 
 echo "Committing changes..."
 git add -A
 git commit -m "GitHub Action - Page Sync"
 
 echo "Pushing to website..."
-git remote add origin https://${ACCESS_TOKEN}@github.com/xMikux/Slimefun4.wiki.git
 git push origin main 
