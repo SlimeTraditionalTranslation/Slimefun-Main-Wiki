@@ -10,8 +10,7 @@ cd SlimeTraditionalTranslation-Web || exit
 echo "Replace pages"
 cd content/zh-tw/docs/ || exit
 rm -rf slimefun/
-#cp -r ../../../../pages/ slimefun
-cp -r "$GITHUB_WORKSPACE"/pages/ slimefun
+cp -r ../../../../pages/ slimefun
 
 echo "Remove don't sync files"
 rm slimefun/_Footer.md
