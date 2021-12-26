@@ -11,7 +11,7 @@ echo "Replace pages"
 cd content/zh-tw/docs/ || exit
 rm -rf slimefun/
 #cp -r ../../../../pages/ slimefun
-cp -r ~/pages/ slimefun
+cp -r "$GITHUB_WORKSPACE"/pages/ slimefun
 
 echo "Remove don't sync files"
 rm slimefun/_Footer.md
@@ -19,7 +19,7 @@ rm slimefun/_Sidebar.md
 
 echo "Setting up Authentication..."
 git config user.name "EfinaBot"
-git config user.email ${LOGIN_EMAIL}
+git config user.email "${LOGIN_EMAIL}"
 
 echo "Committing changes..."
 git add -A

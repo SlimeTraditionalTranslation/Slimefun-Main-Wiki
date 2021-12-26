@@ -1,11 +1,13 @@
 name: Page Sync
 
 on:
+  workflow_dispatch: {}
   push:
     branches:
     - master
     paths:
     - 'pages/**'
+  workdipitach
 
 jobs:
   sync:
