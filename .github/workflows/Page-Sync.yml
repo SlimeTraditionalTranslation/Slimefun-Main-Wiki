@@ -19,7 +19,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Syncing Pages
-      run: sh src/sync.sh
+      run: sh src/sync-page.sh
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         LOGIN_EMAIL: ${{ secrets.LOGIN_EMAIL }}
