@@ -1,4 +1,5 @@
 ## 總覽
+
 * [甚麼是黏液科技?](https://github.com/xMikux/Slimefun4/wiki/Slimefun-in-a-nutshell)
 * [如何安裝黏液科技](https://github.com/xMikux/Slimefun4/wiki/Installing-Slimefun)
 * [入門](https://github.com/xMikux/Slimefun4/wiki/Getting-Started)
@@ -9,11 +10,13 @@
 * [FAQ](https://github.com/xMikux/Slimefun4/wiki/FAQ)
 
 ## 其他插件
+
 * [Addons for Slimefun 4](https://github.com/xMikux/Slimefun4/wiki/Addons)
 * [Create your own Addon](https://github.com/xMikux/Slimefun4/wiki/Developer-Guide)
 * [支持的保護插件](https://github.com/xMikux/Slimefun4/wiki/Protection-Plugins)
 
-## Categories
+## 類別
+
 * [Weapons](https://github.com/xMikux/Slimefun4/wiki/Weapons)
 * [Items](https://github.com/xMikux/Slimefun4/wiki/Items)
 * [Food](https://github.com/xMikux/Slimefun4/wiki/Food)
