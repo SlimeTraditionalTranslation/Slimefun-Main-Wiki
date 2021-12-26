@@ -25,4 +25,5 @@ git add -A
 git commit -m "GitHub Action - Page Sync"
 
 echo "Pushing to website..."
+git remote add origin https://${ACCESS_TOKEN}@github.com/xMikux/Slimefun4.wiki.git
 git push origin main 
