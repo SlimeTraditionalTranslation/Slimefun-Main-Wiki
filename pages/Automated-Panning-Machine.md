@@ -7,7 +7,7 @@ The Automated Panning Machine is a multiblock structure, it consists of a cauldr
 
 A complete setup should look like this:
 
-![Automated Panning Machine Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-automated-panning-machine.png)
+<img src="/slimefun-images/multiblock-automated-panning-machine.png" alt="Automated Panning Machine Setup">
 
 You can also place an [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/Output-Chest) next to the cauldron to collect your items. If there is no [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/Output-Chest), then it will be thrown on top of the trapdoor.
 

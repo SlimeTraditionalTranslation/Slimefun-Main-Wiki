@@ -6,7 +6,7 @@ It is used to craft many Slimefun items, from the most basic to the most complex
 The recipe can be found in your Slimefun Guide. To build it, you need to place a Crafting Table on top of a Dispenser.<br>
 A complete Enhanced Crafting Table looks like this:
 
-![Enhanced Crafting Table Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-enhanced-crafting-table.png)
+<img src="/slimefun-images/multiblock-enhanced-crafting-table.png" alt="Enhanced Crafting Table Setup">
 
 You can also place an [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/Output-Chest) next to the Dispenser to collect your crafted items.
 

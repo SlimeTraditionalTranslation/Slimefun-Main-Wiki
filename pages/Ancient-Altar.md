@@ -11,7 +11,7 @@ The Ancient Altar block on its own has no use. In order to have a working altar,
 
 A working Ancient Altar looks like this:
 
-![Ancient Altar setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-ancient-altar.png)
+<img src="/slimefun-images/multiblock-ancient-altar.png" alt="Ancient Altar setup">
 
 To begin the crafting process or "ritual", each ingredient in the recipe must be placed on the pedestals by right-clicking them.  
 The item in the middle of the recipe (or "catalyst") must then be used on the central altar block.

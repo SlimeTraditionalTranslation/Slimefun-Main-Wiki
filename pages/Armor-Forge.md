@@ -7,7 +7,7 @@ The Armor Forge is a multiblock structure, it consists of a dispenser and an anv
 
 A complete setup should look like this:
 
-![Armor Forge Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-armor-forge.png)
+<img src="/slimefun-images/multiblock-armor-forge.png" alt="Armor Forge Setup">
 
 You can also place an [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/Output-Chest) next to the dispenser to collect your crafted armor. If there is no [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/Output-Chest), then it will be put in the dispenser.
 

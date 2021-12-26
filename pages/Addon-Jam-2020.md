@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Addon-Jam-2020"
 description: ""
 lead: ""
 date: 2021-12-26T17:03:11+08:00
@@ -8,7 +8,7 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "開始"
+    parent: "黏液科技"
 weight: 10
 toc: false
 ---

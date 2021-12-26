@@ -6,7 +6,7 @@ The Ore Crusher is a multiblock structure, it consists of a dispenser, a nether 
 
 A complete setup should look like this:
 
-![Ore Crusher Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-ore-crusher.png)
+<img src="/slimefun-images/multiblock-ore-crusher.png" alt="Ore Crusher Setup">
 
 You can also place an [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/Output-Chest) next to the dispenser to collect your resources. If there is no [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/Output-Chest), then it will be put in the dispenser.
 

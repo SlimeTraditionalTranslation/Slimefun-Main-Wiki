@@ -9,7 +9,7 @@ You can create a new Account [here](https://github.com/join) if you don't have a
 Alright, first you need to head over to [this Wiki's GitHub repository](https://github.com/Slimefun/Slimefun-Wiki/).<br>
 After that you just have to hit the "Fork" button in top right corner and you are done for Step number one.
 
-![GitHub Fork Button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-fork.png)
+<img src="/slimefun-images/github-tutorial-fork.png" alt="GitHub Fork Button">
 
 ## Step 2: Making your changes
 
@@ -22,11 +22,11 @@ Now you can choose whether you want to create a new File or edit an existing Fil
 
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the folder called "pages".
 
-![Pages directory](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pages.png)
+<img src="/slimefun-images/github-tutorial-pages.png" alt="Pages directory">
 
 Now click on the button "Create new File".
 
-![New File Button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-new-file.png)
+<img src="/slimefun-images/github-tutorial-new-file.png" alt="New File Button">
 
 File names have to follow the following conditions:
 
@@ -46,12 +46,12 @@ If you need to embed images, please jump to [Step 2.3: Uploading images](#23-upl
 
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the folder called "pages".
 
-![Pages directory](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pages.png)
+<img src="/slimefun-images/github-tutorial-pages.png" alt="Pages directory">
 
 Now open up any of the ".md" files you see in that folder.<br>
 To edit this page, simply click on the "edit"-icon.
 
-![Edit File Button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-edit.png)
+<img src="/slimefun-images/github-tutorial-edit.png" alt="Edit File Button">
 
 Now you can edit that page's content.<br>
 The pages are written in GitHub's markdown language, the syntax is pretty easy, you can always consult [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) if you need help.<br>
@@ -63,11 +63,11 @@ If you need to embed images, please jump to [Step 2.3: Uploading images](#23-upl
 
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the folder called "images".
 
-![Images directory](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-images.png)
+<img src="/slimefun-images/github-tutorial-images.png" alt="Images directory">
 
 Now click on the button "Upload files".
 
-![Upload files button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-upload-image.png)
+<img src="/slimefun-images/github-tutorial-upload-image.png" alt="Upload files button">
 
 Make sure that all your images use the PNG image format and have proper names.
 The names should be in lower case, contain no spaces and use hyphens to seperate words.
@@ -110,11 +110,11 @@ Whenever you edit/create pages on the wiki, follow the following guidelines.
 
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the "Pull Requests" tab.
 
-![Pull Requests Tab](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pr-tab.png)
+<img src="/slimefun-images/github-tutorial-pr-tab.png" alt="Pull Requests Tab">
 
 Now all you have to do is click on the bright green button that says "New pull request".
 
-![New Pull Request Button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pr-button.png)
+<img src="/slimefun-images/github-tutorial-pr-button.png" alt="New Pull Request Button">
 
 Then click on the next "New pull request" button and fill out the description for your pull request.<br>
 Please use and follow our template.
