@@ -1,3 +1,18 @@
+---
+title: "Electric-Ingot-Factory"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 The Electric Ingot Factory is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which smelts [Dusts](https://github.com/Slimefun/Slimefun4/wiki/Dusts) into their corresponding [Ingots](https://github.com/Slimefun/Slimefun4/wiki/Ingots).  
 It cannot smelt [Alloys](https://github.com/Slimefun/Slimefun4/wiki/Ingots#alloys) from [Ingots](https://github.com/Slimefun/Slimefun4/wiki/Ingots).
 

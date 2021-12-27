@@ -1,3 +1,18 @@
+---
+title: "Ancient-Runes"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 Ancient Runes are part of the [Magical Items](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items) category. There are currently 11 different runes and a blank one.
 
 ## Obtaining

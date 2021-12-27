@@ -1,7 +1,21 @@
+---
+title: "Silver-Ingot"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
 
 ## Obtaining
 
-Smelting one [Silver Dust](https://github.com/Slimefun/Slimefun4/wiki/Silver-Dust) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory) yields one Silver Ingot.<br>
+Smelting one [Silver Dust](https://github.com/Slimefun/Slimefun4/wiki/Silver-Dust) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory) yields one Silver Ingot.
 
 Silver Ingots can be turned back to [Silver Dust](https://github.com/Slimefun/Slimefun4/wiki/Silver-Dust) by an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer)
 

@@ -1,3 +1,18 @@
+---
+title: "Commands"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 此頁面包含了有關黏液科技的指令資訊.
 儘管黏液科技中沒有很多指令, 但了解這些指令仍然很重要.
 你可以使用前綴 /slimefun 或 /sf. 兩者都有用.

@@ -1,3 +1,18 @@
+---
+title: "Input-Node"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 An Input Node is the component of a [cargo network](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management) which filters and distributes items to be received by [output nodes](https://github.com/Slimefun/Slimefun4/wiki/Output-Node) (or [advanced output nodes](https://github.com/Slimefun/Slimefun4/wiki/Advanced-Output-Node)).
 
 ## Obtaining

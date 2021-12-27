@@ -16,12 +16,14 @@ toc: true
 ## How can I download / install Slimefun or its Addons?
 
 To download and install Slimefun you can refer to [this guide here](/docs/slimefun/wiki/installing-slimefun).  
-You can find Addons for Slimefun4 on our ["Addons" - page](/docs/slimefun/wiki/addons).<br>
+You can find Addons for Slimefun4 on our ["Addons" - page](/docs/slimefun/wiki/addons).
+
 You can install these just like you did with Slimefun, putting them in the `/plugins/` folder of your Server.
 
 ## Can I install Slimefun on a Singleplayer world?
 
-No.<br>
+No.
+
 Slimefun is a Bukkit / Spigot plugin, so it requires you to have a Bukkit-based Minecraft Server running. Creating such a Server is very easy though, you will be able to find lots of tutorials online. If you want to enjoy Slimefun all on your own, set up a new Minecraft Server on your computer, install the plugin and connect to it using the address `localhost`. Without any extra efforts your server won't be visible to others outside of your local network anyway.
 
 ## Will Slimefun be available for Minecraft version XYZ?
@@ -51,7 +53,8 @@ The Ender Talismans work even while in the Ender Chest however the normal [Talis
 
 ## Can you stack Talismans?
 
-Talismans by themselves are stackable items but having more than one Talisman of the same type will not increase their effects.<br>
+Talismans by themselves are stackable items but having more than one Talisman of the same type will not increase their effects.
+
 However, some Talismans get consumed when you use them, so having multiple of these handy will last you longer obviously.
 
 ## What can I do with stone chunks?

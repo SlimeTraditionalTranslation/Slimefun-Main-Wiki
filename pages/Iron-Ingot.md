@@ -1,4 +1,20 @@
-Iron Ingots are an item in vanilla Minecraft.<br>
+---
+title: "Iron-Ingot"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
+Iron Ingots are an item in vanilla Minecraft.
+
 Although they are not added by Slimefun, the plugin offers an additional way to obtain them, and they are used in various new recipes.
 
 ## Obtaining

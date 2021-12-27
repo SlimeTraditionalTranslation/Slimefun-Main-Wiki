@@ -1,9 +1,27 @@
-Slimefun adds 11 new Gold Ingots to the game.<br>
+---
+title: "Gold-Ingot"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
+
+Slimefun adds 11 new Gold Ingots to the game.
+
 They are differentiated by their purity (measured in "carats"), with the lowest purity being 4 and the highest being 24.
 
 ## Obtaining
 
-Smelting [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory) produces a 4-carat Gold Ingot.<br>
+Smelting [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory) produces a 4-carat Gold Ingot.
+
 Higher purity gold is obtained by smelting any carat gold along with a piece of [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust). This "adds" 2 carats, up until 24-carat gold, thus 11 [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust) are needed to create a single 24-carat Gold Ingot.
 
 ## Usage
@@ -12,7 +30,8 @@ Slimefun Gold Ingots cannot substitute regular Gold Ingots in vanilla recipes. I
 
 ### Gold Ingot (4-Carat)
 
-4-carat gold can be turned into [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust) by crushing it in an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer).<br>
+4-carat gold can be turned into [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust) by crushing it in an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer).
+
 It is also used in the following recipes:
 
 * [Gold Ingot (6-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot#Gold-Ingot-6-Carat)

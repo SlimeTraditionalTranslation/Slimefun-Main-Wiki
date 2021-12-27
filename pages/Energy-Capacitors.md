@@ -1,3 +1,18 @@
+---
+title: "Energy-Capacitors"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 Capacitors are [Electric Components](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which can store and transfer energy in an energy network.  
 There are five "tiers" of capacitors, each with an increasing capacity.
 

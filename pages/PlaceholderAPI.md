@@ -1,7 +1,23 @@
-Slimefun 4 now also supports [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI).<br>
+---
+title: "PlaceholderAPI"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
+Slimefun 4 now also supports [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI).
+
 Check out PlaceholderAPI's Wiki for Info on how to utilise these.
 
-# Placeholders for Researches
+## Placeholders for Researches
 
 ## Total Amount of Researches
 
@@ -33,7 +49,7 @@ This Placeholder will be replaced with the percentage of Researches you have unl
 
 This Placeholder will be replaced with your current Research-Title.
 
-# Miscellaneous Placeholders
+### Miscellaneous Placeholders
 
 ## GPS Complexity
 

@@ -1,3 +1,18 @@
+---
+title: "Reactors"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 Reactors are a way to [Generate Energy](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) fast and efficiently.  
 There are currently two types of Reactors. Both of these require to be surrounded by water next to the reactor. Below and above are not necessary.  
 

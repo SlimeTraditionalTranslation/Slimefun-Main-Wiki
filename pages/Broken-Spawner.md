@@ -1,4 +1,20 @@
-Broken Spawners are an item in the [Magical Items](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items) category.<br>
+---
+title: "Broken-Spawner"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
+Broken Spawners are an item in the [Magical Items](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items) category.
+
 As the name implies, they do not function in this state.
 
 ## Obtaining

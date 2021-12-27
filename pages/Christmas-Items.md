@@ -1,4 +1,20 @@
-Christmas items are [Christmas specialities](https://github.com/Slimefun/Slimefun4/wiki/Christmas-Seasonal-Category).<br>
+---
+title: "Christmas-Items"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
+Christmas items are [Christmas specialities](https://github.com/Slimefun/Slimefun4/wiki/Christmas-Seasonal-Category).
+
 This category mostly consists of different kinds of food.
 
 | Food | Ingredients | Workbench | Output Amount |
@@ -18,7 +34,8 @@ This category mostly consists of different kinds of food.
 
 ## Christmas Present
 
-The Christmas Present is even more special because it has Santa's Magic!<br>
+The Christmas Present is even more special because it has Santa's Magic!
+
 When you open 1 of these, you obtain a random item.
 
 ### Obtaining

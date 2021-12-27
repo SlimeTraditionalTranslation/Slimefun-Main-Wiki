@@ -1,3 +1,18 @@
+---
+title: "Combustion-Reactor"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 The Combustion Reactor is a type of [Energy Generator](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#energy-generation).
 
 ## Obtaining
@@ -6,7 +21,8 @@ A Combustion Reactor can be crafted in an [Enhanced Crafting Table](https://gith
 
 ## Usage
 
-A Combustion Reactor must be placed within 7 blocks of an [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator), an [Energy Connector](https://github.com/Slimefun/Slimefun4/wiki/Energy-Connector), or an [Energy Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors) in a cross format (not diagonally), and provided with the appropriate fuel.<br>
+A Combustion Reactor must be placed within 7 blocks of an [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator), an [Energy Connector](https://github.com/Slimefun/Slimefun4/wiki/Energy-Connector), or an [Energy Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors) in a cross format (not diagonally), and provided with the appropriate fuel.
+
 Once it is placed, right-click it and place fuel in its inventory (two slots on the left).
 
 ## Tiers

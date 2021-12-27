@@ -1,3 +1,18 @@
+---
+title: "Boosted-Uranium"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 Boosted Uranium is a [Resource](https://github.com/Slimefun/Slimefun4/wiki/Resources) that can be used to power [Nuclear Reactors](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#energy-generation).
 Out of all nuclear fuels, Boosted Uranium burns the longest and generates the most energy the fastest.
 

@@ -1,15 +1,34 @@
-Before continuing to read, make sure to first read the [Rules of our Discord Server](https://github.com/Slimefun/Slimefun4/wiki/Discord-Rules).<br>
+---
+title: "Discord-Commands"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
 
-Note that the following commands only work on our [Official Discord Server](https://discord.gg/fsD4Bkh).<br>
+Before continuing to read, make sure to first read the [Rules of our Discord Server](https://github.com/Slimefun/Slimefun4/wiki/Discord-Rules).
+
+Note that the following commands only work on our [Official Discord Server](https://discord.gg/fsD4Bkh).
+
 If you are looking for the commands you can perform ingame then see [this page](https://github.com/Slimefun/Slimefun4/wiki/Commands).
 
 ## Commands
 
-Commands are associated with certain actions, commands usually take in arguments or perform certain tasks on the server.<br>
-Commands are prefixed with `!`.<br>
+Commands are associated with certain actions, commands usually take in arguments or perform certain tasks on the server.
+
+Commands are prefixed with `!`.
+
 Here is a full list:
 
-<> = Required<br>
+<> = Required
+
 [] = Optional
 
 | Command | Description | Example |
@@ -22,8 +41,10 @@ Here is a full list:
 
 ## Tags
 
-Tags are static commands. They cannot take in arguments or perform actions, they only serve informational purpose.<br>
-Tags are prefixed with `?`.<br>
+Tags are static commands. They cannot take in arguments or perform actions, they only serve informational purpose.
+
+Tags are prefixed with `?`.
+
 Here is a full list:
 
 | Tag | Description |

@@ -1,3 +1,18 @@
+---
+title: "Magical-Items"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 This is a category that contains a bunch of items to craft [Magical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Magical-Gadgets) with.
 
 ## Table of contents
@@ -29,7 +44,7 @@ This item can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slim
 
 ### Lava Crystal
 
-This item can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) using [Magical Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps), an [Ancient Rune \[Fire\]]() and blaze powder.
+This item can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) using [Magical Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps), an [Ancient Rune \[Fire\]](/404) and blaze powder.
 
 ### Common Talisman
 

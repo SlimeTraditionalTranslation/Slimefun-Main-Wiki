@@ -1,3 +1,18 @@
+---
+title: "Portable-Geo-Scanner"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 The Portable Geo-Scanner is a tool added in the [GPS](https://github.com/Slimefun/Slimefun4/wiki/GPS) category. It is a portable version of the [GPS Geo-Scanner](https://github.com/Slimefun/Slimefun4/wiki/GPS-Geo-Scanner).
 
 ## Obtaining

@@ -1,3 +1,18 @@
+---
+title: "Jet-Boots"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 Jet Boots are part of the [Technical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets) category. They need to be charged in a [Charging Bench](https://github.com/Slimefun/Slimefun4/wiki/Charging-Bench) before usage.
 
 They can be used to fly around using electricity. Put the Jet Boots in your boots slot and crouch to use.

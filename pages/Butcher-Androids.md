@@ -1,3 +1,18 @@
+---
+title: "Butcher-Androids"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 An Android that specializes in killing hostile mobs or/and animals.
 
 ## Obtaining

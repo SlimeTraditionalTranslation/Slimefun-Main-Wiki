@@ -1,3 +1,18 @@
+---
+title: "Rainbow-Blocks"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 These are all the non-seasonal rainbow blocks that can be crafted.
 
 - Rainbow Glass
@@ -37,4 +52,4 @@ When placed, all blocks of the same type (eg. all Rainbow Wool blocks) will sync
 This does not automatically happen between two different types (eg. Rainbow wool and Rainbow glass).  
 You can still sync them if you place every new block when the surrounding blocks are white.
 
-When you break any of these items with any tool, they will drop back the original Rainbow version (this includes glass and glass panes).<br>
+When you break any of these items with any tool, they will drop back the original Rainbow version (this includes glass and glass panes).

@@ -13,21 +13,26 @@ weight: 20
 toc: true
 ---
 
-Welcome to our Developer Guide!<br>
+Welcome to our Developer Guide!
+
 This page is still under construction, as this is a huge topic and will most likely take a long time to complete.
 
 Anyway, let's get started!
 
 ## Prerequisites
 
-We will try to target a wide range of developers, even ones with less experience.<br>
+We will try to target a wide range of developers, even ones with less experience.
+
 However, we do not want to reinvent the wheel, there are already a lot of extensive tutorials on how to learn Java or how to create bukkit plugins.
 
-We will assume you to be familiar with the basics of Java, Maven, Git and the concepts of Object-orientation.<br>
+We will assume you to be familiar with the basics of Java, Maven, Git and the concepts of Object-orientation.
+
 If these words all sound unfamiliar to you, then please read up on these and come back later.
 
-We will do our best to try to explain as much as we can though, but please read these pages thoroughly.<br>
-You can of course also always questions on our Discord Server in the channel `#programming-help`.<br>
+We will do our best to try to explain as much as we can though, but please read these pages thoroughly.
+
+You can of course also always questions on our Discord Server in the channel `#programming-help`.
+
 You can click on the discord badge at the bottom of the page to join.
 
 You can also check out our [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/) to get some more technical information about how the API is structured. But we would advise you to check this guide first.

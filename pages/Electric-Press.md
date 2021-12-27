@@ -1,3 +1,18 @@
+---
+title: "Electric-Press"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 The Electric Press is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which presses items into different forms.
 
 It's an automated version of the [Compressor](https://github.com/Slimefun/Slimefun4/wiki/Compressor) but it has a better yield rate.

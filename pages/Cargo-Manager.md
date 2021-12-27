@@ -1,3 +1,18 @@
+---
+title: "Cargo-Manager"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 A Cargo Manager is the core part of a [cargo management system](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management). It allows items to be moved within a cargo network.
 
 ## Obtaining

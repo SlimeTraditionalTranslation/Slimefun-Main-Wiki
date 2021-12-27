@@ -1,3 +1,18 @@
+---
+title: "Carbon-Press"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 The Carbon Press is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which can be used to craft all [Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbon)-like items.
 
 ## Carbon Press Tiers

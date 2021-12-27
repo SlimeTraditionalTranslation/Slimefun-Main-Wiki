@@ -13,22 +13,26 @@ weight: 70
 toc: true
 ---
 
-You want to help us expand the Wiki?<br>
+You want to help us expand the Wiki?
+
 Awesome! Here is a step-by-step tutorial on how to create/edit pages on the wiki.
 
 ## Step 1: Forking the Repository
 
-You will need to be logged into your GitHub Account for this and for all of the following steps.<br>
+You will need to be logged into your GitHub Account for this and for all of the following steps.
+
 You can create a new Account [here](https://github.com/join) if you don't have an account already.
 
-Alright, first you need to head over to [this Wiki's GitHub repository](https://github.com/Slimefun/Slimefun-Wiki/).<br>
+Alright, first you need to head over to [this Wiki's GitHub repository](https://github.com/Slimefun/Slimefun-Wiki/).
+
 After that you just have to hit the "Fork" button in top right corner and you are done for Step number one.
 
 <img src="/slimefun-images/github-tutorial-fork.png" alt="GitHub Fork Button">
 
 ## Step 2: Making your changes
 
-Now that you have a fork of our wiki, you can start making your changes to it. <br>
+Now that you have a fork of our wiki, you can start making your changes to it.
+
 _All changes you make to your fork will NOT affect the official wiki until you submit those changes, so please follow this guide till the end._
 
 Now you can choose whether you want to create a new File or edit an existing File, for both we highly encourage you to follow our guidelines, otherwise we may have to dismiss your changes as invalid.
@@ -51,8 +55,10 @@ File names have to follow the following conditions:
 
 Examples: "Walking-Sticks.md", "Expanding-the-Wiki.md", "Gold-Pan.md" or "Home.md".
 
-Now you can create your page's content.<br>
-The pages are written in GitHub's markdown language, the syntax is pretty easy, you can always consult [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) if you need help.<br>
+Now you can create your page's content.
+
+The pages are written in GitHub's markdown language, the syntax is pretty easy, you can always consult [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) if you need help.
+
 If you need to embed images, please jump to [Step 2.3: Uploading images](#23-uploading-images).
 
 **Make sure to save your changes by clicking the green "Commit new file" button at the bottom!**
@@ -63,13 +69,16 @@ Go visit your Fork (You can always find your fork on GitHub's dashboard or your 
 
 <img src="/slimefun-images/github-tutorial-pages.png" alt="Pages directory">
 
-Now open up any of the ".md" files you see in that folder.<br>
+Now open up any of the ".md" files you see in that folder.
+
 To edit this page, simply click on the "edit"-icon.
 
 <img src="/slimefun-images/github-tutorial-edit.png" alt="Edit File Button">
 
-Now you can edit that page's content.<br>
-The pages are written in GitHub's markdown language, the syntax is pretty easy, you can always consult [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) if you need help.<br>
+Now you can edit that page's content.
+
+The pages are written in GitHub's markdown language, the syntax is pretty easy, you can always consult [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) if you need help.
+
 If you need to embed images, please jump to [Step 2.3: Uploading images](#23-uploading-images).
 
 **Make sure to save your changes by clicking the green "Commit changes" button at the bottom!**
@@ -88,9 +97,12 @@ Make sure that all your images use the PNG image format and have proper names.
 The names should be in lower case, contain no spaces and use hyphens to seperate words.
 Examples: "enhanced-crafting-table.png", "gold-pan-usage.png", "exoticgarden-apple-tree.png".
 
-Drag and drop the images you want to upload onto the grey area and hit "Commit changes".<br>
-Now you can use your image in any page using the following code snippet:<br>
-```![image label](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/FILE_NAME)```<br>
+Drag and drop the images you want to upload onto the grey area and hit "Commit changes".
+
+Now you can use your image in any page using the following code snippet:
+
+```![image label](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/FILE_NAME)```
+
 Replace FILE_NAME with the name of your file (e.g. "enhanced-crafting-table.png") and give the name a short description in the "image label" field.
 
 ## Step 3: General Guidelines (Dos and Don'ts)
@@ -131,16 +143,19 @@ Now all you have to do is click on the bright green button that says "New pull r
 
 <img src="/slimefun-images/github-tutorial-pr-button.png" alt="New Pull Request Button">
 
-Then click on the next "New pull request" button and fill out the description for your pull request.<br>
+Then click on the next "New pull request" button and fill out the description for your pull request.
+
 Please use and follow our template.
 
-After that you click "Create pull request" and you are done!<br>
+After that you click "Create pull request" and you are done!
+
 Thanks for contributing to the Slimefun4 wiki!
 
 ## Step 5: Making changes to your Pull Request
 
 If you have already submitted a pull request but want to make a change to your files, you can do that.
-Just repeat [Step 2](#step-2-making-your-changes).<br>
+Just repeat [Step 2](#step-2-making-your-changes).
+
 The pull request will automatically update to include new changes until it has been merged/closed.
 
 This step is especially important if we request changes to be made.

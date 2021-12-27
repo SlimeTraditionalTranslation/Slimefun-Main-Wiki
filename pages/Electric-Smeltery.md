@@ -1,3 +1,18 @@
+---
+title: "Electric-Smeltery"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 The Electric Smeltery is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which creates [Alloys](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Alloys) from [Ingots](https://github.com/Slimefun/Slimefun4/wiki/Ingots).  
 If you want to smelt [Dusts](https://github.com/Slimefun/Slimefun4/wiki/Dusts) into [Ingots](https://github.com/Slimefun/Slimefun4/wiki/Ingots), take a look at the [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory).
 

@@ -13,8 +13,10 @@ weight: 20
 toc: true
 ---
 
-黏液科技是一個Bukkit(水桶)插件, 目的是讓Bukkit伺服器像是一個模組包.<br>
-如果你想知道如何安裝黏液科技, 請看[這](https://github.com/xMikux/Slimefun4/wiki/Installing-Slimefun).<br>
+黏液科技是一個Bukkit(水桶)插件, 目的是讓Bukkit伺服器像是一個模組包.
+
+如果你想知道如何安裝黏液科技, 請看[這](https://github.com/xMikux/Slimefun4/wiki/Installing-Slimefun).
+
 如果你正在尋找指南有關如何使用黏液科技, 請在[此處](https://github.com/xMikux/Slimefun4/wiki/Getting-Started)開始.
 
 ## 黏液科技是做甚麼的?

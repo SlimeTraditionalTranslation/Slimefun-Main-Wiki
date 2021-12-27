@@ -13,16 +13,20 @@ weight: 60
 toc: true
 ---
 
-This is the **fifth Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).<br>
+This is the **fifth Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
+
 If you haven't checked out the previous parts, then please do that now.
 
 ## 1. A little recap
 
-The last three parts were all about creating our Slimefun items.<br>
-We covered a lot of concept that can be quite overwhelming at first. So let's step down a bit again.<br>
+The last three parts were all about creating our Slimefun items.
+
+We covered a lot of concept that can be quite overwhelming at first. So let's step down a bit again.
+
 Today we cover Researches.
 
-For this we will head back to your main class, inside your `onEnable()` method.<br>
+For this we will head back to your main class, inside your `onEnable()` method.
+
 After adding all your items, it should look a little bit like this:
 
 ```java
@@ -49,14 +53,16 @@ Maybe you will even have multiple items like that.
 
 ## 2. Creating a Research
 
-Creating the Research itself is easy as creating any object in Java.<br>
+Creating the Research itself is easy as creating any object in Java.
+
 We will start by creating a new Research object.
 
 ```java
 Research research = new Research(...);
 ```
 
-The constructor for a Research takes in 4 arguments, a `NamespacedKey` as the id, an integer id, a name and a default cost value.<br>
+The constructor for a Research takes in 4 arguments, a `NamespacedKey` as the id, an integer id, a name and a default cost value.
+
 The `NamespacedKey` should be quite familiar to you at this point, so we start by creating that. We will use a reference to our plugin using "this" and a lowercase id.
 
 ```java
@@ -64,13 +70,18 @@ NamespacedKey researchKey = new NamespacedKey(this, "our_custom_research");
 Research research = new Research(researchKey, ?, ?, ?);
 ```
 
-Next up is the integer id.<br>
-This id is a bit of a... complicated matter. It was replaced by the NamespacedKey, however we still require it at the moment.<br>
+Next up is the integer id.
+
+This id is a bit of a... complicated matter. It was replaced by the NamespacedKey, however we still require it at the moment.
+
 Just keep in mind that this will be removed at some point, as it is a really bad way of identifying researches.
 
-That being said, your integer id **must be unique**. And it must be unique across all addons.<br>
-Try to come up with a random number that noone else has picked yet. This is really not a good way of doing this and stems from a time before Addons existed.<br>
-We are working hard on removing this but for the time being... You will need that id. And it is important that you do not change it at anytime.<br>
+That being said, your integer id **must be unique**. And it must be unique across all addons.
+
+Try to come up with a random number that noone else has picked yet. This is really not a good way of doing this and stems from a time before Addons existed.
+
+We are working hard on removing this but for the time being... You will need that id. And it is important that you do not change it at anytime.
+
 For this example we will simply choose 123 as our id. (Note that 123 is already taken by Slimefun, so don't use that. Pick a very large number instead.)
 
 ```java
@@ -78,8 +89,10 @@ NamespacedKey researchKey = new NamespacedKey(this, "our_custom_research");
 Research research = new Research(researchKey, 123, ?, ?);
 ```
 
-Now onto the name. The name of your research is the text that is displayed to the Player when they unlock it.<br>
-It should reflect the items it represents but it does not have to be a literal correlation.<br>
+Now onto the name. The name of your research is the text that is displayed to the Player when they unlock it.
+
+It should reflect the items it represents but it does not have to be a literal correlation.
+
 Feel free to come up with puns or funny splash texts that convey a message about your items.
 
 ```java
@@ -87,8 +100,10 @@ NamespacedKey researchKey = new NamespacedKey(this, "our_custom_research");
 Research research = new Research(researchKey, 123, "This is an example message", ?);
 ```
 
-Now lastly we need to define a default cost for this Research.<br>
-Note that this is only the "default", Server Owners can always adjust this cost in their config files.<br>
+Now lastly we need to define a default cost for this Research.
+
+Note that this is only the "default", Server Owners can always adjust this cost in their config files.
+
 We will simply specify a cost of 10 xp levels for this example.
 
 ```java
@@ -96,13 +111,16 @@ NamespacedKey researchKey = new NamespacedKey(this, "our_custom_research");
 Research research = new Research(researchKey, 123, "This is an example message", 10);
 ```
 
-Our Research is almost done now.<br>
+Our Research is almost done now.
+
 All that is left to do is to add our items to that Research.
 
 ## 3. Adding items to our Research
 
-Now we still need to add our items to this Research.<br>
-We can do that by calling `Research#addItems(...)`.<br>
+Now we still need to add our items to this Research.
+
+We can do that by calling `Research#addItems(...)`.
+
 This method has a variable amount of parameters, you can add as many Slimefun items as you want.
 
 ```java
@@ -113,7 +131,8 @@ Research research = new Research(researchKey, 123, "This is an example message",
 research.addItems(item1, item2, item3, ...);
 ```
 
-In our example above, we only got our fire cake.<br>
+In our example above, we only got our fire cake.
+
 So let's add that to the Research.
 
 ```java
@@ -126,7 +145,8 @@ Research research = new Research(researchKey, 123, "You don't wanna eat this", 1
 research.addItems(cake);
 ```
 
-Now the only thing left: Registering the Research.<br>
+Now the only thing left: Registering the Research.
+
 For this we simply call .register() on our Research object.
 
 ```java
@@ -173,8 +193,10 @@ research.addItems(cake);
 research.register();
 ```
 
-We now have an awesome fire cake and a Research to go with it.<br>
-Players will now be required to unlock this cake before they can access it.<br>
+We now have an awesome fire cake and a Research to go with it.
+
+Players will now be required to unlock this cake before they can access it.
+
 If you have any questions, feel free to hop on discord and ask them in `#programming-help`.
 
 [**> Continue with Part 6**](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(6-Custom-Heads))

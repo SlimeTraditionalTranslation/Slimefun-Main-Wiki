@@ -1,3 +1,17 @@
+---
+title: "Reinforced-Alloy-Ingot"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
 
 ## Obtaining
 
@@ -10,7 +24,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * 1 [Billon Ingot](https://github.com/Slimefun/Slimefun4/wiki/Billon-Ingot)
 * 1 [Gold Ingot (24-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot#Gold-Ingot-24-Carat)
 
-#### Total base material cost
+### Total base material cost
 
 * 8 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)
 * 4 [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust)

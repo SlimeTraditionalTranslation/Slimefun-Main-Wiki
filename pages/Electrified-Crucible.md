@@ -1,3 +1,18 @@
+---
+title: "Electrified-Crucible"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 The Electrified Crucible is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which smelts items into liquid form.
 
 As the name suggests, it is the electrical variant of the [Crucible](https://github.com/Slimefun/Slimefun4/wiki/Crucible).  

@@ -1,3 +1,18 @@
+---
+title: "Easter-Seasonal-Category"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 The Easter Seasonal Category is a category only available in the month around Easter (April).  
 
 ## Table of contents
@@ -6,7 +21,7 @@ This category only contains 3 items, under which the **Carrot Pie** and **Apple 
 
 It also contains an **Easter Egg**, which you can open and it will leave a little surprise.  
 
-#### Easter Egg surprises list
+### Easter Egg surprises list
 
 - 4 Carrot Pie
 - 1 Carrot Juice

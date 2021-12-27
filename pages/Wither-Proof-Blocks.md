@@ -1,3 +1,18 @@
+---
+title: "Wither-Proof-Blocks"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 Wither-Proof Blocks are a set of [Technical Components](https://github.com/Slimefun/Slimefun4/wiki/Technical-Components) that have special properties and can be used to craft the [Wither Assembler](https://github.com/Slimefun/Slimefun4/wiki/Wither-Assembler).
 
 ## Obtaining

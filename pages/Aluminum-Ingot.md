@@ -1,7 +1,21 @@
+---
+title: "Aluminum-Ingot"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
 
 ## Obtaining
 
-Smelting one [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory) yields one Aluminum Ingot.<br>
+Smelting one [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory) yields one Aluminum Ingot.
 
 Aluminum Ingots can be turned back to [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust) by an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer)
 

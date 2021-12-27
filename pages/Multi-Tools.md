@@ -1,3 +1,18 @@
+---
+title: "Multi-Tools"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 Multi Tools are part of the [Technical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets) category. They need to be charged in a [Charging Bench](https://github.com/Slimefun/Slimefun4/wiki/Charging-Bench) before usage.
 
 Right-click to use. Crouch + right-click to switch modes.

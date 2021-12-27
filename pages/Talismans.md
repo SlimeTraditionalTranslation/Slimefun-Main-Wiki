@@ -1,6 +1,22 @@
+---
+title: "Talismans"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 Talismans are items which grant you special effects while in your possession. They can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench).
 
-Tier I Talismans only work while you carry them in your inventory, while Tier II (Ender) Talismans can work from inside your Ender Chest.<br>
+Tier I Talismans only work while you carry them in your inventory, while Tier II (Ender) Talismans can work from inside your Ender Chest.
+
 Note that some Talismans will be consumed upon use.
 
 | Talisman | Effect | Consumable |

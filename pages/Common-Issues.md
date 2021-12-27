@@ -13,14 +13,16 @@ weight: 50
 toc: true
 ---
 
-此頁面將包含有關遊戲常見問題以及如何解決它們的資訊.<br>
+此頁面將包含有關遊戲常見問題以及如何解決它們的資訊.
+
 以下大多數情況都需要有不同程度權限的工作人員: 如果沒有, 請將此連結給有更高權限的人!
 
 **WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](https://github.com/Slimefun/Slimefun4/wiki/How-to-report-bugs)**
 
 ## 漂浮文字
 
-有些Slimefun的物品會在放置時自動創建漂浮文字, 尤其是  [能量調節器](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) 和 [物流核心](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager).<br>
+有些Slimefun的物品會在放置時自動創建漂浮文字, 尤其是  [能量調節器](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) 和 [物流核心](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager).
+
 這些漂浮文字應在破壞機器時消失, 但有時可能出錯, 並留下一些不想消失的文字. 你要怎麼解決?
 
 _注意: 請確保這不是由鬼方塊引起的 (請檢察 "不可放置的方塊")!_
@@ -39,7 +41,8 @@ _注意: 請確保這不是由鬼方塊引起的 (請檢察 "不可放置的方�
 Switch to spectator mode via
 >/gamemode spectator
 
-You should see the invisible armor stand and better gauge where the feet are; using this information, place a new regulator just below the tag on the first block not occupied by the armor stand itself (get one via /sf cheat).<br>
+You should see the invisible armor stand and better gauge where the feet are; using this information, place a new regulator just below the tag on the first block not occupied by the armor stand itself (get one via /sf cheat).
+
 The regulator will try to place its own armor stand which will replace the corrupt ones and behave normally: you should now be able to remove the regulator you've just placed, removing all tags.
 
 ### How to fix this (Stage 3)
@@ -49,7 +52,9 @@ Simply follow the procedure to get rid of any ghost block and you should be gold
 
 ## Unplaceable blocks
 
-If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block.<br> This means a Slimefun item used to be placed there (usually an [android](https://github.com/Slimefun/Slimefun4/wiki/Androids) or a [cargo component](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management)) and its data was not correctly removed.
+If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block.
+
+This means a Slimefun item used to be placed there (usually an [android](https://github.com/Slimefun/Slimefun4/wiki/Androids) or a [cargo component](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management)) and its data was not correctly removed.
 
 ### How to fix this (Isolated block)
 
@@ -76,15 +81,18 @@ Remove the stone by executing:
 
 ## Circuit Boards not dropping
 
-If you kill Iron Golems and they don't seem to drop any Iron Golems, it may be due to a conflicting plugin.<br>
+If you kill Iron Golems and they don't seem to drop any Iron Golems, it may be due to a conflicting plugin.
+
 Plugins like **MobStacker** or similar are known to have a lot of issues with custom item drops.
 
 ### How to fix this (Stage 1)
 
-The best solution to this problem is to enable custom item drops in that plugins config, if such an option exist.<br>
+The best solution to this problem is to enable custom item drops in that plugins config, if such an option exist.
+
 Or ask the authors of that plugin whether there is a way to toggle this behaviour.
 
 ### How to fix this (Stage 2)
 
-A more drastic approach would be to switch over to a Mob-Stacking plugin that supports custom drops.<br>
+A more drastic approach would be to switch over to a Mob-Stacking plugin that supports custom drops.
+
 _At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](/docs/slimefun/expanding-the-wiki)_

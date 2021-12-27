@@ -1,3 +1,18 @@
+---
+title: "Magnesium-powered-Generator"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 The Magnesium-powered Generator is an [Energy Generator](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#energy-generation).  
 It is crafted in the [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 

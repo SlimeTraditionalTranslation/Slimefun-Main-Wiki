@@ -1,3 +1,18 @@
+---
+title: "Enriched-Nether-Ice"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 Enriched Nether Ice is a [Resource](https://github.com/Slimefun/Slimefun4/wiki/Resources) that can be used to create [Nether Ice Coolant Cells](https://github.com/Slimefun/Slimefun4/wiki/Coolant-Cells) which can be used as coolant for the [Nether Reactor](https://github.com/Slimefun/Slimefun4/wiki/Reactors).
 
 ## Obtaining

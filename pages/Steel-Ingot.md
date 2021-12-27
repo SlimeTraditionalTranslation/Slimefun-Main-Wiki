@@ -1,3 +1,17 @@
+---
+title: "Steel-Ingot"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
 
 ## Obtaining
 
@@ -7,7 +21,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * 1 [Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbon)
 * 1 [Iron Ingot](https://github.com/Slimefun/Slimefun4/wiki/Iron-Ingot)
 
-#### Total base material cost
+### Total base material cost
 
 * 2 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)
 * 9 Coal

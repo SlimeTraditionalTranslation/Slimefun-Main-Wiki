@@ -1,3 +1,18 @@
+---
+title: "Electric-Machines"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 The Energy and Electricity category adds various machines which generate, consume or transfer energy (measured in Joules or J). It also includes [Programmable Androids](https://github.com/Slimefun/Slimefun4/wiki/Androids), which can be programmed to execute a series of tasks.
 
 Besides a way to generate electricity for your machines, an energy network requires an [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator): without it, power transfer cannot happen.  

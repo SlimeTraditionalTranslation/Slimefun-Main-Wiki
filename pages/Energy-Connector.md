@@ -1,3 +1,18 @@
+---
+title: "Energy-Connector"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
 The Energy Connector is an [Electric Component](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which can transfer energy in an Energy Network. Unlike an [Energy Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors), it has no buffer.  
 
 ## Usage
