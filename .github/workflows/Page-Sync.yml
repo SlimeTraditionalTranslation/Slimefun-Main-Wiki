@@ -10,11 +10,11 @@ on:
 
 jobs:
   sync:
-
     name: Synchronize Wiki Pages
     runs-on: ubuntu-latest
-    if: github.repository == 'SlimeTraditionalTranslation/Wiki'
-
+    if: |
+      github.repository == 'SlimeTraditionalTranslation/Wiki' &&
+      contains(github.event.head_commit.message, '[ci skip]') == false
     steps:
     - name: Checking out Repository
       uses: actions/checkout@v2

@@ -1,3 +1,18 @@
+---
+title: "Developer-Guide-(4b-Radioactive-and-WitherProof)"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-developer-guides"
+weight: 50
+toc: true
+---
+
 This is the **fourth Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).<br>
 If you haven't checked out the [third Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item)), then please do that.
 

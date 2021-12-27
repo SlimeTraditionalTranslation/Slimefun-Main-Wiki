@@ -1,7 +1,22 @@
+---
+title: "FAQ"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-main"
+weight: 80
+toc: true
+---
+
 ## How can I download / install Slimefun or its Addons?
 
-To download and install Slimefun you can refer to [this guide here](https://github.com/Slimefun/Slimefun4/wiki/Installing-Slimefun).  
-You can find Addons for Slimefun4 on our ["Addons" - page](https://github.com/Slimefun/Slimefun4/wiki/Addons).<br>
+To download and install Slimefun you can refer to [this guide here](/docs/slimefun/wiki/installing-slimefun).  
+You can find Addons for Slimefun4 on our ["Addons" - page](/docs/slimefun/wiki/addons).<br>
 You can install these just like you did with Slimefun, putting them in the `/plugins/` folder of your Server.
 
 ## Can I install Slimefun on a Singleplayer world?
@@ -26,13 +41,13 @@ Now, send us the following information (in the `#bug-discussions` channel):
 
 3. What do you intend to happen and what is happening?
 
-Please also refer to [this page](https://github.com/Slimefun/Slimefun4/wiki/How-to-report-bugs) for a much more in-depth guide on how to report issues.
+Please also refer to [this page](/docs/slimefun/wiki/how-to-report-bugs) for a much more in-depth guide on how to report issues.
 
 Once you've sent us all this info then one of our staff or a community member will help you. **Do not ping any role or members**. If some time has passed (15+ mins) then you may ping the helpful role (`@Helpful`). Being impatient and pinging roles/members (**especially staff**) may get you warned or kicked.
 
 ## What's the difference between the talisman and ender talisman?
 
-The Ender Talismans work even while in the Ender Chest however the normal [Talismans](https://github.com/Slimefun/Slimefun4/wiki/Talismans) requires for it to be in your inventory.
+The Ender Talismans work even while in the Ender Chest however the normal [Talismans](/docs/slimefun/wiki/talismans) requires for it to be in your inventory.
 
 ## Can you stack Talismans?
 
@@ -41,7 +56,7 @@ However, some Talismans get consumed when you use them, so having multiple of th
 
 ## What can I do with stone chunks?
 
-4 Stone Chunks can be put into the [Compressor](https://github.com/Slimefun/Slimefun4/wiki/Compressor) to craft one cobblestone.
+4 Stone Chunks can be put into the [Compressor](/docs/slimefun/wiki/compressor) to craft one cobblestone.
 
 ## How do I disable items per-world?
 
@@ -61,16 +76,16 @@ You can't give an exact number or really even an estimate, we don't know your ot
 
 ## How does XYZ work?
 
-If you'd like to know how an item works please refer to [our wiki](https://github.com/Slimefun/Slimefun4/wiki).
-> **Note**: The Wiki is still missing pages and is community ran! If you can help add content then please refer to [this guide](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)
+If you'd like to know how an item works please refer to [our wiki](/docs/slimefun/home).
+> **Note**: The Wiki is still missing pages and is community ran! If you can help add content then please refer to [this guide](/docs/slimefun/wiki/expanding-the-wiki)
 
 ## How do I repair Slimefun items?
 
-You will need to use the [Auto-Anvil](https://github.com/Slimefun/Slimefun4/wiki/Auto-Anvil) and [Duct Tape](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items).
+You will need to use the [Auto-Anvil](/docs/slimefun/wiki/Auto-Anvil) and [Duct Tape](/docs/slimefun/wiki/miscellaneous-items).
 
 ## Can I enchant Slimefun items?
 
-You can only enchant an Item from Slimefun by using an [Auto-Enchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter).
+You can only enchant an Item from Slimefun by using an [Auto-Enchanter](/docs/slimefun/wiki/auto-enchanter).
 
 ## How long does coolant last in reactors?
 

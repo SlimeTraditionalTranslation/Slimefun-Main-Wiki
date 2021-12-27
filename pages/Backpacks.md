@@ -1,3 +1,18 @@
+---
+title: "背包"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-items"
+weight: 50
+toc: false
+---
+
 Backpacks are items in which you can store other items.  
 These can be very useful when looting or scavenging.
 

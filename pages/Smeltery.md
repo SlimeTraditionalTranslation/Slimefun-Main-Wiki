@@ -1,3 +1,18 @@
+---
+title: "冶煉爐"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-basic-machines"
+weight: 80
+toc: false
+---
+
 The Smeltery is one of the most fundamental Slimefun machines.  
 It is not only used to smelt dusts into Ingots but also for making Alloys.
 
@@ -9,8 +24,8 @@ The recipe is already found in your Slimefun Guide, but here is the final versio
 
 <img src="/slimefun-images/multiblock-smeltery.png" alt="Smeltery Setup">
 
-You can also place an [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/Output-Chest) next to the dispenser to catch your crafted Items.
-Without an [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/Output-Chest), the items will just land back in the dispenser.
+You can also place an [Output Chest](/docs/slimefun/output-chest) next to the dispenser to catch your crafted Items.
+Without an [Output Chest](/docs/slimefun/output-chest), the items will just land back in the dispenser.
 
 ## How to use the Smeltery
 
@@ -23,4 +38,4 @@ Since the Smeltery's fire can be consumed every so often, make sure to either ha
 
 * Put a piece of netherrack 2 blocks under the Smeltery, so the fire does not randomly go out without actually using it.
 * Use a dispenser filled with Flint & Steel to ignite the fire again. You can hook it up to an Observer Block or a redstone clock to automate the re-ignition.
-* Utilize the [Automatic Ignition Chamber](https://github.com/Slimefun/Slimefun4/wiki/Automatic-Ignition-Chamber), which will automatically re-ignite the fire.
+* Utilize the [Automatic Ignition Chamber](/docs/slimefun/automatic-ignition-chamber), which will automatically re-ignite the fire.

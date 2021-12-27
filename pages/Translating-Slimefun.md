@@ -1,3 +1,18 @@
+---
+title: "翻譯黏液科技"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-main"
+weight: 70
+toc: true
+---
+
 Translating Slimefun has always been a tough point because of some wrong design choices in the code made years ago.<br>
 But as of February 2020 all builds feature translations.
 

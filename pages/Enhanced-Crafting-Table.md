@@ -1,4 +1,19 @@
-The Enhanced Crafting Table is an essential [Basic Machine](https://github.com/Slimefun/Slimefun4/wiki/Basic-Machines) in Slimefun.<br>
+---
+title: "進階合成台"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-basic-machines"
+weight: 20
+toc: false
+---
+
+The Enhanced Crafting Table is an essential [Basic Machine](/docs/slimefun/basic-machines) in Slimefun.<br>
 It is used to craft many Slimefun items, from the most basic to the most complex.
 
 ## How to build an Enhanced Crafting Table
@@ -8,7 +23,7 @@ A complete Enhanced Crafting Table looks like this:
 
 <img src="/slimefun-images/multiblock-enhanced-crafting-table.png" alt="Enhanced Crafting Table Setup">
 
-You can also place an [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/Output-Chest) next to the Dispenser to collect your crafted items.
+You can also place an [Output Chest](/docs/slimefun/output-chest) next to the Dispenser to collect your crafted items.
 
 ## How to use an Enhanced Crafting Table
 

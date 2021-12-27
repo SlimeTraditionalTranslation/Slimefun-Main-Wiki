@@ -1,4 +1,19 @@
-Enhanced Furnaces are a type of [Basic Machine](https://github.com/Slimefun/Slimefun4/wiki/Basic-Machines) added by Slimefun.<br>
+---
+title: "強化熔爐"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-basic-machines"
+weight: 190
+toc: false
+---
+
+Enhanced Furnaces are a type of [Basic Machine](/docs/slimefun/basic-machines) added by Slimefun.<br>
 They are identical in function to the vanilla Furnace, but have enhanced processing speed, fuel efficiency and luck.
 
 ## Enhanced Furnace Tiers

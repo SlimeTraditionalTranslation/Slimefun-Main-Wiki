@@ -1,8 +1,23 @@
-The Portable Crafter is an [Item](https://github.com/Slimefun/Slimefun4/wiki/Items) that has a unique use.
+---
+title: "隨身工作台"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-items"
+weight: 20
+toc: false
+---
+
+The Portable Crafter is an [Item](/docs/slimefun/items) that has a unique use.
 
 ## Obtaining
 
-The Portable Crafter can be crafted in the [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+The Portable Crafter can be crafted in the [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
 
 ## Usage
 

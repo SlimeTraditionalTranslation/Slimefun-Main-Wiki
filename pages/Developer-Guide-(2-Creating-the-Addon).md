@@ -1,3 +1,18 @@
+---
+title: "Developer-Guide-(2-Creating-the-Addon)"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-developer-guides"
+weight: 20
+toc: true
+---
+
 This is the **second Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).<br>
 If you haven't checked out the [first Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(1-Project-Setup)), then please do that.
 

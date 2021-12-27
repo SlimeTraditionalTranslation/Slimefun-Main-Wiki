@@ -1,3 +1,18 @@
+---
+title: "Addon-Jam-2021"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-addons-jam"
+weight: 20
+toc: false
+---
+
 We have hosted another Addon Jam in 2021, this is already the second Addon Jam ever.
 Here are the results!
 
@@ -31,6 +46,7 @@ The scores are calculated by taking the average of all scores by all reviewers f
 6. [BetterFarming by HAL989](#6-BetterFarming-by-HAL989)
 
 ## 1. FlowerPower by NCBPFluffyBear
+
 <https://github.com/NCBPFluffyBear/FlowerPower>
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
@@ -44,7 +60,7 @@ The scores are calculated by taking the average of all scores by all reviewers f
 <details>
 <summary>Click for a detailed review</summary>
 
-#### Pros
+### Pros
 
 * Subtle but very satisfying effects
 * Very accurate theme interpretation
@@ -78,6 +94,7 @@ The gameplay is very satisfying, it is fun and it fits the theme wonderfully.
 </details>
 
 ## 2. BloodAlchemy by Mooy1
+
 <https://github.com/Mooy1/BloodAlchemy>
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
@@ -91,7 +108,7 @@ The gameplay is very satisfying, it is fun and it fits the theme wonderfully.
 <details>
 <summary>Click for a detailed review</summary>
 
-#### Pros
+### Pros
 
 * Very clean code
 * Extensive usage of annotations and documentation
@@ -119,6 +136,7 @@ The theme was interpreted pretty well, it even has some herbalism elements. It's
 </details>
 
 ## 3. Alchmia Vitae by Apeiros-46B
+
 <https://github.com/Apeiros-46B/AlchimiaVitae>
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
@@ -131,7 +149,7 @@ The theme was interpreted pretty well, it even has some herbalism elements. It's
 <details>
 <summary>Click for a detailed review</summary>
 
-#### Pros
+### Pros
 
 * Usage of multi-categories
 * There are researches
@@ -172,6 +190,7 @@ shallow/non existent for each, it's wide but not deep.
 </details>
 
 ## 4. EMC2 by Seggan
+
 <https://github.com/Seggan/EMC2>
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
@@ -183,7 +202,7 @@ shallow/non existent for each, it's wide but not deep.
 <details>
 <summary>Click for a detailed review</summary>
 
-#### Pros
+### Pros
 
 * Unit Tests
 * Lombok and a bit of documentation
@@ -216,6 +235,7 @@ And the duplication itself is not even satisfying, it does not feel like an achi
 </details>
 
 ## 5. Hohenheim by Tweep
+
 <https://github.com/TweepCoding/hohenheim>
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
@@ -228,6 +248,7 @@ And the duplication itself is not even satisfying, it does not feel like an achi
 ***The author has requested that their detailed review would not be shown publicly.***
 
 ## 6. BetterFarming by HAL989
+
 <https://github.com/Gavin296/betterfarming>
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
@@ -239,7 +260,7 @@ And the duplication itself is not even satisfying, it does not feel like an achi
 <details>
 <summary>Click for a detailed review</summary>
 
-#### Pros
+### Pros
 
 * There are some researches
 * Legend of Zelda?

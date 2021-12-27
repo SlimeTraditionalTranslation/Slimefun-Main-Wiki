@@ -1,3 +1,18 @@
+---
+title: "開發指南"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-other"
+weight: 20
+toc: true
+---
+
 Welcome to our Developer Guide!<br>
 This page is still under construction, as this is a huge topic and will most likely take a long time to complete.
 
@@ -19,17 +34,17 @@ You can also check out our [Javadocs](https://slimefun.github.io/javadocs/Slimef
 
 ## Table of Contents
 
-1. [Setting up your project](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(1-Project-Setup))
-2. [Creating a new addon](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(2-Creating-the-Addon))
-3. [Creating your first Item](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item))
+1. [Setting up your project](/docs/slimefun/developer-guide-1-project-setup)
+2. [Creating a new addon](/docs/slimefun/developer-guide-2-creating-the-addon)
+3. [Creating your first Item](/docs/slimefun/developer-guide-3-your-first-item)
 4. Adding features to your Item
-   - [Performing actions on right-clicking a block or an item](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(4a-Right-Clicks))
-   - [Making an item radioactive or wither-proof](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(4b-Radioactive-and-WitherProof))
-5. [Adding your own Research](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(5-Researches))
-6. [Custom heads](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(6-Custom-Heads))
-7. [Adding resources to the GEO Miner](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(7-GEO-Resources))
+   - [Performing actions on right-clicking a block or an item](/docs/slimefun/developer-guide-4a-right-clicks)
+   - [Making an item radioactive or wither-proof](/docs/slimefun/developer-guide-4b-radioactive-and-witherproof)
+5. [Adding your own Research](/docs/slimefun/developer-guide-5-researches)
+6. [Custom heads](/docs/slimefun/developer-guide-6-custom-heads)
+7. [Adding resources to the GEO Miner](/docs/slimefun/developer-guide-7-geo-resources)
 8. Creating electric machines
    - *Creating a simple input/output machine with recipes (soon)*
    - *Creating your own Generator (soon)*
 
-?. [Publishing your addon](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(Publishing))
+?. [Publishing your addon](/docs/slimefun/developer-guide-publishing)

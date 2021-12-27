@@ -1,3 +1,18 @@
+---
+title: "保護插件"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-other"
+weight: 30
+toc: true
+---
+
 Slimefun4 開箱即用的支持了很多保護插件.
 
 這樣做是為了防止玩家濫用Slimefun物品使其他人感到難過.

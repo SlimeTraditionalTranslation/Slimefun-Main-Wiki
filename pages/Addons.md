@@ -1,13 +1,20 @@
+---
+title: "附加"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-other"
+weight: 10
+toc: true
+---
+
 Want to spice up your Slimefun4-Server? Then you have come to the right place!<br>
 Here is a list of all Slimefun Addons (that we currently know of). You can install these addons to add even more content to your Slimefun-based Minecraft Servers!
-
-### Table of contents
-
-- [:star: Official Addons](#star-official-addons)
-- [:heart: Community Addons](#heart-community-addons)
-- [:gift: Third-Party Plugins](#gift-third-party-plugins)
-- [:trophy: Addon Jams](#trophy-addon-jams)
-- [:black_nib: Create your own addons!](#black_nib-create-your-own-addons)
 
 ## :star: Official Addons
 

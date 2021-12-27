@@ -1,3 +1,18 @@
+---
+title: "如何回報錯誤"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-main"
+weight: 60
+toc: false
+---
+
 Reporting bugs is crucial to this open-source project.<br>
 So please consider reporting bugs on our [Issue Tracker](https://github.com/Slimefun/Slimefun4/issues)
 

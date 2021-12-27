@@ -1,3 +1,18 @@
+---
+title: "安裝黏液科技"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-main"
+weight: 30
+toc: true
+---
+
 ## 先決條件
 
 要安裝黏液科技, 你需要使用Spigot或Paper伺服器核心 (最好是最新版本).<br>
@@ -53,7 +68,7 @@
 
 這是有關如何 [優化你的黏液科技伺服器](https://github.com/xMikux/Slimefun4/wiki/Server-Optimizations)
 
-# 附加插件
+## 附加插件
 
 如果你想安裝其他額外的附加, 請參考 [此頁面](https://github.com/xMikux/Slimefun4/wiki/Addons) 以查看與你的黏液科技版本兼容的所有附加插件.
 

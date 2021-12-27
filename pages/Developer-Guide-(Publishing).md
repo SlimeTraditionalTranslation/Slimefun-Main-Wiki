@@ -1,3 +1,18 @@
+---
+title: "Developer-Guide-(Publishing)"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-developer-guides"
+weight: 90
+toc: true
+---
+
 This is the **last part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
 
 ## Prerequisites
@@ -18,7 +33,7 @@ If you need help on choosing a license, check out [ChooseALicense.com](https://c
 In order to upload your project anywhere, you need to distribute the compiled `.jar` file of your addon.<br>
 If you chose to use Maven for your project (as we suggested in [Part 1](https://github.com/Slimefun/Wiki/blob/master/pages/Developer-Guide-(1-Project-Setup).md)), you can simply run the following command:
 
-```
+```console
 mvn clean package
 ```
 

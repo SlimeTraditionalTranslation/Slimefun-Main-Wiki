@@ -2,13 +2,13 @@
 title: "Addon-Jam-2020"
 description: ""
 lead: ""
-date: 2021-12-26T17:03:11+08:00
-lastmod: 2021-12-26T17:03:11+08:00
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
 draft: false
 images: []
 menu: 
   docs:
-    parent: "黏液科技"
+    parent: "sf-addons-jam"
 weight: 10
 toc: false
 ---
@@ -46,6 +46,7 @@ The scores are calculated by taking the average of all scores by all reviewers f
 6. [SlimeVoid by BigBadE](#6-SlimeVoid-by-BigBadE)
 
 ## 1. Endrex by nahkd
+
 <https://github.com/nahkd123/Endrex>
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
@@ -57,7 +58,7 @@ The scores are calculated by taking the average of all scores by all reviewers f
 <details>
 <summary>Click for a detailed review</summary>
 
-#### Pros
+### Pros
 
 * Very cool world-generation with awesome structures and loot chests
 * Very strong theme integration with Enderium, Dragon Scales and adding world-gen to the End
@@ -97,7 +98,7 @@ But internally it lacks quite a bit of work and isn't the most user-friendly too
 <details>
 <summary>Click for a detailed review</summary>
 
-#### Pros
+### Pros
 
 * Very interesting mechanics with lots of stuff to keep you occupied, even endgame items to work towards
 * Very cool machines that see their inspiration in Quantum Mechanics
@@ -123,6 +124,7 @@ The code does contain some rather bad practices though and the theme was mostly 
 </details>
 
 ## 3. New-Beginnings by Tweep
+
 <https://github.com/TweepCoding/New-Begginings>
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
@@ -134,7 +136,7 @@ The code does contain some rather bad practices though and the theme was mostly 
 <details>
 <summary>Click for a detailed review</summary>
 
-#### Pros
+### Pros
 
 * Lots of fun to play around with the items, especially the Panda Bazooka.
 * Quite a few items but none of them are boring or a waste of time
@@ -161,6 +163,7 @@ The Theme was incorporated somewhat good.
 </details>
 
 ## 4. End Combat by HAL989
+
 <https://github.com/Gavin296/end-combat>
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
@@ -172,7 +175,7 @@ The Theme was incorporated somewhat good.
 <details>
 <summary>Click for a detailed review</summary>
 
-#### Pros
+### Pros
 
 * Very cool concept of repairing tools
 * Nice ideas and items are fun to use
@@ -202,6 +205,7 @@ The code is mostly clean but contains a couple of bad practices and goes against
 </details>
 
 ## 5. EnderPanda by Panda
+
 <https://github.com/J3fftw1/EnderPanda>
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
@@ -215,7 +219,7 @@ The code is mostly clean but contains a couple of bad practices and goes against
 <details>
 <summary>Click for a detailed review</summary>
 
-#### Pros
+### Pros
 
 * Very clean code
 * Ideas are fun and quite a cool gimmick
@@ -241,6 +245,7 @@ It's good but small.
 </details>
 
 ## 6. SlimeVoid by BigBadE
+
 <https://github.com/BigBadE/SlimefunVoid>
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
@@ -254,7 +259,7 @@ It's good but small.
 <details>
 <summary>Click for a detailed review</summary>
 
-#### Pros
+### Pros
 
 * Very innovative ideas, quite a unique system
 * A new Research System that is definitely something new

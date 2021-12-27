@@ -1,3 +1,17 @@
+---
+title: "常見問題"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-main"
+weight: 50
+toc: true
+---
 
 此頁面將包含有關遊戲常見問題以及如何解決它們的資訊.<br>
 以下大多數情況都需要有不同程度權限的工作人員: 如果沒有, 請將此連結給有更高權限的人!
@@ -73,4 +87,4 @@ Or ask the authors of that plugin whether there is a way to toggle this behaviou
 ### How to fix this (Stage 2)
 
 A more drastic approach would be to switch over to a Mob-Stacking plugin that supports custom drops.<br>
-_At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)_
+_At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](/docs/slimefun/expanding-the-wiki)_

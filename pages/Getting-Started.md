@@ -1,3 +1,18 @@
+---
+title: "入門指南"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-main"
+weight: 40
+toc: true
+---
+
 If you have just started using Slimefun it may seem overwhelming or very complicated.
 You may not know where to start.
 If that sounds familiar then you have come to the right place!

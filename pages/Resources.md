@@ -1,3 +1,18 @@
+---
+title: "資源目錄"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-resources"
+weight: 10
+toc: false
+---
+
 The Resources category contains many natural and man-made resources which are used extensively in Slimefun recipes.
 
 ## Table of contents

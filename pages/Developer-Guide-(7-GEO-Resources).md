@@ -1,3 +1,18 @@
+---
+title: "Developer-Guide-(7-GEO-Resources)"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "sf-developer-guides"
+weight: 80
+toc: true
+---
+
 This is the **seventh Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).<br>
 If you haven't checked out the [sixth Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(6-Custom-Heads)), then please do that.
 
