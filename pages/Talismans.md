@@ -1,5 +1,5 @@
 ---
-title: "Talismans"
+title: "護符目錄"
 description: ""
 lead: ""
 date: 2021-12-27T00:00:00+08:00
@@ -8,8 +8,8 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "tbd"
-weight: 999
+    parent: "sf-talismans"
+weight: 10
 toc: false
 ---
 

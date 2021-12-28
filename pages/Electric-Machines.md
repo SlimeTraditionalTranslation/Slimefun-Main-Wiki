@@ -1,5 +1,5 @@
 ---
-title: "Electric-Machines"
+title: "電力與能源目錄"
 description: ""
 lead: ""
 date: 2021-12-27T00:00:00+08:00
@@ -8,8 +8,8 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "tbd"
-weight: 999
+    parent: "sf-energy-and-electricity"
+weight: 10
 toc: false
 ---
 
@@ -24,7 +24,7 @@ Electric machines are best used with a [Cargo Management System](/docs/slimefun/
 
 For more information on the individual items in this category, see the table of contents below.
 
-## Table of contents
+## 目錄
 
 ### Energy management
 

@@ -1,5 +1,5 @@
 ---
-title: "GPS"
+title: "GPS機械目錄"
 description: ""
 lead: ""
 date: 2021-12-27T00:00:00+08:00
@@ -8,14 +8,14 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "tbd"
-weight: 999
+    parent: "sf-gps"
+weight: 10
 toc: false
 ---
 
 The GPS category adds various electric and non-electric machines revolving around GPS network.
 
-## Table of contents
+## 目錄
 
 * [GPS Transmitter](/docs/slimefun/gps-transmitter)
 * [GPS Control Panel](/docs/slimefun/gps-control-panel)

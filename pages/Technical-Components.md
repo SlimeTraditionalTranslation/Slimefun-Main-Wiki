@@ -1,5 +1,5 @@
 ---
-title: "Technical-Components"
+title: "科技組件目錄"
 description: ""
 lead: ""
 date: 2021-12-27T00:00:00+08:00
@@ -8,14 +8,14 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "tbd"
-weight: 999
+    parent: "sf-technical-components"
+weight: 10
 toc: false
 ---
 
 The Technical Components category contains various items which can be used in the crafting and operation of numerous items and machines.
 
-## Table of contents
+## 目錄
 
 * [Basic Circuit Board](/docs/slimefun/circuit-boards)
 * [Advanced Circuit Board](/docs/slimefun/circuit-boards)

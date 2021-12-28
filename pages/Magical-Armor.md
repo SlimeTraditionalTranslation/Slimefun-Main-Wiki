@@ -1,5 +1,5 @@
 ---
-title: "魔法盔甲"
+title: "魔法盔甲目錄"
 description: ""
 lead: ""
 date: 2021-12-27T00:00:00+08:00

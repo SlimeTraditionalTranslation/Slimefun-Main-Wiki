@@ -1,5 +1,5 @@
 ---
-title: "Lumps"
+title: "魔法顆粒"
 description: ""
 lead: ""
 date: 2021-12-27T00:00:00+08:00
@@ -8,8 +8,8 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "tbd"
-weight: 999
+    parent: "sf-magical-items"
+weight: 20
 toc: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Technical-Gadgets"
+title: "科技工具目錄"
 description: ""
 lead: ""
 date: 2021-12-27T00:00:00+08:00
@@ -8,14 +8,14 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "tbd"
-weight: 999
+    parent: "sf-technical-gadgets"
+weight: 10
 toc: false
 ---
 
 The Technical Gadgets category has a variety of gadgets that are useful when playing Slimefun.  
 
-## Table of contents
+## 目錄
 
 * [Electric Jetpack - I](/docs/slimefun/jetpacks)
 * [Electric Jetpack - II](/docs/slimefun/jetpacks)

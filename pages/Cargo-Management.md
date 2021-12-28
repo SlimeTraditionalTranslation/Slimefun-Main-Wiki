@@ -1,5 +1,5 @@
 ---
-title: "Cargo-Management"
+title: "物流管理目錄"
 description: ""
 lead: ""
 date: 2021-12-27T00:00:00+08:00
@@ -8,8 +8,8 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "tbd"
-weight: 999
+    parent: "sf-cargo-management"
+weight: 10
 toc: false
 ---
 
@@ -25,7 +25,7 @@ Items in a cargo network are transported over a maximum of 16 separate channels,
 
 For more information on the specific items in this category, see the table of contents below.
 
-## Table of contents
+## 目錄
 
 * [Cargo Motor](/docs/slimefun/cargo-motor)
 * [Cargo Manager](/docs/slimefun/cargo-manager)
