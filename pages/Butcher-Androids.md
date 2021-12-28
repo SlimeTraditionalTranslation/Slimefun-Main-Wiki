@@ -17,7 +17,7 @@ An Android that specializes in killing hostile mobs or/and animals.
 
 ## Obtaining
 
-Butcher Androids can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+Butcher Androids can be crafted in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
 
 ## Usage
 
@@ -28,8 +28,8 @@ Butcher Androids can be programmed to kill:
 - Adult Animals
 - Animals
 
-This can also can be paired with an [EXP Collector](https://github.com/Slimefun/Slimefun4/wiki/EXP-Collector) for an automated EXP Farm.
-Androids need fuel in order to work, you have to fill them with the [Required Fuel](https://github.com/Slimefun/Slimefun4/wiki/Normal-Androids#power-source) before booting!
+This can also can be paired with an [EXP Collector](/docs/slimefun/exp-collector) for an automated EXP Farm.
+Androids need fuel in order to work, you have to fill them with the [Required Fuel](/docs/slimefun/normal-androids#power-source) before booting!
 
 ## Tiers
 

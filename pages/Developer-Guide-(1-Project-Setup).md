@@ -13,7 +13,7 @@ weight: 10
 toc: true
 ---
 
-This is the **first Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
+This is the **first Part** of our Developer Guide, you can find a full overview on our [main page](/docs/slimefun/developer-guide).
 
 ## 1. The necessary tools
 
@@ -267,4 +267,4 @@ Full example:
 
 **Note that your addon should still work on any development version released after the RC version you are building against. API changes are usually only done ater a new RC build has been released, so you can safely build against the RC version while still using the development versions of Slimefun for your server.**
 
-[**> Continue with Part 2**](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(2-Creating-the-Addon))
+[**> Continue with Part 2**](/docs/slimefun/developer-guide-(2-creating-the-addon))

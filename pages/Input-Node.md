@@ -13,11 +13,11 @@ weight: 999
 toc: false
 ---
 
-An Input Node is the component of a [cargo network](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management) which filters and distributes items to be received by [output nodes](https://github.com/Slimefun/Slimefun4/wiki/Output-Node) (or [advanced output nodes](https://github.com/Slimefun/Slimefun4/wiki/Advanced-Output-Node)).
+An Input Node is the component of a [cargo network](/docs/slimefun/cargo-management) which filters and distributes items to be received by [output nodes](/docs/slimefun/output-node) (or [advanced output nodes](/docs/slimefun/advanced-output-node)).
 
 ## Obtaining
 
-Input nodes can be crafted in groups of two in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+Input nodes can be crafted in groups of two in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
 
 ## Usage
 
@@ -25,7 +25,7 @@ Input nodes move items from the container on which they are placed into the netw
 
 ### Placement
 
-A cargo input node must be placed (shift-right click) onto a container or [machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines), and aligned within 6 blocks of a [cargo manager](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager) or a [connector](https://github.com/Slimefun/Slimefun4/wiki/Connector-Node) in range of one (no diagonals).
+A cargo input node must be placed (shift-right click) onto a container or [machine](/docs/slimefun/electric-machines), and aligned within 6 blocks of a [cargo manager](/docs/slimefun/cargo-manager) or a [connector](/docs/slimefun/connector-node) in range of one (no diagonals).
 
 ### Configuration
 

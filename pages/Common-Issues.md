@@ -17,11 +17,11 @@ toc: true
 
 以下大多數情況都需要有不同程度權限的工作人員: 如果沒有, 請將此連結給有更高權限的人!
 
-**WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](https://github.com/Slimefun/Slimefun4/wiki/How-to-report-bugs)**
+**WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](/docs/slimefun/how-to-report-bugs)**
 
 ## 漂浮文字
 
-有些Slimefun的物品會在放置時自動創建漂浮文字, 尤其是  [能量調節器](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) 和 [物流核心](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager).
+有些Slimefun的物品會在放置時自動創建漂浮文字, 尤其是  [能量調節器](/docs/slimefun/energy-regulator) 和 [物流核心](/docs/slimefun/cargo-manager).
 
 這些漂浮文字應在破壞機器時消失, 但有時可能出錯, 並留下一些不想消失的文字. 你要怎麼解決?
 
@@ -54,7 +54,7 @@ Simply follow the procedure to get rid of any ghost block and you should be gold
 
 If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block.
 
-This means a Slimefun item used to be placed there (usually an [android](https://github.com/Slimefun/Slimefun4/wiki/Androids) or a [cargo component](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management)) and its data was not correctly removed.
+This means a Slimefun item used to be placed there (usually an [android](/docs/slimefun/androids) or a [cargo component](/docs/slimefun/cargo-management)) and its data was not correctly removed.
 
 ### How to fix this (Isolated block)
 

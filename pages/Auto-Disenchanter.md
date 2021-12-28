@@ -13,7 +13,7 @@ weight: 999
 toc: false
 ---
 
-The Auto Disenchanter is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) can be used to disenchant enchanted tools and weapons.  
+The Auto Disenchanter is an [Electric Machine](/docs/slimefun/electric-machines) can be used to disenchant enchanted tools and weapons.  
 It will then put these enchantments on a book that you have to provide when you want to disenchant something.
 
 ## Auto Disenchanter Tiers
@@ -25,8 +25,8 @@ There is only one tier of the Auto Disenchanter and it has the following propert
 
 ## Tip
 
-Together with the [Auto Disenchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Disenchanter) you can use this to disenchant [Reinforced Armor](https://github.com/Slimefun/Slimefun4/wiki/Armor#reinforced-armor) to obtain Protection IX and Unbreaking IX books and put those on diamond or netherite gear.
+Together with the [Auto Disenchanter](/docs/slimefun/auto-disenchanter) you can use this to disenchant [Reinforced Armor](/docs/slimefun/armor#reinforced-armor) to obtain Protection IX and Unbreaking IX books and put those on diamond or netherite gear.
 
 ## See also
 
-[Auto Enchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter)
+[Auto Enchanter](/docs/slimefun/auto-enchanter)

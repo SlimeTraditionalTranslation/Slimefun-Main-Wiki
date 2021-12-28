@@ -13,8 +13,8 @@ weight: 999
 toc: false
 ---
 
-Buckets of Fuel are [Resources](https://github.com/Slimefun/Slimefun4/wiki/Resources) that can be used to fuel certain [Machines](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines).
+Buckets of Fuel are [Resources](/docs/slimefun/resources) that can be used to fuel certain [Machines](/docs/slimefun/electric-machines).
 
 ## Obtaining
 
-Buckets of Fuel can be refined from [Buckets of Oil](https://github.com/Slimefun/Slimefun4/wiki/Bucket-of-Oil) using a [Refinery](https://github.com/Slimefun/Slimefun4/wiki/Refinery).
+Buckets of Fuel can be refined from [Buckets of Oil](/docs/slimefun/bucket-of-oil) using a [Refinery](/docs/slimefun/refinery).

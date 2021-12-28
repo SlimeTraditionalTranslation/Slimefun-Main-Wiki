@@ -13,8 +13,8 @@ weight: 999
 toc: false
 ---
 
-Copper Wire is a [Technical Component](https://github.com/Slimefun/Slimefun4/wiki/Technical-Components) that can be used to craft a variety of other Technical Components.
+Copper Wire is a [Technical Component](/docs/slimefun/technical-components) that can be used to craft a variety of other Technical Components.
 
 ## Obtaining
 
-Copper Wire can be crafted in the [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table)
+Copper Wire can be crafted in the [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table)

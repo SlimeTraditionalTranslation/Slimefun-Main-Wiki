@@ -15,29 +15,29 @@ toc: false
 
 ## Obtaining
 
-Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery) yields one Ferrosilicon:
+Combining the following items in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Smeltery](/docs/slimefun/electric-smeltery) yields one Ferrosilicon:
 
-* 1 [Iron Ingot](https://github.com/Slimefun/Slimefun4/wiki/Iron-Ingot)
-* 1 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)
-* 1 [Silicon](https://github.com/Slimefun/Slimefun4/wiki/Silicon)
+* 1 [Iron Ingot](/docs/slimefun/iron-ingot)
+* 1 [Iron Dust](/docs/slimefun/iron-dust)
+* 1 [Silicon](/docs/slimefun/silicon)
 
 ### Total base material cost
 
-* 2 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)
+* 2 [Iron Dust](/docs/slimefun/iron-dust)
 * 1 Block of Quartz
 
 ## Usage
 
 ### In other alloys
 
-* [Redstone Alloy Ingot](https://github.com/Slimefun/Slimefun4/wiki/Redstone-Alloy-Ingot)
+* [Redstone Alloy Ingot](/docs/slimefun/redstone-alloy-ingot)
 
 ### Items
 
-* [Solar Panel](https://github.com/Slimefun/Slimefun4/wiki/Solar-Panel)
-* [Smelter's Pickaxe](https://github.com/Slimefun/Slimefun4/wiki/Smelter's-Pickaxe)
-* [Pickaxe of Containment](https://github.com/Slimefun/Slimefun4/wiki/Pickaxe-of-Containment)
-* [Hercules' Pickaxe](https://github.com/Slimefun/Slimefun4/wiki/Hercules'-Pickaxe)
-* [Explosive Pickaxe](https://github.com/Slimefun/Slimefun4/wiki/Explosive-Pickaxe)
-* [Explosive Shovel](https://github.com/Slimefun/Slimefun4/wiki/Explosive-Shovel)
-* [Pickaxe of the Seeker](https://github.com/Slimefun/Slimefun4/wiki/Pickaxe-of-the-Seeker)
+* [Solar Panel](/docs/slimefun/solar-panel)
+* [Smelter's Pickaxe](/docs/slimefun/smelter's-pickaxe)
+* [Pickaxe of Containment](/docs/slimefun/pickaxe-of-containment)
+* [Hercules' Pickaxe](/docs/slimefun/hercules'-pickaxe)
+* [Explosive Pickaxe](/docs/slimefun/explosive-pickaxe)
+* [Explosive Shovel](/docs/slimefun/explosive-shovel)
+* [Pickaxe of the Seeker](/docs/slimefun/pickaxe-of-the-seeker)

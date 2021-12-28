@@ -13,7 +13,7 @@ weight: 999
 toc: false
 ---
 
-The Nether Gold Pan is an item in the [Tools](https://github.com/Slimefun/Slimefun4/wiki/Tools) category.
+The Nether Gold Pan is an item in the [Tools](/docs/slimefun/tools) category.
 
 ## How to use the Nether Gold Pan
 
@@ -36,10 +36,10 @@ Each item you can get with a Nether Gold Pan has a different probability to drop
 
 ## Automating your Nether Gold Pan
 
-If you prefer to feed your Soul Sand to a machine, check out the [Automated Panning Machine](https://github.com/Slimefun/Slimefun4/wiki/Automated-Panning-Machine).
+If you prefer to feed your Soul Sand to a machine, check out the [Automated Panning Machine](/docs/slimefun/automated-panning-machine).
 
-If you have electricity, you may also be interested in the [Electric Gold Pan](https://github.com/Slimefun/Slimefun4/wiki/Electric-Gold-Pan).
+If you have electricity, you may also be interested in the [Electric Gold Pan](/docs/slimefun/electric-gold-pan).
 
 ## See also
 
-* [Gold Pan](https://github.com/Slimefun/Slimefun4/wiki/Gold-Pan)
+* [Gold Pan](/docs/slimefun/gold-pan)

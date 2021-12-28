@@ -13,7 +13,7 @@ weight: 999
 toc: false
 ---
 
-The Charging Bench is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which can be used to charge items like bacpacks.
+The Charging Bench is an [Electric Machine](/docs/slimefun/electric-machines) which can be used to charge items like bacpacks.
 
 ## Tiers
 

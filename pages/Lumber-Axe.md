@@ -13,13 +13,13 @@ weight: 999
 toc: false
 ---
 
-The Lumber Axe is a [tool](https://github.com/Slimefun/Slimefun4/wiki/Tools) added in Slimefun.
+The Lumber Axe is a [tool](/docs/slimefun/tools) added in Slimefun.
 
 It is a Diamond Axe which allows you to cut down entire trees at once.
 
 ## Obtaining
 
-The Lumber Axe can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench).
+The Lumber Axe can be crafted in a [Magic Workbench](/docs/slimefun/magic-workbench).
 
 ## Usage
 

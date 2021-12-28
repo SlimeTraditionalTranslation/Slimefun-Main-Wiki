@@ -13,9 +13,9 @@ weight: 40
 toc: true
 ---
 
-This is the **fourth Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
+This is the **fourth Part** of our Developer Guide, you can find a full overview on our [main page](/docs/slimefun/developer-guide).
 
-If you haven't checked out the [third Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item)), then please do that.
+If you haven't checked out the [third Part of this Guide](/docs/slimefun/developer-guide-(3-your-first-item)), then please do that.
 
 *The fourth part is divided into two sections, this is Section a*.
 
@@ -49,7 +49,7 @@ sfItem.register(this);
 ```
 
 <!--TODO: a more detailed guide on compiling and testing-->
-Now, you can compile your addon and test it ingame. See [Publishing](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(Publishing)) for details.
+Now, you can compile your addon and test it ingame. See [Publishing](/docs/slimefun/developer-guide-(publishing)) for details.
 
 As you can see our Slimefunitem can already be seen and crafted ingame.
 
@@ -376,4 +376,4 @@ If you have any questions, feel free to hop on discord and ask them in `#program
 
 I hope this was helpful to you and I expect to see lots of awesome addons very soon!
 
-[**> Continue with Part 4b**](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(4b-Radioactive-and-WitherProof))
+[**> Continue with Part 4b**](/docs/slimefun/developer-guide-(4b-radioactive-and-witherproof))

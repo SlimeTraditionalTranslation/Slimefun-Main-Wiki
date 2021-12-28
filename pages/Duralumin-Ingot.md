@@ -15,28 +15,28 @@ toc: false
 
 ## Obtaining
 
-Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery) yields one Duralumin Ingot:
+Combining the following items in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Smeltery](/docs/slimefun/electric-smeltery) yields one Duralumin Ingot:
 
-* 1 [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust)
-* 1 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
-* 1 [Aluminum Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Ingot)
+* 1 [Aluminum Dust](/docs/slimefun/aluminum-dust)
+* 1 [Copper Dust](/docs/slimefun/copper-dust)
+* 1 [Aluminum Ingot](/docs/slimefun/aluminum-ingot)
 
 ### Total base material cost
 
-* 2 [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust)
-* 1 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
+* 2 [Aluminum Dust](/docs/slimefun/aluminum-dust)
+* 1 [Copper Dust](/docs/slimefun/copper-dust)
 
 ## Usage
 
 ### In other alloys
 
-* [Hardened Metal](https://github.com/Slimefun/Slimefun4/wiki/Hardened-Metal)
+* [Hardened Metal](/docs/slimefun/hardened-metal)
 
 ### Items
 
-* [Small Energy Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
-* [Electric Gold Pan II](https://github.com/Slimefun/Slimefun4/wiki/Electric-Gold-Pan)
-* [Magnesium-powered Generator](https://github.com/Slimefun/Slimefun4/wiki/Magnesium-powered-Generator)
-* [Duralumin Jetpack](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
-* [Duralumin Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
-* [Duralumin Multi Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
+* [Small Energy Capacitor](/docs/slimefun/energy-capacitors)
+* [Electric Gold Pan II](/docs/slimefun/electric-gold-pan)
+* [Magnesium-powered Generator](/docs/slimefun/magnesium-powered-generator)
+* [Duralumin Jetpack](/docs/slimefun/jetpacks)
+* [Duralumin Jet Boots](/docs/slimefun/jet-boots)
+* [Duralumin Multi Tool](/docs/slimefun/multi-tools)

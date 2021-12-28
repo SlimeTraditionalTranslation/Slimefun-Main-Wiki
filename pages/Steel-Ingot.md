@@ -15,35 +15,35 @@ toc: false
 
 ## Obtaining
 
-Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery) yields one Steel Ingot:
+Combining the following items in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Smeltery](/docs/slimefun/electric-smeltery) yields one Steel Ingot:
 
-* 1 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)
-* 1 [Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbon)
-* 1 [Iron Ingot](https://github.com/Slimefun/Slimefun4/wiki/Iron-Ingot)
+* 1 [Iron Dust](/docs/slimefun/iron-dust)
+* 1 [Carbon](/docs/slimefun/carbon)
+* 1 [Iron Ingot](/docs/slimefun/iron-ingot)
 
 ### Total base material cost
 
-* 2 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)
+* 2 [Iron Dust](/docs/slimefun/iron-dust)
 * 9 Coal
 
 ## Usage
 
 ### In other alloys
 
-* [Damascus Steel Ingot](https://github.com/Slimefun/Slimefun4/wiki/Damascus-Steel-Ingot)
+* [Damascus Steel Ingot](/docs/slimefun/damascus-steel-ingot)
 
 ### Items
 
-* [Steel Jetpack](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
-* [Steel Multi Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
-* [Steel Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
-* [Steel Plate](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items)
-* [Enhanced Furnace (Tier I-XI)](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Furnaces)
-* [Big Energy Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
-* [Electric Furnace III](https://github.com/Slimefun/Slimefun4/wiki/Electric-Furnace)
-* [GPS Transmitter](https://github.com/Slimefun/Slimefun4/wiki/GPS-Transmitter)
-* [GPS Geo Scanner](https://github.com/Slimefun/Slimefun4/wiki/GPS-Geo-Scanner)
-* [Portable Geo Scanner](https://github.com/Slimefun/Slimefun4/wiki/Portable-Geo-Scanner)
-* [Combustion Reactor](https://github.com/Slimefun/Slimefun4/wiki/Combustion-Reactor)
-* [Chain](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items)
-* [Hook](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items)
+* [Steel Jetpack](/docs/slimefun/jetpacks)
+* [Steel Multi Tool](/docs/slimefun/multi-tools)
+* [Steel Jet Boots](/docs/slimefun/jet-boots)
+* [Steel Plate](/docs/slimefun/miscellaneous-items)
+* [Enhanced Furnace (Tier I-XI)](/docs/slimefun/enhanced-furnaces)
+* [Big Energy Capacitor](/docs/slimefun/energy-capacitors)
+* [Electric Furnace III](/docs/slimefun/electric-furnace)
+* [GPS Transmitter](/docs/slimefun/gps-transmitter)
+* [GPS Geo Scanner](/docs/slimefun/gps-geo-scanner)
+* [Portable Geo Scanner](/docs/slimefun/portable-geo-scanner)
+* [Combustion Reactor](/docs/slimefun/combustion-reactor)
+* [Chain](/docs/slimefun/miscellaneous-items)
+* [Hook](/docs/slimefun/miscellaneous-items)

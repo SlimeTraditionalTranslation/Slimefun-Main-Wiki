@@ -13,7 +13,7 @@ weight: 999
 toc: false
 ---
 
-The Refinery is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which can be used to convert [Buckets of Oil](https://github.com/Slimefun/Slimefun4/wiki/Bucket-of-Oil) into [Buckets of Fuel](https://github.com/Slimefun/Slimefun4/wiki/Bucket-of-Fuel).  
+The Refinery is an [Electric Machine](/docs/slimefun/electric-machines) which can be used to convert [Buckets of Oil](/docs/slimefun/bucket-of-oil) into [Buckets of Fuel](/docs/slimefun/bucket-of-fuel).  
 It takes 40 seconds to convert one Bucket of Oil. It has no other uses.
 
 ## Tiers

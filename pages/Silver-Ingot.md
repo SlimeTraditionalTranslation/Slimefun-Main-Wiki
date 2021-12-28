@@ -15,17 +15,17 @@ toc: false
 
 ## Obtaining
 
-Smelting one [Silver Dust](https://github.com/Slimefun/Slimefun4/wiki/Silver-Dust) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory) yields one Silver Ingot.
+Smelting one [Silver Dust](/docs/slimefun/silver-dust) in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Ingot Factory](/docs/slimefun/electric-ingot-factory) yields one Silver Ingot.
 
-Silver Ingots can be turned back to [Silver Dust](https://github.com/Slimefun/Slimefun4/wiki/Silver-Dust) by an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer)
+Silver Ingots can be turned back to [Silver Dust](/docs/slimefun/silver-dust) by an [Electric Ingot Pulverizer](/docs/slimefun/electric-ingot-pulverizer)
 
 ## Usage
 
 Silver Ingots are used in the following recipes:
 
-* [Billon Ingot](https://github.com/Slimefun/Slimefun4/wiki/Billon-Ingot)
-* [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator)
-* [Food Fabricator](https://github.com/Slimefun/Slimefun4/wiki/Food-Fabricator)
-* [Freezer](https://github.com/Slimefun/Slimefun4/wiki/Freezer)
-* [Cargo Motor](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Motor)
-* [Cargo Node (Connector)](https://github.com/Slimefun/Slimefun4/wiki/Connector-Node)
+* [Billon Ingot](/docs/slimefun/billon-ingot)
+* [Energy Regulator](/docs/slimefun/energy-regulator)
+* [Food Fabricator](/docs/slimefun/food-fabricator)
+* [Freezer](/docs/slimefun/freezer)
+* [Cargo Motor](/docs/slimefun/cargo-motor)
+* [Cargo Node (Connector)](/docs/slimefun/connector-node)

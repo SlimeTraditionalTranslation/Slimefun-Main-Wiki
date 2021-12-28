@@ -13,14 +13,14 @@ weight: 999
 toc: false
 ---
 
-The Hercules' Pickaxe is an item in the [tools](https://github.com/Slimefun/Slimefun4/wiki/Tools) category.
+The Hercules' Pickaxe is an item in the [tools](/docs/slimefun/tools) category.
 
 ## Obtaining
 
-The Hercules' Pickaxe can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench).
+The Hercules' Pickaxe can be crafted in a [Magic Workbench](/docs/slimefun/magic-workbench).
 
 ## Usage
 
-This tool is similar in function to an [Ore Crusher](https://github.com/Slimefun/Slimefun4/wiki/Ore-Crusher) or an [Electric Ore Grinder](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ore-Grinder): it crushes iron ore mined with it into [iron dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust), and gold ore into [gold dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust).
+This tool is similar in function to an [Ore Crusher](/docs/slimefun/ore-crusher) or an [Electric Ore Grinder](/docs/slimefun/electric-ore-grinder): it crushes iron ore mined with it into [iron dust](/docs/slimefun/iron-dust), and gold ore into [gold dust](/docs/slimefun/gold-dust).
 
 It also doubles the resources dropped from other ores.

@@ -13,7 +13,7 @@ weight: 999
 toc: false
 ---
 
-The Carbon Press is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which can be used to craft all [Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbon)-like items.
+The Carbon Press is an [Electric Machine](/docs/slimefun/electric-machines) which can be used to craft all [Carbon](/docs/slimefun/carbon)-like items.
 
 ## Carbon Press Tiers
 

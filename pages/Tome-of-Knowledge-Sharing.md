@@ -13,11 +13,11 @@ weight: 999
 toc: false
 ---
 
-The Tome of Knowledge Sharing is part of the [Magical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Magical-Gadgets) category.  
+The Tome of Knowledge Sharing is part of the [Magical Gadgets](/docs/slimefun/magical-gadgets) category.  
 
 ## Obtaining
 
-This item can be crafted in the [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench).
+This item can be crafted in the [Magic Workbench](/docs/slimefun/magic-workbench).
 
 ## Usage
 

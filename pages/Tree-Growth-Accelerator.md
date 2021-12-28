@@ -13,7 +13,7 @@ weight: 999
 toc: false
 ---
 
-The Tree Growth Accelerator is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which can be used to speed up the growth of nearby trees.  
+The Tree Growth Accelerator is an [Electric Machine](/docs/slimefun/electric-machines) which can be used to speed up the growth of nearby trees.  
 It's an End-Game machine but it can be useful for tree farms.
 
 ## Tiers

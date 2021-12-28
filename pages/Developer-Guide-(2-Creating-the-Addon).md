@@ -13,9 +13,9 @@ weight: 20
 toc: true
 ---
 
-This is the **second Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
+This is the **second Part** of our Developer Guide, you can find a full overview on our [main page](/docs/slimefun/developer-guide).
 
-If you haven't checked out the [first Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(1-Project-Setup)), then please do that.
+If you haven't checked out the [first Part of this Guide](/docs/slimefun/developer-guide-(1-project-setup)), then please do that.
 
 ## 1. Your main class
 
@@ -113,4 +113,4 @@ You can use your Config to set up values that Server Owners should be able to co
 
 You will need to import each external class you will use.
 
-[**> Continue with Part 3**](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item))
+[**> Continue with Part 3**](/docs/slimefun/developer-guide-(3-your-first-item))

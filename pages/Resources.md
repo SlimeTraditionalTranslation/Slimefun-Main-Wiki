@@ -17,38 +17,38 @@ The Resources category contains many natural and man-made resources which are us
 
 ## Table of contents
 
-### [Dusts](https://github.com/Slimefun/Slimefun4/wiki/Dusts)
+### [Dusts](/docs/slimefun/dusts)
 
-### [Ingots](https://github.com/Slimefun/Slimefun4/wiki/Ingots)
+### [Ingots](/docs/slimefun/ingots)
 
 ### Crystals
 
-* [Synthetic Sapphire](https://github.com/Slimefun/Slimefun4/wiki/Synthetic-Sapphire)
-* [Synthetic Emerald](https://github.com/Slimefun/Slimefun4/wiki/Synthetic-Emerald)
-* [Synthetic Diamond](https://github.com/Slimefun/Slimefun4/wiki/Synthetic-Diamond)
-* [Raw Carbonado](https://github.com/Slimefun/Slimefun4/wiki/Carbonado)
-* [Carbonado](https://github.com/Slimefun/Slimefun4/wiki/Carbonado)
+* [Synthetic Sapphire](/docs/slimefun/synthetic-sapphire)
+* [Synthetic Emerald](/docs/slimefun/synthetic-emerald)
+* [Synthetic Diamond](/docs/slimefun/synthetic-diamond)
+* [Raw Carbonado](/docs/slimefun/carbonado)
+* [Carbonado](/docs/slimefun/carbonado)
 
 ### Elements and compounds
 
-* [Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbon)
-* [Compressed Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbon)
-* [Carbon Chunk](https://github.com/Slimefun/Slimefun4/wiki/Carbon)
-* [Magnesium Salt](https://github.com/Slimefun/Slimefun4/wiki/Magnesium-Salt)
-* [Sulfate](https://github.com/Slimefun/Slimefun4/wiki/Sulfate)
-* [Silicon](https://github.com/Slimefun/Slimefun4/wiki/Silicon)
+* [Carbon](/docs/slimefun/carbon)
+* [Compressed Carbon](/docs/slimefun/carbon)
+* [Carbon Chunk](/docs/slimefun/carbon)
+* [Magnesium Salt](/docs/slimefun/magnesium-salt)
+* [Sulfate](/docs/slimefun/sulfate)
+* [Silicon](/docs/slimefun/silicon)
 
 ### Fuel
 
-* [Bucket of Oil](https://github.com/Slimefun/Slimefun4/wiki/Bucket-of-Oil)
-* [Bucket of Fuel](https://github.com/Slimefun/Slimefun4/wiki/Bucket-of-Fuel)
+* [Bucket of Oil](/docs/slimefun/bucket-of-oil)
+* [Bucket of Fuel](/docs/slimefun/bucket-of-fuel)
 
-### [Radioactive](https://github.com/Slimefun/Slimefun4/wiki/Radiation) materials
+### [Radioactive](/docs/slimefun/radiation) materials
 
-* [Blistering Ingot](https://github.com/Slimefun/Slimefun4/wiki/Blistering-Ingot)
-* [Uranium](https://github.com/Slimefun/Slimefun4/wiki/Uranium)
-* [Neptunium](https://github.com/Slimefun/Slimefun4/wiki/Neptunium)
-* [Plutonium](https://github.com/Slimefun/Slimefun4/wiki/Plutonium)
-* [Boosted Uranium](https://github.com/Slimefun/Slimefun4/wiki/Boosted-Uranium)
-* [Nether Ice](https://github.com/Slimefun/Slimefun4/wiki/Nether-Ice)
-* [Enriched Nether Ice](https://github.com/Slimefun/Slimefun4/wiki/Enriched-Nether-Ice)
+* [Blistering Ingot](/docs/slimefun/blistering-ingot)
+* [Uranium](/docs/slimefun/uranium)
+* [Neptunium](/docs/slimefun/neptunium)
+* [Plutonium](/docs/slimefun/plutonium)
+* [Boosted Uranium](/docs/slimefun/boosted-uranium)
+* [Nether Ice](/docs/slimefun/nether-ice)
+* [Enriched Nether Ice](/docs/slimefun/enriched-nether-ice)

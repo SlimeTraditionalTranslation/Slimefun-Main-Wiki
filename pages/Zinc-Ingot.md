@@ -15,13 +15,13 @@ toc: false
 
 ## Obtaining
 
-Smelting one [Zinc Dust](https://github.com/Slimefun/Slimefun4/wiki/Zinc-Dust) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory) yields one Zinc Ingot.
+Smelting one [Zinc Dust](/docs/slimefun/zinc-dust) in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Ingot Factory](/docs/slimefun/electric-ingot-factory) yields one Zinc Ingot.
 
-Zinc Ingots can be turned back to [Zinc Dust](https://github.com/Slimefun/Slimefun4/wiki/Zinc-Dust) by an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer)
+Zinc Ingots can be turned back to [Zinc Dust](/docs/slimefun/zinc-dust) by an [Electric Ingot Pulverizer](/docs/slimefun/electric-ingot-pulverizer)
 
 ## Usage
 
 Zinc Ingots are used in the following recipes:
 
-* [Battery](https://github.com/Slimefun/Slimefun4/wiki/Battery)
-* [GPS Teleporter Pylon](https://github.com/Slimefun/Slimefun4/wiki/GPS-Teleporter-Pylon)
+* [Battery](/docs/slimefun/battery)
+* [GPS Teleporter Pylon](/docs/slimefun/gps-teleporter-pylon)

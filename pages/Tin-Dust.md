@@ -13,17 +13,17 @@ weight: 999
 toc: false
 ---
 
-Tin Dust is one of the nine [dusts](https://github.com/Slimefun/Slimefun4/wiki/Dusts) added in Slimefun.
+Tin Dust is one of the nine [dusts](/docs/slimefun/dusts) added in Slimefun.
 
 ## Obtaining
 
-Tin Dust has a ~11.11% chance of being extracted from [Sifted Ore](https://github.com/Slimefun/Slimefun4/wiki/Sifted-Ore), by processing it through an [Ore Washer](https://github.com/Slimefun/Slimefun4/wiki/Ore-Washer) or an [Electric Dust Washer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Dust-Washer).
+Tin Dust has a ~11.11% chance of being extracted from [Sifted Ore](/docs/slimefun/sifted-ore), by processing it through an [Ore Washer](/docs/slimefun/ore-washer) or an [Electric Dust Washer](/docs/slimefun/electric-dust-washer).
 
 ## Usage
 
-Tin Dust can be smelted into [Tin Ingots](https://github.com/Slimefun/Slimefun4/wiki/Tin-Ingot) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory).
+Tin Dust can be smelted into [Tin Ingots](/docs/slimefun/tin-ingot) in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Ingot Factory](/docs/slimefun/electric-ingot-factory).
 
-It is also used in the following [alloys](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Alloys) for the [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or the [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery):
+It is also used in the following [alloys](/docs/slimefun/ingots#alloys) for the [Smeltery](/docs/slimefun/smeltery) or the [Electric Smeltery](/docs/slimefun/electric-smeltery):
 
-* [Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Bronze-Ingot)
-* [Solder Ingot](https://github.com/Slimefun/Slimefun4/wiki/Solder-Ingot)
+* [Bronze Ingot](/docs/slimefun/bronze-ingot)
+* [Solder Ingot](/docs/slimefun/solder-ingot)

@@ -13,9 +13,9 @@ weight: 999
 toc: false
 ---
 
-The Crop Growth Accelerator is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which accelerates the growth speed of your crops.  
+The Crop Growth Accelerator is an [Electric Machine](/docs/slimefun/electric-machines) which accelerates the growth speed of your crops.  
 
-It runs on [Organic Fertilizer](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items) which is made in the [Food Composter](https://github.com/Slimefun/Slimefun4/wiki/Food-Composter).
+It runs on [Organic Fertilizer](/docs/slimefun/miscellaneous-items) which is made in the [Food Composter](/docs/slimefun/food-composter).
 
 ## Crop Growth Accelerator Tiers
 

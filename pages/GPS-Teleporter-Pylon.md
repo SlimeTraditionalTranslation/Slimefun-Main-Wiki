@@ -13,12 +13,12 @@ weight: 999
 toc: false
 ---
 
-The GPS Teleporter Pylon is a block added in the [GPS](https://github.com/Slimefun/Slimefun4/wiki/GPS) category.
+The GPS Teleporter Pylon is a block added in the [GPS](/docs/slimefun/gps) category.
 
 ## Obtaining
 
-The GPS Teleporter Pylon can be crafted in groups of eight in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+The GPS Teleporter Pylon can be crafted in groups of eight in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
 
 ## Usage
 
-The GPS Teleporter Pylon is a component of a [Teleporter](https://github.com/Slimefun/Slimefun4/wiki/Teleporter).
+The GPS Teleporter Pylon is a component of a [Teleporter](/docs/slimefun/teleporter).

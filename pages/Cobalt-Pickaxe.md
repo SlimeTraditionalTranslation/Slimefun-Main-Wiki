@@ -13,6 +13,6 @@ weight: 999
 toc: false
 ---
 
-The Cobalt Pickaxe is an item in the [tools](https://github.com/Slimefun/Slimefun4/wiki/Tools) category.
+The Cobalt Pickaxe is an item in the [tools](/docs/slimefun/tools) category.
 
 It is an Iron Pickaxe enchanted with Efficiency VI and Unbreaking X.

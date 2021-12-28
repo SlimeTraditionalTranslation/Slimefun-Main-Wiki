@@ -13,9 +13,9 @@ weight: 999
 toc: false
 ---
 
-The Heated Pressure Chamber is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which is used for a few specific end-game recipes.
+The Heated Pressure Chamber is an [Electric Machine](/docs/slimefun/electric-machines) which is used for a few specific end-game recipes.
 
-It is a more robust and more powerful version of the [Pressure Chamber](https://github.com/Slimefun/Slimefun4/wiki/Pressure-Chamber).
+It is a more robust and more powerful version of the [Pressure Chamber](/docs/slimefun/pressure-chamber).
 
 ## Heated Pressure Chamber Tiers
 

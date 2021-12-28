@@ -13,9 +13,9 @@ weight: 999
 toc: false
 ---
 
-Juices are [Food](https://github.com/Slimefun/Slimefun4/wiki/Food) items added by Slimefun.
+Juices are [Food](/docs/slimefun/food) items added by Slimefun.
 
-You can obtain Juices by processing the corresponding Fruit/Vegetable in a [Juicer](https://github.com/Slimefun/Slimefun4/wiki/Juicer).
+You can obtain Juices by processing the corresponding Fruit/Vegetable in a [Juicer](/docs/slimefun/juicer).
 
 ## List of Juices
 

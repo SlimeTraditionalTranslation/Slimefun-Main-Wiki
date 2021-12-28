@@ -13,8 +13,8 @@ weight: 999
 toc: false
 ---
 
-The EXP-Collector is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which can be used to collect exp.  
-It stores the exp in [Flasks of Knowledge](https://github.com/Slimefun/Slimefun4/wiki/Flask-of-Knowledge).
+The EXP-Collector is an [Electric Machine](/docs/slimefun/electric-machines) which can be used to collect exp.  
+It stores the exp in [Flasks of Knowledge](/docs/slimefun/flask-of-knowledge).
 
 ## EXP-Collector Tiers
 

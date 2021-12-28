@@ -13,7 +13,7 @@ weight: 999
 toc: false
 ---
 
-Talismans are items which grant you special effects while in your possession. They can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench).
+Talismans are items which grant you special effects while in your possession. They can be crafted in a [Magic Workbench](/docs/slimefun/magic-workbench).
 
 Tier I Talismans only work while you carry them in your inventory, while Tier II (Ender) Talismans can work from inside your Ender Chest.
 

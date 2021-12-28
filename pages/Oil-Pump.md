@@ -13,15 +13,15 @@ weight: 999
 toc: false
 ---
 
-The Oil Pump is a placeable machine added in the [GPS](https://github.com/Slimefun/Slimefun4/wiki/GPS) category.
+The Oil Pump is a placeable machine added in the [GPS](/docs/slimefun/gps) category.
 
 ## Obtaining
 
-The Oil Pump can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+The Oil Pump can be crafted in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
 
 ## Usage
 
-The Oil Pump requires chunk to be scanned using a [GPS Geo-Scanner](https://github.com/Slimefun/Slimefun4/wiki/GPS-Geo-Scanner) or a [Portable Geo-Scanner](https://github.com/Slimefun/Slimefun4/wiki/Portable-Geo-Scanner).
+The Oil Pump requires chunk to be scanned using a [GPS Geo-Scanner](/docs/slimefun/gps-geo-scanner) or a [Portable Geo-Scanner](/docs/slimefun/portable-geo-scanner).
 </br> Oil Pump also requires electricity.
 
-The Oil Pump is used to mine [Oil](https://github.com/Slimefun/Slimefun4/wiki/Bucket-of-Oil).
+The Oil Pump is used to mine [Oil](/docs/slimefun/bucket-of-oil).

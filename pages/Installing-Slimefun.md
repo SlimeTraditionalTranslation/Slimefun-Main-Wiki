@@ -68,11 +68,11 @@ toc: true
 
 ### 伺服器優化
 
-這是有關如何 [優化你的黏液科技伺服器](https://github.com/xMikux/Slimefun4/wiki/Server-Optimizations)
+這是有關如何 [優化你的黏液科技伺服器](/docs/slimefun/server-optimizations)
 
 ## 附加插件
 
-如果你想安裝其他額外的附加, 請參考 [此頁面](https://github.com/xMikux/Slimefun4/wiki/Addons) 以查看與你的黏液科技版本兼容的所有附加插件.
+如果你想安裝其他額外的附加, 請參考 [此頁面](/docs/slimefun/addons) 以查看與你的黏液科技版本兼容的所有附加插件.
 
 這些附加插件需要黏液科技本體, 並將它放在 /plugins 資料夾中, 它將會創建自己的獨立資料夾.
 這些插件的配置也應該非常簡單.

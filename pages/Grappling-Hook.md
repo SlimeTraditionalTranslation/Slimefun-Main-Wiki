@@ -13,11 +13,11 @@ weight: 999
 toc: false
 ---
 
-The Grappling Hook is a useful [tool](https://github.com/Slimefun/Slimefun4/wiki/Tools) which provides great mobility, allowing you to access otherwise hard-to-reach places.
+The Grappling Hook is a useful [tool](/docs/slimefun/tools) which provides great mobility, allowing you to access otherwise hard-to-reach places.
 
 ## Obtaining
 
-The Grappling Hook can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+The Grappling Hook can be crafted in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
 
 ## Usage
 

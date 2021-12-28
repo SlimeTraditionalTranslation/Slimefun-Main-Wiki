@@ -18,7 +18,7 @@ These items do not have special properties on their own, so underneath you'll fi
 
 ## Table of contents
 
-* [Sifted Ore](https://github.com/Slimefun/Slimefun4/wiki/Sifted-Ore)
+* [Sifted Ore](/docs/slimefun/sifted-ore)
 * Wheat Flour
 * Steel Plate
 * Chain

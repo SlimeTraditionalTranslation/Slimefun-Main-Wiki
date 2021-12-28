@@ -14,7 +14,7 @@ toc: false
 ---
 
 這是黏液科技的所有權限節點.
-它們大多數都用於指令, 因此確保你也看過[指令](https://github.com/xMikux/Slimefun4/wiki/Commands)的維基頁面.
+它們大多數都用於指令, 因此確保你也看過[指令](/docs/slimefun/commands)的維基頁面.
 
 ## 指令的權限
 

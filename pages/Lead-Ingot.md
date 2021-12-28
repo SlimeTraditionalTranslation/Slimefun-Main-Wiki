@@ -15,28 +15,28 @@ toc: false
 
 ## Obtaining
 
-Smelting one [Lead Dust](https://github.com/Slimefun/Slimefun4/wiki/Lead-Dust) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory) yields one Lead Ingot.
+Smelting one [Lead Dust](/docs/slimefun/lead-dust) in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Ingot Factory](/docs/slimefun/electric-ingot-factory) yields one Lead Ingot.
 
-Lead Ingots can be turned back to [Lead Dust](https://github.com/Slimefun/Slimefun4/wiki/Lead-Dust) by an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer)
+Lead Ingots can be turned back to [Lead Dust](/docs/slimefun/lead-dust) by an [Electric Ingot Pulverizer](/docs/slimefun/electric-ingot-pulverizer)
 
 ## Usage
 
-Lead Ingots are used in the following [alloys](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Alloys) for the [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or the [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery):
+Lead Ingots are used in the following [alloys](/docs/slimefun/ingots#alloys) for the [Smeltery](/docs/slimefun/smeltery) or the [Electric Smeltery](/docs/slimefun/electric-smeltery):
 
-* [Solder Ingot](https://github.com/Slimefun/Slimefun4/wiki/Solder-Ingot)
-* [Aluminum Brass Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Brass-Ingot)
-* [Aluminum Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Bronze-Ingot)
+* [Solder Ingot](/docs/slimefun/solder-ingot)
+* [Aluminum Brass Ingot](/docs/slimefun/aluminum-brass-ingot)
+* [Aluminum Bronze Ingot](/docs/slimefun/aluminum-bronze-ingot)
 
 It is used in the following recipes:
 
-* [Trash Can](https://github.com/Slimefun/Slimefun4/wiki/Trash-Can)
-* [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/Output-Chest)
-* [Wither-Proof Glass](https://github.com/Slimefun/Slimefun4/wiki/Wither-Proof-Blocks)
-* [Wither-Proof Obsidian](https://github.com/Slimefun/Slimefun4/wiki/Wither-Proof-Blocks)
-* [Electrified Crucible](https://github.com/Slimefun/Slimefun4/wiki/Electrified-Crucible)
-* [Heated Pressure Chamber](https://github.com/Slimefun/Slimefun4/wiki/Heated-Pressure-Chamber)
-* [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer)
-* [Auto-Breeder](https://github.com/Slimefun/Slimefun4/wiki/Auto-Breeder)
-* [GPS Activation Device (Personal)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device)
-* [Nuclear Reactor](https://github.com/Slimefun/Slimefun4/wiki/Reactors)
-* [Reactor Access Port](https://github.com/Slimefun/Slimefun4/wiki/Reactors)
+* [Trash Can](/docs/slimefun/trash-can)
+* [Output Chest](/docs/slimefun/output-chest)
+* [Wither-Proof Glass](/docs/slimefun/wither-proof-blocks)
+* [Wither-Proof Obsidian](/docs/slimefun/wither-proof-blocks)
+* [Electrified Crucible](/docs/slimefun/electrified-crucible)
+* [Heated Pressure Chamber](/docs/slimefun/heated-pressure-chamber)
+* [Electric Ingot Pulverizer](/docs/slimefun/electric-ingot-pulverizer)
+* [Auto-Breeder](/docs/slimefun/auto-breeder)
+* [GPS Activation Device (Personal)](/docs/slimefun/gps-activation-device)
+* [Nuclear Reactor](/docs/slimefun/reactors)
+* [Reactor Access Port](/docs/slimefun/reactors)

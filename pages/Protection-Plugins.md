@@ -62,7 +62,7 @@ N/A = 不適用
 
 如果某個插件未顯示在此列表中, 請詢問該插件作者是否在後台使用了另一個保護插件.
 
-如果沒有, 請隨時將它們鏈接到[官方文章](https://github.com/Slimefun/Slimefun4/wiki/Protection-Plugins), 我們稍後將介紹如何添加支持.
+如果沒有, 請隨時將它們鏈接到[官方文章](/docs/slimefun/protection-plugins), 我們稍後將介紹如何添加支持.
 
 ## 支持的保護紀錄
 

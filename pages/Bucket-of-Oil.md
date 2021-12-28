@@ -13,8 +13,8 @@ weight: 999
 toc: false
 ---
 
-Buckets of Oil are [Resource](https://github.com/Slimefun/Slimefun4/wiki/Resources)s that can be used to fuel certain [Machines](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines).
+Buckets of Oil are [Resource](/docs/slimefun/resources)s that can be used to fuel certain [Machines](/docs/slimefun/electric-machines).
 
 ## Obtaining
 
-Buckets of Oil can be drawn from the ground using an [Oil Pump](https://github.com/Slimefun/Slimefun4/wiki/Oil-Pump).
+Buckets of Oil can be drawn from the ground using an [Oil Pump](/docs/slimefun/oil-pump).

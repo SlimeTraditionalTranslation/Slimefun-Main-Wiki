@@ -13,7 +13,7 @@ weight: 999
 toc: false
 ---
 
-The Hologram Projector is part of the [Technical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets) category.  
+The Hologram Projector is part of the [Technical Gadgets](/docs/slimefun/technical-gadgets) category.  
 It is not required to power these machines for them to be able to run.
 
 With the Hologram Projector you can display custom text, color codes are supported.  

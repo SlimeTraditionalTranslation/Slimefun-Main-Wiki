@@ -13,7 +13,7 @@ weight: 999
 toc: false
 ---
 
-Circuit Boards are [Technical Components](https://github.com/Slimefun/Slimefun4/wiki/Technical-Components) that can be used in various crafting recipes.
+Circuit Boards are [Technical Components](/docs/slimefun/technical-components) that can be used in various crafting recipes.
 
 ## Obtaining
 
@@ -23,4 +23,4 @@ The Basic Circuit Board can be obtained by manually killing an Iron Golem. Upon 
 
 ### Advanced Circuit Board
 
-The Advanced Circuit Board can be obtained via crafting in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+The Advanced Circuit Board can be obtained via crafting in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).

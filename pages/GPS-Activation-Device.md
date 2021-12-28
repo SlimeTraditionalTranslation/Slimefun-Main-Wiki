@@ -13,15 +13,15 @@ weight: 999
 toc: false
 ---
 
-The GPS Activation Device is a placeable tool added in the [GPS](https://github.com/Slimefun/Slimefun4/wiki/GPS) category.
+The GPS Activation Device is a placeable tool added in the [GPS](/docs/slimefun/gps) category.
 
 ## Obtaining
 
-The GPS Activation Device can be crafted in groups of eight in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+The GPS Activation Device can be crafted in groups of eight in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
 
 ## Usage
 
-The GPS Activation Device is a component of a [Teleporter](https://github.com/Slimefun/Slimefun4/wiki/Teleporter).
+The GPS Activation Device is a component of a [Teleporter](/docs/slimefun/teleporter).
 
 ## Variations
 

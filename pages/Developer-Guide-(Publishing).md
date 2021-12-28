@@ -13,7 +13,7 @@ weight: 90
 toc: true
 ---
 
-This is the **last part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
+This is the **last part** of our Developer Guide, you can find a full overview on our [main page](/docs/slimefun/developer-guide).
 
 ## Prerequisites
 
@@ -73,7 +73,7 @@ Alternatively you can also use our [main service for releasing automatic develop
 
 Once your project has been uploaded, tell others about it!
 
-We recommend all addon developers to feature their addon on our public [Addons page](https://github.com/Slimefun/Slimefun4/wiki/Addons).
+We recommend all addon developers to feature their addon on our public [Addons page](/docs/slimefun/addons).
 
 Simply make a new pull request on our wiki repository, you can find a tutorial here:
 

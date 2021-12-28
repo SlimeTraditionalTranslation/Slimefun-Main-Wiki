@@ -13,7 +13,7 @@ weight: 999
 toc: false
 ---
 
-Carbon is a [Resource](https://github.com/Slimefun/Slimefun4/wiki/Resources) that can be used to craft a variety of other items. It comes in three forms:
+Carbon is a [Resource](/docs/slimefun/resources) that can be used to craft a variety of other items. It comes in three forms:
 
 - Carbon
 - Compressed Carbon
@@ -21,12 +21,12 @@ Carbon is a [Resource](https://github.com/Slimefun/Slimefun4/wiki/Resources) tha
 
 ## Obtaining
 
-Carbon can be crafted in the [Compressor](https://github.com/Slimefun/Slimefun4/wiki/Compressor) using 8 Coal.  
-Compressed Carbon can be crafted in the [Compressor](https://github.com/Slimefun/Slimefun4/wiki/Compressor) using 4 Carbon.  
-Carbon Chunks can be crafted in the [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) using 8 Compressed Carbon and 1 Flint.  
+Carbon can be crafted in the [Compressor](/docs/slimefun/compressor) using 8 Coal.  
+Compressed Carbon can be crafted in the [Compressor](/docs/slimefun/compressor) using 4 Carbon.  
+Carbon Chunks can be crafted in the [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table) using 8 Compressed Carbon and 1 Flint.  
 
 ## See also
 
-- [Raw Carbonado](https://github.com/Slimefun/Slimefun4/wiki/Carbonado)
+- [Raw Carbonado](/docs/slimefun/carbonado)
 
-- [Carbonado](https://github.com/Slimefun/Slimefun4/wiki/Carbonado)
+- [Carbonado](/docs/slimefun/carbonado)

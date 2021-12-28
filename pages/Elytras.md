@@ -22,7 +22,7 @@ This page contains information regarding following items:
 
 ## Obtaining & Usage
 
-These items can be found in the [Magical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Magical-Gadgets) category. Their exact recipes can be found in-game.  
+These items can be found in the [Magical Gadgets](/docs/slimefun/magical-gadgets) category. Their exact recipes can be found in-game.  
 The Elytra Scale is a crafting component, while the other three are usable elytras.
 
 | Item | Specialities |

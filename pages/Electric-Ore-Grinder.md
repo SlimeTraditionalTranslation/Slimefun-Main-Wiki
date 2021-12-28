@@ -13,9 +13,9 @@ weight: 999
 toc: false
 ---
 
-The Electric Ore Grinder is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which can crush and grind many items.
+The Electric Ore Grinder is an [Electric Machine](/docs/slimefun/electric-machines) which can crush and grind many items.
 
-It's the electric variant of the [Ore Crusher](https://github.com/Slimefun/Slimefun4/wiki/Ore-Crusher) and the [Grind Stone](https://github.com/Slimefun/Slimefun4/wiki/Grind-Stone), thus it shares the recipes of both machines.  
+It's the electric variant of the [Ore Crusher](/docs/slimefun/ore-crusher) and the [Grind Stone](/docs/slimefun/grind-stone), thus it shares the recipes of both machines.  
 If you want to know all the recipes, just open the machine in the Slimefun guide.
 
 ## Electric Ore Grinder Tiers

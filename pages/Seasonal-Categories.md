@@ -18,8 +18,8 @@ Do note that with `/sf cheat`, this can be bypassed.
 
 ## Table of contents
 
-* [Christmas Seasonal Category](https://github.com/Slimefun/Slimefun4/wiki/Christmas-Seasonal-Category)
-* [Valentines Day Seasonal Category](https://github.com/Slimefun/Slimefun4/wiki/Valentines-Day-Seasonal-Category)
-* [Easter Seasonal Category](https://github.com/Slimefun/Slimefun4/wiki/Easter-Seasonal-Category)
-* [Birthday Seasonal Category](https://github.com/Slimefun/Slimefun4/wiki/Birthday-Seasonal-Category)
-* [Halloween Seasonal Category](https://github.com/Slimefun/Slimefun4/wiki/Halloween-Seasonal-Category)
+* [Christmas Seasonal Category](/docs/slimefun/christmas-seasonal-category)
+* [Valentines Day Seasonal Category](/docs/slimefun/valentines-day-seasonal-category)
+* [Easter Seasonal Category](/docs/slimefun/easter-seasonal-category)
+* [Birthday Seasonal Category](/docs/slimefun/birthday-seasonal-category)
+* [Halloween Seasonal Category](/docs/slimefun/halloween-seasonal-category)

@@ -13,13 +13,13 @@ weight: 999
 toc: false
 ---
 
-Soulbound Backpack is a variant on the Woven [Backpack](https://github.com/Slimefun/Slimefun4/wiki/Backpacks).
+Soulbound Backpack is a variant on the Woven [Backpack](/docs/slimefun/backpacks).
 
-It only has 36 Inventory Slots which is 18 less than the Gilded [Backpack](https://github.com/Slimefun/Slimefun4/wiki/Backpacks), however, it is kept upon death which is why some people prefer it.
+It only has 36 Inventory Slots which is 18 less than the Gilded [Backpack](/docs/slimefun/backpacks), however, it is kept upon death which is why some people prefer it.
 
 ## See also
 
-* [Soulbound Weapons](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Weapons)
-* [Soulbound Armor](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Armor)
-* [Soulbound Tools](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Tools)
-* [Soulbound Rune](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Rune)
+* [Soulbound Weapons](/docs/slimefun/soulbound-weapons)
+* [Soulbound Armor](/docs/slimefun/soulbound-armor)
+* [Soulbound Tools](/docs/slimefun/soulbound-tools)
+* [Soulbound Rune](/docs/slimefun/soulbound-rune)

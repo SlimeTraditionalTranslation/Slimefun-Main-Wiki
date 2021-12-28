@@ -13,10 +13,10 @@ weight: 999
 toc: false
 ---
 
-The Electric Smeltery is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which creates [Alloys](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Alloys) from [Ingots](https://github.com/Slimefun/Slimefun4/wiki/Ingots).  
-If you want to smelt [Dusts](https://github.com/Slimefun/Slimefun4/wiki/Dusts) into [Ingots](https://github.com/Slimefun/Slimefun4/wiki/Ingots), take a look at the [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory).
+The Electric Smeltery is an [Electric Machine](/docs/slimefun/electric-machines) which creates [Alloys](/docs/slimefun/ingots#alloys) from [Ingots](/docs/slimefun/ingots).  
+If you want to smelt [Dusts](/docs/slimefun/dusts) into [Ingots](/docs/slimefun/ingots), take a look at the [Electric Ingot Factory](/docs/slimefun/electric-ingot-factory).
 
-It is the automated version of the [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery).
+It is the automated version of the [Smeltery](/docs/slimefun/smeltery).
 
 ## Electric Smeltery Tiers
 

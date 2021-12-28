@@ -13,13 +13,13 @@ weight: 999
 toc: false
 ---
 
-The Pickaxe of the Seeker is an item in the [tools](https://github.com/Slimefun/Slimefun4/wiki/Tools) category.
+The Pickaxe of the Seeker is an item in the [tools](/docs/slimefun/tools) category.
 
 It is an unenchanted diamond pickaxe which can help you locate nearby ore.
 
 ## Obtaining
 
-The Pickaxe of the Seeker can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+The Pickaxe of the Seeker can be crafted in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
 
 ## Usage
 

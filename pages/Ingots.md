@@ -13,40 +13,40 @@ weight: 999
 toc: false
 ---
 
-Slimefun introduces 25 new ingots, including 17 alloys. They are essential crafting [resources](https://github.com/Slimefun/Slimefun4/wiki/Resources).
+Slimefun introduces 25 new ingots, including 17 alloys. They are essential crafting [resources](/docs/slimefun/resources).
 
 ## Metals
 
-The following ingots are obtained by smelting the matching [dusts](https://github.com/Slimefun/Slimefun4/wiki/Dusts) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory):
+The following ingots are obtained by smelting the matching [dusts](/docs/slimefun/dusts) in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Ingot Factory](/docs/slimefun/electric-ingot-factory):
 
-* [Iron Ingot](https://github.com/Slimefun/Slimefun4/wiki/Iron-Ingot) (not added by Slimefun, but crafted and used in new ways)
-* [Gold Ingot (4 to 24-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot)
-* [Copper Ingot](https://github.com/Slimefun/Slimefun4/wiki/Copper-Ingot)
-* [Tin Ingot](https://github.com/Slimefun/Slimefun4/wiki/Tin-Ingot)
-* [Silver Ingot](https://github.com/Slimefun/Slimefun4/wiki/Silver-Ingot)
-* [Aluminum Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Ingot)
-* [Lead Ingot](https://github.com/Slimefun/Slimefun4/wiki/Lead-Ingot)
-* [Zinc Ingot](https://github.com/Slimefun/Slimefun4/wiki/Zinc-Ingot)
-* [Magnesium Ingot](https://github.com/Slimefun/Slimefun4/wiki/Magnesium-Ingot)
+* [Iron Ingot](/docs/slimefun/iron-ingot) (not added by Slimefun, but crafted and used in new ways)
+* [Gold Ingot (4 to 24-Carat)](/docs/slimefun/gold-ingot)
+* [Copper Ingot](/docs/slimefun/copper-ingot)
+* [Tin Ingot](/docs/slimefun/tin-ingot)
+* [Silver Ingot](/docs/slimefun/silver-ingot)
+* [Aluminum Ingot](/docs/slimefun/aluminum-ingot)
+* [Lead Ingot](/docs/slimefun/lead-ingot)
+* [Zinc Ingot](/docs/slimefun/zinc-ingot)
+* [Magnesium Ingot](/docs/slimefun/magnesium-ingot)
 
 ## Alloys
 
-The following ingots are obtained by combining metals in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery):
+The following ingots are obtained by combining metals in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Smeltery](/docs/slimefun/electric-smeltery):
 
-* [Aluminum Brass Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Brass-Ingot)
-* [Aluminum Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Bronze-Ingot)
-* [Billon Ingot](https://github.com/Slimefun/Slimefun4/wiki/Billon-Ingot)
-* [Brass Ingot](https://github.com/Slimefun/Slimefun4/wiki/Brass-Ingot)
-* [Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Bronze-Ingot)
-* [Cobalt Ingot](https://github.com/Slimefun/Slimefun4/wiki/Cobalt-Ingot)
-* [Corinthian Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Corinthian-Bronze-Ingot)
-* [Damascus Steel Ingot](https://github.com/Slimefun/Slimefun4/wiki/Damascus-Steel-Ingot)
-* [Duralumin Ingot](https://github.com/Slimefun/Slimefun4/wiki/Duralumin-Ingot)
-* [Ferrosilicon](https://github.com/Slimefun/Slimefun4/wiki/Ferrosilicon)
-* [Gilded Iron](https://github.com/Slimefun/Slimefun4/wiki/Gilded-Iron)
-* [Hardened Metal](https://github.com/Slimefun/Slimefun4/wiki/Hardened-Metal)
-* [Nickel Ingot](https://github.com/Slimefun/Slimefun4/wiki/Nickel-Ingot)
-* [Redstone Alloy Ingot](https://github.com/Slimefun/Slimefun4/wiki/Redstone-Alloy-Ingot)
-* [Reinforced Alloy Ingot](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Alloy-Ingot)
-* [Solder Ingot](https://github.com/Slimefun/Slimefun4/wiki/Solder-Ingot)
-* [Steel Ingot](https://github.com/Slimefun/Slimefun4/wiki/Steel-Ingot)
+* [Aluminum Brass Ingot](/docs/slimefun/aluminum-brass-ingot)
+* [Aluminum Bronze Ingot](/docs/slimefun/aluminum-bronze-ingot)
+* [Billon Ingot](/docs/slimefun/billon-ingot)
+* [Brass Ingot](/docs/slimefun/brass-ingot)
+* [Bronze Ingot](/docs/slimefun/bronze-ingot)
+* [Cobalt Ingot](/docs/slimefun/cobalt-ingot)
+* [Corinthian Bronze Ingot](/docs/slimefun/corinthian-bronze-ingot)
+* [Damascus Steel Ingot](/docs/slimefun/damascus-steel-ingot)
+* [Duralumin Ingot](/docs/slimefun/duralumin-ingot)
+* [Ferrosilicon](/docs/slimefun/ferrosilicon)
+* [Gilded Iron](/docs/slimefun/gilded-iron)
+* [Hardened Metal](/docs/slimefun/hardened-metal)
+* [Nickel Ingot](/docs/slimefun/nickel-ingot)
+* [Redstone Alloy Ingot](/docs/slimefun/redstone-alloy-ingot)
+* [Reinforced Alloy Ingot](/docs/slimefun/reinforced-alloy-ingot)
+* [Solder Ingot](/docs/slimefun/solder-ingot)
+* [Steel Ingot](/docs/slimefun/steel-ingot)

@@ -13,50 +13,50 @@ weight: 999
 toc: false
 ---
 
-This is a category that contains a bunch of items to craft [Magical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Magical-Gadgets) with.
+This is a category that contains a bunch of items to craft [Magical Gadgets](/docs/slimefun/magical-gadgets) with.
 
 ## Table of contents
 
 ----
 
-- [Magical Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps)
-- [Ender Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps)
-- [Magical Book Cover](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Magical-Book-Cover)
-- [Magical Glass](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Magical-Glass)
-- [Lava Crystal](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Lava-Crystal)
-- [Common Talisman](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Common-Talisman)
-- [Necrotic Skull](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Necrotic-Skull)
-- [Essence of Afterlife](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Essence-of-Afterlife)
-- [Synthetic Shulker Shell](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Synthetic-Shulker-Shell)
-- [Broken Spawner](https://github.com/Slimefun/Slimefun4/wiki/Broken-Spawner)
-- [Ancient Runes](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Runes)
-- [Strange Nether Goo](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Strange-Nether-Goo)
+- [Magical Lumps](/docs/slimefun/lumps)
+- [Ender Lumps](/docs/slimefun/lumps)
+- [Magical Book Cover](/docs/slimefun/magical-items#magical-book-cover)
+- [Magical Glass](/docs/slimefun/magical-items#magical-glass)
+- [Lava Crystal](/docs/slimefun/magical-items#lava-crystal)
+- [Common Talisman](/docs/slimefun/magical-items#common-talisman)
+- [Necrotic Skull](/docs/slimefun/magical-items#necrotic-skull)
+- [Essence of Afterlife](/docs/slimefun/magical-items#essence-of-afterlife)
+- [Synthetic Shulker Shell](/docs/slimefun/magical-items#synthetic-shulker-shell)
+- [Broken Spawner](/docs/slimefun/broken-spawner)
+- [Ancient Runes](/docs/slimefun/ancient-runes)
+- [Strange Nether Goo](/docs/slimefun/magical-items#strange-nether-goo)
 
 ## Simple Items
 
 ### Magical Book Cover
 
-This item can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) using [Magical Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps) and a book.
+This item can be crafted in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table) using [Magical Lumps](/docs/slimefun/lumps) and a book.
 
 ### Magical Glass
 
-This item can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench) using [Flasks Of Knowledge](https://github.com/Slimefun/Slimefun4/wiki/Flask-of-Knowledge) and [Magical Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps).
+This item can be crafted in a [Magic Workbench](/docs/slimefun/magic-workbench) using [Flasks Of Knowledge](/docs/slimefun/flask-of-knowledge) and [Magical Lumps](/docs/slimefun/lumps).
 
 ### Lava Crystal
 
-This item can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) using [Magical Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps), an [Ancient Rune \[Fire\]](/404) and blaze powder.
+This item can be crafted in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table) using [Magical Lumps](/docs/slimefun/lumps), an [Ancient Rune \[Fire\]](/404) and blaze powder.
 
 ### Common Talisman
 
-This item is used as a base to craft [Talismans](https://github.com/Slimefun/Slimefun4/wiki/Talismans) and it can be crafted in the [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench).
+This item is used as a base to craft [Talismans](/docs/slimefun/talismans) and it can be crafted in the [Magic Workbench](/docs/slimefun/magic-workbench).
 
 ### Necrotic Skull
 
-This item is crafted in the [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench) using [Magical Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps) and a Wither Skeleton Skull.
+This item is crafted in the [Magic Workbench](/docs/slimefun/magic-workbench) using [Magical Lumps](/docs/slimefun/lumps) and a Wither Skeleton Skull.
 
 ### Essence of Afterlife
 
-This item is crafted in an [Ancient Altar](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Altar) and is used for various high end [Magical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Magical-Gadgets).
+This item is crafted in an [Ancient Altar](/docs/slimefun/ancient-altar) and is used for various high end [Magical Gadgets](/docs/slimefun/magical-gadgets).
 
 ### Synthetic Shulker Shell
 
@@ -64,4 +64,4 @@ This item can be used a substitute for vanilla Shulker Shells. This way you don'
 
 ### Strange Nether Goo
 
-This item is obtained by bartering with piglins and is used to craft the [Ancient Rune \[Villagers\]](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Runes).
+This item is obtained by bartering with piglins and is used to craft the [Ancient Rune \[Villagers\]](/docs/slimefun/ancient-runes).

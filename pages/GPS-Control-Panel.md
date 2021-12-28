@@ -13,11 +13,11 @@ weight: 999
 toc: false
 ---
 
-GPS Control Panel is a placeable tool in [GPS](https://github.com/Slimefun/Slimefun4/wiki/GPS) category.
+GPS Control Panel is a placeable tool in [GPS](/docs/slimefun/gps) category.
 
 ## Obtaining
 
-GPS Control Panel can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+GPS Control Panel can be crafted in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
 
 ## Usage
 

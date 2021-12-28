@@ -13,9 +13,9 @@ weight: 30
 toc: true
 ---
 
-This is the **third Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
+This is the **third Part** of our Developer Guide, you can find a full overview on our [main page](/docs/slimefun/developer-guide).
 
-If you haven't checked out the [second Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(2-Creating-the-Addon)), then please do that.
+If you haven't checked out the [second Part of this Guide](/docs/slimefun/developer-guide-(2-creating-the-addon)), then please do that.
 
 ## 1. A little recap
 
@@ -293,4 +293,4 @@ SeasonalItemGroup group = new SeasonalItemGroup(categoryId, categoryItem, tier, 
 LockedItemGroup category = new LockedItemGroup(categoryId, categoryItem, tier, parentItemGroupA.getKey(), parentItemGroupB.getKey());
 ```
 
-[**> Continue with Part 4a**](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(4a-Right-Clicks))
+[**> Continue with Part 4a**](/docs/slimefun/developer-guide-(4a-right-clicks))

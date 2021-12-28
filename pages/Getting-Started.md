@@ -17,7 +17,7 @@ If you have just started using Slimefun it may seem overwhelming or very complic
 You may not know where to start.
 If that sounds familiar then you have come to the right place!
 
-This guide assumes that you have already installed Slimefun, otherwise start by reading [How to install Slimefun](https://github.com/Slimefun/Slimefun4/wiki/Installing-Slimefun)
+This guide assumes that you have already installed Slimefun, otherwise start by reading [How to install Slimefun](/docs/slimefun/installing-slimefun)
 
 ## 1. Slimefun Guide
 
@@ -47,20 +47,20 @@ The 3rd row of the recipe are your bottom blocks, then build above them accordin
 This is the first machine you will need to build.
 You have to place a Crafting Table on top of a Dispenser.
 Most Slimefun Recipes are crafted by putting the recipe into the Dispenser, then right-clicking the Crafting Table.
-You can read more about this Machine [here](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+You can read more about this Machine [here](/docs/slimefun/enhanced-crafting-table).
 
 ## 5. Collecting Dust
 
 A lot of Recipes may require various Ingots/Alloys.
-You start off by crafting a [Gold Pan](https://github.com/Slimefun/Slimefun4/wiki/Gold-Pan) in the [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
-Right-Click Gravel with your [Gold Pan](https://github.com/Slimefun/Slimefun4/wiki/Gold-Pan) and you will get [Sifted Ore](https://github.com/Slimefun/Slimefun4/wiki/Sifted-Ore).
-Then process your [Sifted Ore](https://github.com/Slimefun/Slimefun4/wiki/Sifted-Ore) by building an [Ore Washer](https://github.com/Slimefun/Slimefun4/wiki/Ore-Washer).
+You start off by crafting a [Gold Pan](/docs/slimefun/gold-pan) in the [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
+Right-Click Gravel with your [Gold Pan](/docs/slimefun/gold-pan) and you will get [Sifted Ore](/docs/slimefun/sifted-ore).
+Then process your [Sifted Ore](/docs/slimefun/sifted-ore) by building an [Ore Washer](/docs/slimefun/ore-washer).
 You will get lots of dusts (e.g. Copper, Tin, Zinc,...) from that, hold onto those and proceed to Step 6.
 
 ## 6. The Smeltery
 
 Now it's time to turn your Dusts into Ingots.
-Start by building a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) and smelt those into Ingots or Alloys.
+Start by building a [Smeltery](/docs/slimefun/smeltery) and smelt those into Ingots or Alloys.
 You can then use these Ingots and Alloys in a ton of recipes.
 
 ## 7. Enjoy the plugin

@@ -15,29 +15,29 @@ toc: false
 
 ## Obtaining
 
-Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery) yields one Billon Ingot:
+Combining the following items in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Smeltery](/docs/slimefun/electric-smeltery) yields one Billon Ingot:
 
-* 1 [Silver Dust](https://github.com/Slimefun/Slimefun4/wiki/Silver-Dust)
-* 1 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
-* 1 [Silver Ingot](https://github.com/Slimefun/Slimefun4/wiki/Silver-Ingot)
+* 1 [Silver Dust](/docs/slimefun/silver-dust)
+* 1 [Copper Dust](/docs/slimefun/copper-dust)
+* 1 [Silver Ingot](/docs/slimefun/silver-ingot)
 
 ### Total base material cost
 
-* 2 [Silver Dust](https://github.com/Slimefun/Slimefun4/wiki/Silver-Dust)
-* 1 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
+* 2 [Silver Dust](/docs/slimefun/silver-dust)
+* 1 [Copper Dust](/docs/slimefun/copper-dust)
 
 ## Usage
 
 ### In other alloys
 
-* [Reinforced Alloy Ingot](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Alloy-Ingot)
+* [Reinforced Alloy Ingot](/docs/slimefun/reinforced-alloy-ingot)
 
 ### Items
 
-* [Billon Multi Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
-* [Billon Jetpack](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
-* [Billon Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
-* [Medium Energy Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
-* [Food Fabricator](https://github.com/Slimefun/Slimefun4/wiki/Food-Fabricator)
-* [Input Node](https://github.com/Slimefun/Slimefun4/wiki/Input-Node)
-* [GPS Activation Device (Shared)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device)
+* [Billon Multi Tool](/docs/slimefun/multi-tools)
+* [Billon Jetpack](/docs/slimefun/jetpacks)
+* [Billon Jet Boots](/docs/slimefun/jet-boots)
+* [Medium Energy Capacitor](/docs/slimefun/energy-capacitors)
+* [Food Fabricator](/docs/slimefun/food-fabricator)
+* [Input Node](/docs/slimefun/input-node)
+* [GPS Activation Device (Shared)](/docs/slimefun/gps-activation-device)

@@ -13,9 +13,9 @@ weight: 70
 toc: true
 ---
 
-This is the **sixth Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
+This is the **sixth Part** of our Developer Guide, you can find a full overview on our [main page](/docs/slimefun/developer-guide).
 
-If you haven't checked out the [fifth Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(5-Researches)), then please do that.
+If you haven't checked out the [fifth Part of this Guide](/docs/slimefun/developer-guide-(5-researches)), then please do that.
 
 ## 1. Our usual recap
 
@@ -223,4 +223,4 @@ research.register();
 
 If you have any questions, feel free to hop on discord and ask them in `#programming-help`.
 
-[**> Continue with Part 7**](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(7-GEO-Resources))
+[**> Continue with Part 7**](/docs/slimefun/developer-guide-(7-geo-resources))

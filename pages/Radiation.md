@@ -17,19 +17,19 @@ Radiation is an effect of radioactive items in Slimefun.
 
 More specifically, it is a deadly combination of status effects you receive when carrying such items: Wither III, Blindness IV, Confusion IV, Weakness III, Slowness II, and Mining Fatigue II, for a duration of 20 seconds.
 
-For this reason, it is highly recommended you only carry them for a short amount of time. Better yet, wear a full [hazmat suit](https://github.com/Slimefun/Slimefun4/wiki/Armor#hazmat-suit): this will make you completely immune to the effects of radiation.
+For this reason, it is highly recommended you only carry them for a short amount of time. Better yet, wear a full [hazmat suit](/docs/slimefun/armor#hazmat-suit): this will make you completely immune to the effects of radiation.
 
 ## Radioactive items
 
 The following items will induce radiation while in your inventory:
 
-* [Blistering Ingot](https://github.com/Slimefun/Slimefun4/wiki/Blistering-Ingot)
-* [Small Chunk of Uranium](https://github.com/Slimefun/Slimefun4/wiki/Uranium)
-* [Uranium](https://github.com/Slimefun/Slimefun4/wiki/Uranium)
-* [Neptunium](https://github.com/Slimefun/Slimefun4/wiki/Neptunium)
-* [Plutonium](https://github.com/Slimefun/Slimefun4/wiki/Plutonium)
-* [Boosted Uranium](https://github.com/Slimefun/Slimefun4/wiki/Boosted-Uranium)
-* [Nether Ice](https://github.com/Slimefun/Slimefun4/wiki/Nether-Ice)
-* [Enriched Nether Ice](https://github.com/Slimefun/Slimefun4/wiki/Enriched-Nether-Ice)
+* [Blistering Ingot](/docs/slimefun/blistering-ingot)
+* [Small Chunk of Uranium](/docs/slimefun/uranium)
+* [Uranium](/docs/slimefun/uranium)
+* [Neptunium](/docs/slimefun/neptunium)
+* [Plutonium](/docs/slimefun/plutonium)
+* [Boosted Uranium](/docs/slimefun/boosted-uranium)
+* [Nether Ice](/docs/slimefun/nether-ice)
+* [Enriched Nether Ice](/docs/slimefun/enriched-nether-ice)
 
-Not listed here is the [Nether Star Reactor](https://github.com/Slimefun/Slimefun4/wiki/Reactors), which makes nearby entities wither, but does not actually cause radiation.
+Not listed here is the [Nether Star Reactor](/docs/slimefun/reactors), which makes nearby entities wither, but does not actually cause radiation.

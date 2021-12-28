@@ -17,7 +17,7 @@ An Android that specializes in automating the farming process..
 
 ## Obtaining
 
-Farmer Androids can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+Farmer Androids can be crafted in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
 
 ## Usage
 
@@ -30,7 +30,7 @@ Supported crops are listed below.
 - Beetroot
 - Potato
 
-Androids need fuel in order to work, you have to fill them with the [Required Fuel](https://github.com/Slimefun/Slimefun4/wiki/Normal-Androids#power-source) before booting!
+Androids need fuel in order to work, you have to fill them with the [Required Fuel](/docs/slimefun/normal-androids#power-source) before booting!
 
 ## Tiers
 

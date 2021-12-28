@@ -13,11 +13,11 @@ weight: 999
 toc: false
 ---
 
-The Elevator Plate is a placeable device added in the [GPS](https://github.com/Slimefun/Slimefun4/wiki/GPS) category.
+The Elevator Plate is a placeable device added in the [GPS](/docs/slimefun/gps) category.
 
 ## Obtaining
 
-The Elevator Plate can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+The Elevator Plate can be crafted in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
 
 ## Usage
 

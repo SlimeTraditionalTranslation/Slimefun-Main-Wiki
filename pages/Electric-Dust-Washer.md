@@ -13,9 +13,9 @@ weight: 999
 toc: false
 ---
 
-The Electric Dust Washer is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which obtains [Dusts](https://github.com/Slimefun/Slimefun4/wiki/Dusts) from [Sifted Ore](https://github.com/Slimefun/Slimefun4/wiki/Sifted-Ore).
+The Electric Dust Washer is an [Electric Machine](/docs/slimefun/electric-machines) which obtains [Dusts](/docs/slimefun/dusts) from [Sifted Ore](/docs/slimefun/sifted-ore).
 
-It's the electric version of the [Ore Washer](https://github.com/Slimefun/Slimefun4/wiki/Ore-Washer), only it does not generate by-products and thus improves the yield rate.
+It's the electric version of the [Ore Washer](/docs/slimefun/ore-washer), only it does not generate by-products and thus improves the yield rate.
 
 ## Electric Dust Washer Tiers
 
