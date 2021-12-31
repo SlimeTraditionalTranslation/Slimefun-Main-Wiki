@@ -5,15 +5,15 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
 toc: false
 ---
 
-The Energy Connector is an [Electric Component](/docs/slimefun/electric-machines) which can transfer energy in an Energy Network. Unlike an [Energy Capacitor](/docs/slimefun/energy-capacitors), it has no buffer.
+The Energy Connector is an [Electric Component](/docs/slimefun/electric-machines) which can transfer energy in an Energy Network. Unlike an [Energy Capacitor](/docs/slimefun/energy-capacitors), it has no buffer.  
 
 ## Usage
 

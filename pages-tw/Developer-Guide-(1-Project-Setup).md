@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-developer-guides"
 weight: 10
@@ -30,9 +30,11 @@ Once you have installed everything successfully, continue with Step 2.
 
 ## 2. Create a new GitHub Repository
 
-You will need a GitHub Account for this step. We made a nifty Repository-template for Slimefun Addons for you.
+You will need a GitHub Account for this step.
+We made a nifty Repository-template for Slimefun Addons for you.
 
-Go to the [Repository template](https://github.com/Slimefun/Addon-Template) and click the bright green button on the right side that says "Use this template". You will then be prompted to come up with a name and description for your Addon.
+Go to the [Repository template](https://github.com/Slimefun/Addon-Template) and click the bright green button on the right side that says "Use this template".
+You will then be prompted to come up with a name and description for your Addon.
 
 When you are finished just click "Create repository from template".
 
@@ -50,7 +52,8 @@ Now we need to talk a little bit about Maven.
 
 Maven is a dependency manager that many Java projects use. Our template already includes a fully configured Maven setup for you.
 
-But you need to make sure that your project is set up correctly, you can look up how to set up a project as a Maven project for your preferred IDE. Your project will be compiled via Maven too, so if you want to test or share your addon, you need to use Maven either way.
+But you need to make sure that your project is set up correctly, you can look up how to set up a project as a Maven project for your preferred IDE.
+Your project will be compiled via Maven too, so if you want to test or share your addon, you need to use Maven either way.
 
 ### License
 
@@ -94,7 +97,8 @@ These ids need to be in all lower case, here are some examples:
 * `com.example` (Use your website in reverse if you own one)
 * `com.google.example` (If you are part of an organization, Google for example, then use this format. Do not impersonate any organizations and only use this id if your project is made in the name of that organization)
 
-For most developers, we would recommend to just go with `me.yourname` (remember, all in lower case, use _ to express spaces). **Hold onto this id for now, we will need it later**
+For most developers, we would recommend to just go with `me.yourname` (remember, all in lower case, use _ to express spaces).
+**Hold onto this id for now, we will need it later**
 
 ### Your projectId
 
@@ -104,7 +108,8 @@ Together with your groupId this forms your package identifier, which should be u
 
 Your projectID is just the name of your project, `MyAwesomeAddon` for example.
 
-It does not have to be in lower cases like your groupId. **Hold onto this id for now, we will need it later**
+It does not have to be in lower cases like your groupId.
+**Hold onto this id for now, we will need it later**
 
 ### Your pom.xml
 
@@ -168,7 +173,8 @@ main: `groupId` + . + `projectId` (all lower case this time) + . + `projectId`.
 
 We know this may sound confusing at first, here is an example:
 
-groupId: me.thebusybiscuit projectId: MyAwesomeAddon
+groupId: me.thebusybiscuit
+projectId: MyAwesomeAddon
 
 main: me.thebusybiscuit.myawesomeaddon.MyAwesomeAddon
 

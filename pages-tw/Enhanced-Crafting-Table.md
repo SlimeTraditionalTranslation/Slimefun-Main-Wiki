@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-basic-machines"
 weight: 20
@@ -23,7 +23,7 @@ The recipe can be found in your Slimefun Guide. To build it, you need to place a
 
 A complete Enhanced Crafting Table looks like this:
 
-<img src="/slimefun-images/multiblock-enhanced-crafting-table.png" alt="Enhanced Crafting Table Setup" />
+<img src="/slimefun-images/multiblock-enhanced-crafting-table.png" alt="Enhanced Crafting Table Setup">
 
 You can also place an [Output Chest](/docs/slimefun/output-chest) next to the Dispenser to collect your crafted items.
 

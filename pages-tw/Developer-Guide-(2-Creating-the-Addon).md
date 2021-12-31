@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-developer-guides"
 weight: 20
@@ -31,24 +31,24 @@ package ...;
 import ...;
 
 public class SlimefunAddon extends JavaPlugin implements SlimefunAddon {
-
+ 
  @Override
  public void onEnable() {
   // ...
  }
-
+ 
  @Override
  public void onDisable() {
   // Logic for disabling the plugin...
  }
-
+ 
  @Override
  public JavaPlugin getJavaPlugin() {
   // This is a method that links your SlimefunAddon to your Plugin.
   // Just return "this" in this case, so they are linked
   return this;
  }
-
+ 
  @Override
  public String getBugTrackerURL() {
   // Here you can return a link to your Bug Tracker.

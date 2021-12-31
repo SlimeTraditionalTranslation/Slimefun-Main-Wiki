@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -20,7 +20,7 @@ If you want to know all the recipes, just open the machine's page in the Slimefu
 
 ## Auto Drier Tiers
 
-There is only one tier of the Auto Drier and it has the following properties:
+There is only one tier of the Auto Drier and it has the following properties:  
 
 **Speed multiplier**: 1.0x  
 **Power Usage**: 10 J/s

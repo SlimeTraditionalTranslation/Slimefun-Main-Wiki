@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-other"
 weight: 30
@@ -35,24 +35,24 @@ Slimefun4 開箱即用的支持了很多保護插件.
 
 N/A = 不適用
 
-| 插件              |         支持玩家         |        支持離線玩家        |        支持PvP         |         支持實體         |
-| --------------- |:--------------------:|:--------------------:|:--------------------:|:--------------------:|
-| ASkyBlock       | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: |
-| BentoBox        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| BlockLocker     | :heavy_check_mark: | :heavy_check_mark: |         N/A          |         N/A          |
-| ChestProtect    | :heavy_check_mark: | :heavy_check_mark: |         N/A          |         N/A          |
-| FactionsUUID    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| FunnyGuilds     | :heavy_check_mark: |         :x:          | :heavy_minus_sign: | :heavy_minus_sign: |
+| 插件 | 支持玩家 | 支持離線玩家 | 支持PvP | 支持實體
+| ------------------ | :----: | :----: | :----: | :---: |
+| ASkyBlock | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: |
+| BentoBox | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| BlockLocker | :heavy_check_mark: | :heavy_check_mark: | N/A | N/A |
+| ChestProtect | :heavy_check_mark: | :heavy_check_mark: | N/A | N/A |
+| FactionsUUID | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| FunnyGuilds | :heavy_check_mark: | :x: | :heavy_minus_sign: | :heavy_minus_sign: |
 | GriefPrevention | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_check_mark: |
-| LandLord        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Lands           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Lockette        | :heavy_check_mark: | :heavy_check_mark: |         N/A          |         N/A          |
-| LWC             | :heavy_check_mark: | :heavy_minus_sign: |         N/A          |         N/A          |
-| PlotSquared     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| PreciousStones  | :heavy_check_mark: |         :x:          | :heavy_check_mark: | :heavy_check_mark: |
-| RedProtect      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_check_mark: |
-| Towny           | :heavy_check_mark: |         :x:          | :heavy_minus_sign: | :heavy_minus_sign: |
-| WorldGuard      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| LandLord | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Lands | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Lockette | :heavy_check_mark: | :heavy_check_mark: | N/A | N/A |
+| LWC | :heavy_check_mark: | :heavy_minus_sign: | N/A | N/A |
+| PlotSquared | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| PreciousStones | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| RedProtect | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_check_mark: |
+| Towny | :heavy_check_mark: | :x: | :heavy_minus_sign: | :heavy_minus_sign: |
+| WorldGuard | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 ### 沒看到你的保護插件?
 
@@ -72,10 +72,10 @@ Slimefun4也支持了一些保護紀錄器.
 
 這是默認下我們支持的所有插件列表.
 
-| 插件          |        支持破壞方塊        |        支持放置方塊        |
-| ----------- |:--------------------:|:--------------------:|
+| 插件 | 支持破壞方塊 | 支持放置方塊 |
+| ------------------ | :----: | :----: |
 | CoreProtect | :heavy_check_mark: | :heavy_check_mark: |
-| LogBlock    | :heavy_check_mark: |         :x:          |
+| LogBlock | :heavy_check_mark: | :x: |
 
 ## 為你的保護插件添加支持
 
@@ -89,4 +89,5 @@ Slimefun4也支持了一些保護紀錄器.
 2. 創建一個擴展 [ProtectionModule.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/ProtectionModule.java) 並將其添加至 [modules - package](https://github.com/baked-libs/dough/tree/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/modules)
 3. 覆蓋所需的函數; 確保區分 [Interaction.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/Interaction.java) 的不同類型; 並考慮增加對離線玩家的支持,如果沒有請進行檢查.
 4. 載入一個例子當你的插件載入了 [ProtectionManager.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/ProtectionManager.java)
-5. 向 dough 提交 [Pull Request](https://github.com/baked-libs/dough/pulls) (**請注意** 這可能翻譯得不好 建議直接看原文)
+5. 向 dough 提交 [Pull Request](https://github.com/baked-libs/dough/pulls)
+(**請注意** 這可能翻譯得不好 建議直接看原文)

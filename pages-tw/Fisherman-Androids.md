@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -21,17 +21,18 @@ Fisherman Androids can be crafted in an [Enhanced Crafting Table](/docs/slimefun
 
 ## Usage
 
-You have to put water underneath the Android in order for it to work. Androids need fuel in order to work, you have to fill them with the [Required Fuel](/docs/slimefun/normal-androids#power-source) before booting!
+You have to put water underneath the Android in order for it to work.
+Androids need fuel in order to work, you have to fill them with the [Required Fuel](/docs/slimefun/normal-androids#power-source) before booting!
 
 ## Tiers
 
 There are three tiers on the Fisherman Android, each with different modifiers listed below.
 
 | Tier      | Fuel Efficiency | Success Rate |
-| --------- |:---------------:| ------------ |
-| Basic     |      1.0x       | 10%          |
-| Advanced  |      1.5x       | 20%          |
-| Empowered |      8.0x       | 30%          |
+| --------- | :-------------: | ------------ |
+| Basic     | 1.0x            | 10%          |
+| Advanced  | 1.5x            | 20%          |
+| Empowered | 8.0x            | 30%          |
 
 ## Loot Table
 

@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -21,7 +21,7 @@ The [Electric Ingot Pulverizer](/docs/slimefun/electric-ingot-pulverizer) is the
 ## Electric Ingot Factory Tiers
 
 | Tier | Power  | Speed Multiplier |
-|:----:|:------:|:----------------:|
-|  I   | 8 J/s  |       1.0x       |
-|  II  | 14 J/s |       2.0x       |
-| III  | 40 J/s |       8.0x       |
+| :--: | :----: | :--------------: |
+| I    | 8 J/s  | 1.0x             |
+| II   | 14 J/s | 2.0x             |
+| III  | 40 J/s | 8.0x             |

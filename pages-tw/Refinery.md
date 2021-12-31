@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -18,7 +18,7 @@ It takes 40 seconds to convert one Bucket of Oil. It has no other uses.
 
 ## Tiers
 
-It currently only comes in one tier.
+It currently only comes in one tier.  
 
 **Buffer:** 256 J  
 **Power Usage:** 32 J/s  

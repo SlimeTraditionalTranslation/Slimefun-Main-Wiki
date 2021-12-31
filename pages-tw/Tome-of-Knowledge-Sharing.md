@@ -5,15 +5,15 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
 toc: false
 ---
 
-The Tome of Knowledge Sharing is part of the [Magical Gadgets](/docs/slimefun/magical-gadgets) category.
+The Tome of Knowledge Sharing is part of the [Magical Gadgets](/docs/slimefun/magical-gadgets) category.  
 
 ## Obtaining
 

@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -18,10 +18,10 @@ It will then put these enchantments on a book that you have to provide when you 
 
 ## Auto Disenchanter Tiers
 
-There is only one tier of the Auto Disenchanter and it has the following properties:
+There is only one tier of the Auto Disenchanter and it has the following properties:  
 
 **Speed multiplier**: 1.0x  
-**Power Usage**: 18 J/s
+**Power Usage**: 18 J/s  
 
 ## Tip
 

@@ -5,15 +5,15 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-basic-machines"
 weight: 150
 toc: false
 ---
 
-The Automatic Ignition Chamber is part of the [Basic Machines](/docs/slimefun/basic-machines) category.
+The Automatic Ignition Chamber is part of the [Basic Machines](/docs/slimefun/basic-machines) category.  
 
 ## Usage
 

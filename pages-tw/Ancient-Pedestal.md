@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -25,4 +25,4 @@ The Ancient Pedestal can be crafted in a [Magic Workbench](/docs/slimefun/magic-
 
 Right-clicking a pedestal with an item in hand will make it rotate and levitate above the pedestal, which may be useful for decorative purposes. However, an item placed this way will disappear after 5 minutes, much like a dropped item.
 
-<img src="/slimefun-images/block-ancient-pedestal.png" alt="Ancient Pedestal displaying a Diamond Sword" />
+<img src="/slimefun-images/block-ancient-pedestal.png" alt="Ancient Pedestal displaying a Diamond Sword">

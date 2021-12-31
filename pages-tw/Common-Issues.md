@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-main"
 weight: 50
@@ -30,7 +30,7 @@ _注意: 請確保這不是由鬼方塊引起的 (請檢察 "不可放置的方�
 ### 如何解決這個 (第一階段)
 
 移除任何在漂浮文字下方的調節器/核心, 然後靠近他並以管理員身分運行:
-> /execute as <你的遊戲ID> at @s run execute as @e[type=armor_stand,nbt={Invisible:1b},distance=..3] run data merge entity @s {Invisible:0}
+>/execute as <你的遊戲ID> at @s run execute as @e[type=armor_stand,nbt={Invisible:1b},distance=..3] run data merge entity @s {Invisible:0}
 
 你現在可以直接用手打掉盔座. 你可能需要打好幾次, 因為它們可能已經升成了一些並堆疊在一起, 這取決於你所使用的插件.
 
@@ -39,7 +39,7 @@ _注意: 請確保這不是由鬼方塊引起的 (請檢察 "不可放置的方�
 ### How to fix this (Stage 2)
 
 Switch to spectator mode via
-> /gamemode spectator
+>/gamemode spectator
 
 You should see the invisible armor stand and better gauge where the feet are; using this information, place a new regulator just below the tag on the first block not occupied by the armor stand itself (get one via /sf cheat).
 
@@ -47,7 +47,8 @@ The regulator will try to place its own armor stand which will replace the corru
 
 ### How to fix this (Stage 3)
 
-If the hologram keeps respawning you're very likely to be dealing with a ghost block like the ones dealt with under Unplaceable blocks, with the only difference it's also spawning a hologram because it's one of the items listed up top. Simply follow the procedure to get rid of any ghost block and you should be golden.
+If the hologram keeps respawning you're very likely to be dealing with a ghost block like the ones dealt with under Unplaceable blocks, with the only difference it's also spawning a hologram because it's one of the items listed up top.
+Simply follow the procedure to get rid of any ghost block and you should be golden.
 
 ## Unplaceable blocks
 
@@ -58,7 +59,7 @@ This means a Slimefun item used to be placed there (usually an [android](/docs/s
 ### How to fix this (Isolated block)
 
 Get a debug fish by running the following as operator:
-> /sf debug_fish
+>/sf debug_fish
 
 _(Optional): Use the shift right click function to place a dummy head where the ghost block is and try to punch it out: if a Slimefun head drops you're sure to have a ghost block (the opposite is not necessarily true as the ghost Slimefun item could've been a full block and not a head, it's less likely though and just good to get a confirmation if possible)._
 
@@ -71,12 +72,12 @@ Punch out the dummy head.
 This is very similar to the procedure for isolated blocks: in this case instead of placing all the dummy heads one by one you can run WorldEdit commands to speed up the placing process.
 
 Use WorldEdit to select the cluster of blocks and its surroundings and execute:
-> //set stone
+>//set stone
 
 As per the isolated blocks procedure, shift right click all the incriminated spots to remove any data they may retain.
 
 Remove the stone by executing:
-> //undo
+>//undo
 
 ## Circuit Boards not dropping
 

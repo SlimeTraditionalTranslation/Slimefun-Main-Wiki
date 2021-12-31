@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -19,7 +19,7 @@ The [Electric Ingot Factory](/docs/slimefun/electric-ingot-factory) is the oppos
 
 ## Electric Ingot Pulverizer Tiers
 
-There is only one tier of the Electric Ingot Pulverizer and it has the following properties:
+There is only one tier of the Electric Ingot Pulverizer and it has the following properties:  
 
 **Speed multiplier**: 1.0x  
 **Power Usage**: 14 J/s  

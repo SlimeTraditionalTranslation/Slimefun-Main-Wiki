@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -28,14 +28,14 @@ A lava generator must be placed within 7 blocks of an [Energy Regulator](/docs/s
 There are currently two tiers of lava generators.
 
 | Tier | Energy | Buffer |
-|:----:|:------:|:------:|
-|  I   | 20 J/s | 512 J  |
-|  II  | 40 J/s | 1024 J |
+| :--: | :----: | :----: |
+| I    | 20 J/s | 512 J  |
+| II   | 40 J/s | 1024 J |
 
 ## Fuel
 
 This generator can only be fueled with lava buckets.
 
 | Fuel        | Burning time | Total (Tier I) | Total (Tier II) |
-|:----------- |:------------:|:--------------:|:---------------:|
-| Lava Bucket |     40s      |     800 J      |     1.6 kJ      |
+| :---------- | :----------: | :------------: | :-------------: |
+| Lava Bucket | 40s          | 800 J          | 1.6 kJ          |

@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -19,6 +19,6 @@ It achieves this by using [Duct Tape](/docs/slimefun/miscellaneous-items) to rep
 ## Auto Anvil Tiers
 
 | Machine          | Repairing Efficiency | Power Usage |
-|:---------------- |:--------------------:|:-----------:|
-| Auto Anvil       |         10%          |   24 J/s    |
-| Auto Anvil Mk.II |         25%          |   32 J/s    |
+| :--------------- | :------------------: | :--------: |
+| Auto Anvil       | 10%                  | 24 J/s      |
+| Auto Anvil Mk.II | 25%                  | 32 J/s      |

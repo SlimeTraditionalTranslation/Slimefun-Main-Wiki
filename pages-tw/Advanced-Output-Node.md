@@ -5,15 +5,16 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
 toc: false
 ---
 
-An Advanced Output Node is a component of a [cargo network](/docs/slimefun/cargo-management) which can receive items sent by [input nodes](/docs/slimefun/input-node).<br> It is a more complex type of [output node](/docs/slimefun/output-node), with additional settings to filter items.
+An Advanced Output Node is a component of a [cargo network](/docs/slimefun/cargo-management) which can receive items sent by [input nodes](/docs/slimefun/input-node).<br>
+It is a more complex type of [output node](/docs/slimefun/output-node), with additional settings to filter items.
 
 ## Obtaining
 

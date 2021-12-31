@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-basic-machines"
 weight: 120
@@ -21,9 +21,10 @@ You can use it to turn logs into 8 planks instead of the normal 4 you would get 
 
 The recipe is already found in your Slimefun Guide, but here is the final version:
 
-<img src="/slimefun-images/multiblock-table-saw.png" alt="Table Saw Setup" />
+<img src="/slimefun-images/multiblock-table-saw.png" alt="Table Saw Setup">
 
-You can also place an [Output Chest](/docs/slimefun/output-chest) next to the Stonecutter to catch your crafted Items. Otherwise your planks will be dropped on top of the Stonecutter.
+You can also place an [Output Chest](/docs/slimefun/output-chest) next to the Stonecutter to catch your crafted Items.
+Otherwise your planks will be dropped on top of the Stonecutter.
 
 ## How to use the Table Saw
 

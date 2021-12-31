@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -126,13 +126,15 @@ Hard and sensitive topics should be kept away from our main channels.
 
 Sensitive topics that are considered mature or could spark a lot of controversy should be moved to `#sensitive-topics`, see the channel-specific rules for this further down the page.
 
-This channel is not execluded from our rules, we also moderate in that channel. All rules still apply, discrimination, nudity or other inappropriate content will still be inappropriate. We also don't encourage you to make jokes about suicide, drug abuse, drinking problems or other very serious topics.
+This channel is not execluded from our rules, we also moderate in that channel. All rules still apply, discrimination, nudity or other inappropriate content will still be inappropriate.
+We also don't encourage you to make jokes about suicide, drug abuse, drinking problems or other very serious topics.
 
 If you are in need of help, we recommend you to seek it, those are very serious topics and should not be joked about.
 
 ### 11. Other
 
-The staff at their own discretion if there be a need can take appropriate action. Please have some common sense and general respect if you wish to not fall under this rule.
+The staff at their own discretion if there be a need can take appropriate action.
+Please have some common sense and general respect if you wish to not fall under this rule.
 
 ## Channel-specific Rules
 
@@ -168,7 +170,8 @@ Topics that are sensitive and should only ever be mentioned in this channel only
 
 This channel is for suggesting stuff that should be added to Slimefun or for addon ideas.
 
-If your suggestion reaches a certain amount of upvotes within a week, or one of our admins really likes your idea, then it will be moved to `#approved`. If your suggestion is too broadly worded or reaches a lot of downvotes, it will be automatically deleted.
+If your suggestion reaches a certain amount of upvotes within a week, or one of our admins really likes your idea, then it will be moved to `#approved`.
+If your suggestion is too broadly worded or reaches a lot of downvotes, it will be automatically deleted.
 
 Try to make your suggestion as detailed as possible.
 
@@ -267,27 +270,31 @@ Please adhere to the designated channel rules when posting!
 
 ### Kicking you from the Server
 
-If we consider your profile a violation of our rules (e.g. inappropriate names, profile pictures or statuses), we may kick you from the Server. We will also consider kicking you from the server as a final warning before issuing a ban.
+If we consider your profile a violation of our rules (e.g. inappropriate names, profile pictures or statuses), we may kick you from the Server.
+We will also consider kicking you from the server as a final warning before issuing a ban.
 
 ## Banning you from the Server
 
-A Ban is the final form of punishment. After you are banned you will no longer be able to join our discord server. We will only issue a ban if we see it as absolutely necessary. Other forms of punishment usually proceed this too.
+A Ban is the final form of punishment. After you are banned you will no longer be able to join our discord server.
+We will only issue a ban if we see it as absolutely necessary.
+Other forms of punishment usually proceed this too.
 
 ## Discord Roles
 
-Our Discord server has a lot of roles too, some are considered staff, some are earned or self-given. Here is a complete list
+Our Discord server has a lot of roles too, some are considered staff, some are earned or self-given.
+Here is a complete list
 
-| Role            | Type                                                   | Permissions                      |
-| --------------- | ------------------------------------------------------ | -------------------------------- |
-| **Admin**       | **Staff member**                                       | **Everything**                   |
-| **Moderator**   | **Staff member**                                       | **Warnings, mutes and kicks**    |
-| **Helper**      | **Staff member on trial**                              | **Warnings**                     |
-| Artist          | You contributed to Slimefun via Artwork                | -                                |
-| Contributor     | You contributed to Slimefun via Code                   | -                                |
-| Translator      | You contributed to Slimefun via Translations           | -                                |
-| Wiki Editor     | You contributed to Slimefun via Wiki Articles          | -                                |
-| *Nitro Booster* | *You boosted our Server with Nitro*                    | *Custom Emojis and Reactions*    |
-| *Helpful*       | *You can mark yourself as helpful by doing `!helpful`* | *Everyone is allowed to tag you* |
+| Role | Type | Permissions |
+| ------ | ---------- | --------------------- |
+| **Admin** | **Staff member** | **Everything** |
+| **Moderator** | **Staff member** | **Warnings, mutes and kicks** |
+| **Helper** | **Staff member on trial** | **Warnings** |
+| Artist | You contributed to Slimefun via Artwork | - |
+| Contributor | You contributed to Slimefun via Code | - |
+| Translator | You contributed to Slimefun via Translations | - |
+| Wiki Editor | You contributed to Slimefun via Wiki Articles | - |
+| *Nitro Booster* | *You boosted our Server with Nitro* | *Custom Emojis and Reactions* |
+| *Helpful* | *You can mark yourself as helpful by doing `!helpful`* | *Everyone is allowed to tag you* |
 
 ## See also
 

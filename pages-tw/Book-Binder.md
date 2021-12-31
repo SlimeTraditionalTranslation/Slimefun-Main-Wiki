@@ -5,15 +5,15 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
 toc: false
 ---
 
-The Book Binder is an [Electric Machine](/docs/slimefun/electric-machines) which can be used to combine different books together (much like an anvil would).
+The Book Binder is an [Electric Machine](/docs/slimefun/electric-machines) which can be used to combine different books together (much like an anvil would).  
 
 ## Book Binder Tiers
 

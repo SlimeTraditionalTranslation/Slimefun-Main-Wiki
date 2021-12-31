@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-main"
 weight: 70
@@ -27,7 +27,7 @@ Alright, first you need to head over to [this Wiki's GitHub repository](https://
 
 After that you just have to hit the "Fork" button in top right corner and you are done for Step number one.
 
-<img src="/slimefun-images/github-tutorial-fork.png" alt="GitHub Fork Button" />
+<img src="/slimefun-images/github-tutorial-fork.png" alt="GitHub Fork Button">
 
 ## Step 2: Making your changes
 
@@ -41,11 +41,11 @@ Now you can choose whether you want to create a new File or edit an existing Fil
 
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the folder called "pages".
 
-<img src="/slimefun-images/github-tutorial-pages.png" alt="Pages directory" />
+<img src="/slimefun-images/github-tutorial-pages.png" alt="Pages directory">
 
 Now click on the button "Create new File".
 
-<img src="/slimefun-images/github-tutorial-new-file.png" alt="New File Button" />
+<img src="/slimefun-images/github-tutorial-new-file.png" alt="New File Button">
 
 File names have to follow the following conditions:
 
@@ -67,13 +67,13 @@ If you need to embed images, please jump to [Step 2.3: Uploading images](#23-upl
 
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the folder called "pages".
 
-<img src="/slimefun-images/github-tutorial-pages.png" alt="Pages directory" />
+<img src="/slimefun-images/github-tutorial-pages.png" alt="Pages directory">
 
 Now open up any of the ".md" files you see in that folder.
 
 To edit this page, simply click on the "edit"-icon.
 
-<img src="/slimefun-images/github-tutorial-edit.png" alt="Edit File Button" />
+<img src="/slimefun-images/github-tutorial-edit.png" alt="Edit File Button">
 
 Now you can edit that page's content.
 
@@ -87,19 +87,21 @@ If you need to embed images, please jump to [Step 2.3: Uploading images](#23-upl
 
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the folder called "images".
 
-<img src="/slimefun-images/github-tutorial-images.png" alt="Images directory" />
+<img src="/slimefun-images/github-tutorial-images.png" alt="Images directory">
 
 Now click on the button "Upload files".
 
-<img src="/slimefun-images/github-tutorial-upload-image.png" alt="Upload files button" />
+<img src="/slimefun-images/github-tutorial-upload-image.png" alt="Upload files button">
 
-Make sure that all your images use the PNG image format and have proper names. The names should be in lower case, contain no spaces and use hyphens to seperate words. Examples: "enhanced-crafting-table.png", "gold-pan-usage.png", "exoticgarden-apple-tree.png".
+Make sure that all your images use the PNG image format and have proper names.
+The names should be in lower case, contain no spaces and use hyphens to seperate words.
+Examples: "enhanced-crafting-table.png", "gold-pan-usage.png", "exoticgarden-apple-tree.png".
 
 Drag and drop the images you want to upload onto the grey area and hit "Commit changes".
 
 Now you can use your image in any page using the following code snippet:
 
-`![image label](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/FILE_NAME)`
+```![image label](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/FILE_NAME)```
 
 Replace FILE_NAME with the name of your file (e.g. "enhanced-crafting-table.png") and give the name a short description in the "image label" field.
 
@@ -135,11 +137,11 @@ Whenever you edit/create pages on the wiki, follow the following guidelines.
 
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the "Pull Requests" tab.
 
-<img src="/slimefun-images/github-tutorial-pr-tab.png" alt="Pull Requests Tab" />
+<img src="/slimefun-images/github-tutorial-pr-tab.png" alt="Pull Requests Tab">
 
 Now all you have to do is click on the bright green button that says "New pull request".
 
-<img src="/slimefun-images/github-tutorial-pr-button.png" alt="New Pull Request Button" />
+<img src="/slimefun-images/github-tutorial-pr-button.png" alt="New Pull Request Button">
 
 Then click on the next "New pull request" button and fill out the description for your pull request.
 
@@ -151,7 +153,8 @@ Thanks for contributing to the Slimefun4 wiki!
 
 ## Step 5: Making changes to your Pull Request
 
-If you have already submitted a pull request but want to make a change to your files, you can do that. Just repeat [Step 2](#step-2-making-your-changes).
+If you have already submitted a pull request but want to make a change to your files, you can do that.
+Just repeat [Step 2](#step-2-making-your-changes).
 
 The pull request will automatically update to include new changes until it has been merged/closed.
 

@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-developer-guides"
 weight: 80
@@ -84,7 +84,8 @@ Now you might notice that the last two parameters are still missing.
 
 We don't want our item to be crafted, we want it to be obtained using the GEO Miner and also show that in the guide.
 
-For this we can use the recipe type `RecipeType.GEO_MINER`. However... having this RecipeType will **not** add our item to the GEO Miner automatically, we still have to do that in the next step.
+For this we can use the recipe type `RecipeType.GEO_MINER`.
+However... having this RecipeType will **not** add our item to the GEO Miner automatically, we still have to do that in the next step.
 
 This Recipe Type only functions as a "display item", to inform users on how to obtain it. Therefore we don't really need a recipe either.
 
@@ -125,7 +126,8 @@ public class EnderOreResource implements GEOResource {
 
 Your IDE will probably start warning you about missing methods at this point.
 
-Whenever you implement an interface you will also have to implement its methods. You can see all methods from GEOResource on our [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/io/github/thebusybiscuit/slimefun4/api/geo/GEOResource.html). We are gonna start simple, the first method we need to implement is `getName()`, so we implement that method and return the name of our resource.
+Whenever you implement an interface you will also have to implement its methods. You can see all methods from GEOResource on our [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/io/github/thebusybiscuit/slimefun4/api/geo/GEOResource.html).
+We are gonna start simple, the first method we need to implement is `getName()`, so we implement that method and return the name of our resource.
 
 ```java
 public class EnderOreResource implements GEOResource {
@@ -149,7 +151,7 @@ public class EnderOreResource implements GEOResource {
   public String getName() {
     return "Ender Ore";
   }
-
+  
   @Override
   public boolean isObtainableFromGEOMiner() {
     return true;
@@ -175,16 +177,16 @@ public class EnderOreResource implements GEOResource {
   public String getName() {
     return "Ender Ore";
   }
-
+  
   @Override
   public boolean isObtainableFromGEOMiner() {
     return true;
   }
-
+  
   @Override
   public int getDefaultSupply(Environment environment, Biome biome) {
     // Environment is actually the same as the World Type (NORMAL / NETHER / THE_END)
-
+    
     if (environment == Environment.THE_END) {
       return 20;
     }
@@ -192,7 +194,7 @@ public class EnderOreResource implements GEOResource {
       return 0;
     }
   }
-
+  
   @Override
   public int getMaxDeviation() {
     return 8;
@@ -217,7 +219,7 @@ Let's create a new constructor for this class at the top of the file:
 public class EnderOreResource implements GEOResource {
 
   public EnderOreResource() {
-
+    
   }
 
 // ... All our other methods come after this
@@ -231,7 +233,7 @@ So we just create two parameters, one being a Plugin, one an ItemStack.
 public class EnderOreResource implements GEOResource {
 
   public EnderOreResource(Plugin plugin, ItemStack item) {
-
+    
   }
 
 // ... All our other methods come after this
@@ -283,12 +285,12 @@ public class EnderOreResource implements GEOResource {
     this.key = new NamespacedKey(plugin, "ender_ore");
     this.item = item;
   }
-
+  
   @Override
   public NamespacedKey getKey() {
     return key;
   }
-
+  
   @Override
   public ItemStack getItem() {
     // It is important to add a .clone() here since we do not want
@@ -338,12 +340,12 @@ public class EnderOreResource implements GEOResource {
     this.key = new NamespacedKey(plugin, "ender_ore");
     this.item = item;
   }
-
+  
   @Override
   public NamespacedKey getKey() {
     return key;
   }
-
+  
   @Override
   public ItemStack getItem() {
     // It is important to add a .clone() here since we do not want
@@ -355,16 +357,16 @@ public class EnderOreResource implements GEOResource {
   public String getName() {
     return "Ender Ore";
   }
-
+  
   @Override
   public boolean isObtainableFromGEOMiner() {
     return true;
   }
-
+  
   @Override
   public int getDefaultSupply(Environment environment, Biome biome) {
     // Environment is actually the same as the World Type (NORMAL / NETHER / THE_END)
-
+    
     if (environment == Environment.THE_END) {
       return 20;
     }
@@ -372,7 +374,7 @@ public class EnderOreResource implements GEOResource {
       return 0;
     }
   }
-
+  
   @Override
   public int getMaxDeviation() {
     return 8;

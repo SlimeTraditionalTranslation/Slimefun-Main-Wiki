@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -18,7 +18,7 @@ This is an End-Game machine and should be handled cautiously.
 
 ## Tiers
 
-It currently only comes in one tier.
+It currently only comes in one tier.  
 
 **Buffer:** 4096 J  
 **Power Usage:** 4096 J/wither  

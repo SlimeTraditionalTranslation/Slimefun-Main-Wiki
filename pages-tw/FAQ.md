@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-main"
 weight: 80
@@ -36,7 +36,8 @@ Ok, first things first, join our [Support Server](https://discord.gg/fsD4Bkh) if
 
 Now, send us the following information (in the `#bug-discussions` channel):
 
-1. Run /sf versions and send us a screenshot. We need the exact versions you are using, otherwise, we will not be able to help you. "latest" is not helping us at all. So please run that command. (If you don't have access to this command then Shift-Right-Click your Slimefun Guide, you can find your versions in the uppermost middle slot.)
+1. Run /sf versions and send us a screenshot. We need the exact versions you are using, otherwise, we will not be able to help you.
+"latest" is not helping us at all. So please run that command. (If you don't have access to this command then Shift-Right-Click your Slimefun Guide, you can find your versions in the uppermost middle slot.)
 
 2. Check your console, are there any errors? (If so, then post them via <https://pastebin.com/>)
 

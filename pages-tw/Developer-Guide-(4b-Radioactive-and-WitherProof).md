@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-developer-guides"
 weight: 50
@@ -33,33 +33,33 @@ To achieve this we introduced classes, more specifically we taught you how to cr
 
 ```java
 public class FireCake extends SlimefunItem {
-
+    
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-
+    
     @Override
     public void preRegister() {
         BlockUseHandler blockUseHandler = this::onBlockRightClick;
         addItemHandler(blockUseHandler);
-
+        
         ItemUseHandler itemUseHandler = this::onItemRightClick;
         addItemHandler(itemUseHandler);
     }
-
+    
     private void onBlockRightClick(PlayerRightClickEvent event) {
         // This will prevent the Player from eating this cake.
         event.cancel();
         // Now set the Player on fire for 5 seconds
         event.getPlayer().setFireTicks(5 * 20);
     }
-
+    
     private void onItemUseRightClick(PlayerRightClickEvent event) {
         // Calling event.cancel() in here would prevent the cake
         // from being placed down.
         event.getPlayer().giveExpLevels(1);
     }
-
+    
 }
 ```
 
@@ -85,13 +85,13 @@ Let's implement the `Radioactive` interface. Now your code may look like this:
 
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
-
+    
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-
+    
     // ...
-
+    
 }
 ```
 
@@ -105,24 +105,25 @@ In the case of `Radioactive`, there is only one method: `getRadioactivity()`. Im
 
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
-
+    
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-
+    
     @Override
     public Radioactivity getRadiation() {
       // ?
     }
-
+    
     // ...
-
+    
 }
 ```
 
 Now we need to give the method something to do.
 
-This method expects us to return a value of the type `Radioactivity`. `Radioactivity` is an enum. Enums (or "Enumerations") are a type of class that cannot be created that easily.
+This method expects us to return a value of the type `Radioactivity`.
+`Radioactivity` is an enum. Enums (or "Enumerations") are a type of class that cannot be created that easily.
 
 An enum has a limited amount of possible states and each state is saved as a constant, accessible via `EnumName.CONSTANT_NAME`.
 
@@ -132,18 +133,18 @@ We are just gonna choose the level HIGH for now. We can simply return that const
 
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
-
+    
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-
+    
     @Override
     public Radioactivity getRadiation() {
         return Radioactivity.HIGH;
     }
-
+    
     // ...
-
+    
 }
 ```
 
@@ -187,7 +188,8 @@ There is a static method called `LoreBuilder.radioactive(...)` which takes a con
 
 We can use that to create a string that warns about radioactivity. This will be the same string that Slimefun's standard items use.
 
-If you wanted to go one step further you could also use the static constant `LoreBuilder.HAZMAT_SUIT_REQUIRED` which will warn them to wear a Hazmat Suit. Let's do that.
+If you wanted to go one step further you could also use the static constant `LoreBuilder.HAZMAT_SUIT_REQUIRED` which will warn them to
+wear a Hazmat Suit. Let's do that.
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
@@ -227,34 +229,35 @@ Let's go back to our class and implement that interface too. You can seperate in
 
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
-
+    
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-
+    
     // ...
-
+    
 }
 ```
 
 Now your process will be the same, WitherProof also has a method it requires to be implemented.
 
-The method is called `onAttack()` and it will be run whenever a Wither tried to destroy this block. Solely implementing that interface will already prevent that though. So with that method generated, the code will look like this.
+The method is called `onAttack()` and it will be run whenever a Wither tried to destroy this block. Solely implementing that interface will already prevent that though.
+So with that method generated, the code will look like this.
 
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
-
+    
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-
+    
     @Override
     public void onAttack(Block block, Wither wither) {
-
+    
     }
-
+    
     // ...
-
+    
 }
 ```
 
@@ -268,18 +271,18 @@ or even better... Let's instantly kill any Wither that tries to eat our precious
 
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
-
+    
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-
+    
     @Override
     public void onAttack(Block block, Wither wither) {
         wither.setHealth(0);
     }
-
+    
     // ...
-
+    
 }
 ```
 
@@ -289,43 +292,43 @@ Now just to recapture everything, here is the full code of our `FireCake` class.
 
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
-
+    
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-
+    
     @Override
     public Radioactivity getRadiation() {
         return Radioactivity.HIGH;
     }
-
+    
     @Override
     public void onAttack(Block block, Wither wither) {
         wither.setHealth(0);
     }
-
+    
     @Override
     public void preRegister() {
         BlockUseHandler blockUseHandler = this::onBlockRightClick;
         addItemHandler(blockUseHandler);
-
+        
         ItemUseHandler itemUseHandler = this::onItemRightClick;
         addItemHandler(itemUseHandler);
     }
-
+    
     private void onBlockRightClick(PlayerRightClickEvent event) {
         // This will prevent the Player from eating this cake.
         event.cancel();
         // Now set the Player on fire for 5 seconds
         event.getPlayer().setFireTicks(5 * 20);
     }
-
+    
     private void onItemUseRightClick(PlayerRightClickEvent event) {
         // Calling event.cancel() in here would prevent the cake
         // from being placed down.
         event.getPlayer().giveExpLevels(1);
     }
-
+    
 }
 ```
 

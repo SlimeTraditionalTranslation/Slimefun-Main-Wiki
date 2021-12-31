@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-developer-guides"
 weight: 40
@@ -81,7 +81,8 @@ In Java or any other object-oriented programming language, classes can inherit f
 
 You can think of a class as a template for objects. The `SlimefunItem` class is basically a template for any item we will create.
 
-Now we created our own class which makes this a completely new template for objects. However we can extend the `SlimefunItem` template which will make sure items that use our class have all the same functionality as an item created from the `SlimefunItem` class.
+Now we created our own class which makes this a completely new template for objects. However we can extend the `SlimefunItem` template which will
+make sure items that use our class have all the same functionality as an item created from the `SlimefunItem` class.
 
 Likewise, your plugin's main class is just an *extension* of Bukkit's JavaPlugin class, the template for all plugins.
 
@@ -111,17 +112,18 @@ If we think back of our previous code, the constructor looked like this:
 new SlimefunItem(itemGroup, itemStack, recipeType, recipe);
 ```
 
-With our new class we can simply copy this constructor and pass all arguments onto the constructor of our parent class. *Tip: Parent classes are usually referred to as "super classes" and their constructors as "super constructors"*
+With our new class we can simply copy this constructor and pass all arguments onto the constructor of our parent class.
+*Tip: Parent classes are usually referred to as "super classes" and their constructors as "super constructors"*
 
 We simply use the `super` keyword for this and pass on the arguments, the constructor will look like this now:
 
 ```java
 public class FireCake extends SlimefunItem {
-
+    
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-
+    
 }
 ```
 
@@ -169,11 +171,11 @@ To add our ItemHandler, we go back to our custom item class.
 
 ```java
 public class FireCake extends SlimefunItem {
-
+    
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-
+    
 }
 ```
 
@@ -185,16 +187,16 @@ Note that overridden methods should have an `@Override` annotation as seen here:
 
 ```java
 public class FireCake extends SlimefunItem {
-
+    
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-
+    
     @Override
     public void preRegister() {
         // We will add our Item Handlers right here.
     }
-
+    
 }
 ```
 
@@ -202,7 +204,8 @@ You can add as many Item Handlers as you want but be careful, some handlers have
 
 You can for example only add a BowShootingHandler to a bow, not to any other item.
 
-The ItemHandler we are going to choose is the following: `BlockUseHandler`, the BlockUseHandler is called when a Player right-clicks our block. Similarly the `ItemUseHandler` is called when a Player right-clicks with this item in his hand.
+The ItemHandler we are going to choose is the following: `BlockUseHandler`, the BlockUseHandler is called when a Player right-clicks our block.
+Similarly the `ItemUseHandler` is called when a Player right-clicks with this item in his hand.
 
 Now we will jump into the `preRegister()` method.
 
@@ -275,21 +278,21 @@ The full code now looks like this.
 
 ```java
 public class FireCake extends SlimefunItem {
-
+    
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-
+    
     @Override
     public void preRegister() {
         BlockUseHandler blockUseHandler = this::onBlockRightClick;
         addItemHandler(blockUseHandler);
     }
-
+    
     private void onBlockRightClick(PlayerRightClickEvent event) {
-
+    
     }
-
+    
 }
 ```
 
@@ -337,33 +340,33 @@ Let's be nice and give the Player 1 XP level when he right clicks with the cake 
 
 ```java
 public class FireCake extends SlimefunItem {
-
+    
     public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
     }
-
+    
     @Override
     public void preRegister() {
         BlockUseHandler blockUseHandler = this::onBlockRightClick;
         addItemHandler(blockUseHandler);
-
+        
         ItemUseHandler itemUseHandler = this::onItemRightClick;
         addItemHandler(itemUseHandler);
     }
-
+    
     private void onBlockRightClick(PlayerRightClickEvent event) {
         // This will prevent the Player from eating this cake.
         event.cancel();
         // Now set the Player on fire for 5 seconds
         event.getPlayer().setFireTicks(5 * 20);
     }
-
+    
     private void onItemUseRightClick(PlayerRightClickEvent event) {
         // Calling event.cancel() in here would prevent the cake
         // from being placed down.
         event.getPlayer().giveExpLevels(1);
     }
-
+    
 }
 ```
 

@@ -5,19 +5,21 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-weapons"
 weight: 70
 toc: true
 ---
 
-Among the [Weapons](/docs/slimefun/weapons) it adds, Slimefun introduces three new bows: the Soulbound Bow, the Explosive Bow, and the Icy Bow.<br> They each have special properties and may be enchanted like any other Bow.
+Among the [Weapons](/docs/slimefun/weapons) it adds, Slimefun introduces three new bows: the Soulbound Bow, the Explosive Bow, and the Icy Bow.<br>
+They each have special properties and may be enchanted like any other Bow.
 
 ## 靈魂綁定弓
 
-The Soulbound Bow remains in your inventory upon death.<br> *See also: [Soulbound Weapons](/docs/slimefun/soulbound-weapons)*
+The Soulbound Bow remains in your inventory upon death.<br>
+*See also: [Soulbound Weapons](/docs/slimefun/soulbound-weapons)*
 
 ## 爆裂弓
 

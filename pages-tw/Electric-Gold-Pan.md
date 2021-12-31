@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -20,7 +20,7 @@ Unlike the [Electric Dust Washer](/docs/slimefun/electric-dust-washer) it still 
 ## Electric Gold Pan Tiers
 
 | Tier | Power  | Speed Multiplier |
-|:----:|:------:|:----------------:|
-|  I   | 2 J/s  |       1.0x       |
-|  II  | 4 J/s  |       3.0x       |
-| III  | 14 J/s |      10.0x       |
+| :--: | :----: | :--------------: |
+| I    | 2 J/s  | 1.0x             |
+| II   | 4 J/s  | 3.0x             |
+| III  | 14 J/s | 10.0x            |

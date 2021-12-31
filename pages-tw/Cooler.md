@@ -5,15 +5,16 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-items"
 weight: 60
 toc: false
 ---
 
-The Cooler is an [Item](/docs/slimefun/items) that has a unique use.<br> It allows you to carry Juices and automatically consume them when your Player gets hungry.
+The Cooler is an [Item](/docs/slimefun/items) that has a unique use.<br>
+It allows you to carry Juices and automatically consume them when your Player gets hungry.
 
 ## Obtaining
 

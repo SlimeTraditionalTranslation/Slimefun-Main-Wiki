@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-basic-machines"
 weight: 60
@@ -21,7 +21,7 @@ The Compressor is a multiblock structure, it consists of a dispenser, a nether b
 
 A complete setup should look like this:
 
-<img src="/slimefun-images/multiblock-compressor.png" alt="Compressor Setup" />
+<img src="/slimefun-images/multiblock-compressor.png" alt="Compressor Setup">
 
 You can also place an [Output Chest](/docs/slimefun/output-chest) next to the dispenser to collect your compressed items. If there is no [Output Chest](/docs/slimefun/output-chest), then it will be put in the dispenser.
 

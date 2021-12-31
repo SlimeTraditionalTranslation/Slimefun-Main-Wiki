@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -14,7 +14,7 @@ toc: false
 ---
 
 Reactors are a way to [Generate Energy](/docs/slimefun/electric-machines) fast and efficiently.  
-There are currently two types of Reactors. Both of these require to be surrounded by water next to the reactor. Below and above are not necessary.
+There are currently two types of Reactors. Both of these require to be surrounded by water next to the reactor. Below and above are not necessary.  
 
 ## Reactor Access Port
 
@@ -25,13 +25,13 @@ This provides an easy way to add Fuel/Coolant or take some of the byproduct.
 ## Reactor Types
 
 | Type                | Power  | Buffer | Fuel                                | Cooling                  | Side Effects                 |
-|:------------------- |:------:|:------:| ----------------------------------- | ------------------------ | ---------------------------- |
+| :------------------ | :----: | :----: | ----------------------------------- | ------------------------ | ---------------------------- |
 | Nuclear Reactor     | 16 J/s |  1.0x  | Neptunium, Uranium, Boosted Uranium | Reactor Coolant Cells    | N/A                          |
 | Nether Star Reactor | 40 J/s |  3.0x  | Nether Stars                        | Nether Ice Coolant Cells | Nearby Entities get Withered |
 
 ## Example Setup
 
-<img src="/slimefun-images/multiblock-reactor.png" alt="Reactor Setup" />
+<img src="/slimefun-images/multiblock-reactor.png" alt="Reactor Setup">
 
 In the center you see the Reactor, surrounded by water. Three blocks above you can see the Reactor Access Port.
 

@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -20,7 +20,7 @@ The Auto Breeder still respects the vanilla breeding time.
 
 ## Auto Breeder Tiers
 
-There is only one tier of the Auto Breeder and it has the following properties:
+There is only one tier of the Auto Breeder and it has the following properties:  
 
 **Power Usage**: 60 J/Animal  
 **Buffer**: 1024 J

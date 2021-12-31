@@ -5,17 +5,20 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-main"
 weight: 10
 toc: true
 ---
 
-歡迎來到Slimefun4's的新版與改進過的Wiki! 舊的Wiki出於明顯的原因而被廢棄, 這個Wiki以您和社區為中心. 因此, 對Wiki的貢獻是非常感謝!
+歡迎來到Slimefun4's的新版與改進過的Wiki!
+舊的Wiki出於明顯的原因而被廢棄, 這個Wiki以您和社區為中心.
+因此, 對Wiki的貢獻是非常感謝!
 
-**請注意 此非為黏液科技官方Wiki** 官方Wiki [請點我](https://github.com/Slimefun/Slimefun4) 此Wiki還正在進行翻譯中! 如果有翻譯錯誤 或者導向錯誤 請多見諒.
+**請注意 此非為黏液科技官方Wiki** 官方Wiki [請點我](https://github.com/Slimefun/Slimefun4)
+此Wiki還正在進行翻譯中! 如果有翻譯錯誤 或者導向錯誤 請多見諒.
 
 ## **此頁面仍在重新 建構 / 分類 / 整理**
 

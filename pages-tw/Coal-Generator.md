@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -21,7 +21,7 @@ All tiers of coal generators can be crafted in an [Enhanced Crafting Table](/doc
 
 ## Usage
 
-A coal generator must be placed within 7 blocks of an [Energy Regulator](/docs/slimefun/energy-regulator), an [Energy Connector](/docs/slimefun/energy-connector), or an [Energy Capacitor](/docs/slimefun/energy-capacitors) in a cross format (not diagonally), and provided with the appropriate fuel.
+A coal generator must be placed within 7 blocks of an [Energy Regulator](/docs/slimefun/energy-regulator), an [Energy Connector](/docs/slimefun/energy-connector), or an [Energy Capacitor](/docs/slimefun/energy-capacitors) in a cross format (not diagonally), and provided with the appropriate fuel.  
 
 ## Tiers
 

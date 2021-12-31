@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-basic-machines"
 weight: 80
@@ -22,9 +22,10 @@ It is not only used to smelt dusts into Ingots but also for making Alloys.
 
 The recipe is already found in your Slimefun Guide, but here is the final version:
 
-<img src="/slimefun-images/multiblock-smeltery.png" alt="Smeltery Setup" />
+<img src="/slimefun-images/multiblock-smeltery.png" alt="Smeltery Setup">
 
-You can also place an [Output Chest](/docs/slimefun/output-chest) next to the dispenser to catch your crafted Items. Without an [Output Chest](/docs/slimefun/output-chest), the items will just land back in the dispenser.
+You can also place an [Output Chest](/docs/slimefun/output-chest) next to the dispenser to catch your crafted Items.
+Without an [Output Chest](/docs/slimefun/output-chest), the items will just land back in the dispenser.
 
 ## How to use the Smeltery
 

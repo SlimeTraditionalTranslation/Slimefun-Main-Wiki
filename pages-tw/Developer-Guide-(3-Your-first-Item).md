@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-developer-guides"
 weight: 30
@@ -29,23 +29,23 @@ package ...;
 import ...;
 
 public class SlimefunAddon extends JavaPlugin implements SlimefunAddon {
-
+ 
     @Override
     public void onEnable() {
         Config cfg = new Config(this);
         // ...
     }
-
+ 
     @Override
     public void onDisable() {
         // Logic for disabling the plugin...
     }
-
+ 
     @Override
     public JavaPlugin getJavaPlugin() {
         return this;
     }
-
+ 
     @Override
     public String getBugTrackerURL() {
         return null;
@@ -186,7 +186,8 @@ For the lore I left the first line empty, this is not required but consistent wi
 
 ### The recipe
 
-For the `RecipeType`, we will simply go with the standard: `RecipeType.ENHANCED_CRAFTING_TABLE`. This means that our item is crafted in an Enhanced Crafting Table. We may go into more details on how Recipe Types work, but that may be in a later tutorial.
+For the `RecipeType`, we will simply go with the standard: `RecipeType.ENHANCED_CRAFTING_TABLE`. This means that our item is crafted in an Enhanced Crafting Table.
+We may go into more details on how Recipe Types work, but that may be in a later tutorial.
 
 Now for the actual Recipe, for the Recipe we will use an ItemStack Array of the length 9:
 
@@ -196,7 +197,8 @@ ItemStack[] recipe = {...};
 
 The length of 9 represents the 3x3 slots found in the dispenser of an Enhanced Crafting Table.
 
-We will simply use an X made out of diamonds for the recipe in this tutorial. You are of course free to come up with any recipe you can imagine.
+We will simply use an X made out of diamonds for the recipe in this tutorial.
+You are of course free to come up with any recipe you can imagine.
 
 ```java
 ItemStack[] recipe = {
@@ -272,7 +274,9 @@ sfItem.register(this);
 
 You can also create a `SeasonalItemGroup` or a `LockedItemGroup` instead of a generic `ItemGroup`.
 
-These types of item groups require a specified item group tier. This integer roughly determines the position of the item group inside Slimefun guide. The guide starts populating with tier 1 and onwards. The other criteria is the order of registering (creation of `ItemGroup` object).
+These types of item groups require a specified item group tier. This integer roughly determines the position
+of the item group inside Slimefun guide. The guide starts populating with tier 1 and onwards. The other criteria
+is the order of registering (creation of `ItemGroup` object).
 
 * Seasonal item groups are hidden throughout the whole year except for 1 specific month.
 

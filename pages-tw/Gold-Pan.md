@@ -5,15 +5,16 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
 toc: false
 ---
 
-The Gold Pan is a very important item that is part of the [Tools](/docs/slimefun/tools) category. There are two variants, the normal Gold Pan and the [Nether Gold Pan](/docs/slimefun/nether-gold-pan).
+The Gold Pan is a very important item that is part of the [Tools](/docs/slimefun/tools) category.
+There are two variants, the normal Gold Pan and the [Nether Gold Pan](/docs/slimefun/nether-gold-pan).
 
 This page will only cover the standard Gold Pan.
 
@@ -29,12 +30,12 @@ You can read more about [Sifted Ore](/docs/slimefun/sifted-ore) and how to use i
 
 Each item you can get with a Gold Pan has a different probability to drop, listed below.
 
-| Item                                    | Chance |
-| --------------------------------------- | ------ |
-| Flint                                   | 40%    |
-| [Sifted Ore](/docs/slimefun/sifted-ore) | 35%    |
-| Clay                                    | 20%    |
-| Iron Nugget                             | 5%     |
+| Item | Chance |
+| ---- | ------ |
+| Flint | 40% |
+| [Sifted Ore](/docs/slimefun/sifted-ore) | 35% |
+| Clay | 20% |
+| Iron Nugget | 5% |
 
 ## Automating your Gold Pan
 

@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -20,4 +20,5 @@ It stores the exp in [Flasks of Knowledge](/docs/slimefun/flask-of-knowledge).
 
 The EXP-Collector currently only has one tier.
 
-**Power Usage:** 20 J/s **Power Buffer:** 1024 J
+**Power Usage:** 20 J/s
+**Power Buffer:** 1024 J

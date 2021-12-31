@@ -5,15 +5,16 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
 toc: false
 ---
 
-Plutonium is a [Resource](/docs/slimefun/resources) that can be used to power [Nuclear Reactors](/docs/slimefun/electric-machines#energy-generation) or to create even better radioactive fuels.
+Plutonium is a [Resource](/docs/slimefun/resources) that can be used to power
+[Nuclear Reactors](/docs/slimefun/electric-machines#energy-generation) or to create even better radioactive fuels.
 
 ## Obtaining
 

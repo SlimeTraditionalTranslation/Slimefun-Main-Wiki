@@ -5,21 +5,25 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-addons-jam"
 weight: 10
 toc: false
 ---
 
-This is the first ever Addon Jam we hosted but hopefully not the last.<br> Here are some general stats about the contest.
+This is the first ever Addon Jam we hosted but hopefully not the last.<br>
+Here are some general stats about the contest.
 
-| Theme                  | Duration               | Participants | Reviewers |
-| ---------------------- | ---------------------- | ------------ | --------- |
-| _Tapping into the End_ | April 3rd - April 12th | 6            | 2         |
+| Theme | Duration | Participants | Reviewers |
+| ----- | -------- | ------------ | --------- |
+| _Tapping into the End_ | April 3rd - April 12th | 6 | 2 |
 
-The Theme was intentionally vague and open for interpretation.<br> Teams or multiple submissions per user were allowed.<br> Everyone of the participants has agreed on having their full review published online.<br> The submissions are ordered by their score, so the first submission listed here has also achieved first place.
+The Theme was intentionally vague and open for interpretation.<br>
+Teams or multiple submissions per user were allowed.<br>
+Everyone of the participants has agreed on having their full review published online.<br>
+The submissions are ordered by their score, so the first submission listed here has also achieved first place.
 
 Every submission was reviewed by a total of 2 reviewers based on the following 6 categories:
 
@@ -44,11 +48,12 @@ The scores are calculated by taking the average of all scores by all reviewers f
 ## 1. Endrex by nahkd
 
 <https://github.com/nahkd123/Endrex>
-| Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
-| -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
+| Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
+| -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 9.6      | 9.05       | 8.0        | 4.75         | 7.65     | 7.6       | **7.78** |
 
-> This addon add some structures that can be generated in The End. It also add some resources that can be obtained via GEO Miner. <br>_by nahkd_
+> This addon add some structures that can be generated in The End. It also add some resources that can be obtained via GEO Miner.
+> <br>_by nahkd_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -73,16 +78,22 @@ The scores are calculated by taking the average of all scores by all reviewers f
 
 #### Conclusion
 
-Feature-wise this is really awesome but the Code Quality leaves a lot of room for improvement.<br> The idea of adding structures to the end was really good and on point with the theme.<br> This Addon adds a ton of items and content and introduces some really nice concepts.<br> But internally it lacks quite a bit of work and isn't the most user-friendly too. </details>
+Feature-wise this is really awesome but the Code Quality leaves a lot of room for improvement.<br>
+The idea of adding structures to the end was really good and on point with the theme.<br>
+This Addon adds a ton of items and content and introduces some really nice concepts.<br>
+But internally it lacks quite a bit of work and isn't the most user-friendly too.
+</details>
 
 ## 2. TranscEndence by Sfiguz7
 
 <https://github.com/Sfiguz7/TranscEndence>
-| Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
-| -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
+| Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
+| -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 2.75     | 8.85       | 8.2        | 7.95         | 8.2      | 8.7       | **7.44** |
 
-> TranscEndence adds some items and machines which have the end objective of crafting Daxis AKA items which will give permanent potion effects until next death. It includes some machines, both "regular" and a couple with some changes, aimed at collecting and crafting all the items that will help reach said objective, step by step. <br>_by Sfiguz7_
+> TranscEndence adds some items and machines which have the end objective of crafting Daxis AKA items which will give permanent potion effects until next death.
+> It includes some machines, both "regular" and a couple with some changes, aimed at collecting and crafting all the items that will help reach said objective, step by step.
+> <br>_by Sfiguz7_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -106,18 +117,21 @@ Feature-wise this is really awesome but the Code Quality leaves a lot of room fo
 
 #### Conclusion
 
-A very user-friendly plugin with many awesome mechanics. Really a very unique addon for sure with lots of stuff to keep you occupied. The code does contain some rather bad practices though and the theme was mostly ignored.
+A very user-friendly plugin with many awesome mechanics.
+Really a very unique addon for sure with lots of stuff to keep you occupied.
+The code does contain some rather bad practices though and the theme was mostly ignored.
 
 </details>
 
 ## 3. New-Beginnings by Tweep
 
 <https://github.com/TweepCoding/New-Begginings>
-| Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
-| -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
+| Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
+| -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 7.75     | 7.65       | 7.05       | 7.1          | 8.3      | 6.4       | **7.38** |
 
-> It basically adds new stuff to the End ( Duh! ), but it mostly tries to use the end as a stepping stone, to get materials from in, and go beyond, adding new armor, a new boss, new recipes, items, a panda cannon, and yeah. <br>_by Tweep_
+> It basically adds new stuff to the End ( Duh! ), but it mostly tries to use the end as a stepping stone, to get materials from in, and go beyond, adding new armor, a new boss, new recipes, items, a panda cannon, and yeah.
+> <br>_by Tweep_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -142,18 +156,21 @@ A very user-friendly plugin with many awesome mechanics. Really a very unique ad
 
 #### Conclusion
 
-There is not too much to say about this addon, it's fun. But the code has a lot of room for improvement but is despite all those comments rather clean in general. The Theme was incorporated somewhat good.
+There is not too much to say about this addon, it's fun.
+But the code has a lot of room for improvement but is despite all those comments rather clean in general.
+The Theme was incorporated somewhat good.
 
 </details>
 
 ## 4. End Combat by HAL989
 
 <https://github.com/Gavin296/end-combat>
-| Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
-| -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
+| Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
+| -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 9.2      | 8.2        | 5.45       | 5.6          | 7.25     | 6.35      | **7.01** |
 
-> Adds a variety of tools/weapons to Slimefun. Also includes a new boss. <br>_by HAL989_
+> Adds a variety of tools/weapons to Slimefun. Also includes a new boss.
+> <br>_by HAL989_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -181,18 +198,23 @@ There is not too much to say about this addon, it's fun. But the code has a lot 
 
 #### Conclusion
 
-The plugin is fun and interesting. It is a good interpretation of the theme too. However the items all seem rather basic, which isn't inherently bad but costs a little on the "Innovation" score. The code is mostly clean but contains a couple of bad practices and goes against a few conventions.
+The plugin is fun and interesting. It is a good interpretation of the theme too.
+However the items all seem rather basic, which isn't inherently bad but costs a little on the "Innovation" score.
+The code is mostly clean but contains a couple of bad practices and goes against a few conventions.
 
 </details>
 
 ## 5. EnderPanda by Panda
 
 <https://github.com/J3fftw1/EnderPanda>
-| Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
-| -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
+| Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
+| -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 6.75     | 7.5        | 5.6        | 8.85         | 8.05     | 5.25      | **7.00** |
 
-> My addons gives you the ability to generate power in the end. It also makes you be able to get Pandas in the end. Why pandas is a question you can answer your self <br>_by Panda_
+> My addons gives you the ability to generate power in the end.
+> It also makes you be able to get Pandas in the end.
+> Why pandas is a question you can answer your self
+> <br>_by Panda_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -216,18 +238,23 @@ The plugin is fun and interesting. It is a good interpretation of the theme too.
 
 #### Conclusion
 
-The code is very clean and this addon is fun. However it isn't as user-friendly as it could have been and the mechanics do not really challenge the player a lot. It's good but small.
+The code is very clean and this addon is fun.
+However it isn't as user-friendly as it could have been and the mechanics do not really challenge the player a lot.
+It's good but small.
 
 </details>
 
 ## 6. SlimeVoid by BigBadE
 
 <https://github.com/BigBadE/SlimefunVoid>
-| Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
-| -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
+| Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
+| -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 2.65     | 6.1        | 7.4        | 3.5          | 6.0      | 2.9       | **4.76** |
 
-> It adds an alternative research system for certain items, another crafting system. It also adds wands, which can be upgraded with the alternate crafting system. Wands can cast spells but also have a chance to backfire (worse wands backfire more) <br>_by BigBadE_
+> It adds an alternative research system for certain items, another crafting system.
+> It also adds wands, which can be upgraded with the alternate crafting system.
+> Wands can cast spells but also have a chance to backfire (worse wands backfire more)
+> <br>_by BigBadE_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -276,6 +303,11 @@ The code is very clean and this addon is fun. However it isn't as user-friendly 
 
 #### Conclusion
 
-Generally good ideas, very innovative for sure. But the Theme seemed a bit neglected, the code is very slow and inefficient, lots of redundancies and bad practices but mostly just inefficient. The plugin is a Spigot-exclusive title which is rather discouraged, especially if not using Spigot just causes tons of errors rather than a proper handling of that circumstance. It generally contains quite a few bugs and the code looks more like a "proof of concept" rather than a thoughtfully crafted system. It definitely scores in Innovation, Gameplay and Creativity but the code quality and accuracy sadly make this land on the last place. We also had to deduct some points on Gameplay and Mechanics due to all the bugs we encountered and the fact that this only works on Spigot.
+Generally good ideas, very innovative for sure.
+But the Theme seemed a bit neglected, the code is very slow and inefficient, lots of redundancies and bad practices but mostly just inefficient.
+The plugin is a Spigot-exclusive title which is rather discouraged, especially if not using Spigot just causes tons of errors rather than a proper handling of that circumstance.
+It generally contains quite a few bugs and the code looks more like a "proof of concept" rather than a thoughtfully crafted system.
+It definitely scores in Innovation, Gameplay and Creativity but the code quality and accuracy sadly make this land on the last place.
+We also had to deduct some points on Gameplay and Mechanics due to all the bugs we encountered and the fact that this only works on Spigot.
 
 </details>

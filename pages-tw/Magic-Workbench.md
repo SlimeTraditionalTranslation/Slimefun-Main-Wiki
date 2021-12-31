@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-basic-machines"
 weight: 100
@@ -21,7 +21,7 @@ The Magic Workbench is a multiblock structure which consists of a bookshelf, cra
 
 A complete setup should look like this:
 
-<img src="/slimefun-images/multiblock-magic-workbench.png" alt="Magic Workbench Setup" />
+<img src="/slimefun-images/multiblock-magic-workbench.png" alt="Magic Workbench Setup">
 
 You can also place an [Output Chest](/docs/slimefun/output-chest) next to the dispenser to collect your items. If there is no [Output Chest](/docs/slimefun/output-chest), then it will be put in the dispenser.
 

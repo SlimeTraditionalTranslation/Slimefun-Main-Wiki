@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -30,16 +30,16 @@ Once it is placed, right-click it and place fuel in its inventory (two slots on 
 There is only one tier of the Combustion Reactor.
 
 | Tier | Energy | Buffer |
-|:----:|:------:|:------:|
-|  I   | 24 J/s | 256 J  |
+| :--: | :----: | :----: |
+| I    | 24 J/s | 256 J  |
 
 ## Fuel
 
 This generator can be fueled using Buckets of Oil and Buckets of Fuel.
 
 | Fuel           | Burning time | Total (Tier I) |
-|:-------------- |:------------:|:--------------:|
-| Bucket of Oil  |     30s      |     720 J      |
-| Bucket of Fuel |     90s      |    2.16 kJ     |
+| :------------- | :----------: | :------------: |
+| Bucket of Oil  | 30s          | 720 J          |
+| Bucket of Fuel | 90s          | 2.16 kJ        |
 
 Note that it is more efficient to turn your Buckets of Oil into Buckets of Fuel in a [Refinery](/docs/slimefun/refinery) before burning them as fuel.

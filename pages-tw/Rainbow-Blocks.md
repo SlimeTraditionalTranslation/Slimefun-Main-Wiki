@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -46,7 +46,7 @@ These blocks will cycle through all 16 minecraft colours in following order:
 - brown
 - dark_green
 - red
-- black
+- black  
 
 When placed, all blocks of the same type (eg. all Rainbow Wool blocks) will synchronize and display the same colour.  
 This does not automatically happen between two different types (eg. Rainbow wool and Rainbow glass).  

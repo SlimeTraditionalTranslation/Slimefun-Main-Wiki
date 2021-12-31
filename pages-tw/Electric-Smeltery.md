@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -21,6 +21,6 @@ It is the automated version of the [Smeltery](/docs/slimefun/smeltery).
 ## Electric Smeltery Tiers
 
 | Tier | Power  | Speed Multiplier |
-|:----:|:------:|:----------------:|
-|  I   | 20 J/s |       1.0x       |
-|  II  | 40 J/s |       3.0x       |
+| :--: | :----: | :--------------: |
+| I    | 20 J/s | 1.0x             |
+| II   | 40 J/s | 3.0x             |

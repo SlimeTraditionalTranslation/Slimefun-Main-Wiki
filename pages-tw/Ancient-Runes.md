@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-magical-items"
 weight: 40
@@ -23,7 +23,7 @@ Every single rune is made in the [Ancient Altar](/docs/slimefun/ancient-altar) a
 
 ### Basic Runes
 
-There is the Blank Rune, which is used as a base crafting material for the simple runes.
+There is the Blank Rune, which is used as a base crafting material for the simple runes.  
 
 There are 5 simple runes, Air, Earth, Fire, Water and Ender. These are used in low-end [Magical Gadgets](/docs/slimefun/magical-gadgets) and to craft the other runes.  
 After those come the high-end runes, these are all also used to craft [Magical Gadgets](/docs/slimefun/magical-gadgets). These are the Lightning and the Rainbow rune.

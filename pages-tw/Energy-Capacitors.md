@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -16,7 +16,7 @@ toc: false
 Capacitors are [Electric Components](/docs/slimefun/electric-machines) which can store and transfer energy in an energy network.  
 There are five "tiers" of capacitors, each with an increasing capacity.
 
-<img src="/slimefun-images/item-capacitor.gif" alt="Different stages of an energy capacitor" />
+<img src="/slimefun-images/item-capacitor.gif" alt="Different stages of an energy capacitor">
 
 ## Obtaining
 
@@ -36,10 +36,10 @@ A Capacitor's side texture will change depending on how much energy is stored in
 Each tier of energy capacitor has a different capacity, listed below.
 
 | Item                             | Capacity |
-|:-------------------------------- |:--------:|
-| Small Energy Capacitor           |  128 J   |
-| Medium Energy Capacitor          |  512 J   |
-| Big Energy Capacitor             |  1024 J  |
-| Large Energy Capacitor           |  8192 J  |
+| :------------------------------- | :------: |
+| Small Energy Capacitor           | 128 J    |
+| Medium Energy Capacitor          | 512 J    |
+| Big Energy Capacitor             | 1024 J   |
+| Large Energy Capacitor           | 8192 J   |
 | Carbonado Edged Energy Capacitor | 65536 J  |
 | Energized Energy Capacitor       | 524288 J |

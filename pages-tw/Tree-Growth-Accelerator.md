@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -18,7 +18,7 @@ It's an End-Game machine but it can be useful for tree farms.
 
 ## Tiers
 
-It currently comes in only one tier.
+It currently comes in only one tier.  
 
 **Radius:** 9x9  
 **Buffer:** 1024 J  

@@ -5,15 +5,16 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
 toc: false
 ---
 
-An Android that specializes in automating the process of harvesting and replanting trees. This Android will work with all types of wood.
+An Android that specializes in automating the process of harvesting and replanting trees.
+This Android will work with all types of wood.
 
 ## Obtaining
 
@@ -29,5 +30,5 @@ Androids need fuel in order to work, you have to fill them with the [Required Fu
 There is only one tier of the Woodcutter Android.
 
 | Tier  | Fuel Efficiency |
-| ----- |:---------------:|
-| Basic |      1.0x       |
+| ----- | :-------------: |
+| Basic | 1.0x            |

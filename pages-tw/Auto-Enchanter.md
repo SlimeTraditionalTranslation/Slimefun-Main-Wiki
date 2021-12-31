@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -14,14 +14,14 @@ toc: false
 ---
 
 The Auto Enchanter is an [Electric Machine](/docs/slimefun/electric-machines) which can be used to add Enchanted Books to tools and weapons.  
-It will then return empty books without enchants and the enchanted piece.
+It will then return empty books without enchants and the enchanted piece.  
 
 ## Auto Enchanter Tiers
 
-There is only one tier of the Auto Enchanter and it has the following properties:
+There is only one tier of the Auto Enchanter and it has the following properties:  
 
 **Speed multiplier**: 1.0x  
-**Power Usage**: 18 J/s
+**Power Usage**: 18 J/s  
 
 ## Tip
 

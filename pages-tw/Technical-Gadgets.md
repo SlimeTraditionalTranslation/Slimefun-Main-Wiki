@@ -5,15 +5,15 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-technical-gadgets"
 weight: 10
 toc: false
 ---
 
-The Technical Gadgets category has a variety of gadgets that are useful when playing Slimefun.
+The Technical Gadgets category has a variety of gadgets that are useful when playing Slimefun.  
 
 ## 目錄
 

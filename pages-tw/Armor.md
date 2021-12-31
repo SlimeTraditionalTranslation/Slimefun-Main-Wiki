@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "sf-armors"
 weight: 10
@@ -39,7 +39,7 @@ The Gilded Iron Armor Set is a Gold Armor Set with Protection VIII and Unbreakin
 
 ### Hazmat Suit
 
-The Hazmat suit is a (orange/black-dyed) Leather Armor Set which provides full immunity towards [Radiation](/docs/slimefun/radiation) and Bee Stings when wearing the full set.
+The Hazmat suit is a (orange/black-dyed) Leather Armor Set which provides full immunity towards [Radiation](/docs/slimefun/radiation) and Bee Stings when wearing the full set.  
 
 The Scuba Helmet allows you to breath underwater.  
 The Hazma Suit Chestplate makes you immune to fire and lava.

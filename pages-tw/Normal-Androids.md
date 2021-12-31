@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -21,17 +21,18 @@ Normal Androids can be crafted in an [Enhanced Crafting Table](/docs/slimefun/en
 
 ## Usage
 
-Normal Androids can only be programmed to move. Androids need fuel in order to work, you have to fill them with the [Required Fuel](/docs/slimefun/normal-androids#power-source) before booting!
+Normal Androids can only be programmed to move.
+Androids need fuel in order to work, you have to fill them with the [Required Fuel](/docs/slimefun/normal-androids#power-source) before booting!
 
 ## Tiers
 
 There are three tiers on the Normal Android, each with different modifiers listed below.
 
 | Tier      | Fuel Efficiency |
-| --------- |:---------------:|
-| Basic     |      1.0x       |
-| Advanced  |      1.5x       |
-| Empowered |      3.0x       |
+| --------- | :-------------: |
+| Basic     | 1.0x            |
+| Advanced  | 1.5x            |
+| Empowered | 3.0x            |
 
 ## Power Source
 

@@ -5,8 +5,8 @@ lead: ""
 date: 2021-12-27T00:00:00+08:00
 lastmod: 2021-12-27T00:00:00+08:00
 draft: false
-images: [ ]
-menu:
+images: []
+menu: 
   docs:
     parent: "tbd"
 weight: 999
@@ -20,7 +20,7 @@ They can be used to fly around using electricity. Put the Jet Boots in your boot
 ## Jet Boots Tiers
 
 |  Tier   | Storage Capacity | Speed | Accuracy |
-|:-------:|:----------------:|:-----:|:--------:|
+| :-----: | :--------------: | :---: | :------: |
 |    I    |       20 J       | 0.35x |   50%    |
 |   II    |       30 J       | 0.40x |   60%    |
 |   III   |       40 J       | 0.45x |   65%    |
