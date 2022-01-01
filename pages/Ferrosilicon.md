@@ -34,7 +34,7 @@ Combining the following items in a [Smeltery](/docs/slimefun/smeltery) or an [El
 
 ### Items
 
-* [Solar Panel](/docs/slimefun/solar-panel)
+* [Photovoltaic Cell](/docs/slimefun/photovoltaic-cell)
 * [Smelter's Pickaxe](/docs/slimefun/smelter's-pickaxe)
 * [Pickaxe of Containment](/docs/slimefun/pickaxe-of-containment)
 * [Hercules' Pickaxe](/docs/slimefun/hercules'-pickaxe)
