@@ -1250,7 +1250,7 @@ These addons have been created by talented developers from our community. We can
     </td>
     
     <td>
-      <a href="https://github.com/FN-FAL113/SfChunkInfo/releases">Releases</a>
+      <a href="https://thebusybiscuit.github.io/builds/FN-FAL113/SfChunkInfo/main/">Builds</a>
     </td>
   </tr>
 </table>
