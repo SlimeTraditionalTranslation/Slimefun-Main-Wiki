@@ -1,38 +1,20 @@
----
-title: "Aluminum-Ingot"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
 
 ## Obtaining
+Smelting one [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory) yields one Aluminum Ingot.<br>
 
-Smelting one [Aluminum Dust](/docs/slimefun/aluminum-dust) in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Ingot Factory](/docs/slimefun/electric-ingot-factory) yields one Aluminum Ingot.
-
-Aluminum Ingots can be turned back to [Aluminum Dust](/docs/slimefun/aluminum-dust) by an [Electric Ingot Pulverizer](/docs/slimefun/electric-ingot-pulverizer)
+Aluminum Ingots can be turned back to [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust) by an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer)
 
 ## Usage
-
-Aluminum Ingots are used in the following [alloys](/docs/slimefun/ingots#alloys) for the [Smeltery](/docs/slimefun/smeltery) or the [Electric Smeltery](/docs/slimefun/electric-smeltery):
-
-* [Duralumin Ingot](/docs/slimefun/duralumin-ingot)
-* [Aluminum Brass Ingot](/docs/slimefun/aluminum-brass-ingot)
-* [Aluminum Bronze Ingot](/docs/slimefun/aluminum-bronze-ingot)
+Aluminum Ingots are used in the following [alloys](https://github.com/Slimefun/Slimefun4/wiki/Ingots#Alloys) for the [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or the [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery):
+* [Duralumin Ingot](https://github.com/Slimefun/Slimefun4/wiki/Duralumin-Ingot)
+* [Aluminum Brass Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Brass-Ingot)
+* [Aluminum Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Bronze-Ingot)
 
 It is used in the following recipes:
-
-* [Trash Can](/docs/slimefun/trash-can)
-* [Synthetic Sapphire](/docs/slimefun/synthetic-sapphire)
-* [Synthetic Emerald](/docs/slimefun/synthetic-emerald)
-* [Cooling Unit](/docs/slimefun/cooling-unit)
-* [Cooler](/docs/slimefun/cooler)
-* [Solar Generator](/docs/slimefun/solar-generator)
-* [Electric Gold Pan](/docs/slimefun/electric-gold-pan)
+* [Trash Can](https://github.com/Slimefun/Slimefun4/wiki/Trash-Can)
+* [Synthetic Sapphire](https://github.com/Slimefun/Slimefun4/wiki/Synthetic-Sapphire)
+* [Synthetic Emerald](https://github.com/Slimefun/Slimefun4/wiki/Synthetic-Emerald)
+* [Cooling Unit](https://github.com/Slimefun/Slimefun4/wiki/Cooling-Unit)
+* [Cooler](https://github.com/Slimefun/Slimefun4/wiki/Cooler)
+* [Solar Generator](https://github.com/Slimefun/Slimefun4/wiki/Solar-Generator)
+* [Electric Gold Pan](https://github.com/Slimefun/Slimefun4/wiki/Electric-Gold-Pan)

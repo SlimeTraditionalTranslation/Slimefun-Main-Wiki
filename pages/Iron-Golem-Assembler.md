@@ -1,22 +1,6 @@
----
-title: "Iron-Golem-Assembler"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
-
-The Iron Golem Assembler is an [Electric Machine](/docs/slimefun/electric-machines) which can be used to automatically assemble Iron Golems.  
+The Iron Golem Assembler is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which can be used to automatically assemble Iron Golems.  
 
 ## Tiers
-
 It currently only comes in one tier.  
 
 **Buffer:** 4096 J  

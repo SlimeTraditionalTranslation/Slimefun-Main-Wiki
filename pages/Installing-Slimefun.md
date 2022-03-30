@@ -1,79 +1,53 @@
----
-title: "安裝黏液科技"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "sf-main"
-weight: 30
-toc: true
----
+## Prerequisites
+To install Slimefun, you will need a Spigot or Paper Server (most preferabbly the latest version).<br>
+Forks of either of these should work too, though we only test against Paper and Spigot.
 
-## 先決條件
+### Slimefun 4 Downloads
+You can choose between two branches of slimefun, the ["stable" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/stable/) or the [main "development" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/).
+Stable builds have been around for quite a while and were thoroughly tested, development builds are the latest builds of Slimefun you can get.
+If your Server is very reliant on a working build of Slimefun, choose a stable build.
+But if you want to help contribute to Slimefun4 by reporting issues and helping us identify those more quickly, please consider using a development build (Bug Reports from "stable" builds may be ignored since they are outdated).
+You can click on any Slimefun build to see all compatible Minecraft Versions for that build.
 
-要安裝黏液科技, 你需要使用Spigot或Paper伺服器核心 (最好是最新版本).
+**We generally recommend development builds over stable builds, as they are the most recent versions of Slimefun. The stable branch is only updated once a month or even less frequent, so fixes may take quite a while to make it into these builds.**
 
-儘管我們僅針對Paper和Spigot進行測試, 但其中任何一個分支也應該起作用.
+## How to install
+Drag and drop the Slimefun4 jar file into your server's */plugins/* directory.
+Then, restart your server.<br>
+***Do not use /reload, as it can cause intense memory leaks.***
 
-### 下載黏液科技
+After the restart, you should notice a new folder called */data-storage/* in your servers root directory. This folder contains all necessary Slimefun data.
+If you plan to upgrade or move servers, or create a backup, it is ***very*** important that you also back this folder up, as
+deleting it results in loss of ALL Slimefun related data, such as levels, unlocked items, etc.
 
-你可以在兩個黏液科技分支中做選擇, ["穩定" 分支](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/stable/) 或 [主要 "開發" 分支](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/).
-穩定構建已經存在很長的時間, 並以經過測試, 開發版是你可以獲得最新的構建.
-如果你的伺服器非常依賴於可運作的黏液科技構建, 請選擇穩定構建.
-但如果你想要回報問題並幫助我們更快的發現問題並為黏液科技做出貢獻, 請考慮使用開發構建 ( "穩定"構建的錯誤回報可能會被忽略, 因為他們已經過時).
-你可以點擊任何黏液科技構建, 以查看該構建的所有兼容Minecraft的版本.
+## Configuring Slimefun
+This part assumes you now have Slimefun 4 installed on your server.
 
-**我們通常建議開發版本優先於穩定版, 因為它們是黏液科技最新的版本. 穩定分支僅每月更新一次, 甚至更新頻率更低, 因此修復可能需要相當長的時間才能納入這些構建.**
+When viewing the Slimefun plugin folder, you will notice a few different .YML files. Start by viewing *config.yml* in your favorite text editor.
+Personally, I recommend [Notepad++](https://notepad-plus-plus.org).
 
-## 如何安裝
+Most of the things in this file are very self explanatory, from enabling certain items to choose how Slimefun Research behaves in creative mode.
+Slimefun uses an auto-updater to check for updates periodically, if you wish to disable this, or your host has somehow disabled things like that, set it to *false*
 
-將黏液科技的Jar檔案拖放到伺服器的 */plugins/* 資料夾中.
-然後重啟你的伺服器.
+**Items.yml*** allows you to enable or disable certain items *globally*. If you install multiple addons for Slimefun, this file can get very big,
+so, a recommendation is to take your time and install addons slowly, if again, you plan on enabling or disabling certain items.
 
-***請勿使用 /reload, 因為它可能會導致大量的記憶體洩漏.***
+**messages.yml** contains all data for messages when using Slimefun. You can edit what the plugin sends a player when a certain event occurs.
 
-重新啟動後, 你應該會在根目錄注意到一個名為 */data-storage/* 的資料夾在你的伺服器. 此資料夾包含了所有必要的黏液科技資料.
-如果你計畫升級或移動伺服器, 或創建備份, 則***非常***重要的是要備份該資料夾, 因為刪除它會將導致所有黏液科技相關的資料遺失, 例如等級, 解鎖的物品, 等等.
+**Researches.yml** allows you to edit the XP Values of items in Slimefun, as well as their names, you can also disable researching all together if you wish to allow players
+the ability to use all of Slimefun right off the bat.
 
-## 設定黏液科技
+**permissions.yml** allows you to define permission nodes for Slimefun items to restrict the usage of items based on user's permission levels.
 
-這部分是假設你已經安裝好黏液科技在你的伺服器.
+Any changes you make should be saved, then restart the server. Again, ***do not use /reload.*** If you are experiencing issues, and you issued a server reload,
+just stop and restart the server, since this fixes most issues.
 
-當你查看黏液科技的plugin資料夾時, 你會注意到一些不同的 .YML 檔案. 使用你最喜歡的文本編輯器來查看 *config.yml*.
-就個人而言, 我建議使用 [Notepad++](https://notepad-plus-plus.org).
+### Server Optimizations
+Here is a full article on how to [Optimize your Slimefun Server](https://github.com/Slimefun/Slimefun4/wiki/Server-Optimizations)
 
-此檔案中的大多數內容都很容易解釋, 它們的使某些物品能夠選擇黏液科技研究在創造模式下的行為.
-黏液科技使用 auto-updater 自動更新來定期更新, 如果你想關閉它, 或者你的主機關機關閉了類似的東西, 請將其設置為 *false*
+# Additional Addons
+If you wish to install additional addons, refer to [this page](https://github.com/Slimefun/Slimefun4/wiki/Addons) to see all the addons that are compatible with your version of Slimefun4.
 
-**Items.yml** 允許你 *全局* 啟用或禁用某些物品. 如果你為黏液科技安裝了多個附加, 則此檔案可能會非常大,
-因此, 建議你花一些時間慢慢安裝附加, 如果你計畫要在啟用或禁用某些物品, 則建議你.
-
-**messages.yml** 包含所有黏液科技所發送的消息資料. 你可以編輯在特定事件時插件向玩家發送的訊息.
-
-**Researches.yml** 允許你編輯黏液科技中的物品經驗所需以及它們的名稱, 如果你希望允許玩家馬上使用黏液科技的所有功能,
-也可以禁用所有研究.
-
-**permissions.yml** 允許你為黏液科技的物品定義權限節點, 以根據玩家的權限級別限制物品的使用.
-
-**item-models.yml** 允許你增加自訂NBT標籤給黏液科技套用上材質包.
-
-**resources.yml** 允許你啟用/禁用特定的GEO挖礦資源.
-
-你所做的任何更該都應保存, 並重啟伺服器. 再次聲明, ***不要使用 /reload.*** 如果你遇到問題, 並且有使用過伺服器重新加載(/reload),
-則只需要關閉並重啟伺服器, 即可解決大多數問題.
-
-### 伺服器優化
-
-這是有關如何 [優化你的黏液科技伺服器](/docs/slimefun/server-optimizations)
-
-## 附加插件
-
-如果你想安裝其他額外的附加, 請參考 [此頁面](/docs/slimefun/addons) 以查看與你的黏液科技版本兼容的所有附加插件.
-
-這些附加插件需要黏液科技本體, 並將它放在 /plugins 資料夾中, 它將會創建自己的獨立資料夾.
-這些插件的配置也應該非常簡單.
-請記住, 你可以關閉任何來自附加的所有物品在 Slimefun 中的 Items.yml 檔案.
+These additional addons require Slimefun4 and will create their own independent folders within your /plugins folder.
+Configuration should be very straight forward for these plugins as well.
+Remember that you can also disable any Items from Addons in Slimefun's Items.yml file.

@@ -1,31 +1,13 @@
----
-title: "Fisherman-Androids"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
-
 An Android that specializes in automating the fishing process.
 
 ## Obtaining
-
-Fisherman Androids can be crafted in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
+Fisherman Androids can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
-
 You have to put water underneath the Android in order for it to work.
-Androids need fuel in order to work, you have to fill them with the [Required Fuel](/docs/slimefun/normal-androids#power-source) before booting!
+Androids need fuel in order to work, you have to fill them with the [Required Fuel](https://github.com/Slimefun/Slimefun4/wiki/Normal-Androids#power-source) before booting!
 
 ## Tiers
-
 There are three tiers on the Fisherman Android, each with different modifiers listed below.
 
 | Tier      | Fuel Efficiency | Success Rate |
@@ -35,9 +17,7 @@ There are three tiers on the Fisherman Android, each with different modifiers li
 | Empowered | 8.0x            | 30%          |
 
 ## Loot Table
-
 These are items that you can get when using the Fisherman Android:
-
 - Raw Cod
 - Raw Salmon
 - Tropical Fish

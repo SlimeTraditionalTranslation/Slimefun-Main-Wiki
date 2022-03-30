@@ -1,21 +1,6 @@
----
-title: "Electric-Ingot-Pulverizer"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
+The Electric Ingot Pulverizer is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which pulverizes [Ingots](https://github.com/Slimefun/Slimefun4/wiki/Ingots) into their corresponding [Dusts](https://github.com/Slimefun/Slimefun4/wiki/Dusts).
 
-The Electric Ingot Pulverizer is an [Electric Machine](/docs/slimefun/electric-machines) which pulverizes [Ingots](/docs/slimefun/ingots) into their corresponding [Dusts](/docs/slimefun/dusts).
-
-The [Electric Ingot Factory](/docs/slimefun/electric-ingot-factory) is the opposite of this machine.
+The [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory) is the opposite of this machine.
 
 ## Electric Ingot Pulverizer Tiers
 

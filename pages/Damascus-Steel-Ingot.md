@@ -1,49 +1,35 @@
----
-title: "Damascus-Steel-Ingot"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
 
 ## Obtaining
 
-Combining the following items in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Smeltery](/docs/slimefun/electric-smeltery) yields one Damascus Steel Ingot:
+Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery) yields one Damascus Steel Ingot:
 
-* 1 [Steel Ingot](/docs/slimefun/steel-ingot)
-* 1 [Iron Dust](/docs/slimefun/iron-dust)
-* 1 [Carbon](/docs/slimefun/carbon)
-* 1 [Iron Ingot](/docs/slimefun/iron-ingot)
+* 1 [Steel Ingot](https://github.com/Slimefun/Slimefun4/wiki/Steel-Ingot)
+* 1 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)
+* 1 [Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbon)
+* 1 [Iron Ingot](https://github.com/Slimefun/Slimefun4/wiki/Iron-Ingot)
 
-### Total base material cost
+#### Total base material cost 
 
-* 4 [Iron Dust](/docs/slimefun/iron-dust)
+* 4 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)
 * 16 Coal
 
 ## Usage
 
 ### In other alloys
 
-* [Reinforced Alloy Ingot](/docs/slimefun/reinforced-alloy-ingot)
-* [Hardened Metal](/docs/slimefun/hardened-metal)
+* [Reinforced Alloy Ingot](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Alloy-Ingot)
+* [Hardened Metal](https://github.com/Slimefun/Slimefun4/wiki/Hardened-Metal)
 
 ### Items
 
-* [Energy Regulator](/docs/slimefun/energy-regulator)
-* [Electric Dust Washer II](/docs/slimefun/electric-dust-washer)
-* [Electric Ingot Factory](/docs/slimefun/electric-ingot-factory)
-* [Electrified Crucible I/II](/docs/slimefun/electrified-crucible)
-* [Electric Press I/II](/docs/slimefun/electric-press)
-* [Lava Generator](/docs/slimefun/lava-generator)
-* [Food Composter](/docs/slimefun/food-composter)
-* [Electric Smeltery II](/docs/slimefun/electric-smeltery)
-* [Damascus Steel Jetpack](/docs/slimefun/jetpacks)
-* [Damascus Steel Jet Boots](/docs/slimefun/jet-boots)
-* [Damascus Steel Multi Tool](/docs/slimefun/multi-tools)
+* [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator)
+* [Electric Dust Washer II](https://github.com/Slimefun/Slimefun4/wiki/Electric-Dust-Washer)
+* [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory)
+* [Electrified Crucible I/II](https://github.com/Slimefun/Slimefun4/wiki/Electrified-Crucible)
+* [Electric Press I/II](https://github.com/Slimefun/Slimefun4/wiki/Electric-Press)
+* [Lava Generator](https://github.com/Slimefun/Slimefun4/wiki/Lava-Generator)
+* [Food Composter](https://github.com/Slimefun/Slimefun4/wiki/Food-Composter)
+* [Electric Smeltery II](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery)
+* [Damascus Steel Jetpack](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
+* [Damascus Steel Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
+* [Damascus Steel Multi Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)

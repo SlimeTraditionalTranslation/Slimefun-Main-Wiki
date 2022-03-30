@@ -1,57 +1,43 @@
----
-title: "Reinforced-Alloy-Ingot"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
 
 ## Obtaining
 
-Combining the following items in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Smeltery](/docs/slimefun/electric-smeltery) yields one Reinforced Alloy Ingot:
+Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery) yields one Reinforced Alloy Ingot:
 
-* 1 [Damascus Steel Ingot](/docs/slimefun/damascus-steel-ingot)
-* 1 [Hardened Metal](/docs/slimefun/hardened-metal)
-* 1 [Corinthian Bronze Ingot](/docs/slimefun/corinthian-bronze-ingot)
-* 1 [Solder Ingot](/docs/slimefun/solder-ingot)
-* 1 [Billon Ingot](/docs/slimefun/billon-ingot)
-* 1 [Gold Ingot (24-Carat)](/docs/slimefun/gold-ingot#gold-ingot-24-carat)
+* 1 [Damascus Steel Ingot](https://github.com/Slimefun/Slimefun4/wiki/Damascus-Steel-Ingot)
+* 1 [Hardened Metal](https://github.com/Slimefun/Slimefun4/wiki/Hardened-Metal)
+* 1 [Corinthian Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Corinthian-Bronze-Ingot)
+* 1 [Solder Ingot](https://github.com/Slimefun/Slimefun4/wiki/Solder-Ingot)
+* 1 [Billon Ingot](https://github.com/Slimefun/Slimefun4/wiki/Billon-Ingot)
+* 1 [Gold Ingot (24-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot#Gold-Ingot-24-Carat)
 
-### Total base material cost
+#### Total base material cost 
 
-* 8 [Iron Dust](/docs/slimefun/iron-dust)
-* 4 [Aluminum Dust](/docs/slimefun/aluminum-dust)
-* 6 [Copper Dust](/docs/slimefun/copper-dust)
-* 3 [Tin Dust](/docs/slimefun/tin-dust)
-* 1 [Silver Dust](/docs/slimefun/silver-dust)
-* 12 [Gold Dust](/docs/slimefun/gold-dust)
-* 2 [Lead Dust](/docs/slimefun/lead-dust)
+* 8 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)
+* 4 [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust)
+* 6 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
+* 3 [Tin Dust](https://github.com/Slimefun/Slimefun4/wiki/Tin-Dust)
+* 1 [Silver Dust](https://github.com/Slimefun/Slimefun4/wiki/Silver-Dust)
+* 12 [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust)
+* 2 [Lead Dust](https://github.com/Slimefun/Slimefun4/wiki/Lead-Dust)
 * 64 Coal
 
 ## Usage
 
-* [Solar Helmet](/docs/slimefun/technical-gadgets#solar-helmet)
-* [Reinforced Furnace](/docs/slimefun/enhanced-furnaces)
-* [Large Energy Capacitor](/docs/slimefun/energy-capacitors)
-* [Heated Pressure Chamber II](/docs/slimefun/heated-pressure-chamber)
-* [Auto Anvil](/docs/slimefun/auto-anvil)
-* [GEO Miner](/docs/slimefun/geo-miner)
-* [GPS Teleporter Matrix](/docs/slimefun/gps-teleporter-matrix)
-* [Food Fabricator II](/docs/slimefun/food-fabricator)
-* [Animal Growth Accelerator](/docs/slimefun/animal-growth-accelerator)
-* [Food Composter II](/docs/slimefun/food-composter)
-* [Carbon Press III](/docs/slimefun/carbon-press)
-* [Wither Assembler](/docs/slimefun/wither-assembler)
-* [Reinforced Armor](/docs/slimefun/armor#reinforced-armor)
-* [Reinforced Alloy Jetpack](/docs/slimefun/jetpacks)
-* [Reinforced Alloy Jet Boots](/docs/slimefun/jet-boots)
-* [Reinforced Alloy Tool](/docs/slimefun/multi-tools)
-* [Talisman of the Warrior](/docs/slimefun/talismans)
-* [Reinforced Plate](/docs/slimefun/miscellaneous-items)
+* [Solar Helmet](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#solar-helmet)
+* [Reinforced Furnace](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Furnaces)
+* [Large Energy Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
+* [Heated Pressure Chamber II](https://github.com/Slimefun/Slimefun4/wiki/Heated-Pressure-Chamber)
+* [Auto Anvil](https://github.com/Slimefun/Slimefun4/wiki/Auto-Anvil)
+* [GEO Miner](https://github.com/Slimefun/Slimefun4/wiki/GEO-Miner)
+* [GPS Teleporter Matrix](https://github.com/Slimefun/Slimefun4/wiki/GPS-Teleporter-Matrix)
+* [Food Fabricator II](https://github.com/Slimefun/Slimefun4/wiki/Food-Fabricator)
+* [Animal Growth Accelerator](https://github.com/Slimefun/Slimefun4/wiki/Animal-Growth-Accelerator)
+* [Food Composter II](https://github.com/Slimefun/Slimefun4/wiki/Food-Composter)
+* [Carbon Press III](https://github.com/Slimefun/Slimefun4/wiki/Carbon-Press)
+* [Wither Assembler](https://github.com/Slimefun/Slimefun4/wiki/Wither-Assembler)
+* [Reinforced Armor](https://github.com/Slimefun/Slimefun4/wiki/Armor#reinforced-armor)
+* [Reinforced Alloy Jetpack](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
+* [Reinforced Alloy Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
+* [Reinforced Alloy Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
+* [Talisman of the Warrior](https://github.com/Slimefun/Slimefun4/wiki/Talismans)
+* [Reinforced Plate](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items)

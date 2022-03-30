@@ -1,0 +1,36 @@
+---
+title: "Ancient Altar"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
+The Ancient Altar is a block in the [Magical Gadgets](/docs/slimefun/magical-gadgets) category, as well as a Multiblock structure.  
+It is used to craft other [Magical Items](/docs/slimefun/magical-items) and gadgets, and to repair [Broken Spawners](/docs/slimefun/broken-spawner) so they become [Reinforced Spawners](/docs/slimefun/reinforced-spawner).
+
+## Obtaining
+
+The Ancient Altar block can be crafted in a [Magic Workbench](/docs/slimefun/magic-workbench).
+
+## Usage
+
+The Ancient Altar block on its own has no use. In order to have a working altar, the Ancient Altar must be surrounded by 8 [Ancient Pedestals](/docs/slimefun/ancient-pedestal), 2 blocks away from it in cardinal directions and 1 block away diagonally.
+
+A working Ancient Altar looks like this:
+
+<img src="/slimefun-images/multiblock-ancient-altar.png" alt="Ancient Altar setup">
+
+To begin the crafting process or "ritual", each ingredient in the recipe must be placed on the pedestals by right-clicking them.  
+The item in the middle of the recipe (or "catalyst") must then be used on the central altar block.
+
+It does not matter on which axis (diagonal or horizontal/vertical) the ingredients are placed, as long as they are in the right order.
+
+If the recipe is correct, the catalyst will be consumed. Then, after a short animation, the Ancient Altar will expel the new item.

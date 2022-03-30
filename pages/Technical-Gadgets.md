@@ -1,62 +1,42 @@
----
-title: "科技工具目錄"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "sf-technical-gadgets"
-weight: 10
-toc: false
----
-
 The Technical Gadgets category has a variety of gadgets that are useful when playing Slimefun.  
 
-## 目錄
-
-* [Electric Jetpack - I](/docs/slimefun/jetpacks)
-* [Electric Jetpack - II](/docs/slimefun/jetpacks)
-* [Electric Jetpack - III](/docs/slimefun/jetpacks)
-* [Electric Jetpack - IV](/docs/slimefun/jetpacks)
-* [Electric Jetpack - V](/docs/slimefun/jetpacks)
-* [Electric Jetpack - VI](/docs/slimefun/jetpacks)
-* [Electric Jetpack - VII](/docs/slimefun/jetpacks)
-* [Parachute](/docs/slimefun/technical-gadgets#parachute)
-* [Hologram Projector](/docs/slimefun/hologram-projector)
-* [Multi Tool - I](/docs/slimefun/multi-tools)
-* [Multi Tool - II](/docs/slimefun/multi-tools)
-* [Multi Tool - III](/docs/slimefun/multi-tools)
-* [Multi Tool - IV](/docs/slimefun/multi-tools)
-* [Multi Tool - V](/docs/slimefun/multi-tools)
-* [Multi Tool - VI](/docs/slimefun/multi-tools)
-* [Multi Tool - VII](/docs/slimefun/multi-tools)
-* [Solar Helmet](/docs/slimefun/technical-gadgets#solar-helmet)
-* [Night Vision Goggles](/docs/slimefun/technical-gadgets#night-vision-goggles)
-* [Jet Boots - I](/docs/slimefun/jet-boots)
-* [Jet Boots - II](/docs/slimefun/jet-boots)
-* [Jet Boots - III](/docs/slimefun/jet-boots)
-* [Jet Boots - IV](/docs/slimefun/jet-boots)
-* [Jet Boots - V](/docs/slimefun/jet-boots)
-* [Jet Boots - VI](/docs/slimefun/jet-boots)
-* [Jet Boots - VII](/docs/slimefun/jet-boots)
-* [Armored Jet Boots](/docs/slimefun/jet-boots)
-* [Multimeter](/docs/slimefun/technical-gadgets#multimeter)
+## Table of contents
+* [Electric Jetpack - I](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
+* [Electric Jetpack - II](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
+* [Electric Jetpack - III](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
+* [Electric Jetpack - IV](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
+* [Electric Jetpack - V](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
+* [Electric Jetpack - VI](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
+* [Electric Jetpack - VII](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
+* [Parachute](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#parachute)
+* [Hologram Projector](https://github.com/Slimefun/Slimefun4/wiki/Hologram-Projector)
+* [Multi Tool - I](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
+* [Multi Tool - II](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
+* [Multi Tool - III](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
+* [Multi Tool - IV](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
+* [Multi Tool - V](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
+* [Multi Tool - VI](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
+* [Multi Tool - VII](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
+* [Solar Helmet](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#solar-helmet)
+* [Night Vision Goggles](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#night-vision-goggles)
+* [Jet Boots - I](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
+* [Jet Boots - II](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
+* [Jet Boots - III](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
+* [Jet Boots - IV](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
+* [Jet Boots - V](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
+* [Jet Boots - VI](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
+* [Jet Boots - VII](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
+* [Armored Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
+* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#multimeter)
 
 ### Parachute
-
 The Parachute can be used to slowly decend while you're in the air. You need to wear it and crouch for it to activate.
 
 ### Solar Helmet
-
 The Solar Helmet when worn will charge any electric armor and anything electric in the player's hands.
 
 ### Night Vision Goggles
-
 When worn, this piece of head armor gives you night vision.
 
 ### Multimeter
-
 The Multimeter is a simple tool that will show you how much energy a certain block has.

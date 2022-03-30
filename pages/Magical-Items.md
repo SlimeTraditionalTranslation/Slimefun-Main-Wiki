@@ -1,67 +1,42 @@
----
-title: "魔法物品目錄"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "sf-magical-items"
-weight: 10
-toc: false
----
+This is a category that contains a bunch of items to craft [Magical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Magical-Gadgets) with.
 
-這個類別包含一堆製作物品 [魔法工具](/docs/slimefun/magical-gadgets) 的物品.
-
-## 目錄
-
+## Table of contents
 ----
+- [Magical Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps)
+- [Ender Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps)
+- [Magical Book Cover](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Magical-Book-Cover)
+- [Magical Glass](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Magical-Glass)
+- [Lava Crystal](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Lava-Crystal)
+- [Common Talisman](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Common-Talisman)
+- [Necrotic Skull](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Necrotic-Skull)
+- [Essence of Afterlife](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Essence-of-Afterlife)
+- [Synthetic Shulker Shell](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Synthetic-Shulker-Shell)
+- [Broken Spawner](https://github.com/Slimefun/Slimefun4/wiki/Broken-Spawner)
+- [Ancient Runes](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Runes)
+- [Strange Nether Goo](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Strange-Nether-Goo)
 
-- [魔法顆粒](/docs/slimefun/lumps)
-- [終界顆粒](/docs/slimefun/lumps)
-- [魔法書皮](/docs/slimefun/magical-items#魔法書皮)
-- [魔法玻璃](/docs/slimefun/magical-items#魔法玻璃)
-- [岩漿水晶](/docs/slimefun/magical-items#岩漿水晶)
-- [常見護符](/docs/slimefun/magical-items#常見護符)
-- [壞死的頭顱](/docs/slimefun/magical-items#壞死的頭顱)
-- [重生精華](/docs/slimefun/magical-items#重生精華)
-- [人造界伏殼](/docs/slimefun/magical-items#人造界伏殼)
-- [已損壞的生怪磚](/docs/slimefun/broken-spawner)
-- [古代魔法符文](/docs/slimefun/ancient-runes)
-- [奇怪的地獄黏液](/docs/slimefun/magical-items#strange-nether-goo)
+## Simple Items
 
-## 簡單物品
+### Magical Book Cover
+This item can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) using [Magical Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps) and a book.
 
-### 魔法書皮
+### Magical Glass
+This item can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench) using [Flasks Of Knowledge](https://github.com/Slimefun/Slimefun4/wiki/Flask-of-Knowledge) and [Magical Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps).
 
-This item can be crafted in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table) using [Magical Lumps](/docs/slimefun/lumps) and a book.
+### Lava Crystal
+This item can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) using [Magical Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps), an [Ancient Rune \[Fire\]]() and blaze powder.
 
-### 魔法玻璃
+### Common Talisman
+This item is used as a base to craft [Talismans](https://github.com/Slimefun/Slimefun4/wiki/Talismans) and it can be crafted in the [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench).
 
-This item can be crafted in a [Magic Workbench](/docs/slimefun/magic-workbench) using [Flasks Of Knowledge](/docs/slimefun/flask-of-knowledge) and [Magical Lumps](/docs/slimefun/lumps).
+### Necrotic Skull
+This item is crafted in the [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench) using [Magical Lumps](https://github.com/Slimefun/Slimefun4/wiki/Lumps) and a Wither Skeleton Skull.
 
-### 岩漿水晶
+### Essence of Afterlife
+This item is crafted in an [Ancient Altar](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Altar) and is used for various high end [Magical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Magical-Gadgets).
 
-This item can be crafted in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table) using [Magical Lumps](/docs/slimefun/lumps), an [Ancient Rune \[Fire\]](/404) and blaze powder.
-
-### 常見護符
-
-This item is used as a base to craft [Talismans](/docs/slimefun/talismans) and it can be crafted in the [Magic Workbench](/docs/slimefun/magic-workbench).
-
-### 壞死的頭顱
-
-This item is crafted in the [Magic Workbench](/docs/slimefun/magic-workbench) using [Magical Lumps](/docs/slimefun/lumps) and a Wither Skeleton Skull.
-
-### 重生精華
-
-This item is crafted in an [Ancient Altar](/docs/slimefun/ancient-altar) and is used for various high end [Magical Gadgets](/docs/slimefun/magical-gadgets).
-
-### 人造界伏殼
-
+### Synthetic Shulker Shell
 This item can be used a substitute for vanilla Shulker Shells. This way you don't always have to travel in the End to get your Shulker boxes.
 
-### 奇怪的地獄黏液
-
-This item is obtained by bartering with piglins and is used to craft the [Ancient Rune \[Villagers\]](/docs/slimefun/ancient-runes).
+### Strange Nether Goo
+This item is obtained by bartering with piglins and is used to craft the [Ancient Rune \[Villagers\]](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Runes).

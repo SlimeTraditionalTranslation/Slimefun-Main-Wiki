@@ -1,18 +1,3 @@
----
-title: "Addon-Jam-2021"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "sf-addons-jam"
-weight: 20
-toc: false
----
-
 We have hosted another Addon Jam in 2021, this is already the second Addon Jam ever.
 Here are the results!
 
@@ -26,7 +11,6 @@ Everyone of the participants (except for one) has agreed on having their full re
 The submissions are ordered by their score, so the first submission listed here has also achieved first place.
 
 Every submission was reviewed by a total of 2 reviewers based on the following 6 categories:
-
 * **Accuracy** _How well was the theme incoporated?_
 * **Creativity** _Were the ideas behind that submission interesting enough?_
 * **Innovation** _Does the submission feature innovative and new mechanics or is just a copy/paste of the tutorial?_
@@ -36,8 +20,7 @@ Every submission was reviewed by a total of 2 reviewers based on the following 6
 
 The scores are calculated by taking the average of all scores by all reviewers for that category. The total score is the average of all categories.
 
-## Submissions
-
+## Submissions 
 1. [FlowerPower by NCBPFluffyBear](#1-FlowerPower-by-NCBPFluffyBear)
 2. [BloodAlchemy by Mooy1](#2-BloodAlchemy-by-Mooy1)
 3. [Alchmia Vitae by Apeiros-46B](#3-Alchmia-Vitae-by-Apeiros-46B)
@@ -46,8 +29,7 @@ The scores are calculated by taking the average of all scores by all reviewers f
 6. [BetterFarming by HAL989](#6-BetterFarming-by-HAL989)
 
 ## 1. FlowerPower by NCBPFluffyBear
-
-<https://github.com/NCBPFluffyBear/FlowerPower>
+https://github.com/NCBPFluffyBear/FlowerPower
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 9.7      | 8.55       | 9.0        | 7.35         | 7.4      | 6.55      | **8.09** |
@@ -60,8 +42,7 @@ The scores are calculated by taking the average of all scores by all reviewers f
 <details>
 <summary>Click for a detailed review</summary>
 
-### Pros
-
+#### Pros
 * Subtle but very satisfying effects
 * Very accurate theme interpretation
 * Very unique concepts and ideas
@@ -77,7 +58,6 @@ The scores are calculated by taking the average of all scores by all reviewers f
 * Imbuing and plants fit the theme nicely
 
 #### Cons
-
 * The `README` contains more information than the ingame guide
 * Lack of ingame descriptions
 * Withdrawing experience from a cauldron does not work
@@ -87,15 +67,13 @@ The scores are calculated by taking the average of all scores by all reviewers f
 * The Recall Charm is bugged, it does not use actual experience but rather relative xp-bar values
 
 #### Conclusion
-
 The code is somewhat messy at parts but overall very clean.
 The gameplay is very satisfying, it is fun and it fits the theme wonderfully.
 
 </details>
 
 ## 2. BloodAlchemy by Mooy1
-
-<https://github.com/Mooy1/BloodAlchemy>
+https://github.com/Mooy1/BloodAlchemy
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 8.7      | 7.65       | 8.8        | 8.85         | 7.05     | 6.25      | **7.88** |
@@ -108,8 +86,7 @@ The gameplay is very satisfying, it is fun and it fits the theme wonderfully.
 <details>
 <summary>Click for a detailed review</summary>
 
-### Pros
-
+#### Pros
 * Very clean code
 * Extensive usage of annotations and documentation
 * Very nice mushroom implementations and use of the `BlockSpreadEvent` which is a very unique concept for addons
@@ -119,7 +96,6 @@ The gameplay is very satisfying, it is fun and it fits the theme wonderfully.
 * Decent but not overwhelming effects
 
 #### Cons
-
 * The Blood Altar causes a ton of exceptions when using it
 * Incompatible with FoyMachines due to an id conflict
 * No researches
@@ -128,7 +104,6 @@ The gameplay is very satisfying, it is fun and it fits the theme wonderfully.
 * You can use the sacrificial dagger to kill yourself in creative mode
 
 #### Conclusion
-
 The addon's code is very clean. The ideas are pretty much borrowed from the BloodMagic mod but it does still have some unique elements to it.
 Nice particle effects and pretty good user experience but still a bit of polishing left.
 The theme was interpreted pretty well, it even has some herbalism elements. It's just a bit gruesome in the end and has quite a few bugs.
@@ -136,8 +111,7 @@ The theme was interpreted pretty well, it even has some herbalism elements. It's
 </details>
 
 ## 3. Alchmia Vitae by Apeiros-46B
-
-<https://github.com/Apeiros-46B/AlchimiaVitae>
+https://github.com/Apeiros-46B/AlchimiaVitae
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 9.05     | 8.6        | 8.4        | 5.8          | 6.0      | 7.25      | **7.52** |
@@ -149,8 +123,7 @@ The theme was interpreted pretty well, it even has some herbalism elements. It's
 <details>
 <summary>Click for a detailed review</summary>
 
-### Pros
-
+#### Pros
 * Usage of multi-categories
 * There are researches
 * Lots of content
@@ -162,7 +135,6 @@ The theme was interpreted pretty well, it even has some herbalism elements. It's
 * Overall code structure is very good, split into multiple packages
 
 #### Cons
-
 * The file size is unnecessarily large
 * Shading the entire adventure library just for gradients in item names
 * Overuse of gradients in names, it looks nice at first but gets old very quickly
@@ -179,19 +151,17 @@ The theme was interpreted pretty well, it even has some herbalism elements. It's
 * A little strange for the enchants to be level 3 when there is no lvl 1 or 2 to be had (the light and dark magic ones)
 
 #### Conclusion
-
 The theme is spot on and very satisfying to use and fun to play with.
 The code is a mess at times though and gradients in item names are easily tiring.
-Between the brews and the infusions you get lots of applicability but it seems like there is a lot of content that
-would get burned through pretty quickly - nothing is overly expensive so the many "endgame" goals feel more early/mid game
-than endgame. Can be a plus or a minus depending on the POV, just seems  like going for variety of goals made progression
+Between the brews and the infusions you get lots of applicability but it seems like there is a lot of content that 
+would get burned through pretty quickly - nothing is overly expensive so the many "endgame" goals feel more early/mid game 
+than endgame. Can be a plus or a minus depending on the POV, just seems  like going for variety of goals made progression 
 shallow/non existent for each, it's wide but not deep.
 
 </details>
 
 ## 4. EMC2 by Seggan
-
-<https://github.com/Seggan/EMC2>
+https://github.com/Seggan/EMC2
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 5.45     | 4.3        | 6.35       | 6.9          | 3.5      | 4.8       | **5.22** |
@@ -202,15 +172,13 @@ shallow/non existent for each, it's wide but not deep.
 <details>
 <summary>Click for a detailed review</summary>
 
-### Pros
-
+#### Pros
 * Unit Tests
 * Lombok and a bit of documentation
 * Nice concept with the Router
 * There are researches
 
 #### Cons
-
 * Horrible user experience, lack of explanation
 * The Atomizer opens the Beacon UI
 * "QGC" does not take Slimefun items into account, only vanilla materials which results in a servere disbalance and exploits
@@ -226,7 +194,6 @@ shallow/non existent for each, it's wide but not deep.
 * Most chat messages are uncolored and just plain white
 
 #### Conclusion
-
 The code is alright but with a lot of room for improvement.
 The gameplay feels very dull, it isn't very satisfying nor easy to use. It is full of bugs, seems completely unfinished and does not
 really have any unique experience to it. It just feels like a dull "clicker game" where you collect arbitrary points in order to duplicate your items.
@@ -235,8 +202,7 @@ And the duplication itself is not even satisfying, it does not feel like an achi
 </details>
 
 ## 5. Hohenheim by Tweep
-
-<https://github.com/TweepCoding/hohenheim>
+https://github.com/TweepCoding/hohenheim
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 7.05     | 7.15       | 5.8        | 6.05         | 2.1      | 1.75      | **4.98** |
@@ -248,8 +214,7 @@ And the duplication itself is not even satisfying, it does not feel like an achi
 ***The author has requested that their detailed review would not be shown publicly.***
 
 ## 6. BetterFarming by HAL989
-
-<https://github.com/Gavin296/betterfarming>
+https://github.com/Gavin296/betterfarming
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 2.25     | 4.4        | 4.95       | 4.35         | 3.3      | 4.65      | **3.98** |
@@ -260,13 +225,11 @@ And the duplication itself is not even satisfying, it does not feel like an achi
 <details>
 <summary>Click for a detailed review</summary>
 
-### Pros
-
+#### Pros
 * There are some researches
 * Legend of Zelda?
 
 #### Cons
-
 * No `.gitignore`
 * Unorganized project structure, even the `/target/` folder is inside the projects
 * Ideas mostly all from Zelda, not much originality here
@@ -287,7 +250,6 @@ And the duplication itself is not even satisfying, it does not feel like an achi
 * There are still debug messages in the code
 
 #### Conclusion
-
 We aren't entirely sure how this fits into the theme, the addon seems very much incomplete and the project structure is all over the place.
 The code is very inconsistent and the dependency management is a bit of a chaos.
   

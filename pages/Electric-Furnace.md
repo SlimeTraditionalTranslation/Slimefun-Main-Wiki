@@ -1,19 +1,4 @@
----
-title: "Electric-Furnace"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
-
-The Electric Furnace is an [Electric Machine](/docs/slimefun/electric-machines) which smelts items by using electricity.
+The Electric Furnace is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which smelts items by using electricity.
 
 This machine is practically a vanilla minecraft furnace, the only difference being the fact that it runs on electricity instead of fuel.
 

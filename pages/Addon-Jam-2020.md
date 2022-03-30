@@ -1,18 +1,3 @@
----
-title: "Addon-Jam-2020"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "sf-addons-jam"
-weight: 10
-toc: false
----
-
 This is the first ever Addon Jam we hosted but hopefully not the last.<br>
 Here are some general stats about the contest.
 
@@ -26,7 +11,6 @@ Everyone of the participants has agreed on having their full review published on
 The submissions are ordered by their score, so the first submission listed here has also achieved first place.
 
 Every submission was reviewed by a total of 2 reviewers based on the following 6 categories:
-
 * **Accuracy** _How well was the theme incoporated?_
 * **Creativity** _Were the ideas behind that submission interesting enough?_
 * **Innovation** _Does the submission feature innovative and new mechanics or is just a copy/paste of the tutorial?_
@@ -36,8 +20,7 @@ Every submission was reviewed by a total of 2 reviewers based on the following 6
 
 The scores are calculated by taking the average of all scores by all reviewers for that category. The total score is the average of all categories.
 
-## Submissions
-
+## Submissions 
 1. [Endrex by nahkd](#1-Endrex-by-nahkd)
 2. [TranscEndence by Sfiguz7](#2-TranscEndence-by-Sfiguz7)
 3. [New-Beginnings by Tweep](#3-New-Beginnings-by-Tweep)
@@ -46,8 +29,7 @@ The scores are calculated by taking the average of all scores by all reviewers f
 6. [SlimeVoid by BigBadE](#6-SlimeVoid-by-BigBadE)
 
 ## 1. Endrex by nahkd
-
-<https://github.com/nahkd123/Endrex>
+https://github.com/nahkd123/Endrex
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 9.6      | 9.05       | 8.0        | 4.75         | 7.65     | 7.6       | **7.78** |
@@ -58,14 +40,12 @@ The scores are calculated by taking the average of all scores by all reviewers f
 <details>
 <summary>Click for a detailed review</summary>
 
-### Pros
-
+#### Pros
 * Very cool world-generation with awesome structures and loot chests
 * Very strong theme integration with Enderium, Dragon Scales and adding world-gen to the End
 * A lot of content with quite unique items
 
 #### Cons
-
 * Loot chests seem very overpowered
 * The Dust Fabricator throws a lot of stacktraces into the console
 * Your code violated a lot of naming conventions (e.g. nahkdSchematic2.java), lots of one-liner functions
@@ -77,7 +57,6 @@ The scores are calculated by taking the average of all scores by all reviewers f
 * Lack of visual cues on machines, the guide could display their recipes for example
 
 #### Conclusion
-
 Feature-wise this is really awesome but the Code Quality leaves a lot of room for improvement.<br>
 The idea of adding structures to the end was really good and on point with the theme.<br>
 This Addon adds a ton of items and content and introduces some really nice concepts.<br>
@@ -85,21 +64,19 @@ But internally it lacks quite a bit of work and isn't the most user-friendly too
 </details>
 
 ## 2. TranscEndence by Sfiguz7
-
-<https://github.com/Sfiguz7/TranscEndence>
+https://github.com/Sfiguz7/TranscEndence
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 2.75     | 8.85       | 8.2        | 7.95         | 8.2      | 8.7       | **7.44** |
 
-> TranscEndence adds some items and machines which have the end objective of crafting Daxis AKA items which will give permanent potion effects until next death.
+> TranscEndence adds some items and machines which have the end objective of crafting Daxis AKA items which will give permanent potion effects until next death. 
 > It includes some machines, both "regular" and a couple with some changes, aimed at collecting and crafting all the items that will help reach said objective, step by step.
 > <br>_by Sfiguz7_
 
 <details>
 <summary>Click for a detailed review</summary>
 
-### Pros
-
+#### Pros
 * Very interesting mechanics with lots of stuff to keep you occupied, even endgame items to work towards
 * Very cool machines that see their inspiration in Quantum Mechanics
 * Awesome visual effects
@@ -107,7 +84,6 @@ But internally it lacks quite a bit of work and isn't the most user-friendly too
 * Very user-friendly items, even comes with a written book explaining you everything
 
 #### Cons
-
 * Code-wise a few naming conventions were violated, such as the package name "Lists".
 * You should never store a Player Object in a collection, it will lead to severe memory leaks
 * Your custom RecipeType extends RecipeType but you never use instances of that class, you only ever use the static fields which defeats the points of inheriting from that class
@@ -116,7 +92,6 @@ But internally it lacks quite a bit of work and isn't the most user-friendly too
 * Very few items actually revolve around "The End", it seems like the theme was mostly ignored here except for some end-related machines or machines that "only work in the End"
 
 #### Conclusion
-
 A very user-friendly plugin with many awesome mechanics.
 Really a very unique addon for sure with lots of stuff to keep you occupied.
 The code does contain some rather bad practices though and the theme was mostly ignored.
@@ -124,8 +99,7 @@ The code does contain some rather bad practices though and the theme was mostly 
 </details>
 
 ## 3. New-Beginnings by Tweep
-
-<https://github.com/TweepCoding/New-Begginings>
+https://github.com/TweepCoding/New-Begginings
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 7.75     | 7.65       | 7.05       | 7.1          | 8.3      | 6.4       | **7.38** |
@@ -136,14 +110,12 @@ The code does contain some rather bad practices though and the theme was mostly 
 <details>
 <summary>Click for a detailed review</summary>
 
-### Pros
-
+#### Pros
 * Lots of fun to play around with the items, especially the Panda Bazooka.
 * Quite a few items but none of them are boring or a waste of time
 * Some nice Theme incorporation with Mythril and other items
 
 #### Cons
-
 * Mythril is almost impossible to find and the code behind it is really not good at all.
 * Some items are way too overpowered
 * The code is quite inefficient, especially because you perform up to 4 map operations that could have all been reduced to one
@@ -155,16 +127,14 @@ The code does contain some rather bad practices though and the theme was mostly 
 * Single-line functions
 
 #### Conclusion
-
-There is not too much to say about this addon, it's fun.
+There is not too much to say about this addon, it's fun. 
 But the code has a lot of room for improvement but is despite all those comments rather clean in general.
 The Theme was incorporated somewhat good.
 
 </details>
 
 ## 4. End Combat by HAL989
-
-<https://github.com/Gavin296/end-combat>
+https://github.com/Gavin296/end-combat
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 9.2      | 8.2        | 5.45       | 5.6          | 7.25     | 6.35      | **7.01** |
@@ -175,15 +145,13 @@ The Theme was incorporated somewhat good.
 <details>
 <summary>Click for a detailed review</summary>
 
-### Pros
-
+#### Pros
 * Very cool concept of repairing tools
 * Nice ideas and items are fun to use
 * Very accurate implementation of the theme
 * The Trapped Shulker is just ingenius
 
 #### Cons
-
 * The Category has a very generic name
 * Several naming conventions have been violated (e.g. "deepFreezer")
 * Empty classes ("RandomInt")
@@ -197,16 +165,14 @@ The Theme was incorporated somewhat good.
 * The ideas were good but content-wise we think it lacked a little "Innovation" there.
 
 #### Conclusion
-
 The plugin is fun and interesting. It is a good interpretation of the theme too.
 However the items all seem rather basic, which isn't inherently bad but costs a little on the "Innovation" score.
-The code is mostly clean but contains a couple of bad practices and goes against a few conventions.
+The code is mostly clean but contains a couple of bad practices and goes against a few conventions. 
 
 </details>
 
 ## 5. EnderPanda by Panda
-
-<https://github.com/J3fftw1/EnderPanda>
+https://github.com/J3fftw1/EnderPanda
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 6.75     | 7.5        | 5.6        | 8.85         | 8.05     | 5.25      | **7.00** |
@@ -219,14 +185,12 @@ The code is mostly clean but contains a couple of bad practices and goes against
 <details>
 <summary>Click for a detailed review</summary>
 
-### Pros
-
+#### Pros
 * Very clean code
 * Ideas are fun and quite a cool gimmick
 * Nice particle effects
 
 #### Cons
-
 * Lack of visual cues
 * Missing lore, not even a line stating that a machine needs power
 * A bit buggy, all armor recipes are broken since they use illegal shapes for the Ancient Altar, missing catalysts
@@ -237,7 +201,6 @@ The code is mostly clean but contains a couple of bad practices and goes against
 * Quite few content
 
 #### Conclusion
-
 The code is very clean and this addon is fun.
 However it isn't as user-friendly as it could have been and the mechanics do not really challenge the player a lot.
 It's good but small.
@@ -245,22 +208,20 @@ It's good but small.
 </details>
 
 ## 6. SlimeVoid by BigBadE
-
-<https://github.com/BigBadE/SlimefunVoid>
+https://github.com/BigBadE/SlimefunVoid
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | ----- |
 | 2.65     | 6.1        | 7.4        | 3.5          | 6.0      | 2.9       | **4.76** |
 
-> It adds an alternative research system for certain items, another crafting system.
-> It also adds wands, which can be upgraded with the alternate crafting system.
+> It adds an alternative research system for certain items, another crafting system. 
+> It also adds wands, which can be upgraded with the alternate crafting system. 
 > Wands can cast spells but also have a chance to backfire (worse wands backfire more)
 > <br>_by BigBadE_
 
 <details>
 <summary>Click for a detailed review</summary>
 
-### Pros
-
+#### Pros
 * Very innovative ideas, quite a unique system
 * A new Research System that is definitely something new
 * Nice addition of random research notes, especially that it incorporates the "Luck" effect
@@ -269,7 +230,6 @@ It's good but small.
 * Cool concept of spells and wands
 
 #### Cons
-
 * This Plugin does not even compile in the first place, you used "Spigot" as a dependency when it should have been "Spigot-api" at least
 * This is also a Spigot-exclusive title, meaning it **only** works on Spigot, this will impose a very unnecessary limitation to the user
 * No checks were made whether this "Spigot-exclusivity" condition is met, on CraftBukkit most stuff will simply refuse to work and throw errors, errors which could have been handled by the code
@@ -302,7 +262,6 @@ It's good but small.
 * You shouldn't loop through values and then perform a .get() operation, Map#entrySet() exists for this very reason and saves a ton of performance
 
 #### Conclusion
-
 Generally good ideas, very innovative for sure.
 But the Theme seemed a bit neglected, the code is very slow and inefficient, lots of redundancies and bad practices but mostly just inefficient.
 The plugin is a Spigot-exclusive title which is rather discouraged, especially if not using Spigot just causes tons of errors rather than a proper handling of that circumstance.

@@ -1,19 +1,4 @@
----
-title: "Freezer"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
-
-The Freezer is an [Electric Machine](/docs/slimefun/electric-machines) which can be used to freeze a lot of items.  
+The Freezer is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which can be used to freeze a lot of items.  
 This can be a very useful machine, for example, to create blue ice in the long-run.
 
 ## Freezer Tiers

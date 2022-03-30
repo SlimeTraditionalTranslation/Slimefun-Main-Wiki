@@ -1,29 +1,12 @@
----
-title: "Book-Binder"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
-
-The Book Binder is an [Electric Machine](/docs/slimefun/electric-machines) which can be used to combine different books together (much like an anvil would).  
+The Book Binder is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which can be used to combine different books together (much like an anvil would).  
 
 ## Book Binder Tiers
-
 The Book Binder currently only has one tier.  
 The duration of the action depends on how many enchants and what level they are.
 
 **Power Usage:** 16 J/s
 
 ## Book Binder Settings
-
 By default, you cannot use this machine to get books above the vanilla limit.  
 However for server owners it is possible to adjust this and either add a custom limit, or no limit at all.
 

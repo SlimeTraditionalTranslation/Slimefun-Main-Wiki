@@ -1,23 +1,14 @@
----
-title: "附加"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "sf-other"
-weight: 10
-toc: true
----
-
 Want to spice up your Slimefun4-Server? Then you have come to the right place!<br>
 Here is a list of all Slimefun Addons (that we currently know of). You can install these addons to add even more content to your Slimefun-based Minecraft Servers!
 
-## :star: Official Addons
+### Table of contents
+- [:star: Official Addons](#star-official-addons)
+- [:heart: Community Addons](#heart-community-addons)
+- [:gift: Third-Party Plugins](#gift-third-party-plugins)
+- [:trophy: Addon Jams](#trophy-addon-jams)
+- [:black_nib: Create your own addons!](#black_nib-create-your-own-addons)
 
+## :star: Official Addons
 These addons were developed closely to Slimefun by active members of this project.<br>
 We provide support for these on our [Discord Server](https://discord.gg/slimefun) as well!
 
@@ -42,7 +33,6 @@ EcoPower | TheBusyBiscuit, poma123 | <details><summary>expand</summary>This addo
 Hardcore Slimefun | Walshy, TheBusyBiscuit | <details><summary>expand</summary>Hardcore Slimefun is an addon designed to make Slimefun as hard as possible for those who don't like a true challenge (or server owners who want to be nice to their players!). Features include research loss, research failures and android malfunctions with more to come!</details> | [GitHub](https://github.com/Slimefun-Addon-Community/HardcoreSlimefun) | [Builds](https://thebusybiscuit.github.io/builds/Slimefun-Addon-Community/HardcoreSlimefun/main/)
 
 ## :heart: Community Addons
-
 These addons have been created by talented developers from our community.
 We can't provide any support for these on our official Discord Server though.
 Nor can we guarantee that these will work, some of them could be outdated or broken, we are not responsible for this software or their content.
@@ -51,7 +41,6 @@ If you encounter problems with these, please contact the respective developer, n
 Name | Author(s) | Description | More info | Source Code | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
 SoundMuffler | J3fftw1 | <details><summary>expand</summary>This Addon adds a machine which has the ability to muffle sound.</details> | N/A | [GitHub](https://github.com/Slimefun-Addon-Community/SoundMuffler) | [Builds](https://thebusybiscuit.github.io/builds/J3fftw1/SoundMuffler/master/)
-ClayTech | ClayCoffee | <details><summary>expand</summary>This Addon adds some weapons, armors, decoration, machines and diffrent kinds of food & drinks. It also improved Vanilla game experience with items like the High Speed Rail.</details> | N/A | [GitHub](https://github.com/ClayCoffee/ClayTech) | [Releases](https://github.com/ClayCoffee/ClayTech/releases)
 ExtraTools | Sfiguz | <details><summary>expand</summary>ExtraTools is a Slimefun4 Addon created to supply useful tools which, although unnecessary, are certain to improve your Slimefun experience.</details> | N/A | [GitHub](https://github.com/Sfiguz7/ExtraTools) | [Builds](https://thebusybiscuit.github.io/builds/Sfiguz7/ExtraTools/master/)
 TranscEndence | Sfiguz | <details><summary>expand</summary>This Addon adds tools to get permanent potion effects via a quantum physics-like experience. It was submitted as an entry to the 2020 Slimefun Addon Jam.</details> | N/A | [GitHub](https://github.com/Sfiguz7/TranscEndence) | [Builds](https://thebusybiscuit.github.io/builds/Sfiguz7/TranscEndence/master/)
 SFCalc | Seggan | <details><summary>expand</summary>This addon is a continuation of the old SlimeCalculator by John000708. It provides a command to calculate the required amounts of base resources for any given Slimefun item.</details> | N/A | [GitHub](https://github.com/Seggan/SFCalc) | [Builds](https://thebusybiscuit.github.io/builds/Seggan/SFCalc/master/)
@@ -66,7 +55,6 @@ Liquid | Seggan | <details><summary>expand</summary>This addon adds liquid versi
 DynaTech | ProfElements | <details><summary>expand</summary>An addon that adds random technology that happens to be dynamic in some concepts.</details> | [Readme](https://github.com/ProfElements/DynaTech/blob/master/README.md) | [GitHub](https://github.com/ProfElements/DynaTech) | [Builds](https://thebusybiscuit.github.io/builds/ProfElements/DynaTech/master)
 SlimyRepair | NCBPFluffyBear | <details><summary>expand</summary>An addon that allows players to repair Slimefun tools and weapons using customizable vanilla or Slimefun materials.</details> | [Readme](https://github.com/NCBPFluffyBear/SlimyRepair/blob/master/README.md) | [GitHub](https://github.com/NCBPFluffyBear/SlimyRepair) | [Builds](https://thebusybiscuit.github.io/builds/NCBPFluffyBear/SlimyRepair/master)
 SlimeCustomizer | NCBPFluffyBear | <details><summary>expand</summary>An addon that allows server owners to easily build their own Slimefun machines without any coding knowledge.</details> | [Readme](https://github.com/NCBPFluffyBear/SlimeCustomizer/blob/master/README.md) | [GitHub](https://github.com/NCBPFluffyBear/SlimeCustomizer) | [Builds](https://thebusybiscuit.github.io/builds/NCBPFluffyBear/SlimeCustomizer/master)
-GeneticChickengineering | kii-chan-reloaded | <details><summary>expand</summary>Genetic Chickengineering (GCE) is a mid- to late-game, resource-generating plugin heavily inspired by the Forge mod Chicken. GCE allows players to selectively breed special chickens to passively produce various vanilla resources, plus some Slimefun resources (mostly metal ore dusts).</details> | [Readme](https://github.com/kii-chan-reloaded/GeneticChickengineering) | [GitHub](https://github.com/kii-chan-reloaded/GeneticChickengineering) | [Releases](https://github.com/kii-chan-reloaded/GeneticChickengineering/releases)
 SimpleMaterialGenerators (SMG) | waleks647, Sefiraat | <details><summary>expand</summary>A simple addon with simple generators to reduce some grind.</details> | [Readme](https://github.com/Sefiraat/SMG/blob/master/README.md) | [GitHub](https://github.com/Sefiraat/SMG) | [Builds](https://thebusybiscuit.github.io/builds/Sefiraat/SMG/master)
 EMC2 | Seggan | <details><summary>expand</summary>This addon allows for transmutation and mass storage of items by converting them into "Quark-Gluon Plamsa"</details> | N/A | [GitHub](https://github.com/Seggan/EMC2) | [Builds](https://thebusybiscuit.github.io/builds/Seggan/EMC2/master/)
 Simple Storage | Sefiraat | <details><summary>expand</summary>This addon adds 3 simple chests (Iron [2 x 45 slot], Gold [4 x 45 slot] and Diamond [6 x 45 slot] but thats just to start! Convert your Diamond chests into Inventory Cells and hook them up to a Network Chest to really get rolling! The Network Chest can access all nearby cells giving a max possible 305,100 stacks of storage for all your items (if you're crazy enough!). Cells can be named and given custom icons for true organisation.</details> | [Wiki](https://github.com/Sefiraat/Simple-Storage/wiki) | [GitHub](https://github.com/Sefiraat/Simple-Storage) | [Builds](https://thebusybiscuit.github.io/builds/Sefiraat/Simple-Storage/master/)
@@ -76,39 +64,39 @@ PotionExpansion | EpicPlayerA10 | <details><summary>expand</summary>An addon whi
 FlowerPower | NCBPFluffyBear | <details><summary>expand</summary>FlowerPower is a magic addon centered around experience and flowers. The base of each recipe requires various flowers, and different items are crafted along the way to make mid to endgame items. A majority of these items function by consuming experience in exchange for a certain effect or buff.</details> | [Readme](https://github.com/NCBPFluffyBear/FlowerPower/blob/master/README.md) | [GitHub](https://github.com/NCBPFluffyBear/FlowerPower/) | [Builds](https://thebusybiscuit.github.io/builds/NCBPFluffyBear/FlowerPower/master/)
 Galactifun | Seggan, Mooy1, GallowsDove, ProfElements | <details><summary>expand</summary>Galactifun is an addon inspired by ClayTech and the mod Galacticraft. It adds multiple planets, rockets, space stations, and more!</details> | [Readme](https://github.com/Slimefun-Addon-Community/Galactifun/blob/master/README.md) | [GitHub](https://github.com/Slimefun-Addon-Community/Galactifun/) | [Builds](https://thebusybiscuit.github.io/builds/Slimefun-Addon-Community/Galactifun/master/)
 FNAmplifications | FN_FAL113 | <details><summary>expand</summary>A four in one addon that includes my FN Solar Generator, Material Generator, Machinery and Power Xpansion Addons which are based from the addons made by the slimefun addon community.</details> | [Readme](https://github.com/FN-FAL113/FN-FAL-s-Amplifications/blob/main/README.md) | [GitHub](https://github.com/FN-FAL113/FN-FAL-s-Amplifications) | [Builds](https://thebusybiscuit.github.io/builds/FN-FAL113/FN-FAL-s-Amplifications/main/)
-ElementManipulation | lucasGithuber | <details><summary>expand</summary>A slimefun addon that adds periodic table elements and more machines, giving the player the capacity to create items using these elements.</details> | [Readme](https://github.com/lucasGithuber/Element-Manipulation/blob/master/README.md) | [GitHub](https://github.com/lucasGithuber/Element-Manipulation) | [Releases](https://github.com/lucasGithuber/Element-Manipulation/releases)
+ElementManipulation | lucasGithuber | <details><summary>expand</summary>A Slimefun addon that adds periodic table elements and more machines, giving the player the capacity to create items using these elements.</details> | [Readme](https://github.com/lucasGithuber/Element-Manipulation/blob/master/README.md) | [GitHub](https://github.com/lucasGithuber/Element-Manipulation) | [Builds](https://thebusybiscuit.github.io/builds/lucasGithuber/Element-Manipulation/master/)
 Crystamae Historia | Sefiraat | <details><summary>expand</summary>Crystamae Historia is a large-scale magic addon that adds a brand new series of crafting mechanics allowing players to craft magical gadgets, spells and tools. Crysta has a deep progression system, massive amounts of lore and enough spells/gadgets to keep any player engaged for a long, long, time.</details> | [Wiki](https://github.com/Sefiraat/CrystamaeHistoria/wiki) | [GitHub](https://github.com/Sefiraat/CrystamaeHistoria) | [Builds](https://thebusybiscuit.github.io/builds/Sefiraat/CrystamaeHistoria/master/)
 DankTech2 | Sefiraat | <details><summary>expand</summary>DankTech is a plugin that attempts to recreate the Dank Storage Mod and /Dank/Null/ items from Modded. Features include mass volume storage backpacks with auto-voiding, building, easy unloading and more!</details> | [Wiki](https://github.com/Sefiraat/DankTech2/wiki) | [GitHub](https://github.com/Sefiraat/DankTech2) | [Builds](https://thebusybiscuit.github.io/builds/Sefiraat/DankTech2/master/)
 Networks | Sefiraat | <details><summary>expand</summary>Networks is an addon that aims to provide a AE2/Refined Storage style storage solution in a straight-forward but powerful manner. The addon works alongside core-slimefun cargo to allow you to insert mass storage along side your current automation with ease</details> | [Wiki](https://github.com/Sefiraat/Networks/wiki) | [GitHub](https://github.com/Sefiraat/Networks) | [Builds](https://thebusybiscuit.github.io/builds/Sefiraat/Networks/master/)
 SfChunkInfo | FN_FAL113 | <details><summary>expand</summary>Scan the amount of slimefun blocks in a chunk using a single command.</details> | [Readme](https://github.com/FN-FAL113/SfChunkInfo/blob/main/README.md) | [GitHub](https://github.com/FN-FAL113/SfChunkInfo) | [Builds](https://thebusybiscuit.github.io/builds/FN-FAL113/SfChunkInfo/main/)
+VillagerUtil | Apeiros-46B | <details><summary>expand</summary>VillagerUtil adds a few tools that allow for easy transportation of villagers, curing zombified villagers, cycling trades and more.</details> | [Readme](https://github.com/Apeiros-46B/VillagerUtil/blob/main/README.md) | [GitHub](https://github.com/Apeiros-46B/VillagerUtil) | [Builds](https://thebusybiscuit.github.io/builds/Apeiros-46B/VillagerUtil/main)
+Missile Warfare | Kaiyan2006 | <details><summary>expand</summary>Missile Warfare adds a bunch of missiles to Slimefun that can be fired at others!</details> | N/A | [GitHub](https://github.com/koiboi-dev/MissileWarfare) | [Releases](https://github.com/koiboi-dev/MissileWarfare/releases)
+SlimefunAdvancements | char321 | <details><summary>expand</summary>SlimefunAdvancements adds fully configurable advancements to Slimefun. Easily create your own progression!</details> | [Readme](https://github.com/qwertyuioplkjhgfd/SlimefunAdvancements/blob/main/README.md) | [Github](https://github.com/qwertyuioplkjhgfd/SlimefunAdvancements) | [Builds](https://thebusybiscuit.github.io/builds/qwertyuioplkjhgfd/SlimefunAdvancements/main/)
 
 ## :gift: Third-Party Plugins
-
 These Plugins are not Addons, but they do integrate with Slimefun in some way or another.
 
 Name | Author(s) | Description | More info | Source Code | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
 SensibleToolbox (WIP) | desht, TheBusyBiscuit | <details><summary>expand</summary>SensibleToolbox is a plugin very similar to Slimefun, it was originally developed by desht in 2014. TheBusyBiscuit took over it in late 2014 and continued to update it. We are currently updating it once more, it pairs and integrates into Slimefun pretty well!</details> | N/A | [GitHub](https://github.com/Slimefun/SensibleToolbox) | [Builds](https://thebusybiscuit.github.io/builds/Slimefun/SensibleToolbox/master/)
 Brewery | Sn0wStorm and others | <details><summary>expand</summary>Brewery is a Bukkit / Spigot plugin for an alternate brewing process, including alcoholic Potions. It allows you to customize recipes, add your own beverages and more. Brewery supports the usage of items from Slimefun and any of its addons (including ExoticGarden) in their recipes.</details> | [Wiki](https://github.com/DieReicheErethons/Brewery/wiki) | [GitHub](https://github.com/DieReicheErethons/Brewery) | [Releases](https://github.com/DieReicheErethons/Brewery/releases)
-PlaceholderAPI | extended_clip, Glare | <details><summary>expand</summary>Slimefun adds placeholders that can be used with PlaceholderAPI, you can find more Info on the Wiki link.</details> | [Wiki](/docs/slimefun/placeholderapi) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
+PlaceholderAPI | extended_clip, Glare | <details><summary>expand</summary>Slimefun adds placeholders that can be used with PlaceholderAPI, you can find more Info on the Wiki link.</details> | [Wiki](https://github.com/Slimefun/Slimefun4/wiki/PlaceholderAPI) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
 WhatIsThis | steve4744 | <details><summary>expand</summary>WhatIsThis is a plugin inspired by the Minecraft mod WAILA, it adds a little info display to give you information about the block you are looking at. Later versions also support this feature for Slimefun blocks.</details> | N/A | [GitHub](https://github.com/steve4744/WhatIsThis) | [SpigotMC](https://www.spigotmc.org/resources/whatisthis-identify-the-block-you-are-looking-at-multi-language-support.65050/)
 DankTech | Sefiraat | <details><summary>expand</summary>***This version of DankTech is now only being supported for critical bugs, for the newest version, download DankTech2 from the Community Addons section.***<br>DankTech is a plugin that attempts to recreate the Dank Storage Mod and /Dank/Null/ items from Modded. Features include mass volume storage backpacks with auto-voiding, building, easy unloading and more! DankTech adds all of it's recipes to the Slimefun Guide when applicable.</details> | [Wiki](https://github.com/Sefiraat/DankTech/wiki) | [GitHub](https://github.com/Sefiraat/DankTech) | [SpigotMC](https://www.spigotmc.org/resources/%E2%9A%A1-danktech-%E2%9A%A1-dank-storage-plugin.92031/)
 EquivalencyTech | Sefiraat | <details><summary>expand</summary>EquivalencyTech (EquiTech) is an attempt to recreate elements of the ProjectE mod as a plugin. EquiTech adds EMC as a new form of currency to condense items down or synthesize new ones from learned recipes. All EMC values are configurable by server owners. EquiTech adds all of it's recipes to the Slimefun Guide when applicable.</details> | [Wiki](https://github.com/Sefiraat/EquivalencyTech/wiki) | [GitHub](https://github.com/Sefiraat/EquivalencyTech/) | [SpigotMC](https://www.spigotmc.org/resources/%E2%AD%90-equitech-%E2%AD%90-equivalent-exchange-plugin.92970/)
 
 ## :trophy: Addon Jams
-
 In 2020 we started hosting our very first "Slimefun Addon Jam" on our discord server.<br>
 We hope to make this a re-occurring thing. The basic premise is the following: At the start of the Jam we will announce a theme and every developer has a limited time frame to create a Slimefun Addon - from scratch - based on that theme. When the Jam has ended we will review their submissions, rate them and hand out prizes to the addons that performed the best.<br>
 Here is a list of all Addon Jams that have been hosted so far:
 
-1. [Addon Jam 2020](/docs/slimefun/addon-jam-2020)
-2. [Addon Jam 2021](/docs/slimefun/addon-jam-2021)
+1. [Addon Jam 2020](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2020)
+2. [Addon Jam 2021](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2021)
 
-## :black_nib: Create your own addons
-
-Do you want to create your own Slimefun Addon? Check out this [Developer Guide](/docs/slimefun/developer-guide).
+## :black_nib: Create your own addons!
+Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
 
 If you have made an Addon for Slimefun and want it to be listed on here, simply make a new pull request on our wiki repository. You can find a tutorial here:
-<https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki>.  
+https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki.  
 If a pull request is not possible, then just create an Issue and select the "Addition" template:  
-<https://github.com/Slimefun/Wiki/issues>
+https://github.com/Slimefun/Wiki/issues

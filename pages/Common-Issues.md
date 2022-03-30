@@ -1,63 +1,49 @@
----
-title: "常見問題"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "sf-main"
-weight: 50
-toc: true
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
 
-此頁面將包含有關遊戲常見問題以及如何解決它們的資訊.
+- [Floating tags](#floating-tags)
+- [Unplaceable blocks](#unplaceable-blocks)
+- [Circuit Boards not dropping](#circuit-boards-not-dropping)
 
-以下大多數情況都需要有不同程度權限的工作人員: 如果沒有, 請將此連結給有更高權限的人!
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-**WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](/docs/slimefun/how-to-report-bugs)**
+This page contains useful information about common in game issues and how to resolve them.<br>
+Most of the following will require varying degrees of permission only staff members may have: make sure to link people higher up in your staff team here if you don't!
 
-## 漂浮文字
+**WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](https://github.com/Slimefun/Slimefun4/wiki/How-to-report-bugs)**
 
-有些Slimefun的物品會在放置時自動創建漂浮文字, 尤其是  [能量調節器](/docs/slimefun/energy-regulator) 和 [物流核心](/docs/slimefun/cargo-manager).
+## Floating tags
+Some Slimefun items automatically create floating tags when placed, in particular the [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) and the [Cargo Manager](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager).<br>
+These tags are supposed to disappear when breaking the machine but sometimes things can go wrong and you're left with some text that just doesn't want to go away. How can you solve this?
 
-這些漂浮文字應在破壞機器時消失, 但有時可能出錯, 並留下一些不想消失的文字. 你要怎麼解決?
+_Note: make sure this isn't due to a ghost block (check "Unplaceable Blocks")!_
 
-_注意: 請確保這不是由鬼方塊引起的 (請檢察 "不可放置的方塊")!_
+### How to fix this (Stage 1)
+Remove any regulators/managers below the floating tag, then stand close to it and run this as operator:
+>/execute as <your_name> at @s run execute as @e[type=armor_stand,nbt={Invisible:1b},distance=..3] run data merge entity @s {Invisible:0}
 
-### 如何解決這個 (第一階段)
+You can now punch the armor stand to destroy it. You may need to punch out multiple stands as they may have been spawned and stacked onto each other depending on which plugins you use.
 
-移除任何在漂浮文字下方的調節器/核心, 然後靠近他並以管理員身分運行:
->/execute as <你的遊戲ID> at @s run execute as @e[type=armor_stand,nbt={Invisible:1b},distance=..3] run data merge entity @s {Invisible:0}
-
-你現在可以直接用手打掉盔座. 你可能需要打好幾次, 因為它們可能已經升成了一些並堆疊在一起, 這取決於你所使用的插件.
-
-*提示: 建議使用 MyCommands, CommandOverride 或任何相似的插件來設定一個別名, 以便於記憶與教導 (一個範例像是 /holokill).*
+*Tip: it is recommended using MyCommands, CommandOverride or similar plugins and setting an alias, easier to remember and teach (an example could be /holokill).*
 
 ### How to fix this (Stage 2)
-
 Switch to spectator mode via
 >/gamemode spectator
 
-You should see the invisible armor stand and better gauge where the feet are; using this information, place a new regulator just below the tag on the first block not occupied by the armor stand itself (get one via /sf cheat).
-
+You should see the invisible armor stand and better gauge where the feet are; using this information, place a new regulator just below the tag on the first block not occupied by the armor stand itself (get one via /sf cheat).<br>
 The regulator will try to place its own armor stand which will replace the corrupt ones and behave normally: you should now be able to remove the regulator you've just placed, removing all tags.
 
 ### How to fix this (Stage 3)
-
 If the hologram keeps respawning you're very likely to be dealing with a ghost block like the ones dealt with under Unplaceable blocks, with the only difference it's also spawning a hologram because it's one of the items listed up top.
 Simply follow the procedure to get rid of any ghost block and you should be golden.
 
 ## Unplaceable blocks
-
-If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block.
-
-This means a Slimefun item used to be placed there (usually an [android](/docs/slimefun/androids) or a [cargo component](/docs/slimefun/cargo-management)) and its data was not correctly removed.
+If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block.<br> This means a Slimefun item used to be placed there (usually an [android](https://github.com/Slimefun/Slimefun4/wiki/Androids) or a [cargo component](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management)) and its data was not correctly removed.
 
 ### How to fix this (Isolated block)
-
 Get a debug fish by running the following as operator:
 >/sf debug_fish
 
@@ -68,7 +54,6 @@ Shift right click to place a dummy head, then shift left click it: an animation 
 Punch out the dummy head.
 
 ### How to fix this (Cluster of blocks)
-
 This is very similar to the procedure for isolated blocks: in this case instead of placing all the dummy heads one by one you can run WorldEdit commands to speed up the placing process.
 
 Use WorldEdit to select the cluster of blocks and its surroundings and execute:
@@ -80,19 +65,13 @@ Remove the stone by executing:
 >//undo
 
 ## Circuit Boards not dropping
-
-If you kill Iron Golems and they don't seem to drop any Iron Golems, it may be due to a conflicting plugin.
-
+If you kill Iron Golems and they don't seem to drop any Iron Golems, it may be due to a conflicting plugin.<br>
 Plugins like **MobStacker** or similar are known to have a lot of issues with custom item drops.
 
 ### How to fix this (Stage 1)
-
-The best solution to this problem is to enable custom item drops in that plugins config, if such an option exist.
-
+The best solution to this problem is to enable custom item drops in that plugins config, if such an option exist.<br>
 Or ask the authors of that plugin whether there is a way to toggle this behaviour.
 
 ### How to fix this (Stage 2)
-
-A more drastic approach would be to switch over to a Mob-Stacking plugin that supports custom drops.
-
-_At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](/docs/slimefun/expanding-the-wiki)_
+A more drastic approach would be to switch over to a Mob-Stacking plugin that supports custom drops.<br>
+_At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)_

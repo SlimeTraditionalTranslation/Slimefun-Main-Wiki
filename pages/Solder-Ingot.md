@@ -1,40 +1,26 @@
----
-title: "Solder-Ingot"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
 
 ## Obtaining
 
-Combining the following items in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Smeltery](/docs/slimefun/electric-smeltery) yields one Solder Ingot:
+Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery) yields one Solder Ingot:
 
-* 1 [Lead Dust](/docs/slimefun/lead-dust)
-* 1 [Tin Dust](/docs/slimefun/tin-dust)
-* 1 [Lead Ingot](/docs/slimefun/lead-ingot)
+* 1 [Lead Dust](https://github.com/Slimefun/Slimefun4/wiki/Lead-Dust)
+* 1 [Tin Dust](https://github.com/Slimefun/Slimefun4/wiki/Tin-Dust)
+* 1 [Lead Ingot](https://github.com/Slimefun/Slimefun4/wiki/Lead-Ingot)
 
-### Total base material cost
+#### Total base material cost 
 
-* 2 [Lead Dust](/docs/slimefun/lead-dust)
-* 1 [Tin Dust](/docs/slimefun/tin-dust)
+* 2 [Lead Dust](https://github.com/Slimefun/Slimefun4/wiki/Lead-Dust)
+* 1 [Tin Dust](https://github.com/Slimefun/Slimefun4/wiki/Tin-Dust)
 
 ## Usage
 
 ### In other alloys
 
-* [Reinforced Alloy Ingot](/docs/slimefun/reinforced-alloy-ingot)
+* [Reinforced Alloy Ingot](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Alloy-Ingot)
 
 ### Items
 
-* [Solder Jetpack](/docs/slimefun/jetpacks)
-* [Solder Multi Tool](/docs/slimefun/multi-tools)
-* [Solder Jet Boots](/docs/slimefun/jet-boots)
-* [Portable Geo Scanner](/docs/slimefun/portable-geo-scanner)
+* [Solder Jetpack](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
+* [Solder Multi Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
+* [Solder Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
+* [Portable Geo Scanner](https://github.com/Slimefun/Slimefun4/wiki/Portable-Geo-Scanner)

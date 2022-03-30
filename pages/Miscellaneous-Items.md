@@ -1,24 +1,8 @@
----
-title: "雜項目錄"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "sf-miscellaneous"
-weight: 999
-toc: false
----
-
 This category contains a variety of simple items that are most often used as a crafting material in other recipes or as a base to either create or be fuel.  
 These items do not have special properties on their own, so underneath you'll find a list of the items. To craft them check the recipe in the Slimefun Guide!
 
-## 目錄
-
-* [Sifted Ore](/docs/slimefun/sifted-ore)
+## Table of contents
+* [Sifted Ore](https://github.com/Slimefun/Slimefun4/wiki/Sifted-Ore)
 * Wheat Flour
 * Steel Plate
 * Chain

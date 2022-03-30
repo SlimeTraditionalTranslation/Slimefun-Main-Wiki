@@ -1,39 +1,25 @@
----
-title: "Bronze-Ingot"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
 
 ## Obtaining
 
-Combining the following items in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Smeltery](/docs/slimefun/electric-smeltery) yields one Bronze Ingot:
+Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery) yields one Bronze Ingot:
 
-* 1 [Copper Dust](/docs/slimefun/copper-dust)
-* 1 [Tin Dust](/docs/slimefun/tin-dust)
-* 1 [Copper Ingot](/docs/slimefun/copper-ingot)
+* 1 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
+* 1 [Tin Dust](https://github.com/Slimefun/Slimefun4/wiki/Tin-Dust)
+* 1 [Copper Ingot](https://github.com/Slimefun/Slimefun4/wiki/Copper-Ingot)
 
-### Total base material cost
+#### Total base material cost 
 
-* 2 [Copper Dust](/docs/slimefun/copper-dust)
-* 1 [Tin Dust](/docs/slimefun/tin-dust)
+* 2 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
+* 1 [Tin Dust](https://github.com/Slimefun/Slimefun4/wiki/Tin-Dust)
 
 ## Usage
 
 ### In other alloys
 
-* [Aluminum Bronze Ingot](/docs/slimefun/aluminum-bronze-ingot)
-* [Corinthian Bronze Ingot](/docs/slimefun/corinthian-bronze-ingot)
+* [Aluminum Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Bronze-Ingot)
+* [Corinthian Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Corinthian-Bronze-Ingot)
 
 ### Items
 
-* [GPS Transmitter](/docs/slimefun/gps-transmitter)
-* [Cargo Node (Connector)](/docs/slimefun/connector-node)
+* [GPS Transmitter](https://github.com/Slimefun/Slimefun4/wiki/GPS-Transmitter)
+* [Cargo Node (Connector)](https://github.com/Slimefun/Slimefun4/wiki/Connector-Node)

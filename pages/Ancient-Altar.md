@@ -1,32 +1,15 @@
----
-title: "Ancient Altar"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
-
-The Ancient Altar is a block in the [Magical Gadgets](/docs/slimefun/magical-gadgets) category, as well as a Multiblock structure.  
-It is used to craft other [Magical Items](/docs/slimefun/magical-items) and gadgets, and to repair [Broken Spawners](/docs/slimefun/broken-spawner) so they become [Reinforced Spawners](/docs/slimefun/reinforced-spawner).
+The Ancient Altar is a block in the [Magical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Magical-Gadgets) category, as well as a Multiblock structure.  
+It is used to craft other [Magical Items](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items) and gadgets, and to repair [Broken Spawners](https://github.com/Slimefun/Slimefun4/wiki/Broken-Spawner) so they become [Reinforced Spawners](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Spawner).
 
 ## Obtaining
-
-The Ancient Altar block can be crafted in a [Magic Workbench](/docs/slimefun/magic-workbench).
+The Ancient Altar block can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench).
 
 ## Usage
-
-The Ancient Altar block on its own has no use. In order to have a working altar, the Ancient Altar must be surrounded by 8 [Ancient Pedestals](/docs/slimefun/ancient-pedestal), 2 blocks away from it in cardinal directions and 1 block away diagonally.
+The Ancient Altar block on its own has no use. In order to have a working altar, the Ancient Altar must be surrounded by 8 [Ancient Pedestals](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Pedestal), 2 blocks away from it in cardinal directions and 1 block away diagonally.
 
 A working Ancient Altar looks like this:
 
-<img src="/slimefun-images/multiblock-ancient-altar.png" alt="Ancient Altar setup">
+![Ancient Altar setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-ancient-altar.png)
 
 To begin the crafting process or "ritual", each ingredient in the recipe must be placed on the pedestals by right-clicking them.  
 The item in the middle of the recipe (or "catalyst") must then be used on the central altar block.

@@ -1,0 +1,41 @@
+---
+title: "Lava-Generator"
+description: ""
+lead: ""
+date: 2021-12-27T00:00:00+08:00
+lastmod: 2021-12-27T00:00:00+08:00
+draft: false
+images: []
+menu: 
+  docs:
+    parent: "tbd"
+weight: 999
+toc: false
+---
+
+The Lava Generator is a type of [Energy Generator](/docs/slimefun/electric-machines#energy-generation).
+
+## Obtaining
+
+All tiers of lava generators can be crafted in an [Enhanced Crafting Table](/docs/slimefun/enhanced-crafting-table).
+
+## Usage
+
+A lava generator must be placed within 7 blocks of an [Energy Regulator](/docs/slimefun/energy-regulator), an [Energy Connector](/docs/slimefun/energy-connector), or an [Energy Capacitor](/docs/slimefun/energy-capacitors) in a cross format (not diagonally), and provided with the appropriate fuel.
+
+## Tiers
+
+There are currently two tiers of lava generators.
+
+| Tier | Energy | Buffer |
+| :--: | :----: | :----: |
+| I    | 20 J/s | 512 J  |
+| II   | 40 J/s | 1024 J |
+
+## Fuel
+
+This generator can only be fueled with lava buckets.
+
+| Fuel        | Burning time | Total (Tier I) | Total (Tier II) |
+| :---------- | :----------: | :------------: | :-------------: |
+| Lava Bucket | 40s          | 800 J          | 1.6 kJ          |

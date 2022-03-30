@@ -1,41 +1,27 @@
----
-title: "Aluminum-Brass-Ingot"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
 
 ## Obtaining
 
-Combining the following items in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Smeltery](/docs/slimefun/electric-smeltery) yields one Aluminum Brass Ingot:
+Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery) yields one Aluminum Brass Ingot:
 
-* 1 [Aluminum Dust](/docs/slimefun/aluminum-dust)
-* 1 [Brass Ingot](/docs/slimefun/brass-ingot)
-* 1 [Aluminum Ingot](/docs/slimefun/aluminum-ingot)
+* 1 [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust)
+* 1 [Brass Ingot](https://github.com/Slimefun/Slimefun4/wiki/Brass-Ingot)
+* 1 [Aluminum Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Ingot)
 
-### Total base material cost
+#### Total base material cost 
 
-* 2 [Aluminum Dust](/docs/slimefun/aluminum-dust)
-* 2 [Copper Dust](/docs/slimefun/copper-dust)
-* 1 [Zinc Dust](/docs/slimefun/zinc-dust)
+* 2 [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust)
+* 2 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
+* 1 [Zinc Dust](https://github.com/Slimefun/Slimefun4/wiki/Zinc-Dust)
 
 ## Usage
 
 ### In other alloys
 
-* [Reinforced Alloy Ingot](/docs/slimefun/reinforced-alloy-ingot)
+* [Reinforced Alloy Ingot](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Alloy-Ingot)
 
 ### Items
 
-* [Hologram Projector](/docs/slimefun/hologram-projector)
-* [Bio Reactor](/docs/slimefun/bio-reactor)
-* [GPS Control Panel](/docs/slimefun/gps-control-panel)
-* [Freezer II](/docs/slimefun/freezer)
+* [Hologram Projector](https://github.com/Slimefun/Slimefun4/wiki/Hologram-Projector)
+* [Bio Reactor](https://github.com/Slimefun/Slimefun4/wiki/Bio-Reactor)
+* [GPS Control Panel](https://github.com/Slimefun/Slimefun4/wiki/GPS-Control-Panel)
+* [Freezer II](https://github.com/Slimefun/Slimefun4/wiki/Freezer)

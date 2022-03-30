@@ -1,28 +1,11 @@
----
-title: "Ancient-Pedestal"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
-
-The Ancient Pedestal is a block in the [Magical Gadgets](/docs/slimefun/magical-gadgets) category. It is essential in building a working [Ancient Altar](/docs/slimefun/ancient-altar).
+The Ancient Pedestal is a block in the [Magical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Magical-Gadgets) category. It is essential in building a working [Ancient Altar](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Altar).
 
 ## Obtaining
-
-The Ancient Pedestal can be crafted in a [Magic Workbench](/docs/slimefun/magic-workbench).
+The Ancient Pedestal can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench).
 
 ## Usage
-
-8 Ancient Pedestals must be placed around an [Ancient Altar](/docs/slimefun/ancient-altar) in order for it to work.
+8 Ancient Pedestals must be placed around an [Ancient Altar](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Altar) in order for it to work.
 
 Right-clicking a pedestal with an item in hand will make it rotate and levitate above the pedestal, which may be useful for decorative purposes. However, an item placed this way will disappear after 5 minutes, much like a dropped item.
 
-<img src="/slimefun-images/block-ancient-pedestal.png" alt="Ancient Pedestal displaying a Diamond Sword">
+![Ancient Pedestal displaying a Diamond Sword](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/block-ancient-pedestal.png)

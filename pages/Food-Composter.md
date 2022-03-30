@@ -1,20 +1,5 @@
----
-title: "Food-Composter"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
-
-The Food Composter is an [Electric Machine](/docs/slimefun/electric-machines) which can be used to create [Organic Fertilizer](/docs/slimefun/miscellaneous-items) from [Organic Food](/docs/slimefun/miscellaneous-items).  
-The produced [Organic Fertilizer](/docs/slimefun/miscellaneous-items) can be used as fuel for other machines.
+The Food Composter is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) which can be used to create [Organic Fertilizer](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items) from [Organic Food](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items).  
+The produced [Organic Fertilizer](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items) can be used as fuel for other machines.
 
 ## Food Composter Tiers
 

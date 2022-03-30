@@ -1,39 +1,26 @@
----
-title: "Brass-Ingot"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
 
 ## Obtaining
 
-Combining the following items in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Smeltery](/docs/slimefun/electric-smeltery) yields one Brass Ingot:
+Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery) yields one Brass Ingot:
 
-* 1 [Copper Dust](/docs/slimefun/copper-dust)
-* 1 [Zinc Dust](/docs/slimefun/zinc-dust)
-* 1 [Copper Ingot](/docs/slimefun/copper-ingot)
+* 1 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
+* 1 [Zinc Dust](https://github.com/Slimefun/Slimefun4/wiki/Zinc-Dust)
+* 1 [Copper Ingot](https://github.com/Slimefun/Slimefun4/wiki/Copper-Ingot)
 
-### Total base material cost
 
-* 2 [Copper Dust](/docs/slimefun/copper-dust)
-* 1 [Zinc Dust](/docs/slimefun/zinc-dust)
+#### Total base material cost 
+
+* 2 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
+* 1 [Zinc Dust](https://github.com/Slimefun/Slimefun4/wiki/Zinc-Dust)
 
 ## Usage
 
 ### In other alloys
 
-* [Aluminum Brass Ingot](/docs/slimefun/aluminum-brass-ingot)
+* [Aluminum Brass Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Brass-Ingot)
 
 ### Items
 
-* [Electric Ingot Factory II/III](/docs/slimefun/electric-ingot-factory)
-* [Android Memory Core](/docs/slimefun/androids)
-* [Output Node](/docs/slimefun/output-node)
+* [Electric Ingot Factory II/III](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory)
+* [Android Memory Core](https://github.com/Slimefun/Slimefun4/wiki/Androids)
+* [Output Node](https://github.com/Slimefun/Slimefun4/wiki/Output-Node)

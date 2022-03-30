@@ -1,44 +1,30 @@
----
-title: "Corinthian-Bronze-Ingot"
-description: ""
-lead: ""
-date: 2021-12-27T00:00:00+08:00
-lastmod: 2021-12-27T00:00:00+08:00
-draft: false
-images: []
-menu: 
-  docs:
-    parent: "tbd"
-weight: 999
-toc: false
----
 
 ## Obtaining
 
-Combining the following items in a [Smeltery](/docs/slimefun/smeltery) or an [Electric Smeltery](/docs/slimefun/electric-smeltery) yields one Corinthian Bronze Ingot:
+Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery) yields one Corinthian Bronze Ingot:
 
-* 1 [Silver Dust](/docs/slimefun/silver-dust)
-* 1 [Gold Dust](/docs/slimefun/gold-dust)
-* 1 [Copper Dust](/docs/slimefun/copper-dust)
-* 1 [Bronze Ingot](/docs/slimefun/bronze-ingot)
+* 1 [Silver Dust](https://github.com/Slimefun/Slimefun4/wiki/Silver-Dust)
+* 1 [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust)
+* 1 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
+* 1 [Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Bronze-Ingot)
 
-### Total base material cost
+#### Total base material cost 
 
-* 1 [Silver Dust](/docs/slimefun/silver-dust)
-* 1 [Gold Dust](/docs/slimefun/gold-dust)
-* 3 [Copper Dust](/docs/slimefun/copper-dust)
-* 1 [Tin Dust](/docs/slimefun/tin-dust)
+* 1 [Silver Dust](https://github.com/Slimefun/Slimefun4/wiki/Silver-Dust)
+* 1 [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust)
+* 3 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
+* 1 [Tin Dust](https://github.com/Slimefun/Slimefun4/wiki/Tin-Dust)
 
 ## Usage
 
 ### In other alloys
 
-* [Reinforced Alloy Ingot](/docs/slimefun/reinforced-alloy-ingot)
+* [Reinforced Alloy Ingot](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Alloy-Ingot)
 
 ### Items
 
-* [Electric Dust Washer III](/docs/slimefun/electric-dust-washer)
-* [Electrified Crucible II/III](/docs/slimefun/electrified-crucible)
-* [GPS Transmitter III](/docs/slimefun/gps-transmitter)
-* [Lava Generator II](/docs/slimefun/lava-generator)
-* [Nether Star Reactor](/docs/slimefun/reactors)
+* [Electric Dust Washer III](https://github.com/Slimefun/Slimefun4/wiki/Electric-Dust-Washer)
+* [Electrified Crucible II/III](https://github.com/Slimefun/Slimefun4/wiki/Electrified-Crucible)
+* [GPS Transmitter III](https://github.com/Slimefun/Slimefun4/wiki/GPS-Transmitter)
+* [Lava Generator II](https://github.com/Slimefun/Slimefun4/wiki/Lava-Generator)
+* [Nether Star Reactor](https://github.com/Slimefun/Slimefun4/wiki/Reactors)
