@@ -32,7 +32,7 @@ sidebar_position: 1
 
 是, 但也不是.
 
-在 [TheBusyBiscuit 的網站 (官方版)](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/) [xMikux 的網站 (非官方版)](https://xmikux.github.io/builds/xmikux/Slimefun4/master/) 你會發現看到頻繁(自動上傳)的更新. 這些通常只是錯誤修復和較小的調整. 請記住, 黏液科技是由社群維護, 而不是一個人或一組人. 因此這些更新可能非常的不規律.
+在 [TheBusyBiscuit 的網站 (官方版)](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/) [xMikux 的網站 (非官方版)](https://xmikux.github.io/builds/xMikux/Slimefun4/master/) 你會發現看到頻繁(自動上傳)的更新. 這些通常只是錯誤修復和較小的調整. 請記住, 黏液科技是由社群維護, 而不是一個人或一組人. 因此這些更新可能非常的不規律.
 
 但是如果你正在尋找更多黏液科技的內容, 那麼你應該查看一些 [Slimefun的附加](Addons). 當然你也可以將自己的內容添加至黏液科技並發出"Pull Request"(拉取請求), 但必須進行審核與批准. 建議你開發一個附加, 它的速度要快很多.
 
