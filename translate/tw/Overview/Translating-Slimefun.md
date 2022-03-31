@@ -1,30 +1,30 @@
 ---
-title: Translating-Slimefun
+title: 翻譯黏液科技
 sidebar_position: 7
 ---
 
-Translating Slimefun has always been a tough point because of some wrong design choices in the code made years ago.
+由於多年前的錯誤設計選擇與代碼製作, 翻譯黏液科技一直都是一項難題.
 
-But as of February 2020 all builds feature translations.
+但截至 2020 年 2 月, 所有版本的建構帶有了翻譯功能.
 
-**Important note: At the moment you can only translate chat messages and certain inventories but not items. Item translations are very difficult to do and will likely still take over a year or even more until this will become a thing. Please do not ask us for translations for items and be patient! Thank you.**
+**重要提示: 你目前只能翻譯聊天室所傳出的訊息和某些箱子介面, 但不能翻譯物品. 物品翻譯是非常難實現, 且可能仍需要一年甚至更長時間才能完成. 請耐心等待! 並不要要求我們物品的翻譯. 感謝你.**
 
-## Changing your server language
+## 更改你的伺服器語言
 
-You can change your server's default language by modifying your config.yml:
+你可以透過修改 config.yml 來改變伺服器預設語言:
 
 ```yaml
 options:
   language: en
 ```
 
-Swap `en` out for the language code of your desired language. You can find a list of all supported languages further down on this page.
+將 `en` 轉換為你所需要的語言代碼. 你可以在此頁面下方找到所有受支持的語言列表.
 
-Note that this will override your `messages.yml` file. If you wish to customize your messages despite the selected language, simply edit your `messages.yml` **after** changing your language and restarting the Server. Your `messages.yml` will only ever be touched if you decide to change the default language of your server again. New additions to the messages.yml will be appended to that file without issues.
+請注意, 這將會覆蓋你的 `messages.yml` 檔案. 如果你希望在選擇的語言下自定義你的訊息, 只需在 `messages.yml` **後** 改變你的語言並重啟你的伺服器. 你的 `messages.yml` 只有在你決定要修改伺服器預設語言時. Messages.yml 的新增內容將會毫無問題的添加到該文件中.
 
-## Changing your personal language
+## 更給你的個人語言
 
-Every player can choose their preferred language. By default everyone will simply use the server's default language.
+每個玩家都可以選擇他們喜歡的語言. By default everyone will simply use the server's default language.
 
 But if you have a lot of international players, they can simply override it and use their personally preferred language instead.
 
@@ -42,47 +42,47 @@ Development builds of Slimefun may allow a few unreleased languages already.
 
 Contributions are very much welcome!
 
-| Released             | Language                                                         | language code |
-| -------------------- | ---------------------------------------------------------------- | ------------- |
-| :heavy_check_mark: | English                                                          | `en`          |
-| :heavy_check_mark: | [German](https://crowdin.com/project/slimefun/de)                | `de`          |
-| :heavy_check_mark: | [French](https://crowdin.com/project/slimefun/fr)                | `fr`          |
-| :heavy_check_mark: | [Italian](https://crowdin.com/project/slimefun/it)               | `it`          |
-| :heavy_check_mark: | [Spanish](https://crowdin.com/project/slimefun/es)               | `es`          |
-| :x:                  | [Polish](https://crowdin.com/project/slimefun/pl)                | `pl`          |
-| :heavy_check_mark: | [Swedish](https://crowdin.com/project/slimefun/sv)               | `sv`          |
-| :x:                  | [Dutch](https://crowdin.com/project/slimefun/nl)                 | `nl`          |
-| :heavy_check_mark: | [Russian](https://crowdin.com/project/slimefun/ru)               | `ru`          |
-| :heavy_check_mark: | [Hungarian](https://crowdin.com/project/slimefun/hu)             | `hu`          |
-| :x:                  | [Greek](https://crowdin.com/project/slimefun/el)                 | `el`          |
-| :heavy_check_mark: | [Czech](https://crowdin.com/project/slimefun/cs)                 | `cs`          |
-| :x:                  | [Latvian](https://crowdin.com/project/slimefun/lv)               | `lv`          |
-| :heavy_check_mark: | [Slovak](https://crowdin.com/project/slimefun/sk)                | `sk`          |
-| :heavy_check_mark: | [Chinese (China)](https://crowdin.com/project/slimefun/zh-CN)    | `zh-CN`       |
-| :heavy_check_mark: | [Chinese (Taiwan)](https://crowdin.com/project/slimefun/zh-TW)   | `zh-TW`       |
-| :x:                  | [Portugese (Portugal)](https://crowdin.com/project/slimefun/pt)  | `pt`          |
-| :heavy_check_mark: | [Portugese (Brazil)](https://crowdin.com/project/slimefun/pt-BR) | `pt-BR`       |
-| :heavy_check_mark: | [Vietnamese](https://crowdin.com/project/slimefun/vi)            | `vi`          |
-| :heavy_check_mark: | [Indonesian](https://crowdin.com/project/slimefun/id)            | `id`          |
-| :x:                  | [Hebrew](https://crowdin.com/project/slimefun/he)                | `he`          |
-| :heavy_check_mark: | [Arabic](https://crowdin.com/project/slimefun/ar)                | `ar`          |
-| :x:                  | [Danish](https://crowdin.com/project/slimefun/da)                | `da`          |
-| :x:                  | [Finnish](https://crowdin.com/project/slimefun/fi)               | `fi`          |
-| :x:                  | [Norwegian](https://crowdin.com/project/slimefun/no)             | `no`          |
-| :heavy_check_mark: | [Ukrainian](https://crowdin.com/project/slimefun/uk)             | `uk`          |
-| :x:                  | [Afrikaans](https://crowdin.com/project/slimefun/af)             | `af`          |
-| :x:                  | [Malay](https://crowdin.com/project/slimefun/ms)                 | `ms`          |
-| :heavy_check_mark: | [Japanese](https://crowdin.com/project/slimefun/ja)              | `ja`          |
-| :x:                  | [Persian](https://crowdin.com/project/slimefun/fa)               | `fa`          |
-| :heavy_check_mark: | [Thai](https://crowdin.com/project/slimefun/th)                  | `th`          |
-| :heavy_check_mark: | [Tagalog](https://crowdin.com/project/slimefun/tl)               | `tl`          |
-| :x:                  | [Romanian](https://crowdin.com/project/slimefun/ro)              | `ro`          |
-| :x:                  | [Bulgarian](https://crowdin.com/project/slimefun/bg)             | `bg`          |
-| :heavy_check_mark: | [Turkish](https://crowdin.com/project/slimefun/tr)               | `tr`          |
-| :heavy_check_mark: | [Korean](https://crowdin.com/project/slimefun/ko)                | `ko`          |
-| :x:                  | [Macedonian](https://crowdin.com/project/slimefun/mk)            | `mk`          |
-| :x:                  | [Croatian](https://crowdin.com/project/slimefun/hr)              | `hr`          |
-| :x:                  | [Belarusian](https://crowdin.com/project/slimefun/be)            | `be`          |
+| 發布                   | 語言                                                               | 語言代碼    |
+| -------------------- | ---------------------------------------------------------------- | ------- |
+| :heavy_check_mark: | English                                                          | `en`    |
+| :heavy_check_mark: | [German](https://crowdin.com/project/slimefun/de)                | `de`    |
+| :heavy_check_mark: | [French](https://crowdin.com/project/slimefun/fr)                | `fr`    |
+| :heavy_check_mark: | [Italian](https://crowdin.com/project/slimefun/it)               | `it`    |
+| :heavy_check_mark: | [Spanish](https://crowdin.com/project/slimefun/es)               | `es`    |
+| :x:                  | [Polish](https://crowdin.com/project/slimefun/pl)                | `pl`    |
+| :heavy_check_mark: | [Swedish](https://crowdin.com/project/slimefun/sv)               | `sv`    |
+| :x:                  | [Dutch](https://crowdin.com/project/slimefun/nl)                 | `nl`    |
+| :heavy_check_mark: | [Russian](https://crowdin.com/project/slimefun/ru)               | `ru`    |
+| :heavy_check_mark: | [Hungarian](https://crowdin.com/project/slimefun/hu)             | `hu`    |
+| :x:                  | [Greek](https://crowdin.com/project/slimefun/el)                 | `el`    |
+| :heavy_check_mark: | [Czech](https://crowdin.com/project/slimefun/cs)                 | `cs`    |
+| :x:                  | [Latvian](https://crowdin.com/project/slimefun/lv)               | `lv`    |
+| :heavy_check_mark: | [Slovak](https://crowdin.com/project/slimefun/sk)                | `sk`    |
+| :heavy_check_mark: | [Chinese (China)](https://crowdin.com/project/slimefun/zh-CN)    | `zh-CN` |
+| :heavy_check_mark: | [Chinese (Taiwan)](https://crowdin.com/project/slimefun/zh-TW)   | `zh-TW` |
+| :x:                  | [Portugese (Portugal)](https://crowdin.com/project/slimefun/pt)  | `pt`    |
+| :heavy_check_mark: | [Portugese (Brazil)](https://crowdin.com/project/slimefun/pt-BR) | `pt-BR` |
+| :heavy_check_mark: | [Vietnamese](https://crowdin.com/project/slimefun/vi)            | `vi`    |
+| :heavy_check_mark: | [Indonesian](https://crowdin.com/project/slimefun/id)            | `id`    |
+| :x:                  | [Hebrew](https://crowdin.com/project/slimefun/he)                | `he`    |
+| :heavy_check_mark: | [Arabic](https://crowdin.com/project/slimefun/ar)                | `ar`    |
+| :x:                  | [Danish](https://crowdin.com/project/slimefun/da)                | `da`    |
+| :x:                  | [Finnish](https://crowdin.com/project/slimefun/fi)               | `fi`    |
+| :x:                  | [Norwegian](https://crowdin.com/project/slimefun/no)             | `no`    |
+| :heavy_check_mark: | [Ukrainian](https://crowdin.com/project/slimefun/uk)             | `uk`    |
+| :x:                  | [Afrikaans](https://crowdin.com/project/slimefun/af)             | `af`    |
+| :x:                  | [Malay](https://crowdin.com/project/slimefun/ms)                 | `ms`    |
+| :heavy_check_mark: | [Japanese](https://crowdin.com/project/slimefun/ja)              | `ja`    |
+| :x:                  | [Persian](https://crowdin.com/project/slimefun/fa)               | `fa`    |
+| :heavy_check_mark: | [Thai](https://crowdin.com/project/slimefun/th)                  | `th`    |
+| :heavy_check_mark: | [Tagalog](https://crowdin.com/project/slimefun/tl)               | `tl`    |
+| :x:                  | [Romanian](https://crowdin.com/project/slimefun/ro)              | `ro`    |
+| :x:                  | [Bulgarian](https://crowdin.com/project/slimefun/bg)             | `bg`    |
+| :heavy_check_mark: | [Turkish](https://crowdin.com/project/slimefun/tr)               | `tr`    |
+| :heavy_check_mark: | [Korean](https://crowdin.com/project/slimefun/ko)                | `ko`    |
+| :x:                  | [Macedonian](https://crowdin.com/project/slimefun/mk)            | `mk`    |
+| :x:                  | [Croatian](https://crowdin.com/project/slimefun/hr)              | `hr`    |
+| :x:                  | [Belarusian](https://crowdin.com/project/slimefun/be)            | `be`    |
 
 ### You want to help us translate?
 
