@@ -1,5 +1,5 @@
 ---
-title: Translating-Slimefun
+title: Translating Slimefun
 sidebar_position: 7
 ---
 
