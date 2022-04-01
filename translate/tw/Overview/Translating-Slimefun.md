@@ -24,23 +24,23 @@ options:
 
 ## 更給你的個人語言
 
-每個玩家都可以選擇他們喜歡的語言. By default everyone will simply use the server's default language.
+每個玩家都可以選擇他們喜歡的語言. 在預設情況下, 每個人都會用伺服器預設語言.
 
-But if you have a lot of international players, they can simply override it and use their personally preferred language instead.
+但如果你有很多國際玩家, 他們可以簡單的覆蓋成他們個人使用的語言.
 
-To do this, just go to the "Settings" section of your Slimefun Guide (Shift - Right Click the Slimefun Guide while holding it in your hand). There you should see a globe or a flag which allows you to select a language.
+要做這點, 只要在 Slimefun 指南 (蹲下右鍵當你拿在手上) 內的 "設定" 部份. 在那邊你可以看到一個地球或者旗幟, 可以讓你選擇並變換你的語言.
 
-## Available languages
+## 可用的語言
 
-Note that only languages that are marked as **Released** can safely be selected on your server.
+請注意只有標記為 **發布**的語言才能在伺服器上安全的選擇.
 
-Unreleased languages are still pending for review or are not fully translated yet.
+未發布的語言仍然在等待審核或尚未完全翻譯.
 
-Development builds of Slimefun may allow a few unreleased languages already.
+開發版 Slimefun 可能已經包含一些尚未發布的語言.
 
-**Do not select unreleased languages as your server's default language.**
+**請別選擇尚未發布的語言做為你的伺服器預設語言.**
 
-Contributions are very much welcome!
+歡迎貢獻翻譯!
 
 | 發布                   | 語言                                                               | 語言代碼    |
 | -------------------- | ---------------------------------------------------------------- | ------- |
@@ -84,13 +84,13 @@ Contributions are very much welcome!
 | :x:                  | [Croatian](https://crowdin.com/project/slimefun/hr)              | `hr`    |
 | :x:                  | [Belarusian](https://crowdin.com/project/slimefun/be)            | `be`    |
 
-### You want to help us translate?
+### 想要幫忙我們進行翻譯?
 
-Just click on the language you want to help translate. It will bring you to [Crowdin](https://crowdin.com/project/slimefun/) where the different translations of this repository are hosted.
+只要點擊你想翻譯的語言來幫助翻譯. 這將會帶你至 [Crowdin](https://crowdin.com/project/slimefun/), 託管此儲存庫的翻譯.
 
-Once you are there, just swap out all the messages for your translations and hit "Create review request" once you are done.
+當你到達那裡時, 只需將所有訊息轉換成你的翻譯, 並在完成後點擊 "創建審核請求 (Create review request)".
 
-We will then start reviewing your changes and add them to this plugin.
+然後我們會開始審核你的變動, 並將其添加至插件中.
 
 ### You don't see your language?
 
