@@ -44,7 +44,7 @@ options:
 
 | 發布                   | 語言                                                     | 語言代碼    |
 | -------------------- | ------------------------------------------------------ | ------- |
-| :heavy_check_mark: | English                                                | `en`    |
+| :heavy_check_mark: | 英語                                                     | `en`    |
 | :heavy_check_mark: | [德語](https://crowdin.com/project/slimefun/de)          | `de`    |
 | :heavy_check_mark: | [法語](https://crowdin.com/project/slimefun/fr)          | `fr`    |
 | :heavy_check_mark: | [意大利語](https://crowdin.com/project/slimefun/it)        | `it`    |
