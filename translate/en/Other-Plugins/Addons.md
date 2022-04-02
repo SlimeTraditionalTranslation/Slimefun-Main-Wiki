@@ -1,7 +1,14 @@
-Want to spice up your Slimefun4-Server? Then you have come to the right place!<br>
+---
+title: Addons
+sidebar_position: 1
+---
+
+Want to spice up your Slimefun4-Server? Then you have come to the right place!
+
 Here is a list of all Slimefun Addons (that we currently know of). You can install these addons to add even more content to your Slimefun-based Minecraft Servers!
 
 ### Table of contents
+
 - [:star: Official Addons](#star-official-addons)
 - [:heart: Community Addons](#heart-community-addons)
 - [:gift: Third-Party Plugins](#gift-third-party-plugins)
@@ -9,7 +16,9 @@ Here is a list of all Slimefun Addons (that we currently know of). You can insta
 - [:black_nib: Create your own addons!](#black_nib-create-your-own-addons)
 
 ## :star: Official Addons
-These addons were developed closely to Slimefun by active members of this project.<br>
+
+These addons were developed closely to Slimefun by active members of this project.
+
 We provide support for these on our [Discord Server](https://discord.gg/slimefun) as well!
 
 Name | Author(s) | Description | Source code | Download
@@ -33,6 +42,7 @@ EcoPower | TheBusyBiscuit, poma123 | <details><summary>expand</summary>This addo
 Hardcore Slimefun | Walshy, TheBusyBiscuit | <details><summary>expand</summary>Hardcore Slimefun is an addon designed to make Slimefun as hard as possible for those who don't like a true challenge (or server owners who want to be nice to their players!). Features include research loss, research failures and android malfunctions with more to come!</details> | [GitHub](https://github.com/Slimefun-Addon-Community/HardcoreSlimefun) | [Builds](https://thebusybiscuit.github.io/builds/Slimefun-Addon-Community/HardcoreSlimefun/main/)
 
 ## :heart: Community Addons
+
 These addons have been created by talented developers from our community.
 We can't provide any support for these on our official Discord Server though.
 Nor can we guarantee that these will work, some of them could be outdated or broken, we are not responsible for this software or their content.
@@ -74,29 +84,35 @@ Missile Warfare | Kaiyan2006 | <details><summary>expand</summary>Missile Warfare
 SlimefunAdvancements | char321 | <details><summary>expand</summary>SlimefunAdvancements adds fully configurable advancements to Slimefun. Easily create your own progression!</details> | [Readme](https://github.com/qwertyuioplkjhgfd/SlimefunAdvancements/blob/main/README.md) | [Github](https://github.com/qwertyuioplkjhgfd/SlimefunAdvancements) | [Builds](https://thebusybiscuit.github.io/builds/qwertyuioplkjhgfd/SlimefunAdvancements/main/)
 
 ## :gift: Third-Party Plugins
+
 These Plugins are not Addons, but they do integrate with Slimefun in some way or another.
 
 Name | Author(s) | Description | More info | Source Code | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
 SensibleToolbox (WIP) | desht, TheBusyBiscuit | <details><summary>expand</summary>SensibleToolbox is a plugin very similar to Slimefun, it was originally developed by desht in 2014. TheBusyBiscuit took over it in late 2014 and continued to update it. We are currently updating it once more, it pairs and integrates into Slimefun pretty well!</details> | N/A | [GitHub](https://github.com/Slimefun/SensibleToolbox) | [Builds](https://thebusybiscuit.github.io/builds/Slimefun/SensibleToolbox/master/)
 Brewery | Sn0wStorm and others | <details><summary>expand</summary>Brewery is a Bukkit / Spigot plugin for an alternate brewing process, including alcoholic Potions. It allows you to customize recipes, add your own beverages and more. Brewery supports the usage of items from Slimefun and any of its addons (including ExoticGarden) in their recipes.</details> | [Wiki](https://github.com/DieReicheErethons/Brewery/wiki) | [GitHub](https://github.com/DieReicheErethons/Brewery) | [Releases](https://github.com/DieReicheErethons/Brewery/releases)
-PlaceholderAPI | extended_clip, Glare | <details><summary>expand</summary>Slimefun adds placeholders that can be used with PlaceholderAPI, you can find more Info on the Wiki link.</details> | [Wiki](https://github.com/Slimefun/Slimefun4/wiki/PlaceholderAPI) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
+PlaceholderAPI | extended_clip, Glare | <details><summary>expand</summary>Slimefun adds placeholders that can be used with PlaceholderAPI, you can find more Info on the Wiki link.</details> | [Wiki](PlaceholderAPI) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
 WhatIsThis | steve4744 | <details><summary>expand</summary>WhatIsThis is a plugin inspired by the Minecraft mod WAILA, it adds a little info display to give you information about the block you are looking at. Later versions also support this feature for Slimefun blocks.</details> | N/A | [GitHub](https://github.com/steve4744/WhatIsThis) | [SpigotMC](https://www.spigotmc.org/resources/whatisthis-identify-the-block-you-are-looking-at-multi-language-support.65050/)
-DankTech | Sefiraat | <details><summary>expand</summary>***This version of DankTech is now only being supported for critical bugs, for the newest version, download DankTech2 from the Community Addons section.***<br>DankTech is a plugin that attempts to recreate the Dank Storage Mod and /Dank/Null/ items from Modded. Features include mass volume storage backpacks with auto-voiding, building, easy unloading and more! DankTech adds all of it's recipes to the Slimefun Guide when applicable.</details> | [Wiki](https://github.com/Sefiraat/DankTech/wiki) | [GitHub](https://github.com/Sefiraat/DankTech) | [SpigotMC](https://www.spigotmc.org/resources/%E2%9A%A1-danktech-%E2%9A%A1-dank-storage-plugin.92031/)
+DankTech | Sefiraat | <details><summary>expand</summary>***This version of DankTech is now only being supported for critical bugs, for the newest version, download DankTech2 from the Community Addons section.***
+DankTech is a plugin that attempts to recreate the Dank Storage Mod and /Dank/Null/ items from Modded. Features include mass volume storage backpacks with auto-voiding, building, easy unloading and more! DankTech adds all of it's recipes to the Slimefun Guide when applicable.</details> | [Wiki](https://github.com/Sefiraat/DankTech/wiki) | [GitHub](https://github.com/Sefiraat/DankTech) | [SpigotMC](https://www.spigotmc.org/resources/%E2%9A%A1-danktech-%E2%9A%A1-dank-storage-plugin.92031/)
 EquivalencyTech | Sefiraat | <details><summary>expand</summary>EquivalencyTech (EquiTech) is an attempt to recreate elements of the ProjectE mod as a plugin. EquiTech adds EMC as a new form of currency to condense items down or synthesize new ones from learned recipes. All EMC values are configurable by server owners. EquiTech adds all of it's recipes to the Slimefun Guide when applicable.</details> | [Wiki](https://github.com/Sefiraat/EquivalencyTech/wiki) | [GitHub](https://github.com/Sefiraat/EquivalencyTech/) | [SpigotMC](https://www.spigotmc.org/resources/%E2%AD%90-equitech-%E2%AD%90-equivalent-exchange-plugin.92970/)
 
 ## :trophy: Addon Jams
-In 2020 we started hosting our very first "Slimefun Addon Jam" on our discord server.<br>
-We hope to make this a re-occurring thing. The basic premise is the following: At the start of the Jam we will announce a theme and every developer has a limited time frame to create a Slimefun Addon - from scratch - based on that theme. When the Jam has ended we will review their submissions, rate them and hand out prizes to the addons that performed the best.<br>
+
+In 2020 we started hosting our very first "Slimefun Addon Jam" on our discord server.
+
+We hope to make this a re-occurring thing. The basic premise is the following: At the start of the Jam we will announce a theme and every developer has a limited time frame to create a Slimefun Addon - from scratch - based on that theme. When the Jam has ended we will review their submissions, rate them and hand out prizes to the addons that performed the best.
+
 Here is a list of all Addon Jams that have been hosted so far:
 
-1. [Addon Jam 2020](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2020)
-2. [Addon Jam 2021](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2021)
+1. [Addon Jam 2020](Addon-Jam-2020)
+2. [Addon Jam 2021](Addon-Jam-2021)
 
 ## :black_nib: Create your own addons!
-Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
+
+Do you want to create your own Slimefun Addon? Check out this [Developer Guide](Developer-Guide).
 
 If you have made an Addon for Slimefun and want it to be listed on here, simply make a new pull request on our wiki repository. You can find a tutorial here:
-https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki.  
+Expanding-the-Wiki.  
 If a pull request is not possible, then just create an Issue and select the "Addition" template:  
 https://github.com/Slimefun/Wiki/issues
