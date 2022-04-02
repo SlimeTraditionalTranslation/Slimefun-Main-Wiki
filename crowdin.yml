@@ -1,9 +1,9 @@
 files:
   - source: /translate/en/Overview/*.md
     translation: /translate/%two_letters_code%/Overview/%original_file_name%
-  # - source: /translate/en/Overview/*.json
-  #   translation: /translate/%two_letters_code%/Overview/%original_file_name%
-  - source: /translate/en/Other-Plugins/*.md
-    translation: /translate/%two_letters_code%/Other-Plugins/%original_file_name%
-  # - source: /translate/en/Other-Plugins/**/*.json
-  #   translation: /translate/%two_letters_code%/Other-Plugins/**/%original_file_name%
+  - source: /translate/en/Overview/*.json
+    translation: /translate/%two_letters_code%/Overview/%original_file_name%
+  - source: /translate/en/Other-Plugins/**/*.md
+    translation: /translate/%two_letters_code%/Other-Plugins/**/%original_file_name%
+  - source: /translate/en/Other-Plugins/**/*.json
+    translation: /translate/%two_letters_code%/Other-Plugins/**/%original_file_name%
