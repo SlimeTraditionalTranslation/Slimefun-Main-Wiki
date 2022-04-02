@@ -1,5 +1,5 @@
 ---
-title: Hercules' Pickaxe
+title: Hercules Pickaxe
 sidebar_position: 7
 ---
 
