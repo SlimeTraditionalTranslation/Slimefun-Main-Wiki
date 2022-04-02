@@ -1,5 +1,5 @@
 ---
-title: Translating Slimefun
+title: 翻譯黏液科技
 sidebar_position: 7
 ---
 
