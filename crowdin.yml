@@ -1,9 +1,5 @@
 files:
-  - source: /translate/en/Overview/*.md
+  - source: /translate/en/Overview/*
     translation: /translate/%two_letters_code%/Overview/%original_file_name%
-  - source: /translate/en/Overview/*.json
-    translation: /translate/%two_letters_code%/Overview/%original_file_name%
-  - source: /translate/en/Other-Plugins/**/*.md
-    translation: /translate/%two_letters_code%/Other-Plugins/**/%original_file_name%
-  - source: /translate/en/Other-Plugins/**/*.json
+  - source: /translate/en/Other-Plugins/**/*
     translation: /translate/%two_letters_code%/Other-Plugins/**/%original_file_name%
