@@ -1,5 +1,5 @@
 ---
-title: Developer Guide
+title: 開發者指南
 ---
 
 Welcome to our Developer Guide!
