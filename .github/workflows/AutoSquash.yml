@@ -26,7 +26,7 @@ jobs:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           MERGE_LABELS: "自動合併"
           MERGE_REMOVE_LABELS: "自動合併"
-          MERGE_COMMIT_MESSAGE: "自動合併 {pullRequest.number}"
+          MERGE_COMMIT_MESSAGE: "自動合併翻譯 #{pullRequest.number}"
           MERGE_REQUIRED_APPROVALS: 0
           MERGE_DELETE_BRANCH: true
           MERGE_METHOD: "squash"
