@@ -1,5 +1,5 @@
 ---
-title: Addons
+title: 附加
 sidebar_position: 1
 ---
 
@@ -9,11 +9,11 @@ sidebar_position: 1
 
 ### 目錄
 
-- [:star: 官方附加](#star-official-addons)
-- [:heart: 社群附加](#heart-community-addons)
-- [:gift: 第三方插件](#gift-third-party-plugins)
-- [:trophy: 附加果醬比賽](#trophy-addon-jams)
-- [:black_nib: 製作屬於自己的附加!](#black_nib-create-your-own-addons)
+- [:star: 官方附加](#star-官方附加)
+- [:heart: 社群附加](#-heart-社群附加)
+- [:gift: 第三方插件](#gift-第三方插件)
+- [:trophy: 附加果醬比賽](#trophy-附加果醬比賽)
+- [:black_nib: 製作屬於自己的附加!](#black_nib-製作屬於自己的附加)
 
 ## :star: 官方附加
 
@@ -21,25 +21,25 @@ sidebar_position: 1
 
 我們也在我們的 [Discord 伺服器](https://discord.gg/slimefun) 上提供支持!
 
-| 名稱                         | 作者                      | 描述                         | 源代碼                                                                    | 下載                                                                                            |
-| -------------------------- | ----------------------- | -------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ExoticGarden (異國情調花園)      | TheBusyBiscuit          | <details><summary>展開</summary>這個附加添加了大量的 植物, 樹木和一堆食物至黏液科技! 你可以做任何事情從種植梨子樹到製作"燒烤培根包裹的奶酪夾心熱狗".</details>  | [GitHub](https://github.com/TheBusyBiscuit/ExoticGarden)               | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExoticGarden/master/)             |
-| ColoredEnderChests (彩色終界箱) | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds global color-coded Ender Chests that work across dimensions, with Cargo Nets and more!</details>  | [GitHub](https://github.com/TheBusyBiscuit/ColoredEnderChests)         | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ColoredEnderChests/master/)       |
-| LuckyBlocks                | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds Lucky Blocks, they are craftable but will also spawn in newly generated chunks. You can never know what happens if you open them!</details>  | [GitHub](https://github.com/TheBusyBiscuit/luckyblocks-sf)             | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/luckyblocks-sf/master/)           |
-| HotbarPets                 | TheBusyBiscuit          | <details><summary>expand</summary>This Addon - which is inspired by the mod InventoryPets - adds "Pet"-Items to Slimefun. You can carry your Pets in your Hotbar and they will help you in various ways. But you need to feed them of course!</details>  | [GitHub](https://github.com/TheBusyBiscuit/HotbarPets)                 | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/HotbarPets/master/)               |
-| SoulJars                   | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds "Soul Jars" to the game. You can collect souls by killing a certain amount of mobs of the same type. You can then use this Soul Jar to craft Spawners.</details>  | [GitHub](https://github.com/TheBusyBiscuit/SoulJars)                   | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SoulJars/master/)                 |
-| ElectricSpawners           | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds Electric Spawners. You can turn any Repaired Spawners into Electric ones and they will run off Electricity! You can turn them on and off in their GUI.</details>  | [GitHub](https://github.com/TheBusyBiscuit/ElectricSpawners)           | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ElectricSpawners/master/)         |
-| PrivateStorage             | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds a lot of new Chests to Slimefun, explosive-resistant chests, private chests and also wooden chests for the various Wood Types in Minecraft.</details>  | [GitHub](https://github.com/TheBusyBiscuit/PrivateStorage)             | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/PrivateStorage/master/)           |
-| ChestTerminal              | TheBusyBiscuit          | <details><summary>expand</summary>This Addon is inspired by the mod AppliedEnergistics. It adds a Terminal to your Cargo Networks. You can request and store Items via the terminal and also import/export Items into chests.</details>  | [GitHub](https://github.com/TheBusyBiscuit/ChestTerminal)              | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ChestTerminal/master/)            |
-| ExtraGear                  | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds new Weapons and Armor to Slimefun. Most of them are related to Alloys and Metals within Slimefun.</details>  | [GitHub](https://github.com/TheBusyBiscuit/ExtraGear)                  | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExtraGear/master/)                |
-| ExtraHeads                 | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds new Heads to a lot of Minecraft Mobs. Take a look at the config to configure their drop-rate (which is also increased with a Sword Of Beheading).</details>  | [GitHub](https://github.com/TheBusyBiscuit/ExtraHeads)                 | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExtraHeads/master/)               |
-| SlimefunOreChunks          | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds all existing dusts to the GEO-Miner. You can get stuff like "Copper Ore Chunks" from the GEO-Miner and then turn those into Dusts using an Ore Crusher.</details> | [GitHub](https://github.com/TheBusyBiscuit/SlimefunOreChunks)          | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimefunOreChunks/master/)        |
-| DyedBackpacks              | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds 16 dyed variants for every Slimefun Backpack</details> | [GitHub](https://github.com/TheBusyBiscuit/DyedBackpacks)              | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/DyedBackpacks/master/)            |
-| SlimyTreeTaps              | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds Tree Taps and rubber, an alternative way to obtain Plastic Sheets.</details> | [GitHub](https://github.com/TheBusyBiscuit/SlimyTreeTaps)              | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimyTreeTaps/master/)            |
-| MobCapturer                | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds a Mob Capturing Cannon which you can use to capture mobs as items. You can find more info on the project page, it is inspired by the Safari-Nets from the mod MineFactory Reloaded.</details> | [GitHub](https://github.com/Slimefun-Addon-Community/MobCapturer)      | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/MobCapturer/master/)              |
-| LiteXpansion               | J3fftw1, Walshy         | <details><summary>expand</summary>A remake of SlimeXpansion but without many of the unused items. This addon won't be as packed as SlimeXpansion as the name says, it will rather be "Lite".</details> | [GitHub](https://github.com/Slimefun-Addon-Community/LiteXpansion)     | [建構](https://thebusybiscuit.github.io/builds/J3fftw1/LiteXpansion/master/)                    |
-| EcoPower                   | TheBusyBiscuit, poma123 | <details><summary>expand</summary>This addon is focused on climate-friendly and renewable energy sources. It features, wind turbines, steam turbines and more! You can even harness energy from lightning bolts!</details> | [GitHub](https://github.com/TheBusyBiscuit/EcoPower)                   | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EcoPower/master/)                 |
-| Hardcore Slimefun          | Walshy, TheBusyBiscuit  | <details><summary>expand</summary>Hardcore Slimefun is an addon designed to make Slimefun as hard as possible for those who don't like a true challenge (or server owners who want to be nice to their players!). Features include research loss, research failures and android malfunctions with more to come!</details> | [GitHub](https://github.com/Slimefun-Addon-Community/HardcoreSlimefun) | [建構](https://thebusybiscuit.github.io/builds/Slimefun-Addon-Community/HardcoreSlimefun/main/) |
+| 名稱                          | 作者                      | 描述                         | 源代碼                                                                    | 下載                                                                                            |
+| --------------------------- | ----------------------- | -------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ExoticGarden (異國情調花園)       | TheBusyBiscuit          | <details><summary>展開</summary>這個附加添加了大量的 植物, 樹木和一堆食物至黏液科技! 你可以做任何事情從種植梨子樹到製作"燒烤培根包裹的奶酪夾心熱狗".</details>  | [GitHub](https://github.com/TheBusyBiscuit/ExoticGarden)               | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExoticGarden/master/)             |
+| ColoredEnderChests (彩色終界箱)  | TheBusyBiscuit          | <details><summary>展開</summary>這個附加添加了全局的彩色終界箱, 可以跨維度工作, 與物流網路一起工作還有更多!</details>  | [GitHub](https://github.com/TheBusyBiscuit/ColoredEnderChests)         | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ColoredEnderChests/master/)       |
+| LuckyBlocks (黏液幸運方塊)        | TheBusyBiscuit          | <details><summary>展開</summary>這個附加添加了幸運方塊, 它們是可以製作的, 但也同時會生成於新生成的區塊中. 你永遠不知道當你打開時會發生甚麼!</details>  | [GitHub](https://github.com/TheBusyBiscuit/luckyblocks-sf)             | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/luckyblocks-sf/master/)           |
+| HotbarPets (背包寵物)           | TheBusyBiscuit          | <details><summary>展開</summary>這個附加 - 靈感來自於模組 InventoryPets - 添加了 "寵物"物品到黏液科技. 你可以在快捷欄中攜帶寵物, 它們會以各種方式幫助你. 但你當然也需要餵它們!</details>  | [GitHub](https://github.com/TheBusyBiscuit/HotbarPets)                 | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/HotbarPets/master/)               |
+| SoulJars (靈魂儲存罐)            | TheBusyBiscuit          | <details><summary>展開</summary>這個附加添加了 "靈魂罐" 到遊戲中. 你可以透過殺死一定數量同類型怪物來收集靈魂. 然後你可以使用此靈魂罐來製作生怪磚.</details>  | [GitHub](https://github.com/TheBusyBiscuit/SoulJars)                   | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SoulJars/master/)                 |
+| ElectricSpawners            | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds Electric Spawners. You can turn any Repaired Spawners into Electric ones and they will run off Electricity! You can turn them on and off in their GUI.</details>  | [GitHub](https://github.com/TheBusyBiscuit/ElectricSpawners)           | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ElectricSpawners/master/)         |
+| PrivateStorage              | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds a lot of new Chests to Slimefun, explosive-resistant chests, private chests and also wooden chests for the various Wood Types in Minecraft.</details>  | [GitHub](https://github.com/TheBusyBiscuit/PrivateStorage)             | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/PrivateStorage/master/)           |
+| ChestTerminal               | TheBusyBiscuit          | <details><summary>expand</summary>This Addon is inspired by the mod AppliedEnergistics. It adds a Terminal to your Cargo Networks. You can request and store Items via the terminal and also import/export Items into chests.</details>  | [GitHub](https://github.com/TheBusyBiscuit/ChestTerminal)              | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ChestTerminal/master/)            |
+| ExtraGear                   | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds new Weapons and Armor to Slimefun. Most of them are related to Alloys and Metals within Slimefun.</details>  | [GitHub](https://github.com/TheBusyBiscuit/ExtraGear)                  | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExtraGear/master/)                |
+| ExtraHeads                  | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds new Heads to a lot of Minecraft Mobs. Take a look at the config to configure their drop-rate (which is also increased with a Sword Of Beheading).</details>  | [GitHub](https://github.com/TheBusyBiscuit/ExtraHeads)                 | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExtraHeads/master/)               |
+| SlimefunOreChunks           | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds all existing dusts to the GEO-Miner. You can get stuff like "Copper Ore Chunks" from the GEO-Miner and then turn those into Dusts using an Ore Crusher.</details> | [GitHub](https://github.com/TheBusyBiscuit/SlimefunOreChunks)          | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimefunOreChunks/master/)        |
+| DyedBackpacks               | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds 16 dyed variants for every Slimefun Backpack</details> | [GitHub](https://github.com/TheBusyBiscuit/DyedBackpacks)              | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/DyedBackpacks/master/)            |
+| SlimyTreeTaps               | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds Tree Taps and rubber, an alternative way to obtain Plastic Sheets.</details> | [GitHub](https://github.com/TheBusyBiscuit/SlimyTreeTaps)              | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/SlimyTreeTaps/master/)            |
+| MobCapturer                 | TheBusyBiscuit          | <details><summary>expand</summary>This Addon adds a Mob Capturing Cannon which you can use to capture mobs as items. You can find more info on the project page, it is inspired by the Safari-Nets from the mod MineFactory Reloaded.</details> | [GitHub](https://github.com/Slimefun-Addon-Community/MobCapturer)      | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/MobCapturer/master/)              |
+| LiteXpansion                | J3fftw1, Walshy         | <details><summary>expand</summary>A remake of SlimeXpansion but without many of the unused items. This addon won't be as packed as SlimeXpansion as the name says, it will rather be "Lite".</details> | [GitHub](https://github.com/Slimefun-Addon-Community/LiteXpansion)     | [建構](https://thebusybiscuit.github.io/builds/J3fftw1/LiteXpansion/master/)                    |
+| EcoPower                    | TheBusyBiscuit, poma123 | <details><summary>expand</summary>This addon is focused on climate-friendly and renewable energy sources. It features, wind turbines, steam turbines and more! You can even harness energy from lightning bolts!</details> | [GitHub](https://github.com/TheBusyBiscuit/EcoPower)                   | [建構](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EcoPower/master/)                 |
+| Hardcore Slimefun (硬核版黏液科技) | Walshy, TheBusyBiscuit  | <details><summary>展開</summary>硬核版黏液科技是一個附加, 設計在為了讓那些不喜歡真正挑戰的人 (或者想對它們的玩家更加的好的服主!) 使黏液科技盡可能的難. 功能包括研究丟失, 研究失敗和機器人故障以及更多即將到來的功能!</details> | [GitHub](https://github.com/Slimefun-Addon-Community/HardcoreSlimefun) | [建構](https://thebusybiscuit.github.io/builds/Slimefun-Addon-Community/HardcoreSlimefun/main/) |
 
 ## :heart: 社群附加
 
@@ -95,18 +95,18 @@ These Plugins are not Addons, but they do integrate with Slimefun in some way or
 
 ## :trophy: 附加果醬比賽
 
-In 2020 we started hosting our very first "Slimefun Addon Jam" on our discord server.
+在 2020 年時我們開始主持第一個 "黏液附加果醬比賽" 在我們的 Discord 伺服器.
 
-We hope to make this a re-occurring thing. The basic premise is the following: At the start of the Jam we will announce a theme and every developer has a limited time frame to create a Slimefun Addon - from scratch - based on that theme. When the Jam has ended we will review their submissions, rate them and hand out prizes to the addons that performed the best.
+我們希望讓這個活動是可再次舉行. 基本前提如下: 在果醬開始時, 我們將會宣布一個主題, 每個開發人員都在有時限的框架下製作基於該主題的黏液科技附加 - 從頭開始. 當果醬結束時, 我們將會審核它們提交的內容, 對其進行評分, 並向表現最佳的附加發放獎勵.
 
-Here is a list of all Addon Jams that have been hosted so far:
+以下是至今已主持的所有附加果醬比賽列表:
 
-1. [Addon Jam 2020](Addon-Jam-2020)
-2. [Addon Jam 2021](Addon-Jam-2021)
+1. [附加果醬 2020](Addon-Jam-2020)
+2. [附加果醬 2021](Addon-Jam-2021)
 
 ## :black_nib: 製作屬於自己的附加!
 
-Do you want to create your own Slimefun Addon? Check out this [Developer Guide](Developer-Guide).
+你想製作屬於你自己的黏液科技附加嗎? 查看此 [開發人員指南](Developer-Guide).
 
 If you have made an Addon for Slimefun and want it to be listed on here, simply make a new pull request on our wiki repository. You can find a tutorial here: Expanding-the-Wiki.  
 If a pull request is not possible, then just create an Issue and select the "Addition" template:  
