@@ -27,7 +27,7 @@ jobs:
           MERGE_LABELS: "自動合併"
           MERGE_REMOVE_LABELS: "自動合併"
           MERGE_COMMIT_MESSAGE: "自動合併 {pullRequest.number}"
-          MERGE_REQUIRED_APPROVALS: 1
+          MERGE_REQUIRED_APPROVALS: 0
           MERGE_DELETE_BRANCH: true
           MERGE_METHOD: "squash"
           MERGE_FORKS: "false"
