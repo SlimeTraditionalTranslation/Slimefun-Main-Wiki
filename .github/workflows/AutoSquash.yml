@@ -17,7 +17,7 @@ jobs:
     name: AutoSquash
     runs-on: ubuntu-latest
     if: |
-      github.repository == 'SlimeTraditionalTranslation/Wiki' &&
+      github.repository == 'SlimeTraditionalTranslation/Slimefun-Main-Wiki' &&
       contains(github.event.head_commit.message, '[ci skip]') == false
     steps:
       - name: AutoSquash & Merge
