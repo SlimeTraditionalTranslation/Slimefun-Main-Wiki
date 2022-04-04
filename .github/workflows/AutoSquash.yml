@@ -1,0 +1,35 @@
+name: AutoSquash
+on:
+  check_run:
+    types:
+      - completed
+  pull_request:
+    types:
+      - closed
+      - labeled
+  pull_request_review:
+    types:
+      - submitted
+  status: {}
+
+jobs:
+  AutoSquash:
+    name: AutoSquash
+    runs-on: ubuntu-latest
+    if: |
+      github.repository == 'SlimeTraditionalTranslation/Wiki' &&
+      contains(github.event.head_commit.message, '[ci skip]') == false
+    steps:
+      - name: AutoSquash & Merge
+        uses: "pascalgn/automerge-action@v0.14.3"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_LABELS: "自動合併"
+          MERGE_REMOVE_LABELS: "自動合併"
+          MERGE_COMMIT_MESSAGE: "自動合併 {pullRequest.number}"
+          MERGE_REQUIRED_APPROVALS: 1
+          MERGE_DELETE_BRANCH: true
+          MERGE_METHOD: "squash"
+          MERGE_FORKS: "false"
+          UPDATE_LABELS: ""
+          UPDATE_METHOD: "rebase"
