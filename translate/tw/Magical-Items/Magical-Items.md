@@ -33,7 +33,7 @@ This item can be crafted in a [Magic Workbench](Magic-Workbench) using [Flasks O
 
 ### Lava Crystal
 
-This item can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table) using [Magical Lumps](Lumps), an [Ancient Rune \[Fire\]]() and blaze powder.
+This item can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table) using [Magical Lumps](Lumps), an [Ancient Rune \[Fire\]](Ancient-Rune#Fire) and blaze powder.
 
 ### Common Talisman
 
