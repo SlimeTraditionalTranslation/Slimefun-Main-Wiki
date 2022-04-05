@@ -1,5 +1,10 @@
+---
+title: Permissions
+sidebar_position: 5
+---
+
 This is a full list of all Permission nodes added by Slimefun.
-Most of them are used for commands, so make sure to also see the wiki page about [Commands](https://github.com/Slimefun/Slimefun4/wiki/Commands).
+Most of them are used for commands, so make sure to also see the wiki page about [Commands](Commands).
 
 ## Permissions for commands
 
@@ -19,6 +24,7 @@ Most of them are used for commands, so make sure to also see the wiki page about
 | slimefun.debugging | Allows you to use `/sf debug_fish` | OP |
 
 ## Permissions for blocks
+
 | Permission | Description | Default assignment |
 | -------- | -------------------------| --------- |
 | slimefun.inventory.bypass | Allows you to open Slimefun machines that belong to other Players | OP |

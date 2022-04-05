@@ -1,6 +1,6 @@
 ---
 title: Expanding the Wiki
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 You want to help us expand the Wiki?

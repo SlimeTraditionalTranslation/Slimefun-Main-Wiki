@@ -1,13 +1,19 @@
+---
+title: Commands
+sidebar_position: 6
+---
+
 This page contains information about Slimefun's commands.
 While there are not a lot of commands in Slimefun4, it is still important to know about these.
 You can use the prefix /slimefun or /sf. Both will work.
 But for simplicity, we will list commands as /sf.
 
 () = Required
-<br>
+
 [] = Optional
 
 ## Commands for Plugin-Users
+
 | Command | Description | Required Permission |
 | ----------- | ------------------- | --------- |
 | /sf help | Gives you a list of all commands in Slimefun4 | None |
@@ -18,6 +24,7 @@ But for simplicity, we will list commands as /sf.
 | /sf search <search term> | Opens the Guide with a list of items that matched your search term | slimefun.command.search |
 
 ## Commands for Administrators
+
 | Command | Description | Required Permission |
 | ----------- | ------------------- | --------- |
 | /sf give (Player) (Slimefun Item) [Amount] | Gives the specified Player the specified Slimefun Item | slimefun.cheat.items |

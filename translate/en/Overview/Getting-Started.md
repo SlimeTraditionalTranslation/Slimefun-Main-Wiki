@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 If you have just started using Slimefun it may seem overwhelming or very complicated.

@@ -1,6 +1,6 @@
 ---
 title: Translating Slimefun
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 Translating Slimefun has always been a tough point because of some wrong design choices in the code made years ago.

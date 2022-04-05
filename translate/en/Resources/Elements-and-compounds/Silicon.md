@@ -1,6 +1,6 @@
 ---
 title: Silicon
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 Silicon is a [Resource](/docs/Slimefun/Resources) that can be used to craft a variety of other items.

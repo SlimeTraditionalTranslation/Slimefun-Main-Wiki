@@ -1,6 +1,6 @@
 ---
 title: Sulfate
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 Sulfate is a [Resource](/docs/Slimefun/Resources) that can be used to craft several other items.

@@ -1,6 +1,6 @@
 ---
 title: FAQ
-sidebar_position: 8
+sidebar_position: 9
 ---
 
 ## How can I download / install Slimefun or its Addons?

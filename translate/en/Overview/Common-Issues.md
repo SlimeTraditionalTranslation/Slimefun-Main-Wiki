@@ -1,6 +1,6 @@
 ---
 title: Common Issues
-sidebar_position: 4
+sidebar_position: 10
 ---
 
 This page contains useful information about common in game issues and how to resolve them.
