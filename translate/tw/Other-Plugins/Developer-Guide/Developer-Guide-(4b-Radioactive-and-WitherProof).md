@@ -9,7 +9,7 @@ If you haven't checked out the [third Part of this Guide](Developer-Guide-(3-You
 
 *The fourth part is divided into two sections, this is Section b*.
 
-## 1. A Recap of part 4a
+## 1. 1. A Recap of part 4a
 
 Part 4a is not necessarily *required* to follow this part.
 
@@ -51,11 +51,21 @@ public class FireCake extends SlimefunItem {
     }
 
 }
+        private void onBlockRightClick(PlayerRightClickEvent event) {
+    // This will prevent the Player from eating this cake.
+    event.cancel();
+    // Now set the Player on fire for 5 seconds
+    event.getPlayer().setFireTicks(5 * 20);
+}
+        event.getPlayer().giveExpLevels(1);
+    }
+
+}
 ```
 
 We can ignore the preRegister() and right-click methods for now, those were covered in part 4a.
 
-## 2. Item Attributes
+## 2. 2. Item Attributes
 
 Slimefun items can have functionality (called ItemHandlers) but they can also have some properties (called ItemAttributes).
 
@@ -67,11 +77,11 @@ Let's make our FireCake also radioactive, shall we?
 
 To add an ItemAttribute, simply add it to your class declaration.
 
-However ItemAttributes are interfaces, not classes. So you need to use the keyword `implements` here.
+However ItemAttributes are interfaces, not classes. So you need to use the keyword `implements` here. So you need to use the keyword `implements` here.
 
-As we covered in the last part: Classes can only have one direct parent class. But they can implement as many interfaces as they want.
+As we covered in the last part: Classes can only have one direct parent class. But they can implement as many interfaces as they want. But they can implement as many interfaces as they want.
 
-Let's implement the `Radioactive` interface. Now your code may look like this:
+Let's implement the `Radioactive` interface. Now your code may look like this: Now your code may look like this:
 
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
@@ -83,6 +93,8 @@ public class FireCake extends SlimefunItem implements Radioactive {
     // ...
 
 }
+
+}
 ```
 
 Import the inteface.
@@ -91,7 +103,7 @@ We are not done yet though, each interface often defines a set of methods that w
 
 Your IDE should already prompt you to do that.
 
-In the case of `Radioactive`, there is only one method: `getRadioactivity()`. Implement that method like this:
+In the case of `Radioactive`, there is only one method: `getRadioactivity()`. Implement that method like this: Implement that method like this:
 
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
@@ -108,17 +120,22 @@ public class FireCake extends SlimefunItem implements Radioactive {
     // ...
 
 }
+    }
+
+    // ...
+
+}
 ```
 
 Now we need to give the method something to do.
 
-This method expects us to return a value of the type `Radioactivity`. `Radioactivity` is an enum. Enums (or "Enumerations") are a type of class that cannot be created that easily.
+This method expects us to return a value of the type `Radioactivity`. `Radioactivity` is an enum. Enums (or "Enumerations") are a type of class that cannot be created that easily. `Radioactivity` is an enum. Enums (or "Enumerations") are a type of class that cannot be created that easily.
 
 An enum has a limited amount of possible states and each state is saved as a constant, accessible via `EnumName.CONSTANT_NAME`.
 
 You can see all constants from that enum on our [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/io/github/thebusybiscuit/slimefun4/core/attributes/Radioactivity.html).
 
-We are just gonna choose the level HIGH for now. We can simply return that constant.
+We are just gonna choose the level HIGH for now. We can simply return that constant. We can simply return that constant.
 
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
@@ -135,13 +152,15 @@ public class FireCake extends SlimefunItem implements Radioactive {
     // ...
 
 }
+
+}
 ```
 
 Now your item is already radioactive, it will damage players and require them to wear a Hazmat Suit.
 
 However our unsuspecting player have no way to know that this item is radioactive...
 
-## 3. Changing the item lore
+## 3. 3. Changing the item lore
 
 The best way of letting players know what your item does is through the lore.
 
@@ -175,9 +194,9 @@ Luckily Slimefun has a built-in way for that.
 
 There is a static method called `LoreBuilder.radioactive(...)` which takes a constant of `Radioactivity` as an argument.
 
-We can use that to create a string that warns about radioactivity. This will be the same string that Slimefun's standard items use.
+We can use that to create a string that warns about radioactivity. This will be the same string that Slimefun's standard items use. This will be the same string that Slimefun's standard items use.
 
-If you wanted to go one step further you could also use the static constant `LoreBuilder.HAZMAT_SUIT_REQUIRED` which will warn them to wear a Hazmat Suit. Let's do that.
+If you wanted to go one step further you could also use the static constant `LoreBuilder.HAZMAT_SUIT_REQUIRED` which will warn them to wear a Hazmat Suit. Let's do that. Let's do that.
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
@@ -201,7 +220,7 @@ cake.register(this);
 
 Now our item will have the appropriate tooltips.
 
-## 4. Implementing any other ItemAttribute
+## 4. 4. Implementing any other ItemAttribute
 
 The process for implementing any `ÌtemAttribute` is pretty much the same.
 
@@ -213,7 +232,7 @@ As a little bonus, let's implement the "WitherProof" attribute.
 
 This attribute will prevent Withers from destroying our block.
 
-Let's go back to our class and implement that interface too. You can seperate interfaces you wanna implement with a comma.
+Let's go back to our class and implement that interface too. Let's go back to our class and implement that interface too. You can seperate interfaces you wanna implement with a comma.
 
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
@@ -225,11 +244,13 @@ public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     // ...
 
 }
+
+}
 ```
 
 Now your process will be the same, WitherProof also has a method it requires to be implemented.
 
-The method is called `onAttack()` and it will be run whenever a Wither tried to destroy this block. Solely implementing that interface will already prevent that though. So with that method generated, the code will look like this.
+The method is called `onAttack()` and it will be run whenever a Wither tried to destroy this block. Solely implementing that interface will already prevent that though. So with that method generated, the code will look like this. Solely implementing that interface will already prevent that though. So with that method generated, the code will look like this.
 
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
@@ -246,6 +267,8 @@ public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     // ...
 
 }
+
+}
 ```
 
 The parameters `block` and `wither` correspond to the Block the Wither tried to destroy and the Wither who tried to destroy that block.
@@ -254,7 +277,7 @@ You can leave that method empty, the event will be cancelled by the interface an
 
 But you can also do something inside that method, such as spawning a particle for example.
 
-or even better... Let's instantly kill any Wither that tries to eat our precious cake.
+or even better... or even better... Let's instantly kill any Wither that tries to eat our precious cake.
 
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
@@ -269,6 +292,8 @@ public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     }
 
     // ...
+
+}
 
 }
 ```
@@ -313,6 +338,16 @@ public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     private void onItemUseRightClick(PlayerRightClickEvent event) {
         // Calling event.cancel() in here would prevent the cake
         // from being placed down.
+        event.getPlayer().giveExpLevels(1);
+    }
+
+}
+        private void onBlockRightClick(PlayerRightClickEvent event) {
+    // This will prevent the Player from eating this cake.
+    event.cancel();
+    // Now set the Player on fire for 5 seconds
+    event.getPlayer().setFireTicks(5 * 20);
+}
         event.getPlayer().giveExpLevels(1);
     }
 
