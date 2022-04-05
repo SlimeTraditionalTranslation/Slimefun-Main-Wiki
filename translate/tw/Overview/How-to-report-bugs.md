@@ -38,8 +38,8 @@ It is absolutely **crucial** that you check your versions, 90% of issues can alr
 Gather the following information:
 
 * **Your Server Software** _(Are you running Bukkit, Spigot, Paper or something else?)_
-* **Your Minecraft Version** _(Is it 1.8, is it 1.14, 1.9001? You should know that.)_ You should know that.)_
-* **Your Slimefun Version** _(What version have you installed? Is it a DEV build or a "stable" version?)_ Is it a DEV build or a "stable" version?)_
+* **Your Minecraft Version** _(Is it 1.8, is it 1.14, 1.9001? You should know that.)_ You should know that.)</em>
+* **Your Slimefun Version** _(What version have you installed? Is it a DEV build or a "stable" version?)_ Is it a DEV build or a "stable" version?)</em>
 
 You can quickly gather all this info at once by running the command `/sf versions`.
 
