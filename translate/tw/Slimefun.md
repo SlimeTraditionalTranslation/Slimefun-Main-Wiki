@@ -1,22 +1,22 @@
 ---
-title: 1
+title: 黏液科技 主頁面
 ---
 
 Welcome to Slimefun4's new and improved Wiki! The old Wiki was abandoned for obvious reasons, this one is centered around you, the community. Contributions to the Wiki are therefore much appreciated!
 
-## Overview
+## 總覽
 
-* [What is Slimefun?](Slimefun-in-a-nutshell)
-* [How to install Slimefun](Installing-Slimefun)
-  * [Optimizing your Slimefun Server](Server-Optimizations)
-* [Addons for Slimefun 4](附加)
+* [甚麼是黏液科技?](Slimefun-in-a-nutshell)
+* [如何安裝黏液科技](Installing-Slimefun)
+  * [優化你的黏液科技伺服器](Server-Optimizations)
+* [黏液科技的附加](附加)
 * [Getting Started](Getting-Started)
-* [Permissions](Permissions) & [Commands](Commands)
+* [權限](Permissions) & [指令](Commands)
 * [Help us expand the Wiki!](Expanding-the-Wiki)
-* [Help us translate Slimefun!](Translating-Slimefun)
-* [Frequently Asked Questions (FAQ)](常見問題)
+* [幫助我們翻譯黏液科技!](Translating-Slimefun)
+* [常見問答 (FAQ)](常見問題)
 * [常見問題](Common-Issues)
-* [Create your own Addon](Developer-Guide)
+* [製作你的附加](Developer-Guide)
 
 ## Content / Item Categories
 
