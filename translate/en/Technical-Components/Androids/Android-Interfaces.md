@@ -1,3 +1,8 @@
+---
+title: Android Interfaces
+sidebar_position: 1
+---
+
 There are two types of Android Interfaces, Cargo and Fuel.
 Each type of Android Interfaces have their own function listed below.
 
