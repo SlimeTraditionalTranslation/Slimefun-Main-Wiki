@@ -1,13 +1,13 @@
 ---
 title: 常見問題
-sidebar_position: 4
+sidebar_position: 10
 ---
 
 這個頁面包含了有用的關於遊戲內常見的問題與如何解決這些問題.
 
 以下大多數情況都需要有不同程度權限的工作人員: 如果沒有, 請將此連結給有更高權限的人!
 
-**WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](How-to-report-bugs)**
+**WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](How-to-report-bugs)**
 
 ## 漂浮標籤
 
@@ -22,7 +22,7 @@ _注意: 請確保這不是由鬼方塊引起的 (請查看"不可放置的方�
 移除任何在漂浮文字下方的調節器/核心, 然後靠近它並以管理員身分執行:
 > /execute as <your_name> at @s run execute as @e[type=armor_stand,nbt={Invisible:1b},distance=..3] run data merge entity @s {Invisible:0}
 
-你現在可以直接用手打掉盔座. 你可能需要打好幾次, 因為它們可能已經生成了一堆並堆疊在一起, 這取決於你所使用的插件.
+你現在可以直接用手打掉盔座. 你現在可以直接用手打掉盔座. 你可能需要打好幾次, 因為它們可能已經生成了一堆並堆疊在一起, 這取決於你所使用的插件.
 
 _提示: 建議使用 MyCommands, CommandOverride 或任何相似的插件來設定一個別名, 以便於記憶與教導 (一個範例像是 /holokill)._
 
@@ -37,11 +37,11 @@ The regulator will try to place its own armor stand which will replace the corru
 
 ### How to fix this (Stage 3)
 
-If the hologram keeps respawning you're very likely to be dealing with a ghost block like the ones dealt with under Unplaceable blocks, with the only difference it's also spawning a hologram because it's one of the items listed up top. Simply follow the procedure to get rid of any ghost block and you should be golden.
+If the hologram keeps respawning you're very likely to be dealing with a ghost block like the ones dealt with under Unplaceable blocks, with the only difference it's also spawning a hologram because it's one of the items listed up top. Simply follow the procedure to get rid of any ghost block and you should be golden. Simply follow the procedure to get rid of any ghost block and you should be golden.
 
 ## Unplaceable blocks
 
-If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block. This means a Slimefun item used to be placed there (usually an [android](Androids) or a [cargo component](Cargo-Management)) and its data was not correctly removed.
+If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block. If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block. This means a Slimefun item used to be placed there (usually an [android](Androids) or a [cargo component](Cargo-Management)) and its data was not correctly removed.
 
 ### How to fix this (Isolated block)
 
@@ -82,4 +82,4 @@ Or ask the authors of that plugin whether there is a way to toggle this behaviou
 
 A more drastic approach would be to switch over to a Mob-Stacking plugin that supports custom drops.
 
-_At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](Expanding-the-Wiki)_
+_At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](Expanding-the-Wiki) See [Expanding the Wiki](Expanding-the-Wiki)_
