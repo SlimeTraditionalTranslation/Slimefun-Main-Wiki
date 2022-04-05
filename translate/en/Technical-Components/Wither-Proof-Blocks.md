@@ -1,6 +1,6 @@
 ---
 title: Wither Proof Blocks
-sidebar_position: 11
+sidebar_position: 14
 ---
 
 Wither-Proof Blocks are a set of [Technical Components](Technical-Components) that have special properties and can be used to craft the [Wither Assembler](Wither-Assembler).

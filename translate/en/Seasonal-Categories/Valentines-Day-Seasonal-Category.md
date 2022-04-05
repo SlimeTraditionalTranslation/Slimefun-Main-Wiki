@@ -1,6 +1,12 @@
+---
+title: Valentines Day Seasonal Category
+sidebar_position: 3
+---
+
 The Valentine's Day Seasonal Category is only available during February.
 
 ## Table of contents
+
 - Rainbow Wool (Valentine's Edition)
 - Rainbow Glass (Valentine's Edition)
 - Rainbow Glass Pane (Valentine's Edition)
