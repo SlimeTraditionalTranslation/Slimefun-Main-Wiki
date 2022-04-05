@@ -1,0 +1,14 @@
+---
+title: GPS Teleporter Matrix
+sidebar_position: 10
+---
+
+The GPS Teleporter Matrix is a block added in the [GPS](GPS) category.
+
+## Obtaining
+
+The GPS Teleporter Matrix can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
+
+## Usage
+
+The GPS Teleporter Matrix is a component of a [Teleporter](Teleporter).
