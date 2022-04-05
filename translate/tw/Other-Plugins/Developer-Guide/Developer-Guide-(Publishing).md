@@ -9,11 +9,11 @@ This is the **last part** of our Developer Guide, you can find a full overview o
 
 To start publishing and distributing your addon, you don't really need much.
 
-In fact, you really only need your addon. But there are some tips and best practices of course.
+In fact, you really only need your addon. But there are some tips and best practices of course. But there are some tips and best practices of course.
 
 Once you feel confident enough to release your addon (better too early than too late), try to keep the following in mind:
 
-### 1. Your project has a `LICENSE` file
+### 1. 1. Your project has a `LICENSE` file
 
 If you don't provide a license, the default of "All Rights Reserved" is assumed.
 
@@ -21,7 +21,7 @@ Even if you do wanna reserve all the rights to the project to yourself, it is a 
 
 If you need help on choosing a license, check out [ChooseALicense.com](https://choosealicense.com/)
 
-### 2. You know how to compile your project
+### 2. 2. You know how to compile your project
 
 In order to upload your project anywhere, you need to distribute the compiled `.jar` file of your addon.
 
@@ -33,7 +33,7 @@ mvn clean package
 
 Your compiled `.jar` file can then be found inside your `/target/` directory.
 
-### 3. Writing a good description
+### 3. 3. Writing a good description
 
 Every project should have a good description.
 
@@ -71,4 +71,4 @@ Expanding-the-Wiki
 
 You can also share your project by posting about it on our [Discord server](https://discord.gg/slimefun).
 
-Upload videos or screenshots to get people excited! But please don't tag anyone.
+Upload videos or screenshots to get people excited! But please don't tag anyone. But please don't tag anyone.

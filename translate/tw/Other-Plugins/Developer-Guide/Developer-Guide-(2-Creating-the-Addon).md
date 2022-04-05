@@ -7,7 +7,7 @@ This is the **second Part** of our Developer Guide, you can find a full overview
 
 If you haven't checked out the [first Part of this Guide](Developer-Guide-(1-Project-Setup)), then please do that.
 
-## 1. Your main class
+## 1. 1. Your main class
 
 Alright, now that your workspace and project is set up properly, we can start to dive into some code.
 
@@ -50,6 +50,31 @@ public class SlimefunAddon extends JavaPlugin implements SlimefunAddon {
  }
 
 }
+ }
+
+ @Override
+ public void onDisable() {
+  // Logic for disabling the plugin...
+ }
+
+ @Override
+ public JavaPlugin getJavaPlugin() {
+  // This is a method that links your SlimefunAddon to your Plugin.
+  // Just return "this" in this case, so they are linked
+  return this;
+ }
+
+ @Override
+ public String getBugTrackerURL() {
+  // Here you can return a link to your Bug Tracker.
+  // This link will be displayed to Server Owners if there is an issue
+  // with this Addon. Return null if you have no bug tracker.
+  // Normally you can just use GitHub's Issues tab:
+  // https://github.com/YOURNAME/YOURPROJECT/issues
+  return null;
+ }
+
+}
 ```
 
 The `package` token at the top simply describes the package this file is in.
@@ -66,11 +91,11 @@ This basically tells Java to treat it like a Bukkit Plugin (in Java).
 
 This class also contains two `methods`.
 
-`onEnable()` is called whenever the plugin is enabled. This is where you would do any initializations.
+`onEnable()` is called whenever the plugin is enabled. This is where you would do any initializations. This is where you would do any initializations.
 
-`onDisable()` is called when the plugin is disabled, due to a server shutdown for example. You can ignore this one for now.
+`onDisable()` is called when the plugin is disabled, due to a server shutdown for example. You can ignore this one for now. You can ignore this one for now.
 
-## 2. The `onEnable` method - Config
+## 2. 2. The `onEnable` method - Config
 
 The `onEnable` method is already filled with a bunch of stuff in our template.
 
@@ -88,7 +113,7 @@ You can use a `Config` class and `new Config(this)` to reference your plugin's c
 
 You can find your default config under `src/main/resources/config.yml`.
 
-This `Config` class comes from Slimefun / dough. So you won't see this in any non-Slimefun Projects.
+This `Config` class comes from Slimefun / dough. So you won't see this in any non-Slimefun Projects. So you won't see this in any non-Slimefun Projects.
 
 You can read values directly from this class using the appropriate getters:
 
