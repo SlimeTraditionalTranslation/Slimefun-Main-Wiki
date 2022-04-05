@@ -1,5 +1,5 @@
 ---
-title: Magical Gadgets
+title: Magical Gadgets Overview
 ---
 
 The Magical Gadgets contains various gadgets with magical powers. Use your [Magical Items](Magical-Items) to craft these!

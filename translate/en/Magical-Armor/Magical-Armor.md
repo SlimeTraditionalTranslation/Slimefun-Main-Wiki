@@ -1,5 +1,5 @@
 ---
-title: Magical Armor
+title: Magical Armor Overview
 ---
 
 The Magical Armor category contains various armour sets and pieces each with their own ability.  

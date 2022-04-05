@@ -1,5 +1,5 @@
 ---
-title: Armor
+title: Armor Overview
 ---
 
 The Armor category contains six new sets of armor, plus the ability to craft Chainmail Armor.
