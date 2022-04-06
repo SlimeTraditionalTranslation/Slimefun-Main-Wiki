@@ -26,5 +26,5 @@ The Tools category contains various tools with special properties.
 
 ## See also
 
-* [Magical Gadgets](Magical-Gadgets)
-* [Technical Gadgets](Technical-Gadgets)
+* [魔法工具](Magical-Gadgets)
+* [科技工具](Technical-Gadgets)
