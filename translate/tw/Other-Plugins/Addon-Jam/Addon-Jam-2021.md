@@ -217,7 +217,7 @@ https://github.com/TweepCoding/hohenheim
 
 ***The author has requested that their detailed review would not be shown publicly.***
 
-## 6. The Smeltery BetterFarming by HAL989
+## 6. BetterFarming by HAL989
 
 https://github.com/Gavin296/betterfarming
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
