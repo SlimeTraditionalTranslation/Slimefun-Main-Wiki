@@ -9,13 +9,13 @@ If you haven't checked out the [third Part of this Guide](Developer-Guide-(3-You
 
 *The fourth part is divided into two sections, this is Section a*.
 
-## 1. 1. What we did last time
+## 1. What we did last time
 
 On the last part we covered how to create our own Slimefun items, item groups, and recipes.
 
-If you missed it, then please head back now. You will need this info to progress any further. You will need this info to progress any further.
+If you missed it, then please head back now. You will need this info to progress any further.
 
-Still/Back here? Good. Still/Back here? Good. Now this is the code from last time (it should be inside your 'onEnable' method).
+Still/Back here? Good. Now this is the code from last time (it should be inside your 'onEnable' method).
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
@@ -38,7 +38,7 @@ SlimefunItem sfItem = new SlimefunItem(itemGroup, itemStack, RecipeType.ENHANCED
 sfItem.register(this);
 ```
 
-Now, you can compile your addon and test it ingame. See [Compiling](Developer-Guide-(9-Compiling)) for details. See [Compiling](Developer-Guide-(9-Compiling)) for details.
+Now, you can compile your addon and test it ingame. See [Compiling](Developer-Guide-(9-Compiling)) for details.
 
 As you can see our Slimefunitem can already be seen and crafted ingame.
 
@@ -46,9 +46,9 @@ But there is not much value to this item yet, it doesn't do anything.
 
 Let's change that.
 
-## 2. 2. Extending SlimefunItem
+## 2. Extending SlimefunItem
 
-For our previous item we simply used the class `SlimefunItem`, this is fine and good. But it doesn't do anything by default. But it doesn't do anything by default.
+For our previous item we simply used the class `SlimefunItem`, this is fine and good. But it doesn't do anything by default.
 
 So we will need to create our own class instead.
 
@@ -68,9 +68,9 @@ public class FireCake {
 
 In Java or any other object-oriented programming language, classes can inherit from each other.
 
-You can think of a class as a template for objects. You can think of a class as a template for objects. The `SlimefunItem` class is basically a template for any item we will create.
+You can think of a class as a template for objects. The `SlimefunItem` class is basically a template for any item we will create.
 
-Now we created our own class which makes this a completely new template for objects. Now we created our own class which makes this a completely new template for objects. However we can extend the `SlimefunItem` template which will make sure items that use our class have all the same functionality as an item created from the `SlimefunItem` class.
+Now we created our own class which makes this a completely new template for objects. However we can extend the `SlimefunItem` template which will make sure items that use our class have all the same functionality as an item created from the `SlimefunItem` class.
 
 Likewise, your plugin's main class is just an *extension* of Bukkit's JavaPlugin class, the template for all plugins.
 
@@ -80,7 +80,7 @@ I hope this didn't confuse you too much, what we need to do now is the following
 
 We want our `FireCake` class to extend the `SlimefunItem` class, to make it inherit from that.
 
-For this we use the `extends` keyword followed by the parent class (`SlimefunItem`). Note that any class can only have one parent and one parent only. Note that any class can only have one parent and one parent only.
+For this we use the `extends` keyword followed by the parent class (`SlimefunItem`). Note that any class can only have one parent and one parent only.
 
 ```java
 public class FireCake extends SlimefunItem {
@@ -90,7 +90,7 @@ public class FireCake extends SlimefunItem {
 
 Now your IDE will probably start nagging you with errors at this point.
 
-We will need a constructor. We will need a constructor. A constructor defines **how** objects are created from this "template".
+We will need a constructor. A constructor defines **how** objects are created from this "template".
 
 And the `SlimefunItem` constructor requires a few parameters which all child classes need to provide too.
 
@@ -142,9 +142,9 @@ cake.register(this);
 
 **IMPORTANT: Remember to change the SlimefunItemStack to be a cake, otherwise you won't be able to eat it.**
 
-## 3. 3. Adding an Item Handler (BlockUseHandler)
+## 3. Adding an Item Handler (BlockUseHandler)
 
-Now that we swapped our the class, the addon should still work as expected. However nothing has changed. However nothing has changed.
+Now that we swapped our the class, the addon should still work as expected. However nothing has changed.
 
 All we have done so far is basically add a new class which acts exactly like a SlimefunItem.
 
@@ -187,16 +187,13 @@ public class FireCake extends SlimefunItem {
     }
 
 }
-    }
-
-}
 ```
 
 You can add as many Item Handlers as you want but be careful, some handlers have very strict requirements.
 
 You can for example only add a BowShootingHandler to a bow, not to any other item.
 
-The ItemHandler we are going to choose is the following: `BlockUseHandler`, the BlockUseHandler is called when a Player right-clicks our block. Similarly the `ItemUseHandler` is called when a Player right-clicks with this item in his hand. Similarly the `ItemUseHandler` is called when a Player right-clicks with this item in his hand.
+The ItemHandler we are going to choose is the following: `BlockUseHandler`, the BlockUseHandler is called when a Player right-clicks our block. Similarly the `ItemUseHandler` is called when a Player right-clicks with this item in his hand.
 
 Now we will jump into the `preRegister()` method.
 
@@ -218,13 +215,13 @@ Great, we have now successfully added a `BlockUseHandler` to our item.
 
 Except... that we haven't created our BlockUseHandler yet.
 
-The BlockUseHandler is an interface with one method only. Interfaces are basically templates for our templates. Interfaces are basically templates for our templates.
+The BlockUseHandler is an interface with one method only. Interfaces are basically templates for our templates.
 
-They are templates for classes, kinda. They only define methods but do not implement them. Think of them as a kind of skeleton. They only define methods but do not implement them. Think of them as a kind of skeleton.
+They are templates for classes, kinda. They only define methods but do not implement them. Think of them as a kind of skeleton.
 
 Interfaces with only a single method are called "Functional Interfaces", since they only have one method they can be treated similar to a method.
 
-"similar" but not "equal". "similar" but not "equal". Since Java 8 we can reference a method however and simply use that as our interface implementation.
+"similar" but not "equal". Since Java 8 we can reference a method however and simply use that as our interface implementation.
 
 If you need a proper explanation on all of this, try searching on the internet for "Java 8 Lambdas" and "Java 8 method references" and "Java 8 functional interfaces".
 
@@ -245,7 +242,6 @@ public void preRegister() {
 private void onBlockRightClick(PlayerRightClickEvent event) {
     // This method will now be called whenever this Block is right-clicked.
 }
-}
 ```
 
 Now back to this part:
@@ -256,7 +252,7 @@ BlockUseHandler blockUseHandler = ???;
 
 We will now need to reference our method here, telling our Plugin to call this method when the block is used.
 
-To reference a method within the same class, we can do `this::methodname`. Note that this will **not** execute the method. Note that this will **not** execute the method.
+To reference a method within the same class, we can do `this::methodname`. Note that this will **not** execute the method.
 
 The method will only be referenced and passed as a BlockUseHandler in our case.
 
@@ -290,7 +286,7 @@ public class FireCake extends SlimefunItem {
 
 Now we can start to do stuff in our `onBlockRightClick` method.
 
-Let's prevent the Player from eating this cake. We can use `event.cancel()` for this. We can use `event.cancel()` for this.
+Let's prevent the Player from eating this cake. We can use `event.cancel()` for this.
 
 ```java
 private void onBlockRightClick(PlayerRightClickEvent event) {
@@ -301,9 +297,9 @@ private void onBlockRightClick(PlayerRightClickEvent event) {
 
 And now we can set the Player on fire.
 
-Bukkit uses ticks to determine how long the player should burn. One tick is equal to 1/20th of a second. One tick is equal to 1/20th of a second.
+Bukkit uses ticks to determine how long the player should burn. One tick is equal to 1/20th of a second.
 
-So 20 ticks will mean 1 second. So 20 ticks will mean 1 second. If we just multiply x by 20 we can set them on fire for x seconds.
+So 20 ticks will mean 1 second. If we just multiply x by 20 we can set them on fire for x seconds.
 
 ```java
 private void onBlockRightClick(PlayerRightClickEvent event) {
@@ -320,7 +316,7 @@ Test it out ingame, craft the cake and see if you are set on fire.
 
 **Make sure that you didn't forget to change your item type to `Material.CAKE`**
 
-## 4. 4. Adding multiple Item handlers (ItemUseHandler)
+## 4. Adding multiple Item handlers (ItemUseHandler)
 
 You can add as many Item handlers as you want, the ItemUseHandler for example is triggered when a Player right-clicks with the cake in their hand.
 
@@ -356,16 +352,6 @@ public class FireCake extends SlimefunItem {
     private void onItemUseRightClick(PlayerRightClickEvent event) {
         // Calling event.cancel() in here would prevent the cake
         // from being placed down.
-        event.getPlayer().giveExpLevels(1);
-    }
-
-}
-        private void onBlockRightClick(PlayerRightClickEvent event) {
-    // This will prevent the Player from eating this cake.
-    event.cancel();
-    // Now set the Player on fire for 5 seconds
-    event.getPlayer().setFireTicks(5 * 20);
-}
         event.getPlayer().giveExpLevels(1);
     }
 
