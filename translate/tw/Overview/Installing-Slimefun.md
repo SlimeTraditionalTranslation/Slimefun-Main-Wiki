@@ -1,17 +1,17 @@
 ---
-title: Installing Slimefun
+title: 安裝黏液科技
 sidebar_position: 2
 ---
 
-## Prerequisites
+## 先決條件
 
-To install Slimefun, you will need a Spigot or Paper Server (most preferabbly the latest version).
+要安裝黏液科技, 你需要使用 Spigot 或 Paper 插件伺服器核心 (最好是最新版本)
 
-Forks of either of these should work too, though we only test against Paper and Spigot.
+儘管我們僅對 Paper 和 Spigot 進行測試, 但其中任何一個的分支也都應該可以運作.
 
-### Slimefun 4 Downloads
+### 黏液科技下載
 
-You can choose between two branches of slimefun, the ["stable" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/stable/) or the [main "development" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/). Stable builds have been around for quite a while and were thoroughly tested, development builds are the latest builds of Slimefun you can get. If your Server is very reliant on a working build of Slimefun, choose a stable build. But if you want to help contribute to Slimefun4 by reporting issues and helping us identify those more quickly, please consider using a development build (Bug Reports from "stable" builds may be ignored since they are outdated). You can click on any Slimefun build to see all compatible Minecraft Versions for that build. We generally recommend development builds over stable builds, as they are the most recent versions of Slimefun. The stable branch is only updated once a month or even less frequent, so fixes may take quite a while to make it into these builds. If your Server is very reliant on a working build of Slimefun, choose a stable build. But if you want to help contribute to Slimefun4 by reporting issues and helping us identify those more quickly, please consider using a development build (Bug Reports from "stable" builds may be ignored since they are outdated). You can click on any Slimefun build to see all compatible Minecraft Versions for that build.
+You can choose between two branches of slimefun, the ["stable" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/stable/) or the [main "development" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/). We generally recommend development builds over stable builds, as they are the most recent versions of Slimefun. The stable branch is only updated once a month or even less frequent, so fixes may take quite a while to make it into these builds. If your Server is very reliant on a working build of Slimefun, choose a stable build. But if you want to help contribute to Slimefun4 by reporting issues and helping us identify those more quickly, please consider using a development build (Bug Reports from "stable" builds may be ignored since they are outdated). You can click on any Slimefun build to see all compatible Minecraft Versions for that build.
 
 **We generally recommend development builds over stable builds, as they are the most recent versions of Slimefun. The stable branch is only updated once a month or even less frequent, so fixes may take quite a while to make it into these builds.**
 
