@@ -22,11 +22,11 @@ There are currently two tiers of coal generators.
 | I    | 16 J/s | 64 J   |
 | II   | 30 J/s | 256 J  |
 
-## Fuel
+## 燃料
 
 Despite being a "coal" generator, this generator can also be fueled with blaze rods, wood logs, planks and other wooden items.
 
-| Fuel                       | Burning time | Total (Tier I) | Total (Tier II) |
+| 燃料                         | Burning time | Total (Tier I) | Total (Tier II) |
 | -------------------------- | ------------ | -------------- | --------------- |
 | Block of Coal              | 1m 20s       | 1.28 kJ        | 2.4 kJ          |
 | Dried Kelp Block           | 20s          | 320 J          | 600 J           |
