@@ -22,7 +22,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 
 * [Hardened Metal](Hardened-Metal)
 
-### Items
+### 物品
 
 * [Small Energy Capacitor](Energy-Capacitors)
 * [Electric Gold Pan II](Electric-Gold-Pan)
