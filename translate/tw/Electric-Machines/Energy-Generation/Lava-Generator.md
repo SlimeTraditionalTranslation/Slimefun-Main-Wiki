@@ -22,10 +22,10 @@ There are currently two tiers of lava generators.
 |  I   | 20 J/s | 512 J  |
 |  II  | 40 J/s | 1024 J |
 
-## Fuel
+## 燃料
 
 This generator can only be fueled with lava buckets.
 
-| Fuel        | Burning time | Total (Tier I) | Total (Tier II) |
+| 燃料          | Burning time | Total (Tier I) | Total (Tier II) |
 |:----------- |:------------:|:--------------:|:---------------:|
 | Lava Bucket |     40s      |     800 J      |     1.6 kJ      |
