@@ -79,6 +79,7 @@ The idea of adding structures to the end was really good and on point with the t
 This Addon adds a ton of items and content and introduces some really nice concepts.
 
 But internally it lacks quite a bit of work and isn't the most user-friendly too.
+
 </details>
 
 ## 2. TranscEndence by Sfiguz7
