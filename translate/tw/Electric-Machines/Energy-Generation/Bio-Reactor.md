@@ -21,11 +21,11 @@ The Bio Reactor only has one tier.
 | ---- | ------ | ------ |
 | I    | 8 J/s  | 128 J  |
 
-## Fuel
+## 燃料
 
 This generator can be fueled with various organic items.
 
-| Fuel               | Burning time | Total |
+| 燃料                 | Burning time | Total |
 |:------------------ |:------------:|:-----:|
 | Rotten Flesh       |      2s      | 16 J  |
 | Spider Eye         |      2s      | 16 J  |
