@@ -41,7 +41,7 @@ Most of the things in this file are very self explanatory, from enabling certain
 
 Any changes you make should be saved, then restart the server. Again, ***do not use /reload.*** If you are experiencing issues, and you issued a server reload, just stop and restart the server, since this fixes most issues.
 
-### Server Optimizations
+### 伺服器優化指南
 
 Here is a full article on how to [Optimize your Slimefun Server](Server-Optimizations)
 

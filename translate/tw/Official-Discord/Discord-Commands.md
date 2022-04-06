@@ -9,7 +9,7 @@ Note that the following commands only work on our [Official Discord Server](http
 
 If you are looking for the commands you can perform ingame then see [this page](Commands).
 
-## Commands
+## 指令
 
 Commands are associated with certain actions, commands usually take in arguments or perform certain tasks on the server.
 
@@ -19,9 +19,9 @@ Here is a full list:
 
 `<> = Required`
 
-`[] = Optional`
+`[] = 可選`
 
-| Command                | 描述                                                                                                                       | Example               |
+| 指令                     | 描述                                                                                                                       | Example               |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------- |
 | `!wiki <page>`   | Gives you a direct link to the wiki page you are referring to.                                                           | `!wiki Discord Rules` |
 | `!item <item>`   | Gives you some information about an Item from Slimefun, including its recipe.                                            | `!item Steel Ingot`   |
