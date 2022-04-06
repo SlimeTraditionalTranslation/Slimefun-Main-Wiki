@@ -11,7 +11,7 @@ title: 黏液科技 主頁面
   * [優化你的黏液科技伺服器](Overview/Server-Optimizations.md)
 * [黏液科技的附加](Other-Plugins/Addons.md)
 * [入門指南](Overview/Getting-Started.md)
-* [Permissions](Overview/Permissions.md) & [Commands](Overview/Commands.md)
+* [權限](Overview/Permissions.md) & [指令](Overview/Commands.md)
 * [幫助我們擴展維基!](Overview/Expanding-the-Wiki.md)
 * [幫助我們翻譯黏液科技!](Overview/Translating-Slimefun.md)
 * [常見問答 (FAQ)](Overview/FAQ.md)
