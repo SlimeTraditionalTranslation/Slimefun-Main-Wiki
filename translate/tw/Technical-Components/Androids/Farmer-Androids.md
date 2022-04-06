@@ -27,5 +27,5 @@ There are two tiers on the Farmer Android, each with different modifiers listed 
 
 | Tier     | Fuel Efficiency | Special Function                      |
 | -------- |:---------------:| ------------------------------------- |
-| Basic    |      1.0x       | None                                  |
+| Basic    |      1.0x       | 無                                     |
 | Advanced |      1.5x       | Can harvest from Exotic Garden addons |
