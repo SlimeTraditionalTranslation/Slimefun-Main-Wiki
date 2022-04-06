@@ -67,90 +67,90 @@ Spigot 和 Paper 都已經帶有自己的分析. 你可以透過聊天室執行 
 
 黏液科技已經存在很長時間了, 有許多伺服器從多年前就在使用它.
 
-任何在 **2019年夏季之前** 使用過黏液科技的伺服器都會有一堆舊的黏液物品. 這些物品可能仍在使用舊的物品格式, 這種格式速度慢且效率低下. 舊格式依賴於冗長的物品比較與查找. Everytime a player clicks with an Item in their hand, Slimefun has to compare this item with every Slimefun item in existence, including any items from addons. This is a relatively quick operation but the time increases with the amount of addons and the amount of players on your server.
+任何在 **2019年夏季之前** 使用過黏液科技的伺服器都會有一堆舊的黏液物品. 這些物品可能仍在使用舊的物品格式, 這種格式速度慢且效率低下. 舊格式依賴於冗長的物品比較與查找. 每次玩家用手上的物品點擊時, 黏液科技都必須將該物品與所有存在於黏液物品進行較, 包括附加的任何物品. 這是一個相對較快的操作, 但時間會隨著附加數量與玩家數量而增加.
 
-The new item format instead assigns any Slimefun item NBT tags that tell the plugin what item the player is actually holding. This is significantly quicker and reduced all these comparisons to just one simple lookup operation.
+新的物品格式給任何黏液科技物品分配了NBT標籤, 並告訴插件玩家手上實際上持有甚麼物品. 這明顯更快, 並將所有比較減少到只有一個簡單的查找操作.
 
-However as we do not want to break any old items without these NBT tags, the system will still fallback to the old one in order to preserve compatibility with older items.
+然而, 由於我們不想破壞任何沒有這些NBT標籤的舊物品, 系統仍然會退回到舊的標籤, 以保持與舊物品的兼容性.
 
-If you are confident that you have no Items which were crafted before summer 2019, you can disable this fallback and use the new system exclusively.
+如果你確定沒有在2019夏季之前製作的物品, 你可以停用此退回, 並完全使用新系統.
 
-This will improve your Server's performance significantly.
+這將大幅改善你的伺服器效能.
 
-But be aware that any items crafted before summer 2019 might break when doing so.
+但要注意, 任何在2019夏季前製作的物品在這樣做時可能會壞掉.
 
-You can optimize your Server with this method by setting `backwards-compatibility` to `false` in your `plugins/Slimefun/config.yml`.
+你可以通過在 `plugins/Slimefun/config.yml` 中設定 `backwards-compatibility` 為 `false` 來優化你的伺服器.
 
 ```yaml
 options:
   backwards-compatibility: false
 ```
 
-## 5. Slower Tick-rates
+## 5. 較慢的 Tick-rates
 
-Many Slimefun blocks execute code on a very regular basis, the default for this setting is set to run these tasks every 12 ticks (20 ticks = 1 second).
+許多黏液科技的方塊在定期執行代碼, 這個設置默認值是每隔 12 刻 (tick) 來運行一次這些任務 (20刻 = 1秒).
 
-You can increase this delay to slow down block-ticks which *might* help your server's performance. However you shouldn't set it too high, otherwise your players might complain about their machines running too slow.
+你可以增加這個延遲來減慢運行速度, 這*可能*有助於你的伺服器性能. 但是你不應該把它設置的太高, 否則你的玩家可能會抱怨他們的機器運行得太慢.
 
-You can configure this setting in your `plugins/Slimefun/config.yml`. We recommend to only make small changes to the default value of 12 ticks when necessary.
+你可以在 `plugins/Slimefun/config.yml` 中設定這個設置. 我們建議只在必要時對默認的12刻做小的改動.
 
 ```yaml
 URID:
   custom-ticker-delay: 12
 ```
 
-Similar to this setting, Slimefun regularly checks Player's armor to apply effects that come with wearing specific sets of armor. The default setting for this task is set to 10 ticks (20 ticks = 1 second).
+與此設定類似, 黏液科技會定期檢查玩家的裝備, 以應用穿戴時特定裝備的效果. 這個任務的默認設置是10刻 (tick) (20刻 = 秒).
 
-You can also change this value when necessary.
+你也可以在必要時改變這個值.
 
 ```yaml
 options:
   armor-update-interval: 10
 ```
 
-## 6. Handling Cargo networks
+## 6. 處理物流網路
 
-Cargo networks are known to cause some performance drops depending on how they are set up.
+眾所周知, 物流網路會導致一些性能下降, 這取決於它們是如何設置的.
 
-They have gone through many optimizations over the years but they can still cause a bit of trouble from time to time.
+多年來, 它們經歷了許多優化, 但它們仍然時不時會造成一些麻煩.
 
-With the merge of [Pull Request #2106](https://github.com/Slimefun/Slimefun4/pull/2106) Cargo networks have been drastically optimized to run best when using [Paper](https://papermc.io/). You can find more info about Server Software in section [2. Choosing the right Server Software](#2-choosing-the-right-server-software).
+隨著 [合併請求 #2106](https://github.com/Slimefun/Slimefun4/pull/2106) 的合併, 物流網路已被大幅優化, 以便在使用 [Paper](https://papermc.io/) 時運行最佳效能. 你可以在[2. 選擇合適的伺服器軟體](#2-choosing-the-right-server-software) 中找到更多有關伺服器軟體的資訊.
 
-Here are two ways how you can limit cargo networks to prevent your players from making large networks that hurt your server's performance.
+這裡有兩種方法可以限制物流網路, 以防止你的玩家製造大型網路, 以損害你的伺服器效能.
 
-### a) Setting a maxmimum network size
+### a) 設置最大的網路大小
 
-You can set a maximum network size for cargo- and energy networks in your `plugins/Slimefun/config.yml`.
+你可以在 `plugins/Slimefun/config.yml` 中設定你的物流網路和能源網路的最大網路大小.
 
-The default of 200 possible network members is very generous to players, decreasing this threshold will improve performance.
+默認的 200 可能對使用物流網路的玩家非常慷慨, 降低這個門檻將提高性能.
 
-Note that this limit corresponds to the amount of steps taken by the pathfinding algorithm that looks up possible network members, it does not correspond to the actual amount of nodes in your network!
+請注意, 這個限制相當於尋路算法所查找可能的步驟數量, 它並不對應於網路中實際的節點數量!
 
 ```yaml
 networks:
   max-size: 200
 ```
 
-### b) Setting a cargo delay
+### b) 設置物流延遲
 
-Normally, cargo networks are treated like any other ticking block (see [Step 4](#4-slower-tick-rates)).
+通常情況下, 物流網路的處理方式與其它ticking方塊一樣 (參見 [步驟 4](#4-slower-tick-rates)).
 
-But you can also make cargo managers run slower than other blocks. This delay will make the cargo network skip the amount of ticks specified, a delay of 0 will make cargo networks tick on every run. A delay of 1 will make networks only tick on every second run. A delay of 2 will make it skip 2 runs before it runs again, so it runs on every third run. And so on...
+但你也可以讓物流核心比其他方塊運行的更慢. 這個延遲將使物流網路跳過指定的刻(tick), 延遲為0將使物流網路在每刻運行. 延遲為1將使網路只在第二次運行時運行. 延遲為2將使它再次運行前跳過2次運行, 所以它在第三次運行時運行. 以此類推...
 
-As this setting is multiplied by the tick-rate mentioned earlier, setting this too high can be a big disruption to your player's experience.
+由於這個設置會與前面提到的tick-rate相乘, 設置的太高會對玩家的體驗造成很大的影響.
 
-We recommend setting it to 1 and only increase it when absolutely needed.
+我們建議將其設置為1, 只有在絕對需要時才增加.
 
 ```yaml
 networks:
   cargo-ticker-delay: 1
 ```
 
-## 7. Enabling Automatic updates
+## 7. 啟用自動更新
 
-Lastly, one of the most effective ways to optimize your performance is to keep automatic Slimefun updates enabled at all times!
+最後, 最能優化效能的方法是始終保持啟用黏液科技的自動更新!
 
-We regularly release patches, fixes and small performance optimizations and the plugin gets better (content- and performance-wise) with every newly released build. You should always use the latest version, so we highly recommend you to enable `auto-updates` in your `plugins/Slimefun/config.yml`.
+我們會定期發布補丁, 修復與小的性能優化, 並且每個新發布版本都會使插件變得更好 (內容與性能方面). 因此我們強烈建議你在 `plugins/Slimefun/config.yml` 內啟用 `auto-updates`. 不過 因為**非官方**繁體版沒有自動更新, 所以必須手動更新! 還是強烈建議定期手動更新至最新版.
 
 ```yaml
 options:
