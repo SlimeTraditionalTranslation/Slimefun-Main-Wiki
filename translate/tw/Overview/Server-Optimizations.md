@@ -108,7 +108,7 @@ options:
   armor-update-interval: 10
 ```
 
-## 6. The Smeltery Handling Cargo networks
+## 6. Handling Cargo networks
 
 Cargo networks are known to cause some performance drops depending on how they are set up.
 
