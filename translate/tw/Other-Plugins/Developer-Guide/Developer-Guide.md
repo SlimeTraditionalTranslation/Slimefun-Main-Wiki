@@ -8,7 +8,7 @@ This page is still under construction, as this is a huge topic and will most lik
 
 Anyway, let's get started!
 
-## Prerequisites
+## 先決條件
 
 We will try to target a wide range of developers, even ones with less experience.
 
