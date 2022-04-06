@@ -224,7 +224,7 @@ The code is very clean and this addon is fun. However it isn't as user-friendly 
 
 </details>
 
-## 6. The Smeltery SlimeVoid by BigBadE
+## 6. SlimeVoid by BigBadE
 
 https://github.com/BigBadE/SlimefunVoid
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
