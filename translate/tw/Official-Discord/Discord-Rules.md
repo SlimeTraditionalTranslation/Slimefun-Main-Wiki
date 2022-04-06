@@ -59,7 +59,7 @@ Every channel has a specified topic.
 * Found a weird bug that you wanna discuss to see if others experience the same? `#bug-discussions`
 * For any conversations that are not directly related to Slimefun, go to `#offtopic`
 
-### 6. The Smeltery Don't tag people
+### 6. Don't tag people
 
 Do **NOT** tag someone to just to get their attention.
 
