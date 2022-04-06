@@ -7,7 +7,7 @@ This is the **seventh Part** of our Developer Guide, you can find a full overvie
 
 If you haven't checked out the [sixth Part of this Guide](Developer-Guide-(6-Custom-Heads)), then please do that.
 
-## 1. 1. A recap
+## 1. A recap
 
 In the last part we discussed how to create custom heads and use these heads in items and categories.
 
@@ -41,21 +41,19 @@ research.addItems(cake);
 research.register();
 ```
 
-## 2. 2. Creating a new Item
+## 2. Creating a new Item
 
 GEO Resources obviously need an Item form too, so we will start with that.
 
-Right below our previous code we will start to create a new SlimefunItem. As usual we are gonna start with the ItemStack. As usual we are gonna start with the ItemStack.
+Right below our previous code we will start to create a new SlimefunItem. As usual we are gonna start with the ItemStack.
 
 But wait... first we will need to come up with a resource.
 
-How about an ore that is exclusive to the End dimension? An Ender Ore? Yeah let's go with that. An Ender Ore? Yeah let's go with that.
+How about an ore that is exclusive to the End dimension? An Ender Ore? Yeah let's go with that.
 
 We are still inside our `onEnable()` method and right below the code from earlier:
 
 ```java
-// ...
-
 // ...
 
 SlimefunItemStack enderOreItem = new SlimefunItemStack("ENDER_ORE", "eyJ0ZXh...", "&5Ender Ore", "", "&rThis is a cool Ore", "&rGEO-Mine me in the End");
@@ -67,7 +65,6 @@ Now that we have our ItemStack we can also create the Item, we will use the Item
 
 ```java
 // ...
-// ...
 SlimefunItemStack enderOreItem = new SlimefunItemStack("ENDER_ORE", "eyJ0ZXh...", "&5Ender Ore", "", "&rThis is a cool Ore", "&rGEO-Mine me in the End");
 SlimefunItem enderOre = new SlimefunItem(itemGroup, enderOreItem, ..., ...);
 enderOre.register();
@@ -77,14 +74,13 @@ Now you might notice that the last two parameters are still missing.
 
 We don't want our item to be crafted, we want it to be obtained using the GEO Miner and also show that in the guide.
 
-For this we can use the recipe type `RecipeType.GEO_MINER`. For this we can use the recipe type `RecipeType.GEO_MINER`. However... having this RecipeType will **not** add our item to the GEO Miner automatically, we still have to do that in the next step.
+For this we can use the recipe type `RecipeType.GEO_MINER`. However... having this RecipeType will **not** add our item to the GEO Miner automatically, we still have to do that in the next step.
 
-This Recipe Type only functions as a "display item", to inform users on how to obtain it. Therefore we don't really need a recipe either. Therefore we don't really need a recipe either.
+This Recipe Type only functions as a "display item", to inform users on how to obtain it. Therefore we don't really need a recipe either.
 
 But we will still need to pass a Recipe Array with the length 9, so we will just create an empty 9 slot array.
 
 ```java
-// ...
 // ...
 SlimefunItemStack enderOreItem = new SlimefunItemStack("ENDER_ORE", "eyJ0ZXh...", "&5Ender Ore", "", "&rThis is a cool Ore", "&rGEO-Mine me in the End");
 SlimefunItem enderOre = new SlimefunItem(itemGroup, enderOreItem, RecipeType.GEO_MINER, new ItemStack[9]);
@@ -95,7 +91,7 @@ Now our item is pretty much done and registered.
 
 We still need to create the resource for the GEO Miner though, so that's what we will do next.
 
-## 3. 3. Creating a GEOResource
+## 3. Creating a GEOResource
 
 For this we will need to create a new class again.
 
@@ -119,7 +115,7 @@ public class EnderOreResource implements GEOResource {
 
 Your IDE will probably start warning you about missing methods at this point.
 
-Whenever you implement an interface you will also have to implement its methods. Whenever you implement an interface you will also have to implement its methods. You can see all methods from GEOResource on our [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/io/github/thebusybiscuit/slimefun4/api/geo/GEOResource.html). We are gonna start simple, the first method we need to implement is `getName()`, so we implement that method and return the name of our resource. We are gonna start simple, the first method we need to implement is `getName()`, so we implement that method and return the name of our resource.
+Whenever you implement an interface you will also have to implement its methods. You can see all methods from GEOResource on our [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/io/github/thebusybiscuit/slimefun4/api/geo/GEOResource.html). We are gonna start simple, the first method we need to implement is `getName()`, so we implement that method and return the name of our resource.
 
 ```java
 public class EnderOreResource implements GEOResource {
@@ -152,7 +148,7 @@ public class EnderOreResource implements GEOResource {
 }
 ```
 
-Now we come to the generator settings. Now we come to the generator settings. We got two methods which handle that: `getDefaultSupply(...)` determines the default amount for a given Environment and Biome.
+Now we come to the generator settings. We got two methods which handle that: `getDefaultSupply(...)` determines the default amount for a given Environment and Biome.
 
 And we also have the method `getMaxDeviation()` which determines the maximum amount this resource is allowed to deviate from the default amount.
 
@@ -160,7 +156,7 @@ Note here that it will only deviate if the amount is greater than zero.
 
 To give you an example of what exactly this means: If our default supply for "The End" is 20 Ender Ores per Chunk and our max-deviation is set to 2,
 
-then the actual amount in a chunk will vary between 20 and 22 Ender Ores, if the deviation is set to 4 it will be 20 - 24 Ender Ores instead. Think of it as the maximum of bonus items. Think of it as the maximum of bonus items.
+then the actual amount in a chunk will vary between 20 and 22 Ender Ores, if the deviation is set to 4 it will be 20 - 24 Ender Ores instead. Think of it as the maximum of bonus items.
 
 ```java
 public class EnderOreResource implements GEOResource {
@@ -197,13 +193,13 @@ public class EnderOreResource implements GEOResource {
 
 This will now spawn between 20 and 28 Ender Ores in "The End" and 0 Ender Ores in any other dimension.
 
-Now all that's left to do is to implement the methods `getKey()` and `getItem()`. For this we will need a `NamespacedKey` which requires our Plugin instance. For this we will need a `NamespacedKey` which requires our Plugin instance.
+Now all that's left to do is to implement the methods `getKey()` and `getItem()`. For this we will need a `NamespacedKey` which requires our Plugin instance.
 
 But we will also need our ItemStack from earlier...
 
 We will just make our life easier by creating a constructor.
 
-A constructor is a special form of method that is called when a new instance of that class is created. You can use it to control what parameters are needed when doing `new SomeClass(...);`. You can use it to control what parameters are needed when doing `new SomeClass(...);`.
+A constructor is a special form of method that is called when a new instance of that class is created. You can use it to control what parameters are needed when doing `new SomeClass(...);`.
 
 Let's create a new constructor for this class at the top of the file:
 
@@ -214,7 +210,7 @@ public class EnderOreResource implements GEOResource {
 
   }
 
-// ... All our other methods come after this All our other methods come after this
+// ... All our other methods come after this
 ```
 
 Now we can give the constructor some arguments, remember we need our Plugin instance and our ItemStack.
@@ -228,12 +224,12 @@ public class EnderOreResource implements GEOResource {
 
   }
 
-// ... All our other methods come after this All our other methods come after this
+// ... All our other methods come after this
 ```
 
 Now we just need to turn our Plugin into a NamespacedKey, we will simply store it as a "class member" which means that anything inside our class can access this variable.
 
-The keyword `final` means that is a constant, it cannot be changed afterwards. We can set this constant right at the top or initialize it in the constructor. We can set this constant right at the top or initialize it in the constructor.
+The keyword `final` means that is a constant, it cannot be changed afterwards. We can set this constant right at the top or initialize it in the constructor.
 
 You just need to remember that you cannot re-assign a final variable after it was intiialized.
 
@@ -262,7 +258,7 @@ public class EnderOreResource implements GEOResource {
     this.item = item;
   }
 
-// ... All our other methods come after this All our other methods come after this
+// ... All our other methods come after this
 ```
 
 Now we can implement the remaining two methods.
@@ -293,12 +289,11 @@ public class EnderOreResource implements GEOResource {
 // ... All our other methods come after this
 ```
 
-## 4. 4. Final registration
+## 4. Final registration
 
-Now we created a new SlimefunItem and a new GEOResource. Now we created a new SlimefunItem and a new GEOResource. We only need to register the resource now, so we head back to our main class and into our `onEnable()` method.
+Now we created a new SlimefunItem and a new GEOResource. We only need to register the resource now, so we head back to our main class and into our `onEnable()` method.
 
 ```java
-// ...
 // ...
 SlimefunItemStack enderOreItem = new SlimefunItemStack("ENDER_ORE", "eyJ0ZXh...", "&5Ender Ore", "", "&rThis is a cool Ore", "&rGEO-Mine me in the End");
 SlimefunItem enderOre = new SlimefunItem(itemGroup, enderOreItem, RecipeType.GEO_MINER, new ItemStack[9]);
@@ -308,7 +303,6 @@ enderOre.register();
 We will now create a new instance of our `EnderOreResource` class and register it.
 
 ```java
-// ...
 // ...
 SlimefunItemStack enderOreItem = new SlimefunItemStack("ENDER_ORE", "eyJ0ZXh...", "&5Ender Ore", "", "&rThis is a cool Ore", "&rGEO-Mine me in the End");
 SlimefunItem enderOre = new SlimefunItem(itemGroup, enderOreItem, RecipeType.GEO_MINER, new ItemStack[9]);
@@ -320,31 +314,12 @@ enderOreResource.register();
 
 As defined earlier, we pass two arguments to the constructor, `this` which refers to our Plugin in this context and the ItemStack / SlimefunItemStack.
 
-And we are done! And we are done! Our resource is now generated and can be mined inside "The End" using a GEO-Miner.
+And we are done! Our resource is now generated and can be mined inside "The End" using a GEO-Miner.
 
 Here is the full `EnderOreResource` class:
 
 ```java
 public class EnderOreResource implements GEOResource {
-
-  private final NamespacedKey key;
-  private final ItemStack item;
-
-  public EnderOreResource(Plugin plugin, ItemStack item) {
-    this.key = new NamespacedKey(plugin, "ender_ore");
-    this.item = item;
-  }
-
-  @Override
-  public NamespacedKey getKey() {
-    return key;
-  }
-
-  @Override
-  public ItemStack getItem() {
-    // It is important to add a .clone() here since we do not want
-    // to return the original item.
-    public class EnderOreResource implements GEOResource {
 
   private final NamespacedKey key;
   private final ItemStack item;

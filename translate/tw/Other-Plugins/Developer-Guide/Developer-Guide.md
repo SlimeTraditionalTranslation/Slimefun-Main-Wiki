@@ -8,7 +8,7 @@ This page is still under construction, as this is a huge topic and will most lik
 
 Anyway, let's get started!
 
-## Prerequisites
+## 先決條件
 
 We will try to target a wide range of developers, even ones with less experience.
 
@@ -24,7 +24,7 @@ You can of course also always questions on our Discord Server in the channel `#p
 
 You can click on the discord badge at the bottom of the page to join.
 
-You can also check out our [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/) to get some more technical information about how the API is structured. But we would advise you to check this guide first. But we would advise you to check this guide first.
+You can also check out our [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/) to get some more technical information about how the API is structured. But we would advise you to check this guide first.
 
 ## Table of Contents
 
@@ -42,4 +42,4 @@ You can also check out our [Javadocs](https://slimefun.github.io/javadocs/Slimef
    - *Creating your own Generator (soon)*
 9. [Compiling and testing your addon](Developer-Guide-(9-Compiling))
 
-?. ?. [Publishing your addon](Developer-Guide-(Publishing))
+?. [Publishing your addon](Developer-Guide-(Publishing))

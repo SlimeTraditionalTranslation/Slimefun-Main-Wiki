@@ -1,5 +1,5 @@
 ---
-title: 4. Enhanced Crafting Table
+title: Enhanced Crafting Table
 sidebar_position: 1
 ---
 

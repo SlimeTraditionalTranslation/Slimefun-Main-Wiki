@@ -31,19 +31,19 @@ If you really enjoy this plugin, then please follow this guide, it'd make our li
 
 It's the least you can do to relieve our shoulders.
 
-### 1. 1. Checking your versions
+### 1. Checking your versions
 
 It is absolutely **crucial** that you check your versions, 90% of issues can already be solved in this step alone.
 
 Gather the following information:
 
 * **Your Server Software** _(Are you running Bukkit, Spigot, Paper or something else?)_
-* **Your Minecraft Version** _(Is it 1.8, is it 1.14, 1.9001? You should know that.)_ You should know that.)_
-* **Your Slimefun Version** _(What version have you installed? Is it a DEV build or a "stable" version?)_ Is it a DEV build or a "stable" version?)_
+* **Your Minecraft Version** _(Is it 1.8, is it 1.14, 1.9001? You should know that.)_
+* **Your Slimefun Version** _(What version have you installed? Is it a DEV build or a "stable" version?)_
 
 You can quickly gather all this info at once by running the command `/sf versions`.
 
-If your Server Owner has not given you access to this command, then Shift and Right-Click your Slimefun Guide, there should be a Book and Quill there that will at least tell you your Minecraft and Slimefun Version. That is already very helpful! That is already very helpful!
+If your Server Owner has not given you access to this command, then Shift and Right-Click your Slimefun Guide, there should be a Book and Quill there that will at least tell you your Minecraft and Slimefun Version. That is already very helpful!
 
 If you are reporting a bug on us, then we will need this info, otherwise we have absolutely no chance to figure out what we're dealing with.
 
@@ -51,7 +51,7 @@ It's like finding a nail in a pile of hay, but the pile is on fire and on an ent
 
 **So please, please, PLEEEAASEE tell us the exact versions you are running, "latest" is NOT HELPING**.
 
-### 2. 2. Checking for updates
+### 2. Checking for updates
 
 The next step is to compare the versions you acquired in step 1 to the most recent versions.
 
@@ -63,17 +63,17 @@ To add on to the last point: We will not be accepting bug reports from "stable" 
 
 If you don't have file access to the server, then contact one of your admins, explain them your issue and link them to this guide.
 
-### 3. 3. Try restarting your Server
+### 3. Try restarting your Server
 
-This is not a joke. This is not a joke. Try turning it off and on again, often times it can work and fix your problem.
+This is not a joke. Try turning it off and on again, often times it can work and fix your problem.
 
-### 4. 4. See if it is a known issue
+### 4. See if it is a known issue
 
 Take a look at our [Issue Tracker](https://github.com/Slimefun/Slimefun4/issues).
 
-Maybe your issue has already been reported, please don't post it again in that case. But you are encouraged to comment on that issue and give some information on how you were able to reproduce the problem. But you are encouraged to comment on that issue and give some information on how you were able to reproduce the problem.
+Maybe your issue has already been reported, please don't post it again in that case. But you are encouraged to comment on that issue and give some information on how you were able to reproduce the problem.
 
-### 5. 5. Search for error-reports and stacktraces
+### 5. Search for error-reports and stacktraces
 
 Before you venture off and hunt down those error-reports and stacktraces, keep in mind that those things should always be posted via [pastebin](https://pastebin.com/) when reporting via our Issue Tracker.
 
@@ -83,7 +83,7 @@ Before you venture off and hunt down those error-reports and stacktraces, keep i
 
 2. Open your server's console and check if you can see any stacktraces.
 
-(Stacktraces are those things that look really scary and you cannot wrap your mind around how to read them) See if the phrase "slimefun" comes up in it. Attach it to your bug report then. Attach it to your bug report then.
+(Stacktraces are those things that look really scary and you cannot wrap your mind around how to read them) See if the phrase "slimefun" comes up in it. Attach it to your bug report then.
 
 **It is very important to always post the FULL stacktrace, snip off one single word and it all becomes useless, so please make sure to include everything you see.**
 
@@ -93,13 +93,13 @@ If the name of one of your installed addons comes up in that stacktrace, post it
 
 If you don't have file access to the server, then contact one of your admins, explain them your issue and link them to this guide.
 
-### 6. The Smeltery 6. Make sure it is Slimefun!
+### 6. Make sure it is Slimefun!
 
 When you encounter problems with content in Slimefun, then please make sure that the Item/Block/Machine is actually from Slimefun and not from an addon.
 
 If your problem revolves around items from ExoticGarden or any other Slimefun addons, then report them on their bug tracker and not here.
 
-### 7. 7. Gather as much information as possible
+### 7. Gather as much information as possible
 
 When we say you should be detailed, we mean it.
 
@@ -109,13 +109,13 @@ Try to experiment out some things before reporting.
 * Does the bug only happen if you hold a certain item?
 * Have you tried jumping, left- or right-clicking or dancing around?
 * Does the issue require a creeper to be watching behind your back?
-* Does it only happen on your server? Does it only happen on your server? **Have you tried talking to others on our discord server about it?**
+* Does it only happen on your server? **Have you tried talking to others on our discord server about it?**
 
-These are just some more or less serious examples. Every bit of information helps. Every bit of information helps.
+These are just some more or less serious examples. Every bit of information helps.
 
 The narrower and detailed you can get, the better.
 
-### 8. 8. Posting the Issue via GitHub
+### 8. Posting the Issue via GitHub
 
 If updating or restarting did not help, then please report your issue via our [Issue Tracker](https://github.com/Slimefun/Slimefun4/issues/).
 

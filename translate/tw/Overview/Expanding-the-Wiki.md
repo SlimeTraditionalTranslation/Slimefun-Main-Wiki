@@ -5,7 +5,7 @@ sidebar_position: 7
 
 You want to help us expand the Wiki?
 
-Awesome! Awesome! Here is a step-by-step tutorial on how to create/edit pages on the wiki.
+Awesome! Here is a step-by-step tutorial on how to create/edit pages on the wiki.
 
 ## Step 1: Forking the Repository
 
@@ -83,7 +83,7 @@ Now click on the button "Upload files".
 
 ![Upload files button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-upload-image.png)
 
-Make sure that all your images use the PNG image format and have proper names. The names should be in lower case, contain no spaces and use hyphens to seperate words. Examples: "enhanced-crafting-table.png", "gold-pan-usage.png", "exoticgarden-apple-tree.png". The names should be in lower case, contain no spaces and use hyphens to seperate words. Examples: "enhanced-crafting-table.png", "gold-pan-usage.png", "exoticgarden-apple-tree.png".
+Make sure that all your images use the PNG image format and have proper names. The names should be in lower case, contain no spaces and use hyphens to seperate words. Examples: "enhanced-crafting-table.png", "gold-pan-usage.png", "exoticgarden-apple-tree.png".
 
 Drag and drop the images you want to upload onto the grey area and hit "Commit changes".
 
@@ -141,7 +141,7 @@ Thanks for contributing to the Slimefun4 wiki!
 
 ## Step 5: Making changes to your Pull Request
 
-If you have already submitted a pull request but want to make a change to your files, you can do that. Just repeat [Step 2](#step-2-making-your-changes). Just repeat [Step 2](#step-2-making-your-changes).
+If you have already submitted a pull request but want to make a change to your files, you can do that. Just repeat [Step 2](#step-2-making-your-changes).
 
 The pull request will automatically update to include new changes until it has been merged/closed.
 

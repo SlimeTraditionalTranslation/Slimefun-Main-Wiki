@@ -5,7 +5,7 @@ sidebar_position: 1
 
 This is the **first Part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide).
 
-## 1. 1. The necessary tools
+## 1. The necessary tools
 
 In order to start developing, you will need to make sure that the following software is installed correctly on your system.
 
@@ -18,15 +18,15 @@ We will not go over the details on how to download or install these, you will fi
 
 Once you have installed everything successfully, continue with Step 2.
 
-## 2. 2. Create a new GitHub Repository
+## 2. Create a new GitHub Repository
 
-You will need a GitHub Account for this step. You will need a GitHub Account for this step. We made a nifty Repository-template for Slimefun Addons for you.
+You will need a GitHub Account for this step. We made a nifty Repository-template for Slimefun Addons for you.
 
-Go to the [Repository template](https://github.com/Slimefun/Addon-Template) and click the bright green button on the right side that says "Use this template". You will then be prompted to come up with a name and description for your Addon. You will then be prompted to come up with a name and description for your Addon.
+Go to the [Repository template](https://github.com/Slimefun/Addon-Template) and click the bright green button on the right side that says "Use this template". You will then be prompted to come up with a name and description for your Addon.
 
 When you are finished just click "Create repository from template".
 
-## 3. 3. Setting up your Project
+## 3. Setting up your Project
 
 Now that you have a git repository for your project, you can import it into your workspace.
 
@@ -38,13 +38,13 @@ Make sure to set it up correctly, you will likely want to push things to your re
 
 Now we need to talk a little bit about Maven.
 
-Maven is a dependency manager that many Java projects use. Our template already includes a fully configured Maven setup for you. Our template already includes a fully configured Maven setup for you.
+Maven is a dependency manager that many Java projects use. Our template already includes a fully configured Maven setup for you.
 
-But you need to make sure that your project is set up correctly, you can look up how to set up a project as a Maven project for your preferred IDE. But you need to make sure that your project is set up correctly, you can look up how to set up a project as a Maven project for your preferred IDE. Your project will be compiled via Maven too, so if you want to test or share your addon, you need to use Maven either way.
+But you need to make sure that your project is set up correctly, you can look up how to set up a project as a Maven project for your preferred IDE. Your project will be compiled via Maven too, so if you want to test or share your addon, you need to use Maven either way.
 
 ### License
 
-You should also choose a License for your project. You should also choose a License for your project. We recommend you to choose an Open-Source license, so everyone can contribute to your project.
+You should also choose a License for your project. We recommend you to choose an Open-Source license, so everyone can contribute to your project.
 
 You can consult [ChooseALicense.com](https://choosealicense.com/) to find a suitable open-source license for you.
 
@@ -64,7 +64,7 @@ Give your project a proper description, maybe link your discord server, your Buk
 
 This README will be the landing page of your GitHub project, so make it pretty ;)
 
-## 4. 4. Very important step
+## 4. Very important step
 
 This step is the most important of all.
 
@@ -82,7 +82,7 @@ These ids need to be in all lower case, here are some examples:
 
 * `me.thebusybiscuit` (`me.****` is often used for individuals)
 * `com.example` (Use your website in reverse if you own one)
-* `com.google.example` (If you are part of an organization, Google for example, then use this format. Do not impersonate any organizations and only use this id if your project is made in the name of that organization) Do not impersonate any organizations and only use this id if your project is made in the name of that organization)
+* `com.google.example` (If you are part of an organization, Google for example, then use this format. Do not impersonate any organizations and only use this id if your project is made in the name of that organization)
 
 For most developers, we would recommend to just go with `me.yourname` (remember, all in lower case, use _ to express spaces).
 
@@ -158,7 +158,7 @@ Now most importantly...
 
 Change the `main` attribute to the following:
 
-main: `groupId` + . main: `groupId` + . + `projectId` (all lower case this time) + . + `projectId`. + `projectId`.
+main: `groupId` + . + `projectId` (all lower case this time) + . + `projectId`.
 
 We know this may sound confusing at first, here is an example:
 
@@ -203,13 +203,13 @@ The file name should look like this now: 'MyAwesomeAddon.java'.
 
 If you set up Git correctly, you should now be able to **commit** your changes and **push** them to your repository.
 
-Look up online guides on how to do that, remember to always **commit** and **push** whenever you change a file, this will keep your workspace and your GitHub repository in-sync, so you can work on your project from anywhere you want. It also allows others to contribute to your project easily. It also allows others to contribute to your project easily.
+Look up online guides on how to do that, remember to always **commit** and **push** whenever you change a file, this will keep your workspace and your GitHub repository in-sync, so you can work on your project from anywhere you want. It also allows others to contribute to your project easily.
 
-And you are done! And you are done! You now successfully configured and set up your first Slimefun Addon.
+And you are done! You now successfully configured and set up your first Slimefun Addon.
 
 We know this was all very complicated, so feel free to ask any questions on discord.
 
-## 5. 5. Locking your dependency versions
+## 5. Locking your dependency versions
 
 Our default `pom.xml` file from the template uses self-updating versions.
 
@@ -239,7 +239,7 @@ You can find a full list of versions to build against in the "Releases" section 
 
 https://github.com/Slimefun/Slimefun4/releases
 
-You can also find a "Maven dependency reference" for every released version. Simply copy & paste/replace the version tag into your `pom.xml` to update your dependency. Simply copy & paste/replace the version tag into your `pom.xml` to update your dependency.
+You can also find a "Maven dependency reference" for every released version. Simply copy & paste/replace the version tag into your `pom.xml` to update your dependency.
 
 Full example:
 
@@ -253,6 +253,6 @@ Full example:
 </dependency>
 ```
 
-**Note that your addon should still work on any development version released after the RC version you are building against. Note that your addon should still work on any development version released after the RC version you are building against. API changes are usually only done ater a new RC build has been released, so you can safely build against the RC version while still using the development versions of Slimefun for your server.**
+**Note that your addon should still work on any development version released after the RC version you are building against. API changes are usually only done ater a new RC build has been released, so you can safely build against the RC version while still using the development versions of Slimefun for your server.**
 
 [**> Continue with Part 2**](Developer-Guide-(2-Creating-the-Addon))
