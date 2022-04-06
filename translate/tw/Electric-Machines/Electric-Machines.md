@@ -32,7 +32,7 @@ For more information on the individual items in this category, see the table of 
 * [Combustion Reactor](Combustion-Reactor)
 * [Reactors](Reactors)
 
-### Machines
+### 機器
 
 * [Animal Growth Accelerator](Animal-Growth-Accelerator)
 * [Auto Anvil](Auto-Anvil)

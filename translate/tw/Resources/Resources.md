@@ -6,11 +6,11 @@ The Resources category contains many natural and man-made resources which are us
 
 ## 目錄
 
-### [Dusts](Dusts)
+### [粉](粉)
 
 ### [Ingots](Ingots)
 
-### Crystals
+### 水晶
 
 * [Synthetic Sapphire](Synthetic-Sapphire)
 * [Synthetic Emerald](Synthetic-Emerald)
@@ -18,7 +18,7 @@ The Resources category contains many natural and man-made resources which are us
 * [Raw Carbonado](Carbonado)
 * [Carbonado](Carbonado)
 
-### Elements and compounds
+### 元素與混和物
 
 * [Carbon](Carbon)
 * [Compressed Carbon](Carbon)
@@ -27,7 +27,7 @@ The Resources category contains many natural and man-made resources which are us
 * [Sulfate](Sulfate)
 * [Silicon](Silicon)
 
-### Fuel
+### 燃料
 
 * [Bucket of Oil](Bucket-of-Oil)
 * [Bucket of Fuel](Bucket-of-Fuel)

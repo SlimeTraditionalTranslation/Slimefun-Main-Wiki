@@ -21,9 +21,9 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 
 * [Redstone Alloy Ingot](Redstone-Alloy-Ingot)
 
-### Items
+### 物品
 
-* [Talisman of the Knight](Talismans)
+* [Talisman of the Knight](護符)
 * [Lumber Axe](Lumber-Axe)
 * [Pickaxe of Containment](Pickaxe-of-Containment)
 * [Pickaxe of Vein Mining](Pickaxe-of-Vein-Mining)

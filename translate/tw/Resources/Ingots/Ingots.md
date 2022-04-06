@@ -4,7 +4,7 @@ title: Ingots
 
 Slimefun introduces 25 new ingots, including 17 alloys. They are essential crafting [resources](/docs/Slimefun/Resources).
 
-## Metals
+## 金屬
 
 The following ingots are obtained by smelting the matching [dusts](Dusts) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory):
 
@@ -18,7 +18,7 @@ The following ingots are obtained by smelting the matching [dusts](Dusts) in a [
 * [Zinc Ingot](Zinc-Ingot)
 * [Magnesium Ingot](Magnesium-Ingot)
 
-## Alloys
+## 合金
 
 The following ingots are obtained by combining metals in a [Smeltery](Smeltery) or an [Electric Smeltery](Electric-Smeltery):
 

@@ -23,7 +23,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 
 * [Hardened Metal](Hardened-Metal)
 
-### Items
+### 物品
 
 * [Steel Thruster](Steel-Thruster)
 * [Elevator Plate](Elevator-Plate)

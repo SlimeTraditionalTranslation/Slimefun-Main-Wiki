@@ -22,7 +22,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 
 * [Cobalt Ingot](Cobalt-Ingot)
 
-### Items
+### 物品
 
 * [Magnet](Magnet)
 * [Electromagnet](Electromagnet)

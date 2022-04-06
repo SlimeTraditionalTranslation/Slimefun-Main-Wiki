@@ -82,7 +82,7 @@ You can only enchant an Item from Slimefun by using an [Auto-Enchanter](Auto-Enc
 ## How long does coolant last in reactors?
 
 Coolant lasts for 25 seconds no matter the type (normal or Nether Ice). Here is a table with the required amount of coolant per piece of fuel:
-| Fuel            | Duration    | Coolant type | Coolant amount |
+| 燃料              | Duration    | Coolant type | Coolant amount |
 | --------------- | ----------- | ------------ | -------------- |
 | Uranium         | 20m (1200s) | Normal       | 48             |
 | Neptunium       | 10m (600s)  | Normal       | 24             |

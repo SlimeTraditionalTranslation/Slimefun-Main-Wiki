@@ -27,7 +27,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * [Reinforced Alloy Ingot](Reinforced-Alloy-Ingot)
 * [Redstone Alloy Ingot](Redstone-Alloy-Ingot)
 
-### Items
+### 物品
 
 * [Hercules' Pickaxe](Hercules'-Pickaxe)
 * [Seismic Axe](Seismic-Axe)

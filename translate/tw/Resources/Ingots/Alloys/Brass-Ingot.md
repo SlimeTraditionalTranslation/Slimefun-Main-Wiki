@@ -22,8 +22,8 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 
 * [Aluminum Brass Ingot](Aluminum-Brass-Ingot)
 
-### Items
+### 物品
 
 * [Electric Ingot Factory II/III](Electric-Ingot-Factory)
-* [Android Memory Core](Androids)
+* [Android Memory Core](機器人)
 * [Output Node](Output-Node)

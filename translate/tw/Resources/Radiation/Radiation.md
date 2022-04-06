@@ -1,5 +1,5 @@
 ---
-title: Radiation
+title: 輻射物
 sidebar_position: 1
 ---
 

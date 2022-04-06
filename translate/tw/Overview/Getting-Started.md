@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: 入門指南
 sidebar_position: 4
 ---
 

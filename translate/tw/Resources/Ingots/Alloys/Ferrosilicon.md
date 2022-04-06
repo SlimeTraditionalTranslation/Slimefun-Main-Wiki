@@ -22,7 +22,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 
 * [Redstone Alloy Ingot](Redstone-Alloy-Ingot)
 
-### Items
+### 物品
 
 * [Photovoltaic Cell](Photovoltaic-Cell)
 * [Smelter's Pickaxe](Smelter's-Pickaxe)

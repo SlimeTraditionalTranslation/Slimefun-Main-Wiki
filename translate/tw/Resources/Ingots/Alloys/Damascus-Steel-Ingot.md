@@ -24,7 +24,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * [Reinforced Alloy Ingot](Reinforced-Alloy-Ingot)
 * [Hardened Metal](Hardened-Metal)
 
-### Items
+### 物品
 
 * [Energy Regulator](Energy-Regulator)
 * [Electric Dust Washer II](Electric-Dust-Washer)

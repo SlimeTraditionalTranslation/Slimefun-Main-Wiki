@@ -22,7 +22,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 
 * [Damascus Steel Ingot](Damascus-Steel-Ingot)
 
-### Items
+### 物品
 
 * [Steel Jetpack](Jetpacks)
 * [Steel Multi Tool](Multi-Tools)
