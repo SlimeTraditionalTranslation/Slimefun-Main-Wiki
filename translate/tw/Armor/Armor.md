@@ -39,4 +39,4 @@ The Gold Armor Set is a vanilla Gold Armor Set with Unbreaking X on every piece.
 
 ## See also
 
-* [Magical Armor](Magical-Armor)
+* [魔法盔甲](Magical-Armor)
