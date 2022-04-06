@@ -22,7 +22,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 
 * [Reinforced Alloy Ingot](Reinforced-Alloy-Ingot)
 
-### Items
+### 物品
 
 * [Billon Multi Tool](Multi-Tools)
 * [Billon Jetpack](Jetpacks)
