@@ -22,7 +22,7 @@ The Technical Components category contains various items which can be used in th
 * [Cooling Unit](Cooling-Unit)
 * [Wither-Proof Obsidian](Wither-Proof-Blocks)
 * [Plastic Sheet](Plastic-Sheet)
-* [Android Memory Core](Androids)
+* [Android Memory Core](機器人)
 * [Wither-Proof Glass](Wither-Proof-Blocks)
 * [Reactor Coolant Cell](Coolant-Cells)
 * [Nether Ice Coolant Cell](Coolant-Cells)
