@@ -43,5 +43,5 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * [Reinforced Alloy Jetpack](Jetpacks)
 * [Reinforced Alloy Jet Boots](Jet-Boots)
 * [Reinforced Alloy Tool](Multi-Tools)
-* [Talisman of the Warrior](Talismans)
+* [Talisman of the Warrior](護符)
 * [Reinforced Plate](Miscellaneous-Items)
