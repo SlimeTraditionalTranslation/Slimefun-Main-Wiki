@@ -3,34 +3,34 @@ title: Getting Started
 sidebar_position: 4
 ---
 
-If you have just started using Slimefun it may seem overwhelming or very complicated. You may not know where to start. If that sounds familiar then you have come to the right place! You may not know where to start. If that sounds familiar then you have come to the right place!
+If you have just started using Slimefun it may seem overwhelming or very complicated. You may not know where to start. If that sounds familiar then you have come to the right place!
 
 This guide assumes that you have already installed Slimefun, otherwise start by reading [How to install Slimefun](Installing-Slimefun)
 
-## 1. 1. Slimefun Guide
+## 1. Slimefun Guide
 
-The very first Item you will need on your journey is the Slimefun Guide. Do `/sf guide` to obtain it and Right-Click the Book to open it. You will now be presented with all Categories Slimefun can offer. In each Category you will find Items that Slimefun (or Addons) have added. You can click on any Item to see it's Recipe. Take a moment to browse through the guide. Do `/sf guide` to obtain it and Right-Click the Book to open it. You will now be presented with all Categories Slimefun can offer. In each Category you will find Items that Slimefun (or Addons) have added. You can click on any Item to see it's Recipe. Take a moment to browse through the guide.
+The very first Item you will need on your journey is the Slimefun Guide. Do `/sf guide` to obtain it and Right-Click the Book to open it. You will now be presented with all Categories Slimefun can offer. In each Category you will find Items that Slimefun (or Addons) have added. You can click on any Item to see it's Recipe. Take a moment to browse through the guide.
 
-## 2. 2. Researching
+## 2. Researching
 
-You will notice that a lot of Slimefun Items could be locked (depending on your Server Setup). This means that you will either need a certain permission to use the item or that you have to research the Item first. To research an Item, simply click on an Item in your Guide that says "LOCKED". Researching Items will cost you XP levels, so make sure to stock up on Experience. This means that you will either need a certain permission to use the item or that you have to research the Item first. To research an Item, simply click on an Item in your Guide that says "LOCKED". Researching Items will cost you XP levels, so make sure to stock up on Experience.
+You will notice that a lot of Slimefun Items could be locked (depending on your Server Setup). This means that you will either need a certain permission to use the item or that you have to research the Item first. To research an Item, simply click on an Item in your Guide that says "LOCKED". Researching Items will cost you XP levels, so make sure to stock up on Experience.
 
-## 3. 3. Multiblocks
+## 3. Multiblocks
 
-The very first and most basic Machines are found in the Category "Basic Machines", most of these are actually Multiblocks. You can see whether it is a multiblock by hovering over the Item to the left of the recipe. Multiblocks are machines that are built in the world. The 3rd row of the recipe are your bottom blocks, then build above them according to the recipe. You can see whether it is a multiblock by hovering over the Item to the left of the recipe. Multiblocks are machines that are built in the world. The 3rd row of the recipe are your bottom blocks, then build above them according to the recipe.
+The very first and most basic Machines are found in the Category "Basic Machines", most of these are actually Multiblocks. You can see whether it is a multiblock by hovering over the Item to the left of the recipe. Multiblocks are machines that are built in the world. The 3rd row of the recipe are your bottom blocks, then build above them according to the recipe.
 
-## 4. 4. Enhanced Crafting Table
+## 4. Enhanced Crafting Table
 
 This is the first machine you will need to build. You have to place a Crafting Table on top of a Dispenser. Most Slimefun Recipes are crafted by putting the recipe into the Dispenser, then right-clicking the Crafting Table. You can read more about this Machine [here](Enhanced-Crafting-Table).
 
-## 5. 5. Collecting Dust
+## 5. Collecting Dust
 
 A lot of Recipes may require various Ingots/Alloys. You start off by crafting a [Gold Pan](Gold-Pan) in the [Enhanced Crafting Table](Enhanced-Crafting-Table). Right-Click Gravel with your [Gold Pan](Gold-Pan) and you will get [Sifted Ore](Sifted-Ore). Then process your [Sifted Ore](Sifted-Ore) by building an [Ore Washer](Ore-Washer). You will get lots of dusts (e.g. Copper, Tin, Zinc,...) from that, hold onto those and proceed to Step 6.
 
-## 6. The Smeltery The Smeltery
+## 6. The Smeltery
 
-Now it's time to turn your Dusts into Ingots. Now it's time to turn your Dusts into Ingots. Start by building a [Smeltery](Smeltery) and smelt those into Ingots or Alloys. You can then use these Ingots and Alloys in a ton of recipes. You can then use these Ingots and Alloys in a ton of recipes.
+Now it's time to turn your Dusts into Ingots. Start by building a [Smeltery](Smeltery) and smelt those into Ingots or Alloys. You can then use these Ingots and Alloys in a ton of recipes.
 
-## 7. 7. Enjoy the plugin
+## 7. Enjoy the plugin
 
-Now we should have covered everything you need to know in order to start playing with Slimefun. Have fun and enjoy your adventure! Have fun and enjoy your adventure!
+Now we should have covered everything you need to know in order to start playing with Slimefun. Have fun and enjoy your adventure!
