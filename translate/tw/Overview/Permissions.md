@@ -3,7 +3,7 @@ title: 權限
 sidebar_position: 5
 ---
 
-This is a full list of all Permission nodes added by Slimefun. Most of them are used for commands, so make sure to also see the wiki page about [Commands](Commands).
+這是黏液科技所添加了所有權限節點. 它們之中用於大多數指令, 因此請確保也有查看[指令](Commands)的維基頁面.
 
 ## 對於指令的權限
 
@@ -24,10 +24,10 @@ This is a full list of all Permission nodes added by Slimefun. Most of them are 
 
 ## 對於機器的權限
 
-| 權限                             | 描述                                                                    | 預設分配 |
-| ------------------------------ | --------------------------------------------------------------------- | ---- |
-| slimefun.inventory.bypass      | 允許你打開其他玩家的黏液科技                                                        | OP   |
-| slimefun.cargo.bypass          | 允許你使用其他玩家的物流節點                                                        | OP   |
-| slimefun.gps.bypass            | Allows you to use GPS devices that belong to other Players            | OP   |
-| slimefun.android.bypass        | Allows you to use Programmable Androids that belong to other Players  | OP   |
-| slimefun.android.upload-script | Allows you to share Android Scripts with other Players on your Server | OP   |
+| 權限                             | 描述                   | 預設分配 |
+| ------------------------------ | -------------------- | ---- |
+| slimefun.inventory.bypass      | 允許你打開其他玩家的黏液科技       | OP   |
+| slimefun.cargo.bypass          | 允許你使用其他玩家的物流節點       | OP   |
+| slimefun.gps.bypass            | 允許你使用其他玩家的GPS設備      | OP   |
+| slimefun.android.bypass        | 允許你使用其他玩家的機器人        | OP   |
+| slimefun.android.upload-script | 允許其他玩家在你的伺服器上分享機器人腳本 | OP   |
