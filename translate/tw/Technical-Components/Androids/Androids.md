@@ -1,5 +1,5 @@
 ---
-title: Androids
+title: 機器人
 ---
 
 The Programmable Androids category contains robots that are able to automate tasks.
