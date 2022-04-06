@@ -1,35 +1,35 @@
 ---
-title: Commands
+title: 指令
 sidebar_position: 6
 ---
 
-This page contains information about Slimefun's commands. While there are not a lot of commands in Slimefun4, it is still important to know about these. You can use the prefix /slimefun or /sf. Both will work. But for simplicity, we will list commands as /sf.
+這個頁面包含了有關黏液科技的指令資訊. 雖然在黏液科技中沒有很多指令, 但了解這些仍然是很重要. 你可以使用前綴 /slimefun 或 /sf. 兩者都可以運作. 但為了簡單起見, 我們將指令列出來為縮寫的 /sf.
 
-() = Required
+() = 必要
 
-[] = Optional
+[] = 可選
 
-## Commands for Plugin-Users
+## 對於使用者的指令
 
-| Command                          | 描述                                                                                                                          | Required Permission         |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| /sf help                         | Gives you a list of all commands in Slimefun4                                                                               | None                        |
-| /sf guide                        | Gives you a copy of the Slimefun Guide                                                                                      | slimefun.command.guide      |
-| /sf open_guide                   | Opens the Slimefun Guide directly                                                                                           | slimefun.command.open_guide |
-| /sf versions                     | Shows the currently installed Version of Slimefun and it's addons                                                           | slimefun.command.versions   |
-| /sf stats                        | Shows you your current stats, your title, the amount of total xp levels spent, percentage of completed researches and more. | None                        |
-| /sf search `<search term>` | Opens the Guide with a list of items that matched your search term                                                          | slimefun.command.search     |
+| 指令                       | 描述                                  | 需求權限                        |
+| ------------------------ | ----------------------------------- | --------------------------- |
+| /sf help                 | 顯示所有黏液科技中的指令                        | 無                           |
+| /sf guide                | 給予你一本黏液科技指南                         | slimefun.command.guide      |
+| /sf open_guide           | 直接打開黏液科技指南                          | slimefun.command.open_guide |
+| /sf versions             | 顯示當前安裝的黏液科技版本及附加                    | slimefun.command.versions   |
+| /sf stats                | 顯示你當前的統計資訊, 稱號, 總花費經驗等級, 完成的研究百分比等. | 無                           |
+| /sf search `<搜尋詞>` | 打開指南, 並列出你所搜索字詞匹配的物品.               | slimefun.command.search     |
 
-## Commands for Administrators
+## 管理員使用的指令
 
-| Command                                        | 描述                                                                                                                 | Required Permission         |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------- |
-| /sf give (Player) (Slimefun Item) [Amount]     | Gives the specified Player the specified Slimefun Item                                                             | slimefun.cheat.items        |
-| /sf cheat                                      | Opens the "Cheat Sheet" - Version of the Slimefun Guide, click any Item to give it to yourself                     | slimefun.cheat.items        |
-| /sf research (Player) (Research / all / reset) | Unlocks a certain Research for a Player, unlocks all Researches for a Player or resets all Researches for a Player | slimefun.cheat.researches   |
-| /sf stats (Player)                             | Shows you a specific Player's Stats                                                                                | slimefun.stats.others       |
-| /sf teleporter (Player)                        | Shows you a specific Player's GPS Waypoints and allows you to teleport to them                                     | slimefun.command.teleporter |
-| /sf timings                                    | Shows you Slimefun's Diagnostics Tools, use it to identify the impact on your server from certain machines         | slimefun.command.timings    |
-| /sf debug_fish                                 | Gives you a debugging tool. Use it to query or remove Slimefun Block Data                                          | slimefun.debugging          |
-| /sf backpack (Player) (ID)                     | Gives you a restored backpack matching the parameters. Should only be used to retrieve the items                   | slimefun.command.backpack   |
-| /sf charge                                     | Fully charges the item in your hand.                                                                               | slimefun.command.charge     |
+| 指令                                              | 描述                                   | 需求權限                        |
+| ----------------------------------------------- | ------------------------------------ | --------------------------- |
+| /sf give (玩家) (黏液科技物品ID) [數量]                   | 給予指定的玩家指定黏液科技物品                      | slimefun.cheat.items        |
+| /sf cheat                                       | 打開 "作弊" - 模式的黏液科技指南版本, 點擊任何物品來將其給予自己 | slimefun.cheat.items        |
+| /sf research (玩家) (研究ID/ all (所有) / reset (重置)) | 解鎖某個研究給玩家, 解鎖所有研究給玩家或重置玩家的所有研究       | slimefun.cheat.researches   |
+| /sf stats (玩家)                                  | 顯示特定玩家的統計                            | slimefun.stats.others       |
+| /sf teleporter (玩家)                             | 顯示特定玩家的GPS傳送點, 並允許你傳送到該點             | slimefun.command.teleporter |
+| /sf timings                                     | 向您顯示黏液科技的診斷工具, 用於辨識某些機器對伺服器的影響       | slimefun.command.timings    |
+| /sf debug_fish                                  | 給予你Debug工具. 用它來查詢或刪除黏液科技方塊資料         | slimefun.debugging          |
+| /sf backpack (玩家) (ID)                          | 給予你與參數匹配的還原背包. 僅用於取回物品.              | slimefun.command.backpack   |
+| /sf charge                                      | 將你手上的物品充滿電.                          | slimefun.command.charge     |
