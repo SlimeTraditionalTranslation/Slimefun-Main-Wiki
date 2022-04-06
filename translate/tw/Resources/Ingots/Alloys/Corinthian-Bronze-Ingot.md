@@ -25,7 +25,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 
 * [Reinforced Alloy Ingot](Reinforced-Alloy-Ingot)
 
-### Items
+### 物品
 
 * [Electric Dust Washer III](Electric-Dust-Washer)
 * [Electrified Crucible II/III](Electrified-Crucible)
