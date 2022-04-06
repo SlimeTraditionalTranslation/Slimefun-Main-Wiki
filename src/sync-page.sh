@@ -8,14 +8,14 @@ git clone https://github.com/SlimeTraditionalTranslation/SlimeTraditionalTransla
 cd SlimeTraditionalTranslation-Web || exit
 
 echo "Replace pages"
-cd content/zh-tw/docs/ || exit
-rm -rf slimefun/
-cp -r ../../../../pages/ slimefun
+cd docs/ || exit
+rm -rf Slimefun/
+cp -r ../../translate/tw Slimefun
 
-echo "Remove don't sync files"
-rm slimefun/_Footer.md
-rm slimefun/_Sidebar.md
-rm slimefun/missing.md
+# echo "Remove don't sync files"
+# rm slimefun/_Footer.md
+# rm slimefun/_Sidebar.md
+# rm slimefun/missing.md
 
 echo "Setting up Authentication..."
 git config user.name "EfinaBot"
@@ -23,7 +23,7 @@ git config user.email "${LOGIN_EMAIL}"
 
 echo "Committing changes..."
 git add -A
-git commit -m "GitHub Action - Page Sync"
+git commit -m "ci(Sync): Auto Page Sync Action"
 
 echo "Pushing to website..."
 git remote set-url origin https://${ACCESS_TOKEN}@github.com/SlimeTraditionalTranslation/SlimeTraditionalTranslation.github.io.git
