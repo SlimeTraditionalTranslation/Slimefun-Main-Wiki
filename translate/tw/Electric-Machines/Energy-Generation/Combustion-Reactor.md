@@ -23,11 +23,11 @@ There is only one tier of the Combustion Reactor.
 |:----:|:------:|:------:|
 |  I   | 24 J/s | 256 J  |
 
-## Fuel
+## 燃料
 
 This generator can be fueled using Buckets of Oil and Buckets of Fuel.
 
-| Fuel           | Burning time | Total (Tier I) |
+| 燃料             | Burning time | Total (Tier I) |
 |:-------------- |:------------:|:--------------:|
 | Bucket of Oil  |     30s      |     720 J      |
 | Bucket of Fuel |     90s      |    2.16 kJ     |
