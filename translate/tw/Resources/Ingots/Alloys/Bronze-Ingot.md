@@ -23,7 +23,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * [Aluminum Bronze Ingot](Aluminum-Bronze-Ingot)
 * [Corinthian Bronze Ingot](Corinthian-Bronze-Ingot)
 
-### Items
+### 物品
 
 * [GPS Transmitter](GPS-Transmitter)
 * [Cargo Node (Connector)](Connector-Node)
