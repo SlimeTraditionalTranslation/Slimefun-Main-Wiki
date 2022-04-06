@@ -1,5 +1,5 @@
 ---
-title: Dusts
+title: 粉
 ---
 
 Slimefun adds the following 9 dusts as [resources](/docs/Slimefun/Resources):
