@@ -1,6 +1,6 @@
 ---
-title: 常見問題
-sidebar_position: 10
+title: PlaceholderAPI
+sidebar_position: 11
 ---
 
 Slimefun 4 now also supports [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI).
