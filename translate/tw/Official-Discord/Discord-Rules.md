@@ -7,31 +7,31 @@ If you join our [Discord Server](https://discord.gg/fsD4Bkh), then we want you t
 
 Not following this ruleset can result in us kicking or banning you from the server.
 
-**These rules can change at any time, so please check these regularly. Large changes will be announced of course.**
+**These rules can change at any time, so please check these regularly. Large changes will be announced of course. Large changes will be announced of course.**
 
 ## General Rules
 
 These rules apply to **any** channel on the server.
 
-### 0. Discord's Terms of Service
+### 0. 0. Discord's Terms of Service
 
 You are expected to adhere to Discord's Terms of Service and their community guidelines.
 
 You must be at least 13 years old to use Discord and to interact with our discord server.
 
-### 1. No harassment
+### 1. 1. No harassment
 
-Do not harass or insult other users. You should always remain respectful towards others.
+Do not harass or insult other users. You should always remain respectful towards others. You should always remain respectful towards others.
 
 Swearing itself won't be punished as long as you don't insult people to purposefully hurt them.
 
-### 2. No discrimination
+### 2. 2. No discrimination
 
 No racism, no sexism, no discrimination of any kind!
 
 We take offenses like these very seriously and don't tolerate any form of discrimination against our members.
 
-### 3. No nudity or other inappropriate imagery
+### 3. 3. No nudity or other inappropriate imagery
 
 You are not allowed to post any nude content or other inappropriate images (e.g. symbols of hate or discrimination).
 
@@ -39,7 +39,7 @@ Same applies for profile pictures or custom statuses.
 
 **We may ban you from the server for very inappropriate profile pictures or custom statuses.**
 
-### 4. Don't argue with members of staff
+### 4. 4. Don't argue with members of staff
 
 If we tell you to stop something, just stop it.
 
@@ -47,19 +47,19 @@ You should have read these rules before-hand, you can of course feel free to ask
 
 But arguing with our staff will be a waste of time for both of you, they are there to enforce the rules, not to argue about them.
 
-### 5. Stay on-topic!
+### 5. 5. Stay on-topic!
 
 Every channel has a specified topic.
 
-* Questions about Slimefun? `#questions`
-* You have a suggestion? `#suggestions`
-* You wanna make an addon or talk about programming in general? `#programming-help`
-* Wanna promote your Slimefun server? `#server-showcase`
-* You want to talk about a Slimefun Addon? Try to go to one of the addons' channels or `#other-addons`
-* Found a weird bug that you wanna discuss to see if others experience the same? `#bug-discussions`
+* Questions about Slimefun? `#questions` `#questions`
+* You have a suggestion? You have a suggestion? `#suggestions`
+* You wanna make an addon or talk about programming in general? `#programming-help` `#programming-help`
+* Wanna promote your Slimefun server? `#server-showcase` `#server-showcase`
+* You want to talk about a Slimefun Addon? You want to talk about a Slimefun Addon? Try to go to one of the addons' channels or `#other-addons`
+* Found a weird bug that you wanna discuss to see if others experience the same? `#bug-discussions` `#bug-discussions`
 * For any conversations that are not directly related to Slimefun, go to `#offtopic`
 
-### 6. Don't tag people
+### 6. The Smeltery 6. Don't tag people
 
 Do **NOT** tag someone to just to get their attention.
 
@@ -79,7 +79,7 @@ You can assign yourself the role `@helpful` by writing `!helpful`.
 
 This will mark you as a helpful person but also gives everyone the explicit permission to tag you when they need help, so be warned.
 
-### 7. No Spam
+### 7. 7. No Spam
 
 Do **NOT** spam messages.
 
@@ -88,7 +88,7 @@ Do **NOT** spam messages.
 * Write one proper message instead of a dozen short ones.
 * Excessive use of caps is also not allowed.
 
-### 8. No Advertisement
+### 8. 8. No Advertisement
 
 You are **NOT** allowed to advertise products on this discord server.
 
@@ -102,7 +102,7 @@ Advertising Minecraft Servers is allowed, but **ONLY** in `#server-showcase`
 
 IPs to Minecraft Servers are not allowed to be posted in any other channel.
 
-### 9. English Only
+### 9. 9. English Only
 
 Please speak English on our discord, as that is the main language of this plugin.
 
@@ -110,19 +110,19 @@ We are not fluent in dozens of different languages, so we will just stick with E
 
 This also helps us to moderate the server effectively.
 
-### 10. Sensitive topics
+### 10. 10. Sensitive topics
 
 Hard and sensitive topics should be kept away from our main channels.
 
 Sensitive topics that are considered mature or could spark a lot of controversy should be moved to `#sensitive-topics`, see the channel-specific rules for this further down the page.
 
-This channel is not execluded from our rules, we also moderate in that channel. All rules still apply, discrimination, nudity or other inappropriate content will still be inappropriate. We also don't encourage you to make jokes about suicide, drug abuse, drinking problems or other very serious topics.
+This channel is not execluded from our rules, we also moderate in that channel. All rules still apply, discrimination, nudity or other inappropriate content will still be inappropriate. We also don't encourage you to make jokes about suicide, drug abuse, drinking problems or other very serious topics. All rules still apply, discrimination, nudity or other inappropriate content will still be inappropriate. We also don't encourage you to make jokes about suicide, drug abuse, drinking problems or other very serious topics.
 
 If you are in need of help, we recommend you to seek it, those are very serious topics and should not be joked about.
 
-### 11. Other
+### 11. Other Other
 
-The staff at their own discretion if there be a need can take appropriate action. Please have some common sense and general respect if you wish to not fall under this rule.
+The staff at their own discretion if there be a need can take appropriate action. The staff at their own discretion if there be a need can take appropriate action. Please have some common sense and general respect if you wish to not fall under this rule.
 
 ## Channel-specific Rules
 
@@ -158,7 +158,7 @@ Topics that are sensitive and should only ever be mentioned in this channel only
 
 This channel is for suggesting stuff that should be added to Slimefun or for addon ideas.
 
-If your suggestion reaches a certain amount of upvotes within a week, or one of our admins really likes your idea, then it will be moved to `#approved`. If your suggestion is too broadly worded or reaches a lot of downvotes, it will be automatically deleted.
+If your suggestion reaches a certain amount of upvotes within a week, or one of our admins really likes your idea, then it will be moved to `#approved`. If your suggestion is too broadly worded or reaches a lot of downvotes, it will be automatically deleted. If your suggestion is too broadly worded or reaches a lot of downvotes, it will be automatically deleted.
 
 Try to make your suggestion as detailed as possible.
 
@@ -194,10 +194,10 @@ Before posting here, please follow this short guide:
 
 1. Run `/sf versions`
 2. Capture the output of that command and include it in your message.
-3. Are there any errors? If so, then post them via https://pastebin.com (Posting an error in the chat will result in auto-deletion)
-4. See if there are newer versions of Slimefun and CS-CoreLib available. (https://thebusybiscuit.github.io/builds/)
-5. Try to be as clear as possible, the minimum is two sentences. ("X does not work" is not helpful)
-6. Double-check that you are using a "DEV - ..." build of Slimefun and CS-CoreLib, other builds are considered old or unofficial. **We will not accept bug reports from old or unofficial versions, RC versions will also be rejected since they are outdated.**
+3. Are there any errors? Are there any errors? If so, then post them via https://pastebin.com (Posting an error in the chat will result in auto-deletion)
+4. See if there are newer versions of Slimefun and CS-CoreLib available. (https://thebusybiscuit.github.io/builds/) (https://thebusybiscuit.github.io/builds/)
+5. Try to be as clear as possible, the minimum is two sentences. ("X does not work" is not helpful) ("X does not work" is not helpful)
+6. Double-check that you are using a "DEV - ..." build of Slimefun and CS-CoreLib, other builds are considered old or unofficial. **We will not accept bug reports from old or unofficial versions, RC versions will also be rejected since they are outdated.** **We will not accept bug reports from old or unofficial versions, RC versions will also be rejected since they are outdated.**
 
 For more info on how to debug your issues and make proper bug reports, please read [How to report bugs](How-to-report-bugs).
 
@@ -225,7 +225,7 @@ We may even help you with your private programming questions if we are in the mo
 
 ## Punishment
 
-You are expected to follow our rules. Not following them can lead to us having to take actions.
+You are expected to follow our rules. You are expected to follow our rules. Not following them can lead to us having to take actions.
 
 Most of the times we will simply tell you to stop or point out that you just violated our rules before we take any actions.
 
@@ -233,17 +233,17 @@ Please respect this, continuous violations will lead to punishment.
 
 ### Warnings
 
-We have a warning system in place. Severe or continuous rule violations will lead to us giving you a formal warning.
+We have a warning system in place. We have a warning system in place. Severe or continuous rule violations will lead to us giving you a formal warning.
 
 Having many warnings will result in further actions from our staff, so try to not collect any of these.
 
 Warnings are permanent; Warnings will not lead to an automatic form of punishment, any further punishment will be performed manually.
 
-If you consider your warning unfair, then please try to calm down first and ask politely. We are also just people, we can make mistakes and are willing to hear your side of the story, should you stay calm, polite and civilized. Do keep in mind rule number 4 though!
+If you consider your warning unfair, then please try to calm down first and ask politely. We are also just people, we can make mistakes and are willing to hear your side of the story, should you stay calm, polite and civilized. Do keep in mind rule number 4 though! We are also just people, we can make mistakes and are willing to hear your side of the story, should you stay calm, polite and civilized. Do keep in mind rule number 4 though!
 
 ### Muting
 
-Some violations may lead staff members to the decision to give you a little break from our server. People who are muted are no longer able to send messages on our discord server. Please take this break to think about your actions.
+Some violations may lead staff members to the decision to give you a little break from our server. Some violations may lead staff members to the decision to give you a little break from our server. People who are muted are no longer able to send messages on our discord server. Please take this break to think about your actions. Please take this break to think about your actions.
 
 All mutes are temporary, not permanent.
 
@@ -257,15 +257,15 @@ Please adhere to the designated channel rules when posting!
 
 ### Kicking you from the Server
 
-If we consider your profile a violation of our rules (e.g. inappropriate names, profile pictures or statuses), we may kick you from the Server. We will also consider kicking you from the server as a final warning before issuing a ban.
+If we consider your profile a violation of our rules (e.g. inappropriate names, profile pictures or statuses), we may kick you from the Server. We will also consider kicking you from the server as a final warning before issuing a ban. We will also consider kicking you from the server as a final warning before issuing a ban.
 
 ## Banning you from the Server
 
-A Ban is the final form of punishment. After you are banned you will no longer be able to join our discord server. We will only issue a ban if we see it as absolutely necessary. Other forms of punishment usually proceed this too.
+A Ban is the final form of punishment. A Ban is the final form of punishment. After you are banned you will no longer be able to join our discord server. We will only issue a ban if we see it as absolutely necessary. Other forms of punishment usually proceed this too. We will only issue a ban if we see it as absolutely necessary. Other forms of punishment usually proceed this too.
 
 ## Discord Roles
 
-Our Discord server has a lot of roles too, some are considered staff, some are earned or self-given. Here is a complete list
+Our Discord server has a lot of roles too, some are considered staff, some are earned or self-given. Here is a complete list Here is a complete list
 
 | Role            | Type                                                   | 權限                               |
 | --------------- | ------------------------------------------------------ | -------------------------------- |
@@ -279,6 +279,6 @@ Our Discord server has a lot of roles too, some are considered staff, some are e
 | *Nitro Booster* | *You boosted our Server with Nitro*                    | *Custom Emojis and Reactions*    |
 | *Helpful*       | *You can mark yourself as helpful by doing `!helpful`* | *Everyone is allowed to tag you* |
 
-## See also
+## 也請參考
 
 You may also want to take a look at our list of [Discord commands](Discord-Commands)
