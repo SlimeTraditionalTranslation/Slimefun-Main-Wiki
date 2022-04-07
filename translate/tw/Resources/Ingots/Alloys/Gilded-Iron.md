@@ -15,7 +15,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * 11 [Gold Dust](Gold-Dust)
 * 1 [Iron Dust](Iron-Dust)
 
-## Usage
+## 使用方法
 
 ### In other alloys
 
