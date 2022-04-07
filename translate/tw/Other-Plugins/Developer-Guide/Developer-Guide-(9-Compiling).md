@@ -21,9 +21,9 @@ Your compiled `.jar` can be found in the `target/` directory in the project fold
 
 IntelliJ also provides a way to compile your plugin.
 
-On the right side of the editor window, click the button that says Maven. On the right side of the editor window, click the button that says Maven. (If there is no such button, go to the top bar and navigate to `View > Tool Windows > Maven`)
+On the right side of the editor window, click the button that says Maven. (If there is no such button, go to the top bar and navigate to `View > Tool Windows > Maven`)
 
-Now in the project folder, open the folder called `Lifecycle` and double click `clean`. Once that is complete, double click `package`. Once that is complete, double click `package`.
+Now in the project folder, open the folder called `Lifecycle` and double click `clean`. Once that is complete, double click `package`.
 
 Once again, your compiled `.jar` can be found in the `target/` directory in the project folder.
 
@@ -49,11 +49,11 @@ This will create `eula.txt` in your server directory, which you must open and ch
 
 Once you do that, rerun your server by reentering the command.
 
-You will now see a folder called `plugins/` in the same place. You will now see a folder called `plugins/` in the same place. This is where you will put Slimefun, your addon, and other plugins for your server.
+You will now see a folder called `plugins/` in the same place. This is where you will put Slimefun, your addon, and other plugins for your server.
 
 Place your compiled `.jar` as well as the Slimefun jar into this folder.
 
-Stop the server by typing `stop` into the console, and rerun the server with the plugins installed. Now, if you did everything right, the server should now be running with your addon. Now, if you did everything right, the server should now be running with your addon.
+Stop the server by typing `stop` into the console, and rerun the server with the plugins installed. Now, if you did everything right, the server should now be running with your addon.
 
 ## Trying out your addon
 
@@ -61,7 +61,7 @@ Now, you can launch Minecraft and join the server that is running.
 
 In the multiplayer tab, create a new server with the address `localhost`.
 
-Hopefully, once you join it, you will be in a server with Slimefun and your addon installed. To verify this, run `/sf versions` to display Slimefun and the installed addons. To verify this, run `/sf versions` to display Slimefun and the installed addons.
+Hopefully, once you join it, you will be in a server with Slimefun and your addon installed. To verify this, run `/sf versions` to display Slimefun and the installed addons.
 
 If your addon appears, it was a success!
 
@@ -73,7 +73,7 @@ After you make your changes, compile your addon again.
 
 The compiled jar will be in the `target/` folder of the project.
 
-Now, stop the server, remove the old addon `.jar`, and put in the new `.jar`. Then rerun the server. Then rerun the server.
+Now, stop the server, remove the old addon `.jar`, and put in the new `.jar`. Then rerun the server.
 
 As always, if you have any questions, you can ask them in `#programming-help` in the [Slimefun Discord](https://discord.gg/slimefun).
 
