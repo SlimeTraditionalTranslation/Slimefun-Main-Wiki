@@ -9,7 +9,7 @@ Smelting one [Zinc Dust](Zinc-Dust) in a [Smeltery](Smeltery) or an [Electric In
 
 Zinc Ingots can be turned back to [Zinc Dust](Zinc-Dust) by an [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer)
 
-## Usage
+## 使用方法
 
 Zinc Ingots are used in the following recipes:
 
