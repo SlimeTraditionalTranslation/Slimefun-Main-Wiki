@@ -11,7 +11,7 @@ sidebar_position: 10
 
 ## 漂浮標籤
 
-有些黏液科技的物品在放置時會自動創建漂浮文字, 尤其是 [能量調節器](Energy-Regulator) 和 [物流核心](Cargo-Manager).
+Some Slimefun items automatically create floating tags when placed, in particular the [Energy Regulator](../Electric-Machines/Energy-Management/Energy-Regulator.md) and the [Cargo Manager](../Cargo-Management/Cargo-Manager.md).
 
 這些漂浮文字應在破壞機器時消失, 但有時可能出錯, 並留下一些不想消失的文字. 你要如何解決?
 
@@ -41,7 +41,7 @@ _提示: 建議使用 MyCommands, CommandOverride 或任何相似的插件來設
 
 ## 不可放置的方塊
 
-如果你看到一個位置看似是空的, 但當你嘗試放置任何方塊在該位置時, 它將會取消你的動作, 那麼你可能遇到黏液科技的鬼方塊. 這通常是因為之前已放置了一個黏液科技的物品 (通常是 [機器人](Androids) 或是 [物流組件](Cargo-Management)) 且它們的資料並未正確的被刪除.
+如果你看到一個位置看似是空的, 但當你嘗試放置任何方塊在該位置時, 它將會取消你的動作, 那麼你可能遇到黏液科技的鬼方塊. This means a Slimefun item used to be placed there (usually an [android](../Technical-Components/Androids/Androids.md) or a [cargo component](../Cargo-Management/Cargo-Management.md)) and its data was not correctly removed.
 
 ### 如何解決這個問題 (孤立方塊)
 
@@ -82,4 +82,4 @@ _(可選): 通過使用蹲下右鍵的功能將一個假的頭顱放置在鬼方
 
 更加激進的方法是切換成支持自定義掉落的 Mob-Stacking 插件.
 
-_在這一點上, 我們目前沒有確認可以與黏液科技一起運作的生物堆疊插件列表, 如果你使用的插件沒有任何這類的問題, 歡迎隨時在維基上補充. 請查看 [擴展維基](Expanding-the-Wiki)_
+_在這一點上, 我們目前沒有確認可以與黏液科技一起運作的生物堆疊插件列表, 如果你使用的插件沒有任何這類的問題, 歡迎隨時在維基上補充. See [Expanding the Wiki](Expanding-the-Wiki.md)_
