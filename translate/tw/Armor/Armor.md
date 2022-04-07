@@ -1,18 +1,18 @@
 ---
-title: Armor Overview
+title: 盔甲總覽
 ---
 
-The Armor category contains six new sets of armor, plus the ability to craft Chainmail Armor.
+盔甲類別包含了六套新的盔甲, 以及能夠製作鎖鏈盔甲的能力.
 
-## Armor Sets
+## 盔甲套裝
 
-### Damascus Steel Armor Set
+### 大馬士革鋼盔甲套裝
 
-The Damascus Steel Armor Set is an Iron Armor Set with Protection V and Unbreaking V on every piece.
+大馬士革鋼盔甲是一套鐵套裝, 每件帶有保護五合耐久五.
 
-### Reinforced Armor Set
+### 強化合金盔甲套裝
 
-The Reinforced Armor Set is an Iron Armor Set with Protection IX and Unbreaking IX on every piece.
+強化合金盔甲套裝是一套鐵裝, 每件帶有保護9與耐久9.
 
 ### Cactus Armor Set
 
@@ -37,6 +37,6 @@ The Hazma Suit Chestplate makes you immune to fire and lava.
 
 The Gold Armor Set is a vanilla Gold Armor Set with Unbreaking X on every piece.
 
-## See also
+## 也請參考
 
 * [魔法盔甲](Magical-Armor)
