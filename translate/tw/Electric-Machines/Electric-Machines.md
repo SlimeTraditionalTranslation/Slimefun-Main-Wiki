@@ -2,12 +2,12 @@
 title: Electric Machines Overview
 ---
 
-The Energy and Electricity category adds various machines which generate, consume or transfer energy (measured in Joules or J). It also includes [Programmable Androids](Androids), which can be programmed to execute a series of tasks. It also includes [Programmable Androids](Androids), which can be programmed to execute a series of tasks.
+The Energy and Electricity category adds various machines which generate, consume or transfer energy (measured in Joules or J). It also includes [Programmable Androids](Androids), which can be programmed to execute a series of tasks.
 
 Besides a way to generate electricity for your machines, an energy network requires an [Energy Regulator](Energy-Regulator): without it, power transfer cannot happen.  
-You may also want to use [Energy Capacitors](Energy-Capacitors), as they can store excess energy and extend the range of your network. The [Energy Connector](Energy-Connector) can also extend your network, but it does not store power. The [Energy Connector](Energy-Connector) can also extend your network, but it does not store power.
+You may also want to use [Energy Capacitors](Energy-Capacitors), as they can store excess energy and extend the range of your network. The [Energy Connector](Energy-Connector) can also extend your network, but it does not store power.
 
-Some machines have a buffer, meaning they can store a certain amount of energy. Unlike capacitors, however, if the energy isn't used before it reaches maximum capacity, it will be reset entirely. Unlike capacitors, however, if the energy isn't used before it reaches maximum capacity, it will be reset entirely.
+Some machines have a buffer, meaning they can store a certain amount of energy. Unlike capacitors, however, if the energy isn't used before it reaches maximum capacity, it will be reset entirely.
 
 Electric machines are best used with a [Cargo Management System](Cargo-Management) for automatic item transportation.
 
