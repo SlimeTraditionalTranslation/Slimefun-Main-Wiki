@@ -55,11 +55,11 @@ just stop and restart the server, since this fixes most issues.
 
 ### Server Optimizations
 
-Here is a full article on how to [Optimize your Slimefun Server](Server-Optimizations)
+Here is a full article on how to [Optimize your Slimefun Server](Server-Optimizations.md)
 
 ## Additional Addons
 
-If you wish to install additional addons, refer to [this page](Addons) to see all the addons that are compatible with your version of Slimefun4.
+If you wish to install additional addons, refer to [this page](../Other-Plugins/Addons.md) to see all the addons that are compatible with your version of Slimefun4.
 
 These additional addons require Slimefun4 and will create their own independent folders within your /plugins folder.
 Configuration should be very straight forward for these plugins as well.

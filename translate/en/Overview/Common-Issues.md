@@ -11,7 +11,7 @@ Most of the following will require varying degrees of permission only staff memb
 
 ## Floating tags
 
-Some Slimefun items automatically create floating tags when placed, in particular the [Energy Regulator](Energy-Regulator) and the [Cargo Manager](Cargo-Manager).
+Some Slimefun items automatically create floating tags when placed, in particular the [Energy Regulator](../Electric-Machines/Energy-Management/Energy-Regulator.md) and the [Cargo Manager](../Cargo-Management/Cargo-Manager.md).
 
 These tags are supposed to disappear when breaking the machine but sometimes things can go wrong and you're left with some text that just doesn't want to go away. How can you solve this?
 
@@ -43,7 +43,7 @@ Simply follow the procedure to get rid of any ghost block and you should be gold
 ## Unplaceable blocks
 
 If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block.
- This means a Slimefun item used to be placed there (usually an [android](Androids) or a [cargo component](Cargo-Management)) and its data was not correctly removed.
+ This means a Slimefun item used to be placed there (usually an [android](../Technical-Components/Androids/Androids.md) or a [cargo component](../Cargo-Management/Cargo-Management.md)) and its data was not correctly removed.
 
 ### How to fix this (Isolated block)
 
@@ -84,4 +84,4 @@ Or ask the authors of that plugin whether there is a way to toggle this behaviou
 
 A more drastic approach would be to switch over to a Mob-Stacking plugin that supports custom drops.
 
-_At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](Expanding-the-Wiki)_
+_At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](Expanding-the-Wiki.md)_

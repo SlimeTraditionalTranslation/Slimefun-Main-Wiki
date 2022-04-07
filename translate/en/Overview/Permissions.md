@@ -4,7 +4,7 @@ sidebar_position: 5
 ---
 
 This is a full list of all Permission nodes added by Slimefun.
-Most of them are used for commands, so make sure to also see the wiki page about [Commands](Commands).
+Most of them are used for commands, so make sure to also see the wiki page about [Commands](Commands.md).
 
 ## Permissions for commands
 
