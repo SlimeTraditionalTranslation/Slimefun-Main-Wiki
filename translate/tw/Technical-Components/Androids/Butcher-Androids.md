@@ -24,8 +24,8 @@ This can also can be paired with an [EXP Collector](EXP-Collector) for an automa
 
 There are three tiers on the Butcher Android, each with different modifiers listed below.
 
-| Tier      | Fuel Efficiency | Damage |
-| --------- |:---------------:|:------:|
-| Basic     |      1.0x       |   4    |
-| Advanced  |      1.5x       |   8    |
-| Empowered |      8.0x       |   20   |
+| 等級 | 燃料效率 | 傷害 |
+| -- |:----:|:--:|
+| 基礎 | 1.0x | 4  |
+| 高級 | 1.5x | 8  |
+| 頂級 | 8.0x | 20 |
