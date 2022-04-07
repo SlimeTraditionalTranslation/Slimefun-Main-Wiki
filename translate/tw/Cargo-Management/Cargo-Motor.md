@@ -11,7 +11,7 @@ It is a crafting ingredient in cargo-related and [electric machine](Electric-Mac
 
 Cargo motors can be crafted in groups of four in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 Cargo motors are used in the following recipes:
 
