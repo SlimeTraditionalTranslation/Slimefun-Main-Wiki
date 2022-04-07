@@ -9,7 +9,7 @@ Smelting one [Silver Dust](Silver-Dust) in a [Smeltery](Smeltery) or an [Electri
 
 Silver Ingots can be turned back to [Silver Dust](Silver-Dust) by an [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer)
 
-## Usage
+## 使用方法
 
 Silver Ingots are used in the following recipes:
 
