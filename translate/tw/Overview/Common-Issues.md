@@ -7,7 +7,7 @@ sidebar_position: 10
 
 以下大多數情況都需要有不同程度權限的工作人員: 如果沒有, 請將此連結給有更高權限的人!
 
-**WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](How-to-report-bugs)**
+**警告: 有些問題不只一種可行的解決方法, 通過從最不干擾到最干擾的階段來話芬表示; 強烈建議在你採用任何進一步的方法之前, 先嘗試所有先前的階段, 因為較低的階段風險比較小, 並且無論如何都能解決大多數發生的問題. 如果你嘗試列表中所有的內容均未成功, 請考慮 [提交錯誤報告!](How-to-report-bugs)**
 
 ## 漂浮標籤
 
@@ -26,9 +26,9 @@ _注意: 請確保這不是由鬼方塊引起的 (請查看"不可放置的方�
 
 _提示: 建議使用 MyCommands, CommandOverride 或任何相似的插件來設定一個別名, 以便於記憶與教導 (一個範例像是 /holokill)._
 
-### How to fix this (Stage 2)
+### 如何解決這個 (第二階段)
 
-Switch to spectator mode via
+通過以下指令切換成旁觀者模式
 > /gamemode spectator
 
 You should see the invisible armor stand and better gauge where the feet are; using this information, place a new regulator just below the tag on the first block not occupied by the armor stand itself (get one via /sf cheat).
@@ -78,7 +78,7 @@ The best solution to this problem is to enable custom item drops in that plugins
 
 Or ask the authors of that plugin whether there is a way to toggle this behaviour.
 
-### How to fix this (Stage 2)
+### 如何解決這個 (第二階段)
 
 A more drastic approach would be to switch over to a Mob-Stacking plugin that supports custom drops.
 
