@@ -3,7 +3,7 @@ title: Pressure Chamber
 sidebar_position: 7
 ---
 
-The Pressure Chamber is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. It is a multiblock structure.
+The Pressure Chamber is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. It is a multiblock structure. It is a multiblock structure.
 
 ## Obtaining
 
@@ -13,9 +13,9 @@ A complete setup should look like this:
 
 ![Pressure Chamber Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-pressure-chamber.png)
 
-You can also place an [Output Chest](Output-Chest) next to the dispenser to collect your items. If there is no [Output Chest](Output-Chest), then it will be put in the dispenser.
+You can also place an [Output Chest](Output-Chest) next to the dispenser to collect your items. If there is no [Output Chest](Output-Chest), then it will be put in the dispenser. If there is no [Output Chest](Output-Chest), then it will be put in the dispenser.
 
-## Usage
+## 使用方法
 
 The Pressure Chamber is used to put pressure on items, check out the Pressure Chamber in the Slimefun Guide in-game for more recipes.
 
