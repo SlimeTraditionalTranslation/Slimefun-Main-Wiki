@@ -30,6 +30,6 @@ If you prefer to feed your Soul Sand to a machine, check out the [Automated Pann
 
 If you have electricity, you may also be interested in the [Electric Gold Pan](Electric-Gold-Pan).
 
-## See also
+## 也請參考
 
 * [Gold Pan](Gold-Pan)
