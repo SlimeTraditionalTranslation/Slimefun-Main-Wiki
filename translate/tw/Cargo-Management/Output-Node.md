@@ -5,7 +5,7 @@ sidebar_position: 5
 
 An Ouput Node is the component of a [cargo network](Cargo-Management) which receives items sent by an [input node](Input-Node).
 
-An output node takes every available item sent through the selected channel. An output node takes every available item sent through the selected channel. To filter specific items, use [advanced output nodes](Advanced-Output-Node), which use a whitelist/blacklist system.
+An output node takes every available item sent through the selected channel. To filter specific items, use [advanced output nodes](Advanced-Output-Node), which use a whitelist/blacklist system.
 
 ## Obtaining
 
