@@ -36,7 +36,7 @@ The Technical Gadgets category has a variety of gadgets that are useful when pla
 
 ### Parachute
 
-The Parachute can be used to slowly decend while you're in the air. You need to wear it and crouch for it to activate. You need to wear it and crouch for it to activate.
+The Parachute can be used to slowly decend while you're in the air. You need to wear it and crouch for it to activate.
 
 ### Solar Helmet
 
