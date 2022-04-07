@@ -11,7 +11,7 @@ Hardened Glass can be crafted in the [Enhanced Crafting Table](Enhanced-Crafting
 
 ## Special Properties
 
-Hardened Glass is resistant to most explosions. However, this excludes explosions created by the Wither boss. However, this excludes explosions created by the Wither boss.
+Hardened Glass is resistant to most explosions. However, this excludes explosions created by the Wither boss.
 
 ## See Also
 
