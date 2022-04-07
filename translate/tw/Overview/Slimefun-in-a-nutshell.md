@@ -5,9 +5,9 @@ sidebar_position: 1
 
 黏液科技是一個 Bukkit 插件, 目的是讓 Bukkit 伺服器像是一個模組包.
 
-如果你想知道如何安裝黏液科技, 請看 [這裡](Installing-Slimefun).
+If you want to know how to install Slimefun, go [here](Installing-Slimefun.md).
 
-如果你正在尋找指南有關如何使用黏液科技, 請在[此處](Getting-Started)開始.
+If you are looking for a guide on how to use Slimefun, start [here](Getting-Started.md).
 
 ## 黏液科技是做甚麼的?
 
@@ -34,7 +34,7 @@ sidebar_position: 1
 
 在 [TheBusyBiscuit 的網站 (官方版)](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/) [xMikux 的網站 (非官方版)](https://xmikux.github.io/builds/xMikux/Slimefun4/master/) 你會發現看到頻繁(自動上傳)的更新. 這些通常只是錯誤修復和較小的調整. 請記住, 黏液科技是由社群維護, 而不是一個人或一組人. 因此這些更新可能非常的不規律.
 
-但是如果你正在尋找更多黏液科技的內容, 那麼你應該查看一些 [Slimefun的附加](Addons). 當然你也可以將自己的內容添加至黏液科技並發出"Pull Request"(拉取請求), 但必須進行審核與批准. 建議你開發一個附加, 它的速度要快很多.
+But if you are looking for even more Slimefun-content, then you should check out some of [Slimefun's Addons](../Other-Plugins/Addons.md). 當然你也可以將自己的內容添加至黏液科技並發出"Pull Request"(拉取請求), 但必須進行審核與批准. 建議你開發一個附加, 它的速度要快很多.
 
 ## 黏液科技的故事(歷史)
 
@@ -48,8 +48,8 @@ sidebar_position: 1
 
 在 **2019**年初 - 收到許多的請求後- TheBusyBiscuit 開啟了官方的黏液科技Discord伺服器. 此Discord伺服器發展迅速, 在**2020年1月**時總共有1000位成員. 此Discord伺服器發展迅速, 在**2020年1月**時總共有1000位成員.
 
-在**2019** 期間, TheBusyBiscuit 逐漸開始重新投入 Slimefun 的更積極開發, 主要與Walshy (@WalshyDev) 一起專注於代碼質量和性能改進. 在 **2020** COVID-19 大流行期間, 這種恢復開發的趨勢增加了, 這場大流行導致許多人安全地待在家中渡過, 隨著全球大學, 學校與工作場所的關閉, 許多人有更多時間在家中度過. 在**2020年4月**, 我們舉行了第一個 [Addon Jam](Addon-Jam-2020), 其中有六人參與了他們自己的黏液科技附加開發, 並由TheBusyBiscuit 和 Walshy 進行評判. 同時我們的Discord伺服器也在**2020年6月**時達到了2000名成員. Slimefun 仍然生動活潑, 在其周圍都有個令人難以置信的社群.
+在**2019** 期間, TheBusyBiscuit 逐漸開始重新投入 Slimefun 的更積極開發, 主要與Walshy (@WalshyDev) 一起專注於代碼質量和性能改進. 在 **2020** COVID-19 大流行期間, 這種恢復開發的趨勢增加了, 這場大流行導致許多人安全地待在家中渡過, 隨著全球大學, 學校與工作場所的關閉, 許多人有更多時間在家中度過. In **April of 2020**, we held our first [Addon Jam](../Other-Plugins/Addon-Jam/Addon-Jam-2020.md) in which 6 people participated by developing their own Slimefun Addon which was then judged by TheBusyBiscuit and Walshy. 同時我們的Discord伺服器也在**2020年6月**時達到了2000名成員. Slimefun 仍然生動活潑, 在其周圍都有個令人難以置信的社群.
 
-在 **2021** 的年初, discord伺服器已達到4,500名成員, 我們正在發展第二個組織: [Slimefun Addon Community](https://github.com/Slimefun-Addon-Community) (黏液附加社群), 一個讓開發者表達它們的創造力, 與他人聯繫並分享經驗. 該專案的目的是使人們聚在一起, 並允許他們協同開發附加. 第二個 [Addon Jam](Addon-Jam-2021) 也將在 **2021的四月** 舉行. 到現在. 黏液科技已經8歲了. 如果黏液科技是個孩子, 那麼它已經坐在小學裡了... 這很奇怪當你正在想. 但是, 背後的社群已經持續多年, 並且還會繼續增長! 但是, 背後的社群已經持續多年, 並且還會繼續增長!
+在 **2021** 的年初, discord伺服器已達到4,500名成員, 我們正在發展第二個組織: [Slimefun Addon Community](https://github.com/Slimefun-Addon-Community) (黏液附加社群), 一個讓開發者表達它們的創造力, 與他人聯繫並分享經驗. 該專案的目的是使人們聚在一起, 並允許他們協同開發附加. The second [Addon Jam](../Other-Plugins/Addon-Jam/Addon-Jam-2021.md) is also taking place in **April of 2021**. 到現在. 黏液科技已經8歲了. 如果黏液科技是個孩子, 那麼它已經坐在小學裡了... 這很奇怪當你正在想. 但是, 背後的社群已經持續多年, 並且還會繼續增長! 但是, 背後的社群已經持續多年, 並且還會繼續增長!
 
 *未完待續...*
