@@ -2,7 +2,7 @@
 title: Ingots
 ---
 
-Slimefun introduces 25 new ingots, including 17 alloys. They are essential crafting [resources](/docs/Slimefun/Resources).
+Slimefun introduces 25 new ingots, including 17 alloys. They are essential crafting [resources](/docs/Slimefun/Resources). They are essential crafting [resources](/docs/Slimefun/Resources).
 
 ## 金屬
 
