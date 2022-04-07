@@ -1,5 +1,5 @@
 ---
-title: Uranium
+title: 鈾
 sidebar_position: 3
 ---
 

@@ -3,58 +3,58 @@ title: PlaceholderAPI
 sidebar_position: 11
 ---
 
-Slimefun 4 now also supports [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI).
+黏液科技也支持 [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI).
 
-Check out PlaceholderAPI's Wiki for Info on how to utilise these.
+查看PlaceholderAPI的維基, 來了解如何使用這些.
 
-## Placeholders for Researches
+## 研究的變數
 
-### Total Amount of Researches
+### 總研究數量
 
 `%slimefun_researches_total_researches%`
 
-This Placeholder will be replaced with the total amount of Researches in your Slimefun configuration.
+這個變數將會替換成你黏液科技設定中的總研究數量.
 
-### Amount of unlocked Researches
+### 解鎖研究數量
 
 `%slimefun_researches_total_researches_unlocked%`
 
-This Placeholder will be replaced with the amount of Researches you have unlocked so far.
+這個變數將會替換成你目前所解鎖的研究數量.
 
-### Total amount of XP Levels spent
+### 總花費經驗等級
 
 `%slimefun_researches_total_xp_levels_spent%`
 
-This Placeholder will be replaced with the total amount of xp levels you have spent on Researches.
+這個變數將會替換成你在研究上所花費的總經驗等級
 
-### Percentage of unlocked Researches
+### 研究解鎖的百分比
 
 `%slimefun_researches_percentage_researches_unlocked%`
 
-This Placeholder will be replaced with the percentage of Researches you have unlocked so far.
+這個變數將會替換成你目前已解鎖的研究百分比.
 
-### Researches Title
+### 研究稱號
 
 `%slimefun_researches_title%`
 
-This Placeholder will be replaced with your current Research-Title.
+這個變數將會替換成你目前的研究稱號.
 
-## Miscellaneous Placeholders
+## 其他變數
 
-### GPS Complexity
+### GPS 訊號強度
 
 `%slimefun_gps_complexity%`
 
-This Placeholder will be replaced with the complexity of your GPS Network
+這個變數將會替換成你的 GPS 網路的總訊號強度
 
 ### Timings / Lag
 
 `%slimefun_timings_lag%`
 
-This Placeholder will be replaced with the "lag" of Slimefun. It shows the time Slimefun took to tick all currently active blocks in milliseconds.
+這個變數將會替換成黏液科技的 "卡頓". 它顯示了黏液科技以毫秒為單位標記的活躍方塊刻.
 
 ### 語言
 
 `%slimefun_language%`
 
-This Placeholder will be replaced with the player-chosen language for Slimefun.
+這個變數將會替換成玩家所選的黏液科技語言.

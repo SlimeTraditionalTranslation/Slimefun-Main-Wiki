@@ -10,8 +10,8 @@ If you want to know all the recipes, just open the [Crucible](Crucible)'s page i
 
 ## Electrified Crucible Tiers
 
-| Tier |  Power  | Speed Multiplier |
-|:----:|:-------:|:----------------:|
-|  I   | 48 J/s  |       1.0x       |
-|  II  | 80 J/s  |       2.0x       |
-| III  | 120 J/s |       4.0x       |
+| 等級  |  Power  | Speed Multiplier |
+|:---:|:-------:|:----------------:|
+|  I  | 48 J/s  |       1.0x       |
+| II  | 80 J/s  |       2.0x       |
+| III | 120 J/s |       4.0x       |

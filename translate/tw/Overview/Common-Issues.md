@@ -7,7 +7,7 @@ sidebar_position: 10
 
 以下大多數情況都需要有不同程度權限的工作人員: 如果沒有, 請將此連結給有更高權限的人!
 
-**WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](How-to-report-bugs)**
+**警告: 有些問題不只一種可行的解決方法, 通過從最不干擾到最干擾的階段來話芬表示; 強烈建議在你採用任何進一步的方法之前, 先嘗試所有先前的階段, 因為較低的階段風險比較小, 並且無論如何都能解決大多數發生的問題. 如果你嘗試列表中所有的內容均未成功, 請考慮 [提交錯誤報告!](How-to-report-bugs)**
 
 ## 漂浮標籤
 
@@ -22,64 +22,64 @@ _注意: 請確保這不是由鬼方塊引起的 (請查看"不可放置的方�
 移除任何在漂浮文字下方的調節器/核心, 然後靠近它並以管理員身分執行:
 > /execute as <your_name> at @s run execute as @e[type=armor_stand,nbt={Invisible:1b},distance=..3] run data merge entity @s {Invisible:0}
 
-你現在可以直接用手打掉盔座. 你現在可以直接用手打掉盔座. 你可能需要打好幾次, 因為它們可能已經生成了一堆並堆疊在一起, 這取決於你所使用的插件.
+你現在可以直接用手打掉盔甲座. 你可能需要打好幾次, 因為它們可能已經生成了一堆並堆疊在一起, 這取決於你所使用的插件.
 
 _提示: 建議使用 MyCommands, CommandOverride 或任何相似的插件來設定一個別名, 以便於記憶與教導 (一個範例像是 /holokill)._
 
-### How to fix this (Stage 2)
+### 如何解決這個 (第二階段)
 
-Switch to spectator mode via
+通過以下指令切換成旁觀者模式
 > /gamemode spectator
 
-You should see the invisible armor stand and better gauge where the feet are; using this information, place a new regulator just below the tag on the first block not occupied by the armor stand itself (get one via /sf cheat).
+你應該能看見隱形的盔甲座, 更好的測量腳的位置; 使用此資訊, 在該盔甲座下放置新的能量調節器 (通過 /sf cheat 來獲得一個).
 
-The regulator will try to place its own armor stand which will replace the corrupt ones and behave normally: you should now be able to remove the regulator you've just placed, removing all tags.
+能量調節器將嘗試放置自己的盔甲座, 以替換損壞的盔甲座並正常工作: 你現在應該能夠移除剛剛能量調節器, 並成功移除所有漂浮文字.
 
-### How to fix this (Stage 3)
+### 如何解決這個 (第三階段)
 
-If the hologram keeps respawning you're very likely to be dealing with a ghost block like the ones dealt with under Unplaceable blocks, with the only difference it's also spawning a hologram because it's one of the items listed up top. Simply follow the procedure to get rid of any ghost block and you should be golden.
+如果漂浮文字不斷的在重生, 你可能正在處理一個鬼方塊, 就像是不可放置的方塊處理方式差不多, 唯一的區別是它會生成漂浮文字, 因為它是上面列出的物品之一. 只需要按照流程將擺脫任何鬼方塊, 你應該獲得金牌.
 
-## Unplaceable blocks
+## 不可放置的方塊
 
-If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block. This means a Slimefun item used to be placed there (usually an [android](Androids) or a [cargo component](Cargo-Management)) and its data was not correctly removed.
+如果你看到一個位置看似是空的, 但當你嘗試放置任何方塊在該位置時, 它將會取消你的動作, 那麼你可能遇到黏液科技的鬼方塊. 這通常是因為之前已放置了一個黏液科技的物品 (通常是 [機器人](Androids) 或是 [物流組件](Cargo-Management)) 且它們的資料並未正確的被刪除.
 
-### How to fix this (Isolated block)
+### 如何解決這個問題 (孤立方塊)
 
-Get a debug fish by running the following as operator:
+獲得一個除錯魚 (這條魚多少錢?) 通過以下的指令:
 > /sf debug_fish
 
-_(Optional): Use the shift right click function to place a dummy head where the ghost block is and try to punch it out: if a Slimefun head drops you're sure to have a ghost block (the opposite is not necessarily true as the ghost Slimefun item could've been a full block and not a head, it's less likely though and just good to get a confirmation if possible)._
+_(可選): 通過使用蹲下右鍵的功能將一個假的頭顱放置在鬼方塊的位置上並嘗試敲掉它: 如果是一個黏液科技的頭顱掉落 (通常叫做 Cs-Corelib) 那麼可能沒有鬼方塊在該位置 (相反不一定正確, 因為鬼方塊黏液科技物品可能是一個完整的方塊而不是頭, 雖然不太可能, 但如果可能, 最好得到確認)._
 
-Shift right click to place a dummy head, then shift left click it: an animation of the head being broken and the event being canceled should be seen and you'll get a message in chat; this will remove whatever data is still linked to the location.
+蹲下右鍵放置一個假頭顱, 並左鍵點擊它: 你應該可以看到頭顱被破壞和是件被取消的動畫, 並且你會在聊天室收到一條訊息; 這將刪除任何仍然連接到該位置的任何資料.
 
-Punch out the dummy head.
+並在將假頭顱給敲掉.
 
-### How to fix this (Cluster of blocks)
+### 如何解決這個問題 (方塊集群)
 
-This is very similar to the procedure for isolated blocks: in this case instead of placing all the dummy heads one by one you can run WorldEdit commands to speed up the placing process.
+這與孤立方塊的過程非常類似: 在這種情況下, 你可以使用 WorldEdit 的指令來加快放置過程, 而不是一個一個放置所有假頭顱.
 
-Use WorldEdit to select the cluster of blocks and its surroundings and execute:
+使用 WorldEdit 並選擇方塊及其周圍的環境並執行:
 > //set stone
 
-As per the isolated blocks procedure, shift right click all the incriminated spots to remove any data they may retain.
+根據孤立方塊的步驟, 蹲下左鍵來刪除所有可能殘留的資料.
 
-Remove the stone by executing:
+可以通過以下的指令來移除石頭:
 > //undo
 
-## Circuit Boards not dropping
+## 電路板沒有掉落
 
-If you kill Iron Golems and they don't seem to drop any Iron Golems, it may be due to a conflicting plugin.
+如果你殺死了鐵巨人, 但它們似乎沒有掉任何的電路板, 這可能是由於插件衝突.
 
-Plugins like **MobStacker** or similar are known to have a lot of issues with custom item drops.
+插件像是 **MobStacker** 或類似的插件在自定義物品掉落方面存在很多問題.
 
 ### 如何解決這個 (第一階段)
 
-The best solution to this problem is to enable custom item drops in that plugins config, if such an option exist.
+此問題的最佳方法就是在該插件設定中啟用自定義物品掉落 (如果有存在此類選項).
 
-Or ask the authors of that plugin whether there is a way to toggle this behaviour.
+或者詢問該插件作者是否有辦法切換這個設定.
 
-### How to fix this (Stage 2)
+### 如何解決這個 (第二階段)
 
-A more drastic approach would be to switch over to a Mob-Stacking plugin that supports custom drops.
+更加激進的方法是切換成支持自定義掉落的 Mob-Stacking 插件.
 
-_At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](Expanding-the-Wiki)_
+_在這一點上, 我們目前沒有確認可以與黏液科技一起運作的生物堆疊插件列表, 如果你使用的插件沒有任何這類的問題, 歡迎隨時在維基上補充. 請查看 [擴展維基](Expanding-the-Wiki)_

@@ -5,7 +5,7 @@ sidebar_position: 2
 
 We have hosted another Addon Jam in 2021, this is already the second Addon Jam ever. Here are the results!
 
-| Theme                   | Duration            | Participants | Reviewers |
+| Theme                   | 持續時間                | Participants | Reviewers |
 | ----------------------- | ------------------- | ------------ | --------- |
 | _Alchemy and Herbalism_ | May 22nd - May 31st | 6            | 2         |
 

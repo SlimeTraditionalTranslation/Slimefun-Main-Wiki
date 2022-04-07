@@ -1,94 +1,94 @@
 ---
-title: 常見問題
+title: 常見問答
 sidebar_position: 9
 ---
 
-## How can I download / install Slimefun or its Addons?
+## 我該如何 下載/安裝 黏液科技或它的附加?
 
-To download and install Slimefun you can refer to [this guide here](Installing-Slimefun).  
-You can find Addons for Slimefun4 on our ["Addons" - page](Addons).
+要下載並安裝黏液科技, 你可以參考 [這個指南](Installing-Slimefun).  
+你也可以在我們的 ["附加" - 頁面](Addons) 上找到黏液科技的附加.
 
-You can install these just like you did with Slimefun, putting them in the `/plugins/` folder of your Server.
+你可以安裝這些就像是你安裝黏液科技, 只要把它們放置在伺服器的 `/plugins/` 資料夾下.
 
-## Can I install Slimefun on a Singleplayer world?
+## 我可以安裝黏液科技在單人世界?
 
-No.
+不.
 
-Slimefun is a Bukkit / Spigot plugin, so it requires you to have a Bukkit-based Minecraft Server running. Creating such a Server is very easy though, you will be able to find lots of tutorials online. If you want to enjoy Slimefun all on your own, set up a new Minecraft Server on your computer, install the plugin and connect to it using the address `localhost`. Without any extra efforts your server won't be visible to others outside of your local network anyway.
+黏液科技是 Bukkit/Spigot 的插件, 所以它需要你安裝基於 Bukkit 的 Minecraft 伺服器來運行. 製作這樣的伺服器非常容易, 你可以在網路上找到很多教程. 如果你想要獨自享受黏液科技, 你也可以在你自己的電腦上開啟一個新的 Minecraft 伺服器, 安裝插件並使用 `localhost` 來連線. 無論如何, 如果沒有額外的努力, 你的伺服器將不會被除了本地網路以外的人看到.
 
-## Will Slimefun be available for Minecraft version XYZ?
+## 黏液科技是否可用於 Minecraft 版本 XYZ?
 
-Slimefun has been consistently available for every Minecraft version from MC 1.5 onwards, so I would say you can rest assured that it will come out for that Minecraft version too. With over 100+ contributors to the project, the chances are high someone is gonna update it to work with that version.
+黏液科技從 Minecraft 1.5 開始, 它將可以適用於各個版本, 所以我可以說你可以放心, 它也會出現在那個 Minecraft 版本之中. 這個專案有 100+ 個貢獻者, 因此很有可能有人更新它並讓它可以在該版本運作.
 
-## I have an error/bug with Slimefun
+## 我有一個關於黏液科技的錯誤/Bug
 
-Ok, first things first, join our [Support Server](https://discord.gg/fsD4Bkh) if you aren't in it already and go to `#bug-discussions`. We need to determine if it is a bug, user error or intended behaviour. Note that we **do not accept bug reports on discord, only on GitHub**. But experience has shown that 9 of 10 "bugs" tend to be the result of really outdated plugin versions or similar, so please try to discuss these issues with others on our discord server first, so that developers can focus on confirmed bug reports.
+請注意! 如果你是繁體中文, 請優先加入我們的[繁體中文Discord 伺服器](https://discord.gg/GF4CwjFXT9)來獲得支持 <br /> 由於你使用的可能是非官方版本, 如果你正使用的是英文官方版 那麼你可以繼續以下步驟, 但請記住, 請使用英文來進行問答! <br /> 好的, 首先, 如果你還沒加入我們的[Discord 伺服器](https://discord.gg/fsD4Bkh), 請先加入 並轉到 `#bug-discussions`頻道中. 我們需要確定它是一個錯誤, 使用者錯誤, 還是預期行為. 注意我們**不接受任何 Bug 回報在 Discord 上, 僅在 GitHub上**. 蛋經驗表明, 10個 "Bug" 中有9個往往是由真正過時的插件版本或類似的事情造成的, 因此請先嘗試在我們的 Discord 伺服器與其他人討論這些問題, 以便開發人員可以更專注於已確認的錯誤報告.
 
-Now, send us the following information (in the `#bug-discussions` channel):
+現在: 像我們發送已下資訊 (在 `#bug-discussions` 頻道中):
 
-1. Run /sf versions and send us a screenshot. We need the exact versions you are using, otherwise, we will not be able to help you. "latest" is not helping us at all. So please run that command. (If you don't have access to this command then Shift-Right-Click your Slimefun Guide, you can find your versions in the uppermost middle slot.)
+1. 執行 /sf versions 並傳送給我們螢幕節圖. 我們需要你所使用的確切版本, 否則我們無法為你提供幫助. "latest" (最新) 並不會幫助到我們. 所以請執行該指令. (如果你沒有權限執行該指令, 你可以通過蹲下右鍵點擊你的黏液科技指南, 並且可以在最上方的中間位置找到你正在使用的版本.)
 
-2. Check your console, are there any errors? (If so, then post them via https://pastebin.com/)
+2. 檢查你的控制台, 看看是否有任何錯誤訊息? (如果有, 請通過 https://pastebin.com/ 來貼上並發在頻道內)
 
-3. What do you intend to happen and what is happening?
+3. 你打算做甚麼, 與它預期該發生甚麼?
 
-Please also refer to [this page](How-to-report-bugs) for a much more in-depth guide on how to report issues.
+有關於任何報告問題的更深入指南, 請參閱[這個頁面](How-to-report-bugs).
 
-Once you've sent us all this info then one of our staff or a community member will help you. **Do not ping any role or members**. If some time has passed (15+ mins) then you may ping the helpful role (`@Helpful`). Being impatient and pinging roles/members (**especially staff**) may get you warned or kicked.
+一旦你向我們發送這些資訊, 我們的員工或社群成員將會為你提供幫助. **不要提及 (ping) 任何身分組或成員**. 如果已經過了一段時間 (15分鐘以上), 那麼你可以提及"幫助"的身分組 (`@Helpful`). 不耐煩的提及身分組/成員 (**尤其是員工**) 你將會被警告或者被踢出伺服器.
 
-## What's the difference between the talisman and ender talisman?
+## 護身符與終界護身符的有甚麼區別?
 
-The Ender Talismans work even while in the Ender Chest however the normal [Talismans](Talismans) requires for it to be in your inventory.
+終界護身符是你放在終界箱也可以繼續使用的, 但正常的[護符](Talismans)需要它在你的背包之中(不是頭顱背包喔!).
 
-## Can you stack Talismans?
+## 我可以堆疊護身符嗎?
 
-Talismans by themselves are stackable items but having more than one Talisman of the same type will not increase their effects.
+護身符本身是一個可以堆疊的物品, 但擁有多個相同的類型的護身符並不會增加其效果.
 
-However, some Talismans get consumed when you use them, so having multiple of these handy will last you longer obviously.
+然而, 有一些護身符會在你使用時被消耗掉, 因此擁有多個護身符顯然會讓你的持續時間更長.
 
-## What can I do with stone chunks?
+## 我可以用石塊做甚麼?
 
-4 Stone Chunks can be put into the [Compressor](Compressor) to craft one cobblestone.
+四個石塊可以放入[壓縮機](Compressor)來製作回鵝卵石.
 
-## How do I disable items per-world?
+## 我該如何停用物品在單個世界?
 
-You can disable items per-world by finding said world file in the folder `/plugins/Slimefun/world-settings/` and by setting any item ID to false.
+你可以通過在資料夾的 `/plugins/Slimefun/world-settings/` 中找到你所說的世界, 並將任何物品ID在裡面設定成 false 來停用單個世界的使用權.
 
-If you wish to disable **all** items in the world by setting `enabled` to false.
+如果你希望將該世界的**所有**物品停用, 僅需要在該世界的檔案內將 `enabled` 的選項設定為 false.
 
-## How to disable all or individual researches?
+## 如果停用所有或個別研究?
 
-You can disable all researching (All items are researched by default) by going to the research file `/plugins/Slimefun/Researches.yml` and setting `enable-researching` to `false`
+你可以通過到 `/plugins/Slimefun/Researches.yml` 並將 `enable-researching` 設定成 `false` 來停用所有研究 (默認情況下會啟用所有研究物品)
 
-In the same research file, you can also disable specific researches or modify the cost of them.
+在同樣的檔案中, 你可以停用特定的研究或修改它們的研究成本.
 
-## How much RAM does Slimefun use?
+## 黏液科技需要多少記憶體?
 
-You can't give an exact number or really even an estimate, we don't know your other plugins, addons, your server software, server version and we may even change things per-build which can affect RAM usage. We can recommend **at least** 4GB for any server though with or **without** Slimefun.
+你無法獲得一個確切數字, 甚至無法給初估計, 因為我們根本不知道你的其他插件, 附加, 你的伺服器軟體, 伺服器版本和我們每次建構時更改的東西可能影響記憶體使用的內容. 我們推薦任何伺服器使用**至少**4GB記憶體, 在有黏液科技或**沒有**黏液科技的情況下.
 
-## How does XYZ work?
+## XYZ 是如何運作的?
 
-If you'd like to know how an item works please refer to [our wiki](https://github.com/Slimefun/Slimefun4/wiki).
-> **Note**: The Wiki is still missing pages and is community ran! If you can help add content then please refer to [this guide](Expanding-the-Wiki)
+如果你真的想知道一個物品是如何運作的, 請參考 [我們的維基](https://github.com/Slimefun/Slimefun4/wiki).
+> **注意**: 這個維基仍然缺少一些頁面並且是由社群進行維護! 如果你可以幫助添加內容, 請參考[這個指南](Expanding-the-Wiki)
 
-## How do I repair Slimefun items?
+## 我該如何修復黏液科技的物品?
 
-You will need to use the [Auto-Anvil](Auto-Anvil) and [Duct Tape](Miscellaneous-Items).
+你需要使用 [自動鐵砧](Auto-Anvil)和[強力膠帶](Miscellaneous-Items)來修復物品.
 
-## Can I enchant Slimefun items?
+## 我可以附魔黏液科技的物品嗎?
 
-You can only enchant an Item from Slimefun by using an [Auto-Enchanter](Auto-Enchanter).
+你只能通過使用[自動附魔器](Auto-Enchanter)來對黏液科技的物品附魔.
 
-## How long does coolant last in reactors?
+## 冷卻單元可以在反應爐中持續多久?
 
-Coolant lasts for 25 seconds no matter the type (normal or Nether Ice). Here is a table with the required amount of coolant per piece of fuel:
-| 燃料              | Duration    | Coolant type | Coolant amount |
-| --------------- | ----------- | ------------ | -------------- |
-| Uranium         | 20m (1200s) | Normal       | 48             |
-| Neptunium       | 10m (600s)  | Normal       | 24             |
-| Boosted Uranium | 25m (1500s) | Normal       | 60             |
-| Nether Star     | 30m (1800s) | Nether Ice   | 72             |
+冷卻單元可以至少持續 25 秒, 無論類型如何 (普通或者地獄冰). 下面列出了每件燃料所需的冷卻單元量:
+| 燃料   | 持續時間         | 冷卻單元類型 | 冷卻單元數量 |
+| ---- | ------------ | ------ | ------ |
+| 鈾    | 20分鐘 (1200秒) | 普通     | 48     |
+| 錼    | 10分鐘 (600秒)  | 普通     | 24     |
+| 高純度鈾 | 25分鐘 (1500秒) | 普通     | 60     |
+| 地獄之星 | 30分鐘 (1800秒) | 地獄冰    | 72     |
 
-## Is it Slimefun or SlimeFun
+## 是叫做 Slimefun 還是 SlimeFun
 
-It's Slimefun, one day everyone will know the correct spelling... one day... maybe... who knows honestly.
+是拼寫成 Slimefun, 總有一天每個人都將會知道正確的拼寫... 總有一天... 也許... 誰知道呢.

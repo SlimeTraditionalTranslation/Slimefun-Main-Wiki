@@ -1,5 +1,5 @@
 ---
-title: Boosted Uranium
+title: 高純度鈾
 sidebar_position: 6
 ---
 

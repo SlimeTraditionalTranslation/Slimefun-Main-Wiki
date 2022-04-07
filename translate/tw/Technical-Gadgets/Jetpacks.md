@@ -9,12 +9,12 @@ They can be used to fly around using electricity. Put the Jetpack in your chestp
 
 ## Jetpack Tiers
 
-| Tier | Storage Capacity | Thrust |
-|:----:|:----------------:|:------:|
-|  I   |       20 J       |  0.35  |
-|  II  |       30 J       |  0.40  |
-| III  |       45 J       |  0.45  |
-|  IV  |       60 J       |  0.50  |
-|  V   |       75 J       |  0.55  |
-|  VI  |      100 J       |  0.60  |
-| VII  |      150 J       |  0.7   |
+| 等級  | Storage Capacity | Thrust |
+|:---:|:----------------:|:------:|
+|  I  |       20 J       |  0.35  |
+| II  |       30 J       |  0.40  |
+| III |       45 J       |  0.45  |
+| IV  |       60 J       |  0.50  |
+|  V  |       75 J       |  0.55  |
+| VI  |      100 J       |  0.60  |
+| VII |      150 J       |  0.7   |

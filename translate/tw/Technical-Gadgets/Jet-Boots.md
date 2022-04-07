@@ -9,7 +9,7 @@ They can be used to fly around using electricity. Put the Jet Boots in your boot
 
 ## Jet Boots Tiers
 
-|  Tier   | Storage Capacity | Speed | Accuracy |
+|   等級    | Storage Capacity | Speed | Accuracy |
 |:-------:|:----------------:|:-----:|:--------:|
 |    I    |       20 J       | 0.35x |   50%    |
 |   II    |       30 J       | 0.40x |   60%    |

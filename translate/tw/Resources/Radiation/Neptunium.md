@@ -1,5 +1,5 @@
 ---
-title: Neptunium
+title: 錼
 sidebar_position: 4
 ---
 

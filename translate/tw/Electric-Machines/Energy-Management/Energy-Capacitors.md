@@ -25,7 +25,7 @@ A Capacitor's side texture will change depending on how much energy is stored in
 
 Each tier of energy capacitor has a different capacity, listed below.
 
-| Item                             | Capacity |
+| 物品                               | Capacity |
 |:-------------------------------- |:--------:|
 | Small Energy Capacitor           |  128 J   |
 | Medium Energy Capacitor          |  512 J   |

@@ -9,7 +9,7 @@ These come in 6 tiers, each tier providing more inventory slots to store items i
 
 ## Bacpack Tiers
 
-| Tier             | Inventory Slots |
+| 等級               | Inventory Slots |
 |:---------------- |:---------------:|
 | Small Bacpack    |        9        |
 | Backpack         |       18        |

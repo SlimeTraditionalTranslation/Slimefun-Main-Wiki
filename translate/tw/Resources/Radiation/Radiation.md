@@ -14,12 +14,12 @@ For this reason, it is highly recommended you only carry them for a short amount
 The following items will induce radiation while in your inventory:
 
 * [Blistering Ingot](Blistering-Ingot)
-* [Small Chunk of Uranium](Uranium)
-* [Uranium](Uranium)
-* [Neptunium](Neptunium)
+* [Small Chunk of Uranium](鈾)
+* [鈾](鈾)
+* [錼](錼)
 * [Plutonium](Plutonium)
-* [Boosted Uranium](Boosted-Uranium)
-* [Nether Ice](Nether-Ice)
+* [高純度鈾](Boosted-Uranium)
+* [地獄冰](Nether-Ice)
 * [Enriched Nether Ice](Enriched-Nether-Ice)
 
 Not listed here is the [Nether Star Reactor](Reactors), which makes nearby entities wither, but does not actually cause radiation.

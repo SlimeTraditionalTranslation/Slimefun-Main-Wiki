@@ -15,7 +15,7 @@ This page contains information regarding following items:
 These items can be found in the [Magical Gadgets](Magical-Gadgets) category. Their exact recipes can be found in-game.  
 The Elytra Scale is a crafting component, while the other three are usable elytras.
 
-| Item             | Specialities       |
+| 物品               | Specialities       |
 | ---------------- | ------------------ |
 | Elytra           | N/A                |
 | Infused Elytra   | Comes with Mending |

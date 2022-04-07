@@ -1,5 +1,5 @@
 ---
-title: Nether Ice
+title: 地獄冰
 sidebar_position: 7
 ---
 

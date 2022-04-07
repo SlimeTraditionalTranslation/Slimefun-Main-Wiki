@@ -17,9 +17,9 @@ A Bio Reactor must be placed within 7 blocks of an [Energy Regulator](Energy-Reg
 
 The Bio Reactor only has one tier.
 
-| Tier | Energy | Buffer |
-| ---- | ------ | ------ |
-| I    | 8 J/s  | 128 J  |
+| 等級 | Energy | Buffer |
+| -- | ------ | ------ |
+| I  | 8 J/s  | 128 J  |
 
 ## 燃料
 

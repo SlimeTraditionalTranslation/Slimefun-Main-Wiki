@@ -25,7 +25,7 @@ Androids need fuel in order to work, you have to fill them with the [Required Fu
 
 There are two tiers on the Farmer Android, each with different modifiers listed below.
 
-| Tier     | Fuel Efficiency | Special Function                      |
-| -------- |:---------------:| ------------------------------------- |
-| Basic    |      1.0x       | 無                                     |
-| Advanced |      1.5x       | Can harvest from Exotic Garden addons |
+| 等級 | 燃料效率 | 特殊功能                                  |
+| -- |:----:| ------------------------------------- |
+| 基礎 | 1.0x | 無                                     |
+| 高級 | 1.5x | Can harvest from Exotic Garden addons |

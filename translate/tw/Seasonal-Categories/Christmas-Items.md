@@ -39,7 +39,7 @@ The present can be crafted in a [Magic Workbench](Magic-Workbench) like so:
 
 The items you can earn:
 
-| Item                      | Amount |
+| 物品                        | Amount |
 | ------------------------- | ------ |
 | Christmas Milk            | 1      |
 | Christmas Egg Nog         | 1      |

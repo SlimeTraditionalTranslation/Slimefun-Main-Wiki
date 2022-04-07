@@ -23,7 +23,7 @@ Solar generators do not have a buffer, so any unused energy produced by them wil
 
 The table below compares the energy production of solar generators.
 
-| Tier                      |             Energy              |
+| 等級                        |             Energy              |
 |:------------------------- |:-------------------------------:|
 | Solar Generator           |              4 J/s              |
 | Advanced Solar Generator  |             16 J/s              |
