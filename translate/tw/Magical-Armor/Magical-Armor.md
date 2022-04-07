@@ -22,7 +22,7 @@ When wearing any piece of the Glowstone Set, you gain Night Vision (I).
 
 ### Soulbound Armor
 
-Any piece of this set will be kept on your death. You'll never lose it!
+Any piece of this set will be kept on your death. You'll never lose it! You'll never lose it!
 
 ### Bee Armor
 
@@ -37,7 +37,7 @@ Wearing these shoes will prevent you from trampling your crops.
 
 ### Boots of the Stomper
 
-These boots will redirect fall damage you take to any nearby mob or/and player. You will no longer take damage.
+These boots will redirect fall damage you take to any nearby mob or/and player. You will no longer take damage. You will no longer take damage.
 
 ### Elytra Cap
 
