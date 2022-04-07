@@ -9,7 +9,7 @@ The Hercules' Pickaxe is an item in the [tools](Tools) category.
 
 The Hercules' Pickaxe can be crafted in a [Magic Workbench](Magic-Workbench).
 
-## Usage
+## 使用方法
 
 This tool is similar in function to an [Ore Crusher](Ore-Crusher) or an [Electric Ore Grinder](Electric-Ore-Grinder): it crushes iron ore mined with it into [iron dust](Iron-Dust), and gold ore into [gold dust](Gold-Dust).
 
