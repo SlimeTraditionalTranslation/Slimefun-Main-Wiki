@@ -22,7 +22,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * 1 Block of Quartz
 * 48 Coal
 
-## Usage
+## 使用方法
 
 * [All Energy Capacitors](Energy-Capacitors)
 * [Multimeter](Technical-Gadgets#multimeter)
