@@ -16,12 +16,12 @@ Right-click to use. Crouch + right-click to switch modes. Each time you use it, 
 
 ## Multi Tool Tiers
 
-| Tier | Storage Capacity |
-|:----:|:----------------:|
-|  I   |       20 J       |
-|  II  |       30 J       |
-| III  |       40 J       |
-|  IV  |       50 J       |
-|  V   |       60 J       |
-|  VI  |       75 J       |
-| VII  |      100 J       |
+| 等級  | Storage Capacity |
+|:---:|:----------------:|
+|  I  |       20 J       |
+| II  |       30 J       |
+| III |       40 J       |
+| IV  |       50 J       |
+|  V  |       60 J       |
+| VI  |       75 J       |
+| VII |      100 J       |
