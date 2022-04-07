@@ -16,7 +16,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * 2 [Lead Dust](Lead-Dust)
 * 1 [Tin Dust](Tin-Dust)
 
-## Usage
+## 使用方法
 
 ### In other alloys
 
