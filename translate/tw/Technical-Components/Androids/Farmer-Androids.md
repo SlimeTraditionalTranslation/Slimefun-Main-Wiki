@@ -11,7 +11,7 @@ Farmer Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting
 
 ## 使用方法
 
-Farmer Androids can be programmed to harvest or/and plant crops. Supported crops are listed below. Supported crops are listed below.
+Farmer Androids can be programmed to harvest or/and plant crops. Supported crops are listed below.
 
 - Wheat
 - Carrot
@@ -19,7 +19,7 @@ Farmer Androids can be programmed to harvest or/and plant crops. Supported crops
 - Beetroot
 - Potato
 
-This can also can be paired with an [EXP Collector](EXP-Collector) for an automated EXP Farm. Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
+Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
 
 ## Tiers
 
