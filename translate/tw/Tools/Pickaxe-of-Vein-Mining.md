@@ -13,6 +13,6 @@ The Pickaxe of Vein Mining can be crafted in an [Enhanced Crafting Table](Enhanc
 
 ## 使用方法
 
-When you break ore with this pickaxe, connected ore blocks are broken as well, even if they are of a different type. The pickaxe can break up to 16 ore blocks at once. The pickaxe can break up to 16 ore blocks at once.
+When you break ore with this pickaxe, connected ore blocks are broken as well, even if they are of a different type. The pickaxe can break up to 16 ore blocks at once.
 
 It is compatible with the Fortune enchantment, but not with Silk Touch.
