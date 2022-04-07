@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 Reactors are a way to [Generate Energy](Electric-Machines) fast and efficiently.  
-There are currently two types of Reactors. Both of these require to be surrounded by water next to the reactor. Below and above are not necessary. Both of these require to be surrounded by water next to the reactor. Below and above are not necessary.
+There are currently two types of Reactors. Both of these require to be surrounded by water next to the reactor. Below and above are not necessary.
 
 ## Reactor Access Port
 
@@ -22,6 +22,6 @@ This provides an easy way to add Fuel/Coolant or take some of the byproduct.
 ## Example Setup
 
 ![Reactor Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-reactor.png)  
-In the center you see the Reactor, surrounded by water. Three blocks above you can see the Reactor Access Port. Three blocks above you can see the Reactor Access Port.
+In the center you see the Reactor, surrounded by water. Three blocks above you can see the Reactor Access Port.
 
 **Note:** The quartz and glass blocks are entirely there for decoration (and to keep the water from spilling), they're not necessary for the setup.
