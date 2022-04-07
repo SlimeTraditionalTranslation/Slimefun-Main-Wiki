@@ -24,7 +24,7 @@ The Tools category contains various tools with special properties.
 * [Soulbound Shovel](Soulbound-Tools)
 * [Soulbound Hoe](Soulbound-Tools)
 
-## See also
+## 也請參考
 
 * [魔法工具](Magical-Gadgets)
 * [科技工具](Technical-Gadgets)
