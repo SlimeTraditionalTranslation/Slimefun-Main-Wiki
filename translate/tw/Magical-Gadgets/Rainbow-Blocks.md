@@ -14,8 +14,8 @@ These are all the non-seasonal rainbow blocks that can be crafted.
 
 ## Obtaining
 
-These items are part of the [Magical Gadgets](Magical-Gadgets) category. These items are part of the [Magical Gadgets](Magical-Gadgets) category. Their exact recipes can be found in-game.  
-Do note that these also exist for specific seasons (eg. Halloween Rainbow blocks). These can be found in their corresponding [Seasonal Categories](Seasonal-Categories). These can be found in their corresponding [Seasonal Categories](Seasonal-Categories).
+These items are part of the [Magical Gadgets](Magical-Gadgets) category. Their exact recipes can be found in-game.  
+Do note that these also exist for specific seasons (eg. Halloween Rainbow blocks). These can be found in their corresponding [Seasonal Categories](Seasonal-Categories).
 
 ## Usage & Specifications
 
