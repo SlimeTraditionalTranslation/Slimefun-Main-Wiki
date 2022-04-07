@@ -39,7 +39,8 @@ The scores are calculated by taking the average of all scores by all reviewers f
 
 ## 1. FlowerPower by NCBPFluffyBear
 
-https://github.com/NCBPFluffyBear/FlowerPower
+<https://github.com/NCBPFluffyBear/FlowerPower>
+
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 9.7      | 8.55       | 9.0        | 7.35         | 7.4      | 6.55      | **8.09** |
@@ -83,7 +84,8 @@ The code is somewhat messy at parts but overall very clean. The gameplay is very
 
 ## 2. BloodAlchemy by Mooy1
 
-https://github.com/Mooy1/BloodAlchemy
+<https://github.com/Mooy1/BloodAlchemy>
+
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 8.7      | 7.65       | 8.8        | 8.85         | 7.05     | 6.25      | **7.88** |
@@ -120,7 +122,8 @@ The addon's code is very clean. The ideas are pretty much borrowed from the Bloo
 
 ## 3. Alchmia Vitae by Apeiros-46B
 
-https://github.com/Apeiros-46B/AlchimiaVitae
+<https://github.com/Apeiros-46B/AlchimiaVitae>
+
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 9.05     | 8.6        | 8.4        | 5.8          | 6.0      | 7.25      | **7.52** |
@@ -167,7 +170,8 @@ The theme is spot on and very satisfying to use and fun to play with. The code i
 
 ## 4. EMC2 by Seggan
 
-https://github.com/Seggan/EMC2
+<https://github.com/Seggan/EMC2>
+
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 5.45     | 4.3        | 6.35       | 6.9          | 3.5      | 4.8       | **5.22** |
@@ -208,7 +212,8 @@ The code is alright but with a lot of room for improvement. The gameplay feels v
 
 ## 5. Hohenheim by Tweep
 
-https://github.com/TweepCoding/hohenheim
+<https://github.com/TweepCoding/hohenheim>
+
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 7.05     | 7.15       | 5.8        | 6.05         | 2.1      | 1.75      | **4.98** |
@@ -219,7 +224,8 @@ https://github.com/TweepCoding/hohenheim
 
 ## 6. BetterFarming by HAL989
 
-https://github.com/Gavin296/betterfarming
+<https://github.com/Gavin296/betterfarming>
+
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 2.25     | 4.4        | 4.95       | 4.35         | 3.3      | 4.65      | **3.98** |
