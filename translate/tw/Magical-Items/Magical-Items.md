@@ -49,7 +49,7 @@ This item is crafted in an [Ancient Altar](Ancient-Altar) and is used for variou
 
 ### Synthetic Shulker Shell
 
-This item can be used a substitute for vanilla Shulker Shells. This item can be used a substitute for vanilla Shulker Shells. This way you don't always have to travel in the End to get your Shulker boxes.
+This item can be used a substitute for vanilla Shulker Shells. This way you don't always have to travel in the End to get your Shulker boxes.
 
 ### Strange Nether Goo
 
