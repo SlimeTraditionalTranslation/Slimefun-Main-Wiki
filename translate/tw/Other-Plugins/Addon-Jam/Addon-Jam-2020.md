@@ -7,7 +7,7 @@ This is the first ever Addon Jam we hosted but hopefully not the last.
 
 Here are some general stats about the contest.
 
-| Theme                  | Duration               | Participants | Reviewers |
+| Theme                  | 持續時間                   | Participants | Reviewers |
 | ---------------------- | ---------------------- | ------------ | --------- |
 | _Tapping into the End_ | April 3rd - April 12th | 6            | 2         |
 
