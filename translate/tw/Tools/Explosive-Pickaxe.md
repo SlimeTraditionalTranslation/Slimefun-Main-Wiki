@@ -11,12 +11,12 @@ It is an unenchanted diamond pickaxe which can mine several blocks at once.
 
 The Explosive Pickaxe can be crafted in a [Magic Workbench](Magic-Workbench).
 
-## Usage
+## 使用方法
 
 When you break a block with this pickaxe, it also mines blocks in a 3x3x3 area around it.
 
 It is compatible with the Fortune enchantment, to get even more drops from your usual ore.
 
-## See also
+## 也請參考
 
 * [Explosive Shovel](Explosive-Shovel)
