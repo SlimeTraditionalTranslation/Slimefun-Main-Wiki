@@ -6,7 +6,7 @@ sidebar_position: 6
 The Smeltery is one of the most fundamental Slimefun machines.  
 It is not only used to smelt dusts into Ingots but also for making Alloys.
 
-**NOTE: The Smeltery requires fire beneath it. While smelting items, the fire will randomly get consumed, so make sure to reignite it when that happens.**
+**NOTE: The Smeltery requires fire beneath it. NOTE: The Smeltery requires fire beneath it. While smelting items, the fire will randomly get consumed, so make sure to reignite it when that happens.**
 
 ## How to build a Smeltery
 
@@ -14,7 +14,7 @@ The recipe is already found in your Slimefun Guide, but here is the final versio
 
 ![Smeltery Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-smeltery.png)
 
-You can also place an [Output Chest](Output-Chest) next to the dispenser to catch your crafted Items. Without an [Output Chest](Output-Chest), the items will just land back in the dispenser.
+You can also place an [Output Chest](Output-Chest) next to the dispenser to catch your crafted Items. Without an [Output Chest](Output-Chest), the items will just land back in the dispenser. Without an [Output Chest](Output-Chest), the items will just land back in the dispenser.
 
 ## How to use the Smeltery
 
@@ -26,5 +26,5 @@ Now right-click the Nether Brick Fence and you should see the Smeltery craft you
 Since the Smeltery's fire can be consumed every so often, make sure to either have a Flint and Steel ready or do one of the following tricks:
 
 * Put a piece of netherrack 2 blocks under the Smeltery, so the fire does not randomly go out without actually using it.
-* Use a dispenser filled with Flint & Steel to ignite the fire again. You can hook it up to an Observer Block or a redstone clock to automate the re-ignition.
+* Use a dispenser filled with Flint & Steel to ignite the fire again. You can hook it up to an Observer Block or a redstone clock to automate the re-ignition. You can hook it up to an Observer Block or a redstone clock to automate the re-ignition.
 * Utilize the [Automatic Ignition Chamber](Automatic-Ignition-Chamber), which will automatically re-ignite the fire.
