@@ -13,4 +13,4 @@ The Elevator Plate can be crafted in an [Enhanced Crafting Table](Enhanced-Craft
 
 Elevator Plates are automatically connected along the Y axis.
 
-Upon stepping on an Elevator Plate, the user is prompted with a book GUI of all of the floors. By clicking on a story, the user can teleport to it. By clicking on a story, the user can teleport to it.
+Upon stepping on an Elevator Plate, the user is prompted with a book GUI of all of the floors. By clicking on a story, the user can teleport to it.
