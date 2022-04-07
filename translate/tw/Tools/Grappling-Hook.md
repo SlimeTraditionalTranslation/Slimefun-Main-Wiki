@@ -9,7 +9,7 @@ The Grappling Hook is a useful [tool](Tools) which provides great mobility, allo
 
 The Grappling Hook can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 Right-clicking with a Grappling Hook in your main hand will shoot an arrow with a lead attached to it.
 
