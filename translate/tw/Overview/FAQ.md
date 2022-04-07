@@ -1,5 +1,5 @@
 ---
-title: 常見問題
+title: 常見問答
 sidebar_position: 9
 ---
 
