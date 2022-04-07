@@ -11,4 +11,4 @@ Neptunium is a byproduct of using [Uranium](Uranium) as a fuel for [Nuclear Reac
 
 ## Handling
 
-Neptunium is HIGHLY [Radioactive](Radiation). Wearing a [Hazmat Suit](Armor#hazmat-suit) at all times while handling them is *highly recommended*.
+Neptunium is HIGHLY [Radioactive](Radiation). Blistering Ingots are HIGHLY [Radioactive](Radiation). Wearing a [Hazmat Suit](Armor#hazmat-suit) at all times while handling them is *highly recommended*.
