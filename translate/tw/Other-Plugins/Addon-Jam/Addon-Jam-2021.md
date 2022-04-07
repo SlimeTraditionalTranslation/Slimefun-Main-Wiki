@@ -3,7 +3,7 @@ title: 附加果醬 2021
 sidebar_position: 2
 ---
 
-We have hosted another Addon Jam in 2021, this is already the second Addon Jam ever. Here are the results!
+We have hosted another Addon Jam in 2021, this is already the second Addon Jam ever. Here are the results! Here are the results!
 
 | Theme                   | Duration            | Participants | Reviewers |
 | ----------------------- | ------------------- | ------------ | --------- |
@@ -22,11 +22,11 @@ Every submission was reviewed by a total of 2 reviewers based on the following 6
 * **Accuracy** _How well was the theme incoporated?_
 * **Creativity** _Were the ideas behind that submission interesting enough?_
 * **Innovation** _Does the submission feature innovative and new mechanics or is just a copy/paste of the tutorial?_
-* **Code Quality** _Is the code structured in a sensible way? Does it follow conventions or contain bad practices?_
+* **Code Quality** _Is the code structured in a sensible way? Does it follow conventions or contain bad practices?_ Does it follow conventions or contain bad practices?</em>
 * **Gameplay** _Generally: Is it fun to play or rather boring?_
-* **Mechanics** _Are the mechanics designed in a user-friendly way? What about visuals, like particles, tooltips, etc...?_
+* **Mechanics** _Are the mechanics designed in a user-friendly way? What about visuals, like particles, tooltips, etc...?_ What about visuals, like particles, tooltips, etc...?</em>
 
-The scores are calculated by taking the average of all scores by all reviewers for that category. The total score is the average of all categories.
+The scores are calculated by taking the average of all scores by all reviewers for that category. The total score is the average of all categories. The total score is the average of all categories.
 
 ## Submissions
 
@@ -44,7 +44,7 @@ https://github.com/NCBPFluffyBear/FlowerPower
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 9.7      | 8.55       | 9.0        | 7.35         | 7.4      | 6.55      | **8.09** |
 
-> FlowerPower is a magic addon centered around experience and flowers. 每個配方的基礎都需要各種花, 並在沿途制做不同物品以制做遊戲中期的物品. 這些物品大多數通過消耗經驗值來換取某種效果或增益來發會作用. _by NCBPFluffyBear_
+> FlowerPower is a magic addon centered around experience and flowers. 每個配方的基礎都需要各種花, 並在沿途制做不同物品以制做遊戲中期的物品. 這些物品大多數通過消耗經驗值來換取某種效果或增益來發會作用. _by NCBPFluffyBear_ 每個配方的基礎都需要各種花, 並在沿途制做不同物品以制做遊戲中期的物品. 這些物品大多數通過消耗經驗值來換取某種效果或增益來發會作用. _by NCBPFluffyBear_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -77,7 +77,7 @@ https://github.com/NCBPFluffyBear/FlowerPower
 
 #### Conclusion
 
-The code is somewhat messy at parts but overall very clean. The gameplay is very satisfying, it is fun and it fits the theme wonderfully.
+The code is somewhat messy at parts but overall very clean. The gameplay is very satisfying, it is fun and it fits the theme wonderfully. The gameplay is very satisfying, it is fun and it fits the theme wonderfully.
 
 </details>
 
@@ -88,7 +88,7 @@ https://github.com/Mooy1/BloodAlchemy
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 8.7      | 7.65       | 8.8        | 8.85         | 7.05     | 6.25      | **7.88** |
 
-> BloodAlchemy adds blood, tools, potions, and a few other magical items. The main focus is to gather blood which is used to do alchemy in the blood altar. It also adds a new crop and 2 new mushrooms for creating potions and foods. _by Mooy1_
+> BloodAlchemy adds blood, tools, potions, and a few other magical items. The main focus is to gather blood which is used to do alchemy in the blood altar. It also adds a new crop and 2 new mushrooms for creating potions and foods. _by Mooy1_ The main focus is to gather blood which is used to do alchemy in the blood altar. It also adds a new crop and 2 new mushrooms for creating potions and foods. _by Mooy1_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -114,7 +114,7 @@ https://github.com/Mooy1/BloodAlchemy
 
 #### Conclusion
 
-The addon's code is very clean. The ideas are pretty much borrowed from the BloodMagic mod but it does still have some unique elements to it. Nice particle effects and pretty good user experience but still a bit of polishing left. The theme was interpreted pretty well, it even has some herbalism elements. It's just a bit gruesome in the end and has quite a few bugs.
+The addon's code is very clean. The addon's code is very clean. The ideas are pretty much borrowed from the BloodMagic mod but it does still have some unique elements to it. Nice particle effects and pretty good user experience but still a bit of polishing left. The theme was interpreted pretty well, it even has some herbalism elements. It's just a bit gruesome in the end and has quite a few bugs. Nice particle effects and pretty good user experience but still a bit of polishing left. The theme was interpreted pretty well, it even has some herbalism elements. It's just a bit gruesome in the end and has quite a few bugs.
 
 </details>
 
@@ -125,7 +125,7 @@ https://github.com/Apeiros-46B/AlchimiaVitae
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 9.05     | 8.6        | 8.4        | 5.8          | 6.0      | 7.25      | **7.52** |
 
-> My addon adds two types of magical plants, which can be used to brew potions and make magical items. These magical items can be used to change materials into other materials, and can apply magical effects called "Infusions" to certain items. _by Apeiros-46B_
+> My addon adds two types of magical plants, which can be used to brew potions and make magical items. These magical items can be used to change materials into other materials, and can apply magical effects called "Infusions" to certain items. _by Apeiros-46B_ These magical items can be used to change materials into other materials, and can apply magical effects called "Infusions" to certain items. _by Apeiros-46B_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -156,7 +156,7 @@ https://github.com/Apeiros-46B/AlchimiaVitae
 * Code is very nested
 * Infusing is a bit annoying, everytime you close the UI everything drops
 * Opening the infuser still triggers the item in your hand
-* True Aim arrows misbehave if shot at minimum strength, they slow down ever so slightly while flying and grind to a halt, just levitating and wiggling about. Also weird to see them fly in slow-mo at the beginning but the stopping is even weirder.
+* True Aim arrows misbehave if shot at minimum strength, they slow down ever so slightly while flying and grind to a halt, just levitating and wiggling about. Also weird to see them fly in slow-mo at the beginning but the stopping is even weirder. Also weird to see them fly in slow-mo at the beginning but the stopping is even weirder.
 * A little strange for the enchants to be level 3 when there is no lvl 1 or 2 to be had (the light and dark magic ones)
 
 #### Conclusion
@@ -213,11 +213,11 @@ https://github.com/TweepCoding/hohenheim
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 7.05     | 7.15       | 5.8        | 6.05         | 2.1      | 1.75      | **4.98** |
 
-> Supposed to add items related to alchemy and herbology, wand is supposed to be the main crafting tool for the mod, and also the weapon for it. It uses a sort of mana system called Entropy to do this, and there would have been many items with magical properties that you could use the wand with. _by Tweep_
+> Supposed to add items related to alchemy and herbology, wand is supposed to be the main crafting tool for the mod, and also the weapon for it. It uses a sort of mana system called Entropy to do this, and there would have been many items with magical properties that you could use the wand with. _by Tweep_ It uses a sort of mana system called Entropy to do this, and there would have been many items with magical properties that you could use the wand with. _by Tweep_
 
 ***The author has requested that their detailed review would not be shown publicly.***
 
-## 6. BetterFarming by HAL989
+## 6. The Smeltery BetterFarming by HAL989
 
 https://github.com/Gavin296/betterfarming
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
@@ -257,6 +257,6 @@ https://github.com/Gavin296/betterfarming
 
 #### Conclusion
 
-We aren't entirely sure how this fits into the theme, the addon seems very much incomplete and the project structure is all over the place. The code is very inconsistent and the dependency management is a bit of a chaos.
+We aren't entirely sure how this fits into the theme, the addon seems very much incomplete and the project structure is all over the place. The code is very inconsistent and the dependency management is a bit of a chaos. The code is very inconsistent and the dependency management is a bit of a chaos.
 
 </details>
