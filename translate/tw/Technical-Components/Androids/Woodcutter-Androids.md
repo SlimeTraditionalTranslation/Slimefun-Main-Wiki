@@ -3,7 +3,7 @@ title: Woodcutter Androids
 sidebar_position: 5
 ---
 
-An Android that specializes in automating the process of harvesting and replanting trees. This Android will work with all types of wood. This Android will work with all types of wood.
+An Android that specializes in automating the process of harvesting and replanting trees. This Android will work with all types of wood.
 
 ## Obtaining
 
