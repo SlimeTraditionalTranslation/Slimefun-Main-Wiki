@@ -9,7 +9,7 @@ The Combustion Reactor is a type of [Energy Generator](Electric-Machines#energy-
 
 A Combustion Reactor can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 A Combustion Reactor must be placed within 7 blocks of an [Energy Regulator](Energy-Regulator), an [Energy Connector](Energy-Connector), or an [Energy Capacitor](Energy-Capacitors) in a cross format (not diagonally), and provided with the appropriate fuel.
 
