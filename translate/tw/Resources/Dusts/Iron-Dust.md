@@ -15,7 +15,7 @@ Iron Dust has a ~11.11% chance of being extracted from [Sifted Ore](Sifted-Ore),
 
 Additionally, crushing an [Iron Ingot](Iron-Ingot) in an [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer) produces one piece of Iron Dust.
 
-## Usage
+## 使用方法
 
 Iron Dust can be smelted into [Iron Ingots](Iron-Ingot) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory).
 
