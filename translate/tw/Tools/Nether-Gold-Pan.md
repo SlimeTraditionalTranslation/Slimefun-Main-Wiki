@@ -15,7 +15,7 @@ The block will break and drop Quartz, a Gold Nugget, a Nether Wart, Blaze Powder
 
 Each item you can get with a Nether Gold Pan has a different probability to drop, listed below.
 
-| Item           | Chance |
+| 物品             | Chance |
 | -------------- | ------ |
 | Quartz         | 50%    |
 | Gold Nugget    | 25%    |
