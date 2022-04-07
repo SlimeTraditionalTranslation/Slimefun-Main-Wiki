@@ -9,7 +9,7 @@ It runs on [Organic Fertilizer](Miscellaneous-Items) which is made in the [Food 
 
 ## Crop Growth Accelerator Tiers
 
-| Tier | Power  | Speed Multiplier | Radius |
-|:----:|:------:|:----------------:|:------:|
-|  I   | 50 J/s |      3/time      |  7x7   |
-|  II  | 60 J/s |      4/time      |  9x9   |
+| 等級 | Power  | Speed Multiplier | Radius |
+|:--:|:------:|:----------------:|:------:|
+| I  | 50 J/s |      3/time      |  7x7   |
+| II | 60 J/s |      4/time      |  9x9   |
