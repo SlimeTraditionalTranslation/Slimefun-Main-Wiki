@@ -5,13 +5,13 @@ sidebar_position: 5
 
 An Ouput Node is the component of a [cargo network](Cargo-Management) which receives items sent by an [input node](Input-Node).
 
-An output node takes every available item sent through the selected channel. To filter specific items, use [advanced output nodes](Advanced-Output-Node), which use a whitelist/blacklist system.
+An output node takes every available item sent through the selected channel. An output node takes every available item sent through the selected channel. To filter specific items, use [advanced output nodes](Advanced-Output-Node), which use a whitelist/blacklist system.
 
 ## Obtaining
 
 Output nodes can be crafted in groups of two in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 An output node moves items from the network into the container or [machine](Electric-Machines) on which it is placed.
 
