@@ -3,7 +3,7 @@ title: Gold Pan
 sidebar_position: 1
 ---
 
-The Gold Pan is a very important item that is part of the [Tools](Tools) category. There are two variants, the normal Gold Pan and the [Nether Gold Pan](Nether-Gold-Pan). There are two variants, the normal Gold Pan and the [Nether Gold Pan](Nether-Gold-Pan).
+The Gold Pan is a very important item that is part of the [Tools](Tools) category. There are two variants, the normal Gold Pan and the [Nether Gold Pan](Nether-Gold-Pan).
 
 This page will only cover the standard Gold Pan.
 
