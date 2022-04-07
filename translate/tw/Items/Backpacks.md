@@ -3,7 +3,7 @@ title: 背包
 sidebar_position: 4
 ---
 
-Backpacks are items in which you can store other items. These can be very useful when looting or scavenging. These can be very useful when looting or scavenging.
+Backpacks are items in which you can store other items. These can be very useful when looting or scavenging.
 
 These come in 6 tiers, each tier providing more inventory slots to store items in.
 
