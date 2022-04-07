@@ -3,7 +3,7 @@ title: Synthetic Diamond
 sidebar_position: 3
 ---
 
-The Synthetic Diamond is a [Resource](/docs/Slimefun/Resources) that can substitute the minecraft diamond in the workbench. It is also used to craft various Slimefun items.
+The Synthetic Diamond is a [Resource](/docs/Slimefun/Resources) that can substitute the minecraft diamond in the workbench. It is also used to craft various Slimefun items. It is also used to craft various Slimefun items.
 
 ## Obtaining
 
