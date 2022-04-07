@@ -31,5 +31,5 @@ sidebar_position: 6
 | /sf teleporter (玩家)                             | 顯示特定玩家的GPS傳送點, 並允許你傳送到該點             | slimefun.command.teleporter |
 | /sf timings                                     | 向您顯示黏液科技的診斷工具, 用於辨識某些機器對伺服器的影響       | slimefun.command.timings    |
 | /sf debug_fish                                  | 給予你Debug工具. 用它來查詢或刪除黏液科技方塊資料         | slimefun.debugging          |
-| /sf backpack (玩家) (ID)                          | 給予你與參數匹配的還原背包. 僅用於取回物品.              | slimefun.command.backpack   |
+| /sf backpack (玩家) (ID)                          | 給予你與參數匹配的還原背包. 僅用於取回物品. 僅用於取回物品.     | slimefun.command.backpack   |
 | /sf charge                                      | 將你手上的物品充滿電.                          | slimefun.command.charge     |
