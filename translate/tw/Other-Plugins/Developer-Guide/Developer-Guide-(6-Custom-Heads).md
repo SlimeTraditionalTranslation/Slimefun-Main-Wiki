@@ -7,7 +7,7 @@ This is the **sixth Part** of our Developer Guide, you can find a full overview 
 
 If you haven't checked out the [fifth Part of this Guide](Developer-Guide-(5-Researches)), then please do that.
 
-## 1. 1. Our usual recap
+## 1. Our usual recap
 
 In the last part we covered how to create Researches.
 
@@ -41,7 +41,7 @@ research.register();
 
 Today we want to use custom heads for our item group and items.
 
-## 2. 2. Introduction
+## 2. Introduction
 
 As all of you know: Minecraft supports using any Player's head as an item or block.
 
@@ -57,17 +57,17 @@ Note that we are not affiliated with this website, this is just an example and o
 
 If you know a better tool or website, feel free to use that instead.
 
-## 3. 3. Getting the texture
+## 3. Getting the texture
 
 To use a head ingame you will need to point to the skin it should be using.
 
-Minecraft uses an URL to the https://textures.minecraft.net/texture/ server to accomplish this. This URL is not stored as plain text though, it is part of a JSON-String which is then encoded in Base64. This URL is not stored as plain text though, it is part of a JSON-String which is then encoded in Base64.
+Minecraft uses an URL to the https://textures.minecraft.net/texture/ server to accomplish this. This URL is not stored as plain text though, it is part of a JSON-String which is then encoded in Base64.
 
 Don't worry you don't need to understand any of that really, all you need to know is that each skin can be represented by a [Base64](https://en.wikipedia.org/wiki/Base64) String.
 
 Now we just need the Base64 String of our skin...
 
-### 3.1. 3.1. Creating a head yourself
+### 3.1. Creating a head yourself
 
 If you want to create your own texture it will be as simple as creating a skin for your character.
 
@@ -77,7 +77,7 @@ Since we will only be using the head, the body, arms and legs are unimportant to
 
 It is only important that you texturize the head part to your liking.
 
-Have you made your texture? Good, alright! Good, alright!
+Have you made your texture? Good, alright!
 
 You can then use [Minecraft-Heads' Custom heads generator](https://minecraft-heads.com/custom-heads/heads-generator) (as an example) to generate a give-command for your head.
 
@@ -85,9 +85,9 @@ It should look a little like this:
 
 `/give @p skull 1 3 {display:{Name:"Test"},SkullOwner:{Id:"6e094b8b-8c7c-4ee4-b039-bd99a95a7666",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0="}]}}}`
 
-Now pay attention to the data in this command. Now pay attention to the data in this command. There is a field called "Properties" followed by a "textures" object.
+Now pay attention to the data in this command. There is a field called "Properties" followed by a "textures" object.
 
-This is what we are looking for. This is what we are looking for. More precisely: It is actually the "Value" that we are looking for.
+This is what we are looking for. More precisely: It is actually the "Value" that we are looking for.
 
 So with everything else removed we are left with this:
 
@@ -113,9 +113,9 @@ This is the Base64 String we needed.
 
 We can now use this String for our needs in the next step.
 
-_Disclaimer: Grabbing a skin from the website is very easy but remember: Credit where credit's due. It is always best advice to credit the sources or even creators who's content you used. Disclaimer: Grabbing a skin from the website is very easy but remember: Credit where credit's due. It is always best advice to credit the sources or even creators who's content you used. This is not any legal advice but a little credit note on your project page for where you got those skins from is always a good idea._
+_Disclaimer: Grabbing a skin from the website is very easy but remember: Credit where credit's due. It is always best advice to credit the sources or even creators who's content you used. This is not any legal advice but a little credit note on your project page for where you got those skins from is always a good idea._
 
-## 4. 4. Using your texture for an Item Group
+## 4. Using your texture for an Item Group
 
 From our code we created earlier:
 
@@ -159,7 +159,7 @@ ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 Our ItemGroup is now displayed as our head.
 
-## 5. 5. Using your texture for items
+## 5. Using your texture for items
 
 The next part is to modify our `SlimefunItemStack` to have our custom head texture.
 
@@ -167,17 +167,15 @@ This is our code from earlier:
 
 ```java
 // ...
-// ...
 SlimefunItemStack itemStack = new SlimefunItemStack("FIRE_CAKE", Material.CAKE, "&4Fire Cake", "", LoreBuilder.radioactive(Radioactivity.HIGH), LoreBuilder.HAZMAT_SUIT_REQUIRED);
 // ...
 ```
 
 Wouldn't it be awesome for our Fire Cake to actually look like a dangerous piece of cake?
 
-With SlimefunItemStack this is even easier. With SlimefunItemStack this is even easier. We can simply replace our Material (`Material.CAKE`) with the Base64 String of our texture.
+With SlimefunItemStack this is even easier. We can simply replace our Material (`Material.CAKE`) with the Base64 String of our texture.
 
 ```java
-// ...
 // ...
 SlimefunItemStack itemStack = new SlimefunItemStack("FIRE_CAKE", "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0=", "&4Fire Cake", "", LoreBuilder.radioactive(Radioactivity.HIGH), LoreBuilder.HAZMAT_SUIT_REQUIRED);
 // ...
