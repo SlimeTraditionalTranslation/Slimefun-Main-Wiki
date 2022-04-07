@@ -13,7 +13,7 @@ Gold Dust is one of the nine [dusts](/docs/Slimefun/Resources/Dusts) added in Sl
 - Crushing a [4-carat Gold Ingot](Gold-Ingot#Gold-Ingot-4-Carat)  or a normal Gold Ingot in an [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer) produces one piece of Gold Dust.
 - If you are using the [SlimefunOreChunks](Addons#official-addons) addon, you can use the same machines to turn Gold Ore Chunks from the [GEO Miner](GEO-Miner) into Gold Dust.
 
-## Usage
+## 使用方法
 
 Gold Dust can be smelted into [4-carat to 24-carat Gold Ingots](Gold-Ingot) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory).
 
