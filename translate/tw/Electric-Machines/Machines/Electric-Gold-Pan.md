@@ -9,8 +9,8 @@ Unlike the [Electric Dust Washer](Electric-Dust-Washer) it still produces by-pro
 
 ## Electric Gold Pan Tiers
 
-| Tier | Power  | Speed Multiplier |
-|:----:|:------:|:----------------:|
-|  I   | 2 J/s  |       1.0x       |
-|  II  | 4 J/s  |       3.0x       |
-| III  | 14 J/s |      10.0x       |
+| 等級  | Power  | Speed Multiplier |
+|:---:|:------:|:----------------:|
+|  I  | 2 J/s  |       1.0x       |
+| II  | 4 J/s  |       3.0x       |
+| III | 14 J/s |      10.0x       |
