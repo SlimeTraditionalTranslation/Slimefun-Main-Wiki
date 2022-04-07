@@ -35,9 +35,9 @@ The Resources category contains many natural and man-made resources which are us
 ### [Radioactive](Radiation) materials
 
 * [Blistering Ingot](Blistering-Ingot)
-* [Uranium](Uranium)
-* [Neptunium](Neptunium)
+* [鈾](鈾)
+* [錼](錼)
 * [Plutonium](Plutonium)
-* [Boosted Uranium](Boosted-Uranium)
-* [Nether Ice](Nether-Ice)
+* [高純度鈾](Boosted-Uranium)
+* [地獄冰](Nether-Ice)
 * [Enriched Nether Ice](Enriched-Nether-Ice)
