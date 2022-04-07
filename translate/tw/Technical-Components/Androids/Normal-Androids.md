@@ -29,27 +29,27 @@ Each tier requires different types of fuel, their possible fuels are listed belo
 
 ### Basic Tier
 
-| Item             | Duration |
-| ---------------- | -------- |
-| Block of Coal    | 1m 20s   |
-| Dried Kelp Block | 1m 10s   |
-| Blaze Rod        | 45s      |
-| Coal/Charcoal    | 8s       |
-| Any Wood Log     | 2s       |
-| Any Planks Type  | 1s       |
+| Item             | 持續時間   |
+| ---------------- | ------ |
+| Block of Coal    | 1m 20s |
+| Dried Kelp Block | 1m 10s |
+| Blaze Rod        | 45s    |
+| Coal/Charcoal    | 8s     |
+| Any Wood Log     | 2s     |
+| Any Planks Type  | 1s     |
 
 ### Advanced Tier
 
-| Item           | Duration |
-| -------------- | -------- |
-| Bucket of Fuel | 8m 20s   |
-| Bucket of Oil  | 3m 20s   |
-| Lava Bucket    | 1m 40s   |
+| Item           | 持續時間   |
+| -------------- | ------ |
+| Bucket of Fuel | 8m 20s |
+| Bucket of Oil  | 3m 20s |
+| Lava Bucket    | 1m 40s |
 
 ### Empowered Tier
 
-| Item            | Duration |
-| --------------- | -------- |
-| Uranium         | 41m 40s  |
-| Neptunium       | 20m 0s   |
-| Boosted Uranium | 50m 0s   |
+| Item | 持續時間    |
+| ---- | ------- |
+| 鈾    | 41m 40s |
+| 錼    | 20m 0s  |
+| 高純度鈾 | 50m 0s  |
