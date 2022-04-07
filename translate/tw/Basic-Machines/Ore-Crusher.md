@@ -15,7 +15,7 @@ A complete setup should look like this:
 
 You can also place an [Output Chest](Output-Chest) next to the dispenser to collect your resources. If there is no [Output Chest](Output-Chest), then it will be put in the dispenser.
 
-## Usage
+## 使用方法
 
 The Ore Crusher is mainly used to crush ores into their minerals, but it has other uses too.
 

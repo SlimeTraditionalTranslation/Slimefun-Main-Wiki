@@ -10,7 +10,7 @@ It is essential to a working energy network.
 
 An Energy Regulator can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 An Energy Regulator must be placed within 7 blocks of an [Energy Generator](Electric-Machines#Energy-generation), [machine](Electric-Machines#Machines) or [capacitor](Energy-Capacitors) (in a straight line; no diagonals). It will transfer energy between anything in that range, if there is any.
 

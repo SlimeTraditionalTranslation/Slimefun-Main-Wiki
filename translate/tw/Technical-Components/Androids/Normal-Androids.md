@@ -9,7 +9,7 @@ A Normal Android is used as a base to create a specialized Android.
 
 Normal Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 Normal Androids can only be programmed to move. Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
 

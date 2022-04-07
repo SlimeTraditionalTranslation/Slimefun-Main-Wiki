@@ -10,7 +10,7 @@ Unlike its portable equivalent, it must be placed down before it can be used, an
 
 A trash can can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 Right-clicking a trash can after placing it (also right click) displays a chest-like interface where items can be moved.  
 Items disappear shortly after being placed in a trash can, unlike the portable dustbin, which waits for the interface to be closed.

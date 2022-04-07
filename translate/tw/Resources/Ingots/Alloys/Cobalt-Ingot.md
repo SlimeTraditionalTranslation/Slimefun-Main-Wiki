@@ -16,7 +16,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * 2 [Copper Dust](Copper-Dust)
 * 3 [Iron Dust](Iron-Dust)
 
-## Usage
+## 使用方法
 
 * [Magnet](Magnet)
 * [Cobalt Pickaxe](Cobalt-Pickaxe)

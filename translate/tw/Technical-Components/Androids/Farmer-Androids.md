@@ -9,7 +9,7 @@ An Android that specializes in automating the farming process..
 
 Farmer Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 Farmer Androids can be programmed to harvest or/and plant crops. Supported crops are listed below.
 

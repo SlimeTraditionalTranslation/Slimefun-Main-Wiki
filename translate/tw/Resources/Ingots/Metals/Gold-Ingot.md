@@ -13,7 +13,7 @@ Smelting [Gold Dust](Gold-Dust) in a [Smeltery](Smeltery) or an [Electric Ingot 
 
 Higher purity gold is obtained by smelting any carat gold along with a piece of [Gold Dust](Gold-Dust). This "adds" 2 carats, up until 24-carat gold, thus 11 [Gold Dust](Gold-Dust) are needed to create a single 24-carat Gold Ingot.
 
-## Usage
+## 使用方法
 
 Slimefun Gold Ingots cannot substitute regular Gold Ingots in vanilla recipes. Instead, they are used in new recipes.
 

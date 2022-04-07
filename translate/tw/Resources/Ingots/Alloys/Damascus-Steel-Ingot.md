@@ -17,7 +17,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * 4 [Iron Dust](Iron-Dust)
 * 16 Coal
 
-## Usage
+## 使用方法
 
 ### In other alloys
 

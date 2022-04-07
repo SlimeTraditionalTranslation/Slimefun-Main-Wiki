@@ -9,7 +9,7 @@ The Elevator Plate is a placeable device added in the [GPS](GPS) category.
 
 The Elevator Plate can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 Elevator Plates are automatically connected along the Y axis.
 

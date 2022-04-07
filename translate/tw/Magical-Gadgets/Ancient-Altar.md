@@ -10,7 +10,7 @@ It is used to craft other [Magical Items](Magical-Items) and gadgets, and to rep
 
 The Ancient Altar block can be crafted in a [Magic Workbench](Magic-Workbench).
 
-## Usage
+## 使用方法
 
 The Ancient Altar block on its own has no use. In order to have a working altar, the Ancient Altar must be surrounded by 8 [Ancient Pedestals](Ancient-Pedestal), 2 blocks away from it in cardinal directions and 1 block away diagonally.
 

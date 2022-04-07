@@ -11,7 +11,7 @@ The Teleporter is a Multiblock GPS-based device.
 
 A Teleporter is created by placing a [GPS Teleporter Matrix](GPS-Teleporter-Matrix) encircled by eight [GPS Teleporter Pylons](GPS-Teleporter-Pylon), and placing a [GPS Activation Device](GPS-Activation-Device) on the GPS Teleporter Matrix.
 
-## Usage
+## 使用方法
 
 Teleporters are used to teleport to waypoints created using a [GPS Marker Tool](GPS-Marker-Tool) or a [GPS Emergency Transmitter](GPS-Emergency-Transmitter).
 

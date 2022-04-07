@@ -9,7 +9,7 @@ It consists of the Soulbound Helmet, Soulbound Chestplate, Soulbound Leggings an
 
 They are unenchanted Diamond armor pieces and may be enchanted like any other armor pieces.
 
-## See also
+## 也請參考
 
 * [Soulbound Weapons](Soulbound-Weapons)
 * [Soulbound Tools](Soulbound-Tools)

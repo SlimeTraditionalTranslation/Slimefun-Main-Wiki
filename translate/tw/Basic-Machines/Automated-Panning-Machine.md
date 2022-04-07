@@ -17,7 +17,7 @@ A complete setup should look like this:
 
 You can also place an [Output Chest](Output-Chest) next to the cauldron to collect your items. If there is no [Output Chest](Output-Chest), then it will be thrown on top of the trapdoor.
 
-## Usage
+## 使用方法
 
 It's a faster version of the [Gold Pan](Gold-Pan) and the [Nether Gold Pan](Nether-Gold-Pan) and has the exact same usages as them combined.
 

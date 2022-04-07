@@ -32,6 +32,6 @@ If you ever get tired of right-clicking gravel, then check out the [Automated Pa
 
 If you have electricity, you may also be interested in the [Electric Gold Pan](Electric-Gold-Pan).
 
-## See also
+## 也請參考
 
 * [Nether Gold Pan](Nether-Gold-Pan)

@@ -9,7 +9,7 @@ Smelting one [Aluminum Dust](Aluminum-Dust) in a [Smeltery](Smeltery) or an [Ele
 
 Aluminum Ingots can be turned back to [Aluminum Dust](Aluminum-Dust) by an [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer)
 
-## Usage
+## 使用方法
 
 Aluminum Ingots are used in the following [alloys](Ingots#Alloys) for the [Smeltery](Smeltery) or the [Electric Smeltery](Electric-Smeltery):
 

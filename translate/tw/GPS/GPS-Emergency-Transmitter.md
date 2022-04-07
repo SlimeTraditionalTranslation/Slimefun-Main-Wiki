@@ -9,6 +9,6 @@ GPS Emergency Transmitter is an item added in the [GPS](GPS) category.
 
 GPS Emergency Transmitter can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table)
 
-## Usage
+## 使用方法
 
 While in inventory, GPS Emergency Transmitter creates a waypoint upon player's death with corresponding coordinates.

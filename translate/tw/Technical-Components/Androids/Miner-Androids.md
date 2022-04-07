@@ -9,7 +9,7 @@ An Android specialized for mining purposes, but can used to break other blocks t
 
 Miner Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 This android can be used to create tunnels, caves, and alikes. Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
 

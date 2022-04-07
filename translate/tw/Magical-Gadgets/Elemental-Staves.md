@@ -9,7 +9,7 @@ The Elemental Staves are five kinds of [Magical Gadgets](Magical-Gadgets).
 
 Elemental staves can be crafted in a [Magic Workbench](Magic-Workbench).
 
-## Usage
+## 使用方法
 
 The generic **Elemental Staff** has no use but is required as a crafting ingredient for the other types of staves.
 

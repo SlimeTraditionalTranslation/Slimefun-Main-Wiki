@@ -9,7 +9,7 @@ Smelting one [Lead Dust](Lead-Dust) in a [Smeltery](Smeltery) or an [Electric In
 
 Lead Ingots can be turned back to [Lead Dust](Lead-Dust) by an [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer)
 
-## Usage
+## 使用方法
 
 Lead Ingots are used in the following [alloys](Ingots#Alloys) for the [Smeltery](Smeltery) or the [Electric Smeltery](Electric-Smeltery):
 

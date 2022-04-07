@@ -9,7 +9,7 @@ A Connector Node is the component of a [cargo network](Cargo-Management) which c
 
 Connector nodes can be crafted in groups of four in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 A connector node must be aligned within 6 blocks of a [cargo manager](Cargo-Manager) or another connector in range of one, in a straight line (no diagonals).
 

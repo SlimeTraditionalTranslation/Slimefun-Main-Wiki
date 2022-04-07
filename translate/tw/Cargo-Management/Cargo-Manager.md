@@ -9,7 +9,7 @@ A Cargo Manager is the core part of a [cargo management system](Cargo-Management
 
 A cargo manager can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 A cargo manager is a requirement of every cargo network, as it allows the transfer of items between the nodes in its range. It does not move items by itself: instead, it must be [connected](Connector-Node) to [input](Input-Node) and [output nodes](Output-Node) (or [advanced output nodes](Advanced-Output-Node)).
 

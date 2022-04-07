@@ -9,7 +9,7 @@ Smelting one [Tin Dust](Tin-Dust) in a [Smeltery](Smeltery) or an [Electric Ingo
 
 Tin Ingots can be turned back to [Tin Dust](Tin-Dust) by an [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer)
 
-## Usage
+## 使用方法
 
 Tin Ingots are used in the following recipe:
 

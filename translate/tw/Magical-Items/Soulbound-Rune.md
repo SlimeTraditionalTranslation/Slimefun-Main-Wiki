@@ -11,7 +11,7 @@ The rune prevents the item it is used on from being dropped upon death, similarl
 
 Soulbound Runes can be crafted by performing the appropriate ritual at an [Ancient Altar](Ancient-Altar).
 
-## Usage
+## 使用方法
 
 You can bind an item to your soul by dropping it, and then dropping a Soulbound Rune next to it.
 

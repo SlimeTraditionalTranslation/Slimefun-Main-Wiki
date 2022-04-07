@@ -9,7 +9,7 @@ An Android that specializes in killing hostile mobs or/and animals.
 
 Butcher Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 Butcher Androids can be programmed to kill:
 

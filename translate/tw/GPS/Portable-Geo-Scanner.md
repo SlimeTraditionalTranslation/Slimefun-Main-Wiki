@@ -9,7 +9,7 @@ The Portable Geo-Scanner is a tool added in the [GPS](GPS) category. It is a por
 
 The Portable Geo-Scanner can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 Right-Clicking with a Portable Geo-Scanner opens a chest GUI with the overview of mineable resources of the given chunk.
 

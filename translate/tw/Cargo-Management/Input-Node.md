@@ -9,7 +9,7 @@ An Input Node is the component of a [cargo network](Cargo-Management) which filt
 
 Input nodes can be crafted in groups of two in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 Input nodes move items from the container on which they are placed into the network, as long as there is an available matching output node in the network.
 

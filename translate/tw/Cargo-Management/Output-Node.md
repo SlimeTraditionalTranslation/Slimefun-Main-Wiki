@@ -11,7 +11,7 @@ An output node takes every available item sent through the selected channel. To 
 
 Output nodes can be crafted in groups of two in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 An output node moves items from the network into the container or [machine](Electric-Machines) on which it is placed.
 

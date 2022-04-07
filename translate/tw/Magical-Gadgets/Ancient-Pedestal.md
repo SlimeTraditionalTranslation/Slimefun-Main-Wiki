@@ -9,7 +9,7 @@ The Ancient Pedestal is a block in the [Magical Gadgets](Magical-Gadgets) catego
 
 The Ancient Pedestal can be crafted in a [Magic Workbench](Magic-Workbench).
 
-## Usage
+## 使用方法
 
 8 Ancient Pedestals must be placed around an [Ancient Altar](Ancient-Altar) in order for it to work.
 

@@ -20,7 +20,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * 1 [Tin Dust](Tin-Dust)
 * 48 Coal
 
-## Usage
+## 使用方法
 
 ### In other alloys
 

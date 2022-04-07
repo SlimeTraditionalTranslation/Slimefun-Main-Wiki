@@ -22,7 +22,7 @@ There is an even chance of getting any kind of dust during the process (= ~11.11
 
 They can also be produced by crushing the corresponding [ingot](Ingots#Metals) in an [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer).
 
-## Usage
+## 使用方法
 
 Dusts can be smelted into [alloys](Ingots#Alloys) or their respective [ingots](Ingots#Metals) in a [Smeltery](Smeltery).
 

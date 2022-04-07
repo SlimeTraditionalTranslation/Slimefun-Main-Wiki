@@ -11,7 +11,7 @@ It is an unenchanted Diamond Pickaxe which can mine entire ore veins at once.
 
 The Pickaxe of Vein Mining can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 When you break ore with this pickaxe, connected ore blocks are broken as well, even if they are of a different type. The pickaxe can break up to 16 ore blocks at once.
 

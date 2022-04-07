@@ -9,7 +9,7 @@ The GPS Geo-Scanner is a placeable tool added in the [GPS](GPS) category.
 
 The GPS Geo-Scanner can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 Right-Clicking on a placed GPS Geo-Scanner opens a chest GUI with the overview of mineable resources of a given chunk.
 

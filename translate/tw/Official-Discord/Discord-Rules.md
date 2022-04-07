@@ -279,6 +279,6 @@ Our Discord server has a lot of roles too, some are considered staff, some are e
 | *Nitro Booster* | *You boosted our Server with Nitro*                    | *Custom Emojis and Reactions*    |
 | *Helpful*       | *You can mark yourself as helpful by doing `!helpful`* | *Everyone is allowed to tag you* |
 
-## See also
+## 也請參考
 
 You may also want to take a look at our list of [Discord commands](Discord-Commands)

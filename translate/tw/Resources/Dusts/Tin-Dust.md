@@ -9,7 +9,7 @@ Tin Dust is one of the nine [dusts](/docs/Slimefun/Resources/Dusts) added in Sli
 
 Tin Dust has a ~11.11% chance of being extracted from [Sifted Ore](Sifted-Ore), by processing it through an [Ore Washer](Ore-Washer) or an [Electric Dust Washer](Electric-Dust-Washer).
 
-## Usage
+## 使用方法
 
 Tin Dust can be smelted into [Tin Ingots](Tin-Ingot) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory).
 

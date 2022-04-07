@@ -1,82 +1,82 @@
 ---
-title: Protection Plugins
+title: 保護插件
 sidebar_position: 2
 ---
 
-Slimefun4 supports a lot of protection plugins out of the box.
+黏液科技支持許多開箱即用的保護插件.
 
-This is done in order to prevent players from abusing Slimefun Items to grief other people.
+這樣做是為了防止玩家濫用黏液科技物品使其他人感到難過.
 
-This article contains a list of all supported protection plugins as well as instructions on how to add support for your plugin.
+本文章包含所有受支持的保護插件列表, 及有關如何增加對插件的支持說明.
 
-## Supported Protection Plugins
+## 支持的保護插件
 
-The following plugins are supported by default.
+在默認情況下支持以下插件.
 
-Plugins that support offline players will even provide support for Programmable Androids if the owner of that android is offline.
+如果插件支持離線玩家, 則在機器人所有者離線時, 機器人仍然會繼續運作.
 
-If a plugin does not support offline players, then your android will always require you to be online in order to function properly
+如果插件不支持離線玩家, 那麼你的機器人始終需要你在線上時才能正常運行
 
-:heavy_check_mark: = Full Support
+:heavy_check_mark: = 完全支持
 
-:heavy_minus_sign: = Partial Support (e.g. only in unprotected regions)
+:heavy_minus_sign: = 部分支持 (例如: 僅在未受保護的區域)
 
-:x: = No Support
+:x: = 不支持
 
-N/A = Not applicable
+N/A = 不適用
 
-| Plugin          | Support for Players  | Support for Offline Players |   Support for PvP    | Support for Entities |
-| --------------- |:--------------------:|:---------------------------:|:--------------------:|:--------------------:|
-| ASkyBlock       | :heavy_check_mark: |    :heavy_check_mark:     | :heavy_minus_sign: | :heavy_minus_sign: |
-| BentoBox        | :heavy_check_mark: |    :heavy_check_mark:     | :heavy_check_mark: | :heavy_check_mark: |
-| BlockLocker     | :heavy_check_mark: |    :heavy_check_mark:     |         N/A          |         N/A          |
-| ChestProtect    | :heavy_check_mark: |    :heavy_check_mark:     |         N/A          |         N/A          |
-| FactionsUUID    | :heavy_check_mark: |    :heavy_check_mark:     | :heavy_check_mark: | :heavy_check_mark: |
-| FunnyGuilds     | :heavy_check_mark: |             :x:             | :heavy_minus_sign: | :heavy_minus_sign: |
-| GriefPrevention | :heavy_check_mark: |    :heavy_minus_sign:     | :heavy_check_mark: | :heavy_check_mark: |
-| LandLord        | :heavy_check_mark: |    :heavy_check_mark:     | :heavy_check_mark: | :heavy_check_mark: |
-| Lands           | :heavy_check_mark: |    :heavy_check_mark:     | :heavy_check_mark: | :heavy_check_mark: |
-| Lockette        | :heavy_check_mark: |    :heavy_check_mark:     |         N/A          |         N/A          |
-| LWC             | :heavy_check_mark: |    :heavy_minus_sign:     |         N/A          |         N/A          |
-| PlotSquared     | :heavy_check_mark: |    :heavy_check_mark:     | :heavy_check_mark: | :heavy_check_mark: |
-| PreciousStones  | :heavy_check_mark: |             :x:             | :heavy_check_mark: | :heavy_check_mark: |
-| RedProtect      | :heavy_check_mark: |    :heavy_minus_sign:     | :heavy_check_mark: | :heavy_check_mark: |
-| Towny           | :heavy_check_mark: |             :x:             | :heavy_minus_sign: | :heavy_minus_sign: |
-| WorldGuard      | :heavy_check_mark: |    :heavy_check_mark:     | :heavy_check_mark: | :heavy_check_mark: |
+| 插件              |         支持玩家         |        支持離線玩家        |        支持PvP         |         支持實體         |
+| --------------- |:--------------------:|:--------------------:|:--------------------:|:--------------------:|
+| ASkyBlock       | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: |
+| BentoBox        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| BlockLocker     | :heavy_check_mark: | :heavy_check_mark: |         N/A          |         N/A          |
+| ChestProtect    | :heavy_check_mark: | :heavy_check_mark: |         N/A          |         N/A          |
+| FactionsUUID    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| FunnyGuilds     | :heavy_check_mark: |         :x:          | :heavy_minus_sign: | :heavy_minus_sign: |
+| GriefPrevention | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_check_mark: |
+| LandLord        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Lands           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Lockette        | :heavy_check_mark: | :heavy_check_mark: |         N/A          |         N/A          |
+| LWC             | :heavy_check_mark: | :heavy_minus_sign: |         N/A          |         N/A          |
+| PlotSquared     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| PreciousStones  | :heavy_check_mark: |         :x:          | :heavy_check_mark: | :heavy_check_mark: |
+| RedProtect      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_check_mark: |
+| Towny           | :heavy_check_mark: |         :x:          | :heavy_minus_sign: | :heavy_minus_sign: |
+| WorldGuard      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
-### You cannot see your protection plugin?
+### 沒看到你的保護插件?
 
-Either the plugin offers no integration, support for it hasn't been added by the author of that plugin or it is actually supported.
+可能該插件不提供集成, 或者該插件作者尚未添加支持, 或是實際上已支持.
 
-A lot of plugins actually require WorldGuard or other plugins from the above list and use that plugin in the background.
+許多插件實際上需要上列表中的 WorldGuard 或其他插件, 並在後台使用該插件.
 
-If a plugin does not show up in this list, then please ask the author of that plugin if it uses another protection plugin in the background.
+如果某個插件未顯示在此列表中, 請詢問該插件作者是否在後台使用了另一個保護插件.
 
-If it does not, then feel free to link them this article as we will walk over how to add support later.
+如果沒有, 請隨意將官方的英文文章連結給它們, 我們稍後將會介紹如何添加支持.
 
-## Supported Protection Loggers
+## 支持的保護紀錄
 
-Slimefun4 also supports a few protection loggers.
+黏液科技也支持了一些保護紀錄器.
 
-These loggers can for example allow you to rollback certain actions, such as blocks destroyed in an unusual manner by Slimefun Items.
+例如, 這些紀錄器可以允許你回退某些操作, 像是破壞黏液科技的物品以異常的方式.
 
-Here is a list of all plugins we support by default.
+這是默認下我們支持的所有插件列表.
 
-| Plugin      | Support for broken Blocks | Support for placed Blocks |
-| ----------- |:-------------------------:|:-------------------------:|
-| CoreProtect |   :heavy_check_mark:    |   :heavy_check_mark:    |
-| LogBlock    |   :heavy_check_mark:    |            :x:            |
+| 插件          |        支持破壞方塊        |        支持放置方塊        |
+| ----------- |:--------------------:|:--------------------:|
+| CoreProtect | :heavy_check_mark: | :heavy_check_mark: |
+| LogBlock    | :heavy_check_mark: |         :x:          |
 
-## Adding Support for your protection plugin
+## 為你的保護插件添加支持
 
-Protection Integration is handled in dough (https://github.com/baked-libs/dough).
+保護集成在 dough (https://github.com/baked-libs/dough).
 
-To add support for your own plugin, all you have to do is make a Pull Request to that repository.
+要對自己的插件進行支持, 你所需要的是對該專案發出合併請求.
 
-Here is what you need to do:
+這是你需要做的:
 
-1. Add your plugin as a dependency to the pom.xml (in [dough-api](https://github.com/baked-libs/dough/blob/main/dough-protection/pom.xml) and [dough-protection](https://github.com/baked-libs/dough/blob/main/dough-protection/pom.xml))
-2. Create a new class that extends [ProtectionModule.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/ProtectionModule.java) and add it to the [modules - package](https://github.com/baked-libs/dough/tree/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/modules)
-3. Override the required methods; make sure to distinguish between the different types of [Interaction.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/Interaction.java); also consider to add support for offline players or make an instanceof-check if not.
-4. Load an instance of your class when your plugin loads in [ProtectionManager.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/ProtectionManager.java)
-5. Submit a [Pull Request](https://github.com/baked-libs/dough/pulls) to dough
+1. 將插件做為依賴選項添加至 pom.xml (在 [dough-api](https://github.com/baked-libs/dough/blob/main/dough-protection/pom.xml) 和 [dough-protection](https://github.com/baked-libs/dough/blob/main/dough-protection/pom.xml))
+2. 創建一個擴展 [ProtectionModule.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/ProtectionModule.java) 並將其添加至 [modules - package](https://github.com/baked-libs/dough/tree/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/modules)
+3. 覆蓋所需的函數; 確保區分 [Interaction.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/Interaction.java) 的不同類型; 並考慮增加對離線玩家的支持, 如果沒有請進行檢查.
+4. 載入一個例子當你的插件載入了 [ProtectionManager.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/ProtectionManager.java)
+5. 向 dough 提交 [Pull Request](https://github.com/baked-libs/dough/pulls)

@@ -9,7 +9,7 @@ They consist of the Soulbound Pickaxe, Soulbound Axe, Soulbound Shovel and Soulb
 
 They are unenchanted Diamond tools and may be enchanted like any other tool.
 
-## See also
+## 也請參考
 
 * [Soulbound Weapons](Soulbound-Weapons)
 * [Soulbound Armor](Soulbound-Armor)

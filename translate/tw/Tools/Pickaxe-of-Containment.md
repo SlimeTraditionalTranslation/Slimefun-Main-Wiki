@@ -11,6 +11,6 @@ It is an Iron Pickaxe which allows you to pick up spawners. Although it can be e
 
 The Pickaxe of Containment can be crafted at a [Magic Workbench](Magic-Workbench).
 
-## Usage
+## 使用方法
 
 Breaking a vanilla spawner with a Pickaxe of Containment will produce a [Broken Spawner](Broken-Spawner) with the same mob type as the original one. It can be [repaired](Reinforced-Spawner) at an [Ancient Altar](Ancient-Altar).

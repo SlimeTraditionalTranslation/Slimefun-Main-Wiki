@@ -13,7 +13,7 @@ You can produce Iron Ingots by smelting [Iron Dust](Iron-Dust) in a [Smeltery](S
 
 Iron Ingots can be turned back to [Iron Dust](Iron-Dust) by an [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer)
 
-## Usage
+## 使用方法
 
 Besides their uses in the game's base recipes, Iron Ingots can be turned into [Iron Dust](Iron-Dust) by crushing them in an [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer).
 

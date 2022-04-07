@@ -9,7 +9,7 @@ An Android that specializes in automating the fishing process.
 
 Fisherman Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 You have to put water underneath the Android in order for it to work. Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
 

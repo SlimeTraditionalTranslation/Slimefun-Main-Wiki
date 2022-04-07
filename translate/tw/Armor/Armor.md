@@ -1,42 +1,42 @@
 ---
-title: Armor Overview
+title: 盔甲總覽
 ---
 
-The Armor category contains six new sets of armor, plus the ability to craft Chainmail Armor.
+盔甲類別包含了六套新的盔甲, 以及能夠製作鎖鏈盔甲的能力.
 
-## Armor Sets
+## 盔甲套裝
 
-### Damascus Steel Armor Set
+### 大馬士革鋼盔甲套裝
 
-The Damascus Steel Armor Set is an Iron Armor Set with Protection V and Unbreaking V on every piece.
+大馬士革鋼盔甲是一套鐵套裝, 每件帶有保護5與耐久5.
 
-### Reinforced Armor Set
+### 強化合金盔甲套裝
 
-The Reinforced Armor Set is an Iron Armor Set with Protection IX and Unbreaking IX on every piece.
+強化合金盔甲套裝是一套鐵裝, 每件帶有保護9與耐久9.
 
-### Cactus Armor Set
+### 仙人掌盔甲套裝
 
-The Cactus Armor Set is a (green-dyed) Leather Armor Set with Thorns III and Unbreaking VI.
+仙人掌盔甲套裝是一套 (染成綠色的) 皮革套裝, 有尖刺3與耐久6.
 
-### Chainmail Armor Set
+### 鎖鏈盔甲套裝
 
-This set is the same set as vanilla minecraft offers, it was just made craftable.
+這個套裝與原版 Minecraft 套裝一樣, 只是變成可以製作.
 
-### Gilded Iron Armor Set
+### 鍍金鐵盔甲套裝
 
-The Gilded Iron Armor Set is a Gold Armor Set with Protection VIII and Unbreaking VI on every piece.
+鍍金鐵盔甲套裝是一套金裝, 每件帶有保護8與耐久6.
 
-### Hazmat Suit
+### 防護服套裝
 
-The Hazmat suit is a (orange/black-dyed) Leather Armor Set which provides full immunity towards [Radiation](Radiation) and Bee Stings when wearing the full set.
+防護服套裝是一個 (橘色/黑色染色) 的皮革套裝, 穿著全套時可以完全免疫 [輻射](Radiation) 和蜜蜂螫傷.
 
-The Scuba Helmet allows you to breath underwater.  
-The Hazma Suit Chestplate makes you immune to fire and lava.
+潛水頭盔可以讓你在水下呼吸.  
+防護衣可以讓你免疫火與岩漿.
 
-### Gold Armor Set
+### 黃金盔甲套裝
 
-The Gold Armor Set is a vanilla Gold Armor Set with Unbreaking X on every piece.
+黃金盔甲套裝是原版的金套裝, 每件都帶有耐久10.
 
-## See also
+## 也請參考
 
 * [魔法盔甲](Magical-Armor)
