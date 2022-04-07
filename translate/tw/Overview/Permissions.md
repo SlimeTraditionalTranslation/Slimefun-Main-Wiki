@@ -3,7 +3,7 @@ title: 權限
 sidebar_position: 5
 ---
 
-這是黏液科技所添加了所有權限節點. 它們之中用於大多數指令, 因此請確保也有查看[指令](Commands)的維基頁面.
+這是黏液科技所添加了所有權限節點. Most of them are used for commands, so make sure to also see the wiki page about [Commands](Commands.md).
 
 ## 對於指令的權限
 
