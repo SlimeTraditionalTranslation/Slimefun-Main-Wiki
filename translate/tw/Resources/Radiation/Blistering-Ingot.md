@@ -11,4 +11,4 @@ Blistering Ingots can be crafted in a [Heated Pressure Chamber](Heated-Pressure-
 
 ## Handling
 
-Blistering Ingots are HIGHLY [Radioactive](Radiation). Blistering Ingots are HIGHLY [Radioactive](Radiation). Wearing a [Hazmat Suit](Armor#hazmat-suit) at all times while handling them is *highly recommended*.
+Blistering Ingots are HIGHLY [Radioactive](Radiation). Wearing a [Hazmat Suit](Armor#hazmat-suit) at all times while handling them is *highly recommended*.
