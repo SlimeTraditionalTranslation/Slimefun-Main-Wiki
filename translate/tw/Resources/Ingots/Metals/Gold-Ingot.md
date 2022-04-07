@@ -11,11 +11,11 @@ They are differentiated by their purity (measured in "carats"), with the lowest 
 
 Smelting [Gold Dust](Gold-Dust) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory) produces a 4-carat Gold Ingot.
 
-Higher purity gold is obtained by smelting any carat gold along with a piece of [Gold Dust](Gold-Dust). Higher purity gold is obtained by smelting any carat gold along with a piece of [Gold Dust](Gold-Dust). This "adds" 2 carats, up until 24-carat gold, thus 11 [Gold Dust](Gold-Dust) are needed to create a single 24-carat Gold Ingot.
+Higher purity gold is obtained by smelting any carat gold along with a piece of [Gold Dust](Gold-Dust). This "adds" 2 carats, up until 24-carat gold, thus 11 [Gold Dust](Gold-Dust) are needed to create a single 24-carat Gold Ingot.
 
 ## 使用方法
 
-Slimefun Gold Ingots cannot substitute regular Gold Ingots in vanilla recipes. Instead, they are used in new recipes. Instead, they are used in new recipes.
+Slimefun Gold Ingots cannot substitute regular Gold Ingots in vanilla recipes. Instead, they are used in new recipes.
 
 ### Gold Ingot (4-Carat)
 
