@@ -3,18 +3,18 @@ title: 常見問答
 sidebar_position: 9
 ---
 
-## How can I download / install Slimefun or its Addons?
+## 我該如何 下載/安裝 黏液科技或它的附加?
 
-To download and install Slimefun you can refer to [this guide here](Installing-Slimefun).  
-You can find Addons for Slimefun4 on our ["Addons" - page](Addons).
+要下載並安裝黏液科技, 你可以參考 [這個指南](Installing-Slimefun).  
+你也可以在我們的 ["附加" - 頁面](Addons) 上找到黏液科技的附加.
 
-You can install these just like you did with Slimefun, putting them in the `/plugins/` folder of your Server.
+你可以安裝這些就像是你安裝黏液科技, 只要把它們放置在伺服器的 `/plugins/` 資料夾下.
 
-## Can I install Slimefun on a Singleplayer world?
+## 我可以安裝黏液科技在單人世界?
 
-No.
+不.
 
-Slimefun is a Bukkit / Spigot plugin, so it requires you to have a Bukkit-based Minecraft Server running. Creating such a Server is very easy though, you will be able to find lots of tutorials online. If you want to enjoy Slimefun all on your own, set up a new Minecraft Server on your computer, install the plugin and connect to it using the address `localhost`. Without any extra efforts your server won't be visible to others outside of your local network anyway.
+黏液科技是 Bukkit/Spigot 的插件, 所以它需要你安裝基於 Bukkit 的 Minecraft 伺服器來運行. 製作這樣的伺服器非常容易, 你可以在網路上找到很多教程. If you want to enjoy Slimefun all on your own, set up a new Minecraft Server on your computer, install the plugin and connect to it using the address `localhost`. Without any extra efforts your server won't be visible to others outside of your local network anyway.
 
 ## Will Slimefun be available for Minecraft version XYZ?
 
