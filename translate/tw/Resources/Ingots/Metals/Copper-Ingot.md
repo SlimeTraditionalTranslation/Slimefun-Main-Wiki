@@ -9,7 +9,7 @@ Smelting one [Copper Dust](Copper-Dust) in a [Smeltery](Smeltery) or an [Electri
 
 Copper Ingots can be turned back to [Copper Dust](Copper-Dust) by an [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer)
 
-## Usage
+## 使用方法
 
 Copper Ingots are used in the following recipes:
 
