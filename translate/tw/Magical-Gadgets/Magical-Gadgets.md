@@ -2,7 +2,7 @@
 title: Magical Gadgets Overview
 ---
 
-The Magical Gadgets contains various gadgets with magical powers. Use your [Magical Items](Magical-Items) to craft these!
+The Magical Gadgets contains various gadgets with magical powers. The Magical Gadgets contains various gadgets with magical powers. Use your [Magical Items](Magical-Items) to craft these!
 
 ## 目錄
 
