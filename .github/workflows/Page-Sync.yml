@@ -2,11 +2,15 @@ name: Main Wiki Page Sync
 
 on:
   workflow_dispatch: {}
-  push:
-    branches:
-    - master
-    paths:
-    - 'translate/tw/**'
+  workflow_run:
+    workflows: ["AutoSquash"]
+    types:
+      - completed
+  # push:
+  #   branches:
+  #   - master
+  #   paths:
+  #   - 'translate/tw/**'
 
 jobs:
   sync:
