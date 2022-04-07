@@ -17,11 +17,11 @@ You have to put water underneath the Android in order for it to work. Androids n
 
 There are three tiers on the Fisherman Android, each with different modifiers listed below.
 
-| Tier      | Fuel Efficiency | Success Rate |
-| --------- |:---------------:| ------------ |
-| Basic     |      1.0x       | 10%          |
-| Advanced  |      1.5x       | 20%          |
-| Empowered |      8.0x       | 30%          |
+| 等級 | 燃料效率 | 成功率 |
+| -- |:----:| --- |
+| 基礎 | 1.0x | 10% |
+| 高級 | 1.5x | 20% |
+| 頂級 | 8.0x | 30% |
 
 ## Loot Table
 
