@@ -3,7 +3,7 @@ title: Lumps
 sidebar_position: 1
 ---
 
-There are two types of Lumps, Ender and Magical. They're both used to craft a lot of [Magical Items](Magical-Items) and [Magical Gadgets](Magical-Gadgets).
+There are two types of Lumps, Ender and Magical. There are two types of Lumps, Ender and Magical. They're both used to craft a lot of [Magical Items](Magical-Items) and [Magical Gadgets](Magical-Gadgets).
 
 ## Obtaining
 
