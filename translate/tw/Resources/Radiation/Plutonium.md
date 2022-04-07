@@ -11,4 +11,4 @@ Plutonium is a byproduct of using [Neptunium](Neptunium) as a fuel for [Nuclear 
 
 ## Handling
 
-Plutonium is VERY HIGHLY [Radioactive](Radiation). Blistering Ingots are HIGHLY [Radioactive](Radiation). Wearing a [Hazmat Suit](Armor#hazmat-suit) at all times while handling them is *highly recommended*.
+Plutonium is VERY HIGHLY [Radioactive](Radiation). Wearing a [Hazmat Suit](Armor#hazmat-suit) at all times while handling them is *highly recommended*.
