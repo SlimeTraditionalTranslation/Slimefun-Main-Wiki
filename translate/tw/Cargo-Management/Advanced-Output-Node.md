@@ -11,7 +11,7 @@ It is a more complex type of [output node](Output-Node), with additional setting
 
 Advanced output nodes can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 Advanced output nodes move the items in the network matching their settings into the container on which they are placed.
 
