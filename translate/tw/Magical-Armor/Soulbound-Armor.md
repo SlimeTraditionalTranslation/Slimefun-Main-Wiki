@@ -5,7 +5,7 @@ sidebar_position: 1
 
 Soulbound Armor is a set of [Magical Armor](Magical-Armor) added in Slimefun.
 
-It consists of the Soulbound Helmet, Soulbound Chestplate, Soulbound Leggings and Soulbound Boots. As the name implies, they will remain in your Inventory even if you die. As the name implies, they will remain in your Inventory even if you die.
+It consists of the Soulbound Helmet, Soulbound Chestplate, Soulbound Leggings and Soulbound Boots. As the name implies, they will remain in your Inventory even if you die.
 
 They are unenchanted Diamond armor pieces and may be enchanted like any other armor pieces.
 
