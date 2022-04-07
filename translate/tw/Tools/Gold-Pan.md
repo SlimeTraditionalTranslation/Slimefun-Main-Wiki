@@ -19,7 +19,7 @@ You can read more about [Sifted Ore](Sifted-Ore) and how to use it in Slimefun's
 
 Each item you can get with a Gold Pan has a different probability to drop, listed below.
 
-| Item                     | Chance |
+| 物品                       | Chance |
 | ------------------------ | ------ |
 | Flint                    | 40%    |
 | [Sifted Ore](Sifted-Ore) | 35%    |
