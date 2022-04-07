@@ -24,11 +24,11 @@ Every submission was reviewed by a total of 2 reviewers based on the following 6
 * **Accuracy** _How well was the theme incoporated?_
 * **Creativity** _Were the ideas behind that submission interesting enough?_
 * **Innovation** _Does the submission feature innovative and new mechanics or is just a copy/paste of the tutorial?_
-* **Code Quality** _Is the code structured in a sensible way? Does it follow conventions or contain bad practices?_ Does it follow conventions or contain bad practices?</em>
+* **Code Quality** _Is the code structured in a sensible way? Does it follow conventions or contain bad practices?_
 * **Gameplay** _Generally: Is it fun to play or rather boring?_
-* **Mechanics** _Are the mechanics designed in a user-friendly way? What about visuals, like particles, tooltips, etc...?_ What about visuals, like particles, tooltips, etc...?</em>
+* **Mechanics** _Are the mechanics designed in a user-friendly way? What about visuals, like particles, tooltips, etc...?_
 
-The scores are calculated by taking the average of all scores by all reviewers for that category. The total score is the average of all categories. The total score is the average of all categories.
+The scores are calculated by taking the average of all scores by all reviewers for that category. The total score is the average of all categories.
 
 ## Submissions
 
@@ -46,7 +46,7 @@ https://github.com/nahkd123/Endrex
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 9.6      | 9.05       | 8.0        | 4.75         | 7.65     | 7.6       | **7.78** |
 
-> This addon add some structures that can be generated in The End. It also add some resources that can be obtained via GEO Miner. _by nahkd_ It also add some resources that can be obtained via GEO Miner. _by nahkd_
+> This addon add some structures that can be generated in The End. It also add some resources that can be obtained via GEO Miner. _by nahkd_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -88,7 +88,7 @@ https://github.com/Sfiguz7/TranscEndence
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 2.75     | 8.85       | 8.2        | 7.95         | 8.2      | 8.7       | **7.44** |
 
-> TranscEndence adds some items and machines which have the end objective of crafting Daxis AKA items which will give permanent potion effects until next death. It includes some machines, both "regular" and a couple with some changes, aimed at collecting and crafting all the items that will help reach said objective, step by step. _by Sfiguz7_ It includes some machines, both "regular" and a couple with some changes, aimed at collecting and crafting all the items that will help reach said objective, step by step. _by Sfiguz7_
+> TranscEndence adds some items and machines which have the end objective of crafting Daxis AKA items which will give permanent potion effects until next death. It includes some machines, both "regular" and a couple with some changes, aimed at collecting and crafting all the items that will help reach said objective, step by step. _by Sfiguz7_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -112,7 +112,7 @@ https://github.com/Sfiguz7/TranscEndence
 
 #### Conclusion
 
-A very user-friendly plugin with many awesome mechanics. Really a very unique addon for sure with lots of stuff to keep you occupied. The code does contain some rather bad practices though and the theme was mostly ignored. Really a very unique addon for sure with lots of stuff to keep you occupied. The code does contain some rather bad practices though and the theme was mostly ignored.
+A very user-friendly plugin with many awesome mechanics. Really a very unique addon for sure with lots of stuff to keep you occupied. The code does contain some rather bad practices though and the theme was mostly ignored.
 
 </details>
 
@@ -123,7 +123,7 @@ https://github.com/TweepCoding/New-Begginings
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 7.75     | 7.65       | 7.05       | 7.1          | 8.3      | 6.4       | **7.38** |
 
-> It basically adds new stuff to the End ( Duh! It basically adds new stuff to the End ( Duh! ), but it mostly tries to use the end as a stepping stone, to get materials from in, and go beyond, adding new armor, a new boss, new recipes, items, a panda cannon, and yeah. _by Tweep_ _by Tweep_
+> It basically adds new stuff to the End ( Duh! ), but it mostly tries to use the end as a stepping stone, to get materials from in, and go beyond, adding new armor, a new boss, new recipes, items, a panda cannon, and yeah. _by Tweep_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -148,7 +148,7 @@ https://github.com/TweepCoding/New-Begginings
 
 #### Conclusion
 
-There is not too much to say about this addon, it's fun. But the code has a lot of room for improvement but is despite all those comments rather clean in general. The Theme was incorporated somewhat good. But the code has a lot of room for improvement but is despite all those comments rather clean in general. The Theme was incorporated somewhat good.
+There is not too much to say about this addon, it's fun. But the code has a lot of room for improvement but is despite all those comments rather clean in general. The Theme was incorporated somewhat good.
 
 </details>
 
@@ -159,7 +159,7 @@ https://github.com/Gavin296/end-combat
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 9.2      | 8.2        | 5.45       | 5.6          | 7.25     | 6.35      | **7.01** |
 
-> Adds a variety of tools/weapons to Slimefun. Also includes a new boss. _by HAL989_ Also includes a new boss. _by HAL989_
+> Adds a variety of tools/weapons to Slimefun. Also includes a new boss. _by HAL989_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -198,7 +198,7 @@ https://github.com/J3fftw1/EnderPanda
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 6.75     | 7.5        | 5.6        | 8.85         | 8.05     | 5.25      | **7.00** |
 
-> My addons gives you the ability to generate power in the end. It also makes you be able to get Pandas in the end. My addons gives you the ability to generate power in the end. It also makes you be able to get Pandas in the end. Why pandas is a question you can answer your self _by Panda_
+> My addons gives you the ability to generate power in the end. It also makes you be able to get Pandas in the end. Why pandas is a question you can answer your self _by Panda_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -222,18 +222,18 @@ https://github.com/J3fftw1/EnderPanda
 
 #### Conclusion
 
-The code is very clean and this addon is fun. However it isn't as user-friendly as it could have been and the mechanics do not really challenge the player a lot. It's good but small. However it isn't as user-friendly as it could have been and the mechanics do not really challenge the player a lot. It's good but small.
+The code is very clean and this addon is fun. However it isn't as user-friendly as it could have been and the mechanics do not really challenge the player a lot. It's good but small.
 
 </details>
 
-## 6. The Smeltery SlimeVoid by BigBadE
+## 6. SlimeVoid by BigBadE
 
 https://github.com/BigBadE/SlimefunVoid
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 2.65     | 6.1        | 7.4        | 3.5          | 6.0      | 2.9       | **4.76** |
 
-> It adds an alternative research system for certain items, another crafting system. It also adds wands, which can be upgraded with the alternate crafting system. It adds an alternative research system for certain items, another crafting system. It also adds wands, which can be upgraded with the alternate crafting system. Wands can cast spells but also have a chance to backfire (worse wands backfire more) _by BigBadE_
+> It adds an alternative research system for certain items, another crafting system. It also adds wands, which can be upgraded with the alternate crafting system. Wands can cast spells but also have a chance to backfire (worse wands backfire more) _by BigBadE_
 
 <details>
 <summary>Click for a detailed review</summary>
@@ -267,7 +267,7 @@ https://github.com/BigBadE/SlimefunVoid
 * The api-version in the plugin.yml is specified as "1.13" but the project itself is built against 1.15
 * The version inside the plugin.yml is not automatically inferred by the pom.xml which leads to inaccurate or redundant versioning
 * Cramped one-line functions
-* RegEx patterns are compiled at runtime which is very slow but done repeatedly throughout the code, these should be compiled once and then be re-used instead. Most common patterns are also already included in Slimefun itself, see PatternUtils Most common patterns are also already included in Slimefun itself, see PatternUtils
+* RegEx patterns are compiled at runtime which is very slow but done repeatedly throughout the code, these should be compiled once and then be re-used instead. Most common patterns are also already included in Slimefun itself, see PatternUtils
 * When comparing user input Strings, you should use .equalsIgnoreCase()
 * random.nextInt(2) == 0 should really be changed to Random#nextBoolean()
 * Potential memory leak: Not removing Player UUIDs from Maps on every possible occasion, such as server-leaving or kicking, small but can stack up on large servers
