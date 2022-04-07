@@ -9,7 +9,7 @@ The Bio Reactor is a type of [Energy Generator](Electric-Machines#energy-generat
 
 A Bio Reactor can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 A Bio Reactor must be placed within 7 blocks of an [Energy Regulator](Energy-Regulator), an [Energy Connector](Energy-Connector), or an [Energy Capacitor](Energy-Capacitors) in a cross format (not diagonally), and provided with the appropriate fuel.
 
