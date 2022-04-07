@@ -16,7 +16,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * 2 [Iron Dust](Iron-Dust)
 * 1 Block of Quartz
 
-## Usage
+## 使用方法
 
 ### In other alloys
 
