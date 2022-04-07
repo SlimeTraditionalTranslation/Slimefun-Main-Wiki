@@ -15,7 +15,7 @@ Reactor Coolant Cells are created in the [Freezer](Freezer).
 
 Nether Ice Coolant Cells are created in the [Heated Pressure Chamber](Heated-Pressure-Chamber).
 
-## Usage
+## 使用方法
 
 ### Reactor Coolant Cell
 
