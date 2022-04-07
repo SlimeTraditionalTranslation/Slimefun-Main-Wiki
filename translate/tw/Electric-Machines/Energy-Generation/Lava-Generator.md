@@ -17,10 +17,10 @@ A lava generator must be placed within 7 blocks of an [Energy Regulator](Energy-
 
 There are currently two tiers of lava generators.
 
-| Tier | Energy | Buffer |
-|:----:|:------:|:------:|
-|  I   | 20 J/s | 512 J  |
-|  II  | 40 J/s | 1024 J |
+| 等級 | Energy | Buffer |
+|:--:|:------:|:------:|
+| I  | 20 J/s | 512 J  |
+| II | 40 J/s | 1024 J |
 
 ## 燃料
 
