@@ -7,7 +7,7 @@ This is the **third Part** of our Developer Guide, you can find a full overview 
 
 If you haven't checked out the [second Part of this Guide](Developer-Guide-(2-Creating-the-Addon)), then please do that.
 
-## 1. 1. A little recap
+## 1. A little recap
 
 In the last part we went over the main class of your plugin.
 
@@ -42,31 +42,13 @@ public class SlimefunAddon extends JavaPlugin implements SlimefunAddon {
     }
 
 }
-    }
-
-    @Override
-    public void onDisable() {
-        // Logic for disabling the plugin...
-    }
-
-    @Override
-    public JavaPlugin getJavaPlugin() {
-        return this;
-    }
-
-    @Override
-    public String getBugTrackerURL() {
-        return null;
-    }
-
-}
 ```
 
 The entirety of this part will happen inside your `onEnable()` method, right after you created your `Config`.
 
 So start there.
 
-## 2. 2. Creating an ItemGroup
+## 2. Creating an ItemGroup
 
 As you probably know, the Slimefun Guide is divided into various item groups, such as "Tools", "Weapons" and many more.
 
@@ -83,7 +65,7 @@ The constructor for your ItemGroup takes in two parameters:
 
 Let's start with the `id`.
 
-For this we will create a new `NamespacedKey`. For this we will create a new `NamespacedKey`. A NamespacedKey is an identifier that takes in a lower-case id and your Plugin to produce a unique identifier.
+For this we will create a new `NamespacedKey`. A NamespacedKey is an identifier that takes in a lower-case id and your Plugin to produce a unique identifier.
 
 You need to come up with a unique id for your item group for this.
 
@@ -101,7 +83,7 @@ NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
 
 Now onto the `item` of our new ItemGroup.
 
-We will use the class CustomItemStack for this. (import `io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack` for this) (import `io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack` for this)
+We will use the class CustomItemStack for this. (import `io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack` for this)
 
 You can create a new named Item like this:
 
@@ -135,14 +117,13 @@ public void onEnable() {
 
     // ...
 }
-}
 ```
 
 The ItemGroup will not be visible in our Slimefun Guide at this point though.
 
 We first need to add an actual SlimefunItem.
 
-## 3. 3. Creating an Item
+## 3. Creating an Item
 
 Now that we have an ItemGroup set up, we can start to create our actual item.
 
@@ -150,7 +131,7 @@ In this part we will only create a very simple item that has no actual logic beh
 
 But let's focus on items itself for now.
 
-Creating items in Slimefun isn't rocket science but you should still pay attention. We will need to create a new `SlimefunItem` (`io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem`). We will need to create a new `SlimefunItem` (`io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem`).
+Creating items in Slimefun isn't rocket science but you should still pay attention. We will need to create a new `SlimefunItem` (`io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem`).
 
 The constructor takes in 4 parameters:
 
@@ -165,7 +146,7 @@ Since we have already created an ItemGroup, let's start with our `SlimefunItemSt
 
 The `SlimefunItemStack` tells our SlimefunItem how it looks and also holds the id of our item.
 
-The class `SlimefunItemStack` has a lot of constructors. Take a look at them and choose the one that best suits your needs. Take a look at them and choose the one that best suits your needs.
+The class `SlimefunItemStack` has a lot of constructors. Take a look at them and choose the one that best suits your needs.
 
 In this tutorial we will choose the following constructor:
 
@@ -173,7 +154,7 @@ In this tutorial we will choose the following constructor:
 
 So first we will need an `id` for our SlimefunItemStack.
 
-This `id` is a simple String but needs to be unique and in upper case letters. Example: `"MY_ADDON_ITEM"`. Example: `"MY_ADDON_ITEM"`.
+This `id` is a simple String but needs to be unique and in upper case letters. Example: `"MY_ADDON_ITEM"`.
 
 Please choose a unique id that best suits your item.
 
@@ -183,7 +164,7 @@ For a complete list of Materials, consult [Spigot's Javadocs](https://hub.spigot
 
 For the `name`, we can choose a name and even use color codes.
 
-The `name` is then followed by zero or more lines of lore. (Color codes also supported!) (Color codes also supported!)
+The `name` is then followed by zero or more lines of lore. (Color codes also supported!)
 
 So the full result of our `SlimefunItemStack` may look like this:
 
@@ -195,7 +176,7 @@ For the lore I left the first line empty, this is not required but consistent wi
 
 ### The recipe
 
-For the `RecipeType`, we will simply go with the standard: `RecipeType.ENHANCED_CRAFTING_TABLE`. This means that our item is crafted in an Enhanced Crafting Table. We may go into more details on how Recipe Types work, but that may be in a later tutorial. This means that our item is crafted in an Enhanced Crafting Table. We may go into more details on how Recipe Types work, but that may be in a later tutorial.
+For the `RecipeType`, we will simply go with the standard: `RecipeType.ENHANCED_CRAFTING_TABLE`. This means that our item is crafted in an Enhanced Crafting Table. We may go into more details on how Recipe Types work, but that may be in a later tutorial.
 
 Now for the actual Recipe, for the Recipe we will use an ItemStack Array of the length 9:
 
@@ -205,7 +186,7 @@ ItemStack[] recipe = {...};
 
 The length of 9 represents the 3x3 slots found in the dispenser of an Enhanced Crafting Table.
 
-We will simply use an X made out of diamonds for the recipe in this tutorial. You are of course free to come up with any recipe you can imagine. You are of course free to come up with any recipe you can imagine.
+We will simply use an X made out of diamonds for the recipe in this tutorial. You are of course free to come up with any recipe you can imagine.
 
 ```java
 ItemStack[] recipe = {
@@ -227,7 +208,7 @@ ItemStack[] recipe = {
 };
 ```
 
-## 4. 4. Adding your item
+## 4. Adding your item
 
 To create the item you we will use the following code:
 
@@ -245,13 +226,13 @@ Let's recap what we got so far:
 
 1. We created a new ItemGroup
 
-    a. a. that uses a customItemStack
+    a. that uses a customItemStack
 
 2. We created a new SlimefunItem
 
-    a. a. that has a custom Recipe
+    a. that has a custom Recipe
 
-    b. b. that uses a custom SlimefunItemStack
+    b. that uses a custom SlimefunItemStack
 
 Here is all of our code again (this should still all be inside your `onEnable()` method):
 
@@ -281,7 +262,7 @@ sfItem.register(this);
 
 You can also create a `SeasonalItemGroup` or a `LockedItemGroup` instead of a generic `ItemGroup`.
 
-These types of item groups require a specified item group tier. This integer roughly determines the position of the item group inside Slimefun guide. The guide starts populating with tier 1 and onwards. These types of item groups require a specified item group tier. This integer roughly determines the position of the item group inside Slimefun guide. The guide starts populating with tier 1 and onwards. The other criteria is the order of registering (creation of `ItemGroup` object).
+These types of item groups require a specified item group tier. This integer roughly determines the position of the item group inside Slimefun guide. The guide starts populating with tier 1 and onwards. The other criteria is the order of registering (creation of `ItemGroup` object).
 
 * Seasonal item groups are hidden throughout the whole year except for 1 specific month.
 
@@ -290,13 +271,10 @@ These types of item groups require a specified item group tier. This integer rou
 ```java
 Month month = Month.JAN; // This is any enum from java.time.Month.
 
-Month month = Month.JAN; // This is any enum from java.time.Month.
-
 SeasonalItemGroup group = new SeasonalItemGroup(categoryId, categoryItem, tier, month);
 ```
 
 ```java
-// This item group will require `parentItemGroupA` and `parentItemGroupB` to be fully unlocked.
 // This item group will require `parentItemGroupA` and `parentItemGroupB` to be fully unlocked.
 LockedItemGroup category = new LockedItemGroup(categoryId, categoryItem, tier, parentItemGroupA.getKey(), parentItemGroupB.getKey());
 ```
