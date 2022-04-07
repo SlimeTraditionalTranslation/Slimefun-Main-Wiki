@@ -19,9 +19,9 @@ Once it is placed, right-click it and place fuel in its inventory (two slots on 
 
 There is only one tier of the Combustion Reactor.
 
-| Tier | Energy | Buffer |
-|:----:|:------:|:------:|
-|  I   | 24 J/s | 256 J  |
+| 等級 | Energy | Buffer |
+|:--:|:------:|:------:|
+| I  | 24 J/s | 256 J  |
 
 ## 燃料
 
