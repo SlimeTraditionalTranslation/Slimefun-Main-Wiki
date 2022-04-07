@@ -12,7 +12,7 @@ There are five "tiers" of capacitors, each with an increasing capacity.
 
 All six tiers of energy capacitors can be crafted in an [Enchanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 An energy capacitor must be placed within 7 blocks of an [Electric Machine](Electric-Machines#Machines), [Energy Generator](Electric-Machines#Energy-generation), [Energy Regulator](Energy-Regulator), or another capacitor (in a straight line; no diagonals).
 
