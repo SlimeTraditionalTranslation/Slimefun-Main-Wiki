@@ -51,7 +51,7 @@ This Placeholder will be replaced with the complexity of your GPS Network
 
 `%slimefun_timings_lag%`
 
-This Placeholder will be replaced with the "lag" of Slimefun. It shows the time Slimefun took to tick all currently active blocks in milliseconds.
+This Placeholder will be replaced with the "lag" of Slimefun. This Placeholder will be replaced with the "lag" of Slimefun. It shows the time Slimefun took to tick all currently active blocks in milliseconds.
 
 ### 語言
 
