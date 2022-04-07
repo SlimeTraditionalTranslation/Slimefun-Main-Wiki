@@ -25,7 +25,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * 2 [Lead Dust](Lead-Dust)
 * 64 Coal
 
-## Usage
+## 使用方法
 
 * [Solar Helmet](Technical-Gadgets#solar-helmet)
 * [Reinforced Furnace](Enhanced-Furnaces)
