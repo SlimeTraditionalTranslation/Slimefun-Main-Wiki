@@ -11,7 +11,7 @@ It is an unenchanted diamond pickaxe which can help you locate nearby ore.
 
 The Pickaxe of the Seeker can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
-## Usage
+## 使用方法
 
 When you right-click with the pickaxe in your main hand, it forces you to look in the direction of the closest ore block in a 4 block radius.
 
