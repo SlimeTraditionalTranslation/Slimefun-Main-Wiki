@@ -11,4 +11,4 @@ Uranium can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table) 
 
 ## Handling
 
-Uranium is MODERATELY [Radioactive](Radiation). Blistering Ingots are HIGHLY [Radioactive](Radiation). Wearing a [Hazmat Suit](Armor#hazmat-suit) at all times while handling them is *highly recommended*.
+Uranium is MODERATELY [Radioactive](Radiation). Wearing a [Hazmat Suit](Armor#hazmat-suit) at all times while handling them is *highly recommended*.
