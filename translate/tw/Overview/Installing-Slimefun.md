@@ -43,10 +43,10 @@ sidebar_position: 2
 
 ### 伺服器優化指南
 
-這是有關如何 [優化你的黏液科技伺服器](Server-Optimizations)
+Here is a full article on how to [Optimize your Slimefun Server](Server-Optimizations.md)
 
 ## 附加插件
 
-如果你想安裝其他額外的附加, 請參考 [此頁面](Addons) 以查看與你的黏液科技版本兼容的所有附加插件.
+If you wish to install additional addons, refer to [this page](../Other-Plugins/Addons.md) to see all the addons that are compatible with your version of Slimefun4.
 
 這些附加插件需要黏液科技本體, 並將它放在 /plugins 資料夾中, 它將會創建自己的獨立資料夾. 這些插件的配置也應該非常簡單. 請記住, 你可以關閉任何來自附加的所有物品在黏液科技中的 Items.yml 檔案.
