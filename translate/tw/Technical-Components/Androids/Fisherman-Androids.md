@@ -11,7 +11,7 @@ Fisherman Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Craft
 
 ## 使用方法
 
-You have to put water underneath the Android in order for it to work. This can also can be paired with an [EXP Collector](EXP-Collector) for an automated EXP Farm. Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
+You have to put water underneath the Android in order for it to work. Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
 
 ## Tiers
 
