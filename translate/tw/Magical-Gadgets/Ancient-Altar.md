@@ -12,7 +12,7 @@ The Ancient Altar block can be crafted in a [Magic Workbench](Magic-Workbench).
 
 ## 使用方法
 
-The Ancient Altar block on its own has no use. The Ancient Altar block on its own has no use. In order to have a working altar, the Ancient Altar must be surrounded by 8 [Ancient Pedestals](Ancient-Pedestal), 2 blocks away from it in cardinal directions and 1 block away diagonally.
+The Ancient Altar block on its own has no use. In order to have a working altar, the Ancient Altar must be surrounded by 8 [Ancient Pedestals](Ancient-Pedestal), 2 blocks away from it in cardinal directions and 1 block away diagonally.
 
 A working Ancient Altar looks like this:
 
@@ -23,4 +23,4 @@ The item in the middle of the recipe (or "catalyst") must then be used on the ce
 
 It does not matter on which axis (diagonal or horizontal/vertical) the ingredients are placed, as long as they are in the right order.
 
-If the recipe is correct, the catalyst will be consumed. If the recipe is correct, the catalyst will be consumed. Then, after a short animation, the Ancient Altar will expel the new item.
+If the recipe is correct, the catalyst will be consumed. Then, after a short animation, the Ancient Altar will expel the new item.
