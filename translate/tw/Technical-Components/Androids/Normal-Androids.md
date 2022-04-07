@@ -11,7 +11,7 @@ Normal Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting
 
 ## 使用方法
 
-Normal Androids can only be programmed to move. This can also can be paired with an [EXP Collector](EXP-Collector) for an automated EXP Farm. Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
+Normal Androids can only be programmed to move. Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
 
 ## Tiers
 
