@@ -1,5 +1,5 @@
 ---
-title: 4. Enhanced Crafting Table
+title: Enhanced Crafting Table
 sidebar_position: 1
 ---
 
@@ -9,7 +9,7 @@ It is used to craft many Slimefun items, from the most basic to the most complex
 
 ## How to build an Enhanced Crafting Table
 
-The recipe can be found in your Slimefun Guide. To build it, you need to place a Crafting Table on top of a Dispenser. To build it, you need to place a Crafting Table on top of a Dispenser.
+The recipe can be found in your Slimefun Guide. To build it, you need to place a Crafting Table on top of a Dispenser.
 
 A complete Enhanced Crafting Table looks like this:
 
