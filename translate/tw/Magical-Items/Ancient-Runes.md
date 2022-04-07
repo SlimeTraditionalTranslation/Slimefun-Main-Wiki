@@ -3,7 +3,7 @@ title: Ancient Runes
 sidebar_position: 3
 ---
 
-Ancient Runes are part of the [Magical Items](Magical-Items) category. There are currently 11 different runes and a blank one. There are currently 11 different runes and a blank one.
+Ancient Runes are part of the [Magical Items](Magical-Items) category. There are currently 11 different runes and a blank one.
 
 ## Obtaining
 
@@ -15,12 +15,12 @@ Every single rune is made in the [Ancient Altar](Ancient-Altar) and their recipe
 
 There is the Blank Rune, which is used as a base crafting material for the simple runes.
 
-There are 5 simple runes, Air, Earth, Fire, Water and Ender. There are 5 simple runes, Air, Earth, Fire, Water and Ender. These are used in low-end [Magical Gadgets](Magical-Gadgets) and to craft the other runes.  
-After those come the high-end runes, these are all also used to craft [Magical Gadgets](Magical-Gadgets). These are the Lightning and the Rainbow rune. These are the Lightning and the Rainbow rune.
+There are 5 simple runes, Air, Earth, Fire, Water and Ender. These are used in low-end [Magical Gadgets](Magical-Gadgets) and to craft the other runes.  
+After those come the high-end runes, these are all also used to craft [Magical Gadgets](Magical-Gadgets). These are the Lightning and the Rainbow rune.
 
 ### Soulbound Rune
 
-This rune can be used to make any item Soulbound. This means that this item will stay in your inventory even on the event of your death. This means that this item will stay in your inventory even on the event of your death.
+This rune can be used to make any item Soulbound. This means that this item will stay in your inventory even on the event of your death.
 
 All you have to do to make an item Soulbound, is to drop the rune on the ground next to the desired item.
 
@@ -32,6 +32,6 @@ All you have to do to enchant an item, is to drop the rune on the ground next to
 
 ### Villagers Rune
 
-This rune can be used to reset a villager's trades and profession. After a brief period the Villager will start looking for a job again. After a brief period the Villager will start looking for a job again.
+This rune can be used to reset a villager's trades and profession. After a brief period the Villager will start looking for a job again.
 
 To reset a villager, right click one with the Rune in your hand.
