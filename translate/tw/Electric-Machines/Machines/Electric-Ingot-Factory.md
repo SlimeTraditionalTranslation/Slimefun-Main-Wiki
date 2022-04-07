@@ -10,8 +10,8 @@ The [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer) is the opposite of th
 
 ## Electric Ingot Factory Tiers
 
-| Tier | Power  | Speed Multiplier |
-|:----:|:------:|:----------------:|
-|  I   | 8 J/s  |       1.0x       |
-|  II  | 14 J/s |       2.0x       |
-| III  | 40 J/s |       8.0x       |
+| 等級  | Power  | Speed Multiplier |
+|:---:|:------:|:----------------:|
+|  I  | 8 J/s  |       1.0x       |
+| II  | 14 J/s |       2.0x       |
+| III | 40 J/s |       8.0x       |
