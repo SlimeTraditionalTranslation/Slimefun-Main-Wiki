@@ -11,15 +11,15 @@ sidebar_position: 2
 
 ### 黏液科技下載
 
-You can choose between two branches of slimefun, the ["stable" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/stable/) or the [main "development" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/). Stable builds have been around for quite a while and were thoroughly tested, development builds are the latest builds of Slimefun you can get. If your Server is very reliant on a working build of Slimefun, choose a stable build. But if you want to help contribute to Slimefun4 by reporting issues and helping us identify those more quickly, please consider using a development build (Bug Reports from "stable" builds may be ignored since they are outdated). You can click on any Slimefun build to see all compatible Minecraft Versions for that build.
+你可以在兩個黏液科技分支中做選擇, ["穩定" 分支](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/stable/) 或 [主要 "開發" 分支](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/). 穩定構建已經存在很長的時間, 並以經過測試, 開發版是你可以獲得最新的構建. 如果你的伺服器非常依賴於可運作的黏液科技構建, 請選擇穩定構建. 但如果你想要回報問題並幫助我們更快的發現問題並為黏液科技做出貢獻, 請考慮使用開發構建 ( "穩定"構建的錯誤回報可能會被忽略, 因為他們已經過時). 你可以點擊任何黏液科技構建, 以查看該構建的所有兼容 Minecraft 的版本.
 
-**We generally recommend development builds over stable builds, as they are the most recent versions of Slimefun. The stable branch is only updated once a month or even less frequent, so fixes may take quite a while to make it into these builds.**
+**我們通常建議開發版本優先於穩定版, 因為它們是黏液科技最新的版本. 穩定分支僅每月更新一次, 甚至更新頻率更低, 因此修復可能需要相當長的時間才能納入這些構建.**
 
-## How to install
+## 如何安裝
 
-Drag and drop the Slimefun4 jar file into your server's */plugins/* directory. Then, restart your server.
+將黏液科技的 Jar 檔案拖放到伺服器的 */plugins/* 資料夾中. 然後重啟你的伺服器.
 
-***Do not use /reload, as it can cause intense memory leaks.***
+***請勿使用 /reload, 因為它可能會導致大量的記憶體洩漏.***
 
 After the restart, you should notice a new folder called */data-storage/* in your servers root directory. This folder contains all necessary Slimefun data. If you plan to upgrade or move servers, or create a backup, it is ***very*** important that you also back this folder up, as deleting it results in loss of ALL Slimefun related data, such as levels, unlocked items, etc.
 
