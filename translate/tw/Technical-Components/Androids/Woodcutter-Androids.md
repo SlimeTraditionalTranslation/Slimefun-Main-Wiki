@@ -18,6 +18,6 @@ Androids need fuel in order to work, you have to fill them with the [Required Fu
 
 There is only one tier of the Woodcutter Android.
 
-| Tier  | Fuel Efficiency |
-| ----- |:---------------:|
-| Basic |      1.0x       |
+| 等級 | 燃料效率 |
+| -- |:----:|
+| 基礎 | 1.0x |
