@@ -3,9 +3,9 @@ title: Multi Tools
 sidebar_position: 3
 ---
 
-Multi Tools are part of the [Technical Gadgets](Technical-Gadgets) category. They need to be charged in a [Charging Bench](Charging-Bench) before usage.
+Multi Tools are part of the [Technical Gadgets](Technical-Gadgets) category. They need to be charged in a [Charging Bench](Charging-Bench) before usage. They need to be charged in a [Charging Bench](Charging-Bench) before usage.
 
-Right-click to use. Crouch + right-click to switch modes. Each time you use it, it will use up 0.3 J of its stored energy.
+Right-click to use. Crouch + right-click to switch modes. Right-click to use. Crouch + right-click to switch modes. Each time you use it, it will use up 0.3 J of its stored energy.
 
 ### The Multi Tool has 4 modes:
 
