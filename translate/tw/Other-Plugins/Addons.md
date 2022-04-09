@@ -101,13 +101,13 @@ sidebar_position: 1
 
 以下是至今已主持的所有附加果醬比賽列表:
 
-1. [附加果醬 2020](Addon-Jam-2020)
-2. [附加果醬 2021](Addon-Jam-2021)
+1. [附加果醬 2020](./Addon-Jam/Addon-Jam-2020.md)
+2. [附加果醬 2021](./Addon-Jam/Addon-Jam-2021.md)
 
 ## :black_nib: 製作屬於自己的附加!
 
-你想製作屬於你自己的黏液科技附加嗎? 查看此 [開發人員指南](Developer-Guide).
+你想製作屬於你自己的黏液科技附加嗎? Check out this [Developer Guide](./Developer-Guide/Developer-Guide.md).
 
-如果你為黏液科技製作了一個附加並希望它在此列表列出, 只需要在我們的 Wiki 儲存庫上提出一個合併請求. 你可以在此處找到教程: 擴展Wiki.  
-如果無法做一個合併請求, 則只需要創建一個問題並選擇"添加"模板:  
-https://github.com/Slimefun/Wiki/issues
+如果你為黏液科技製作了一個附加並希望它在此列表列出, 只需要在我們的 Wiki 儲存庫上提出一個合併請求. You can find a tutorial here: Expanding-the-Wiki.  
+If a pull request is not possible, then just create an Issue and select the "Addition" template:  
+<https://github.com/Slimefun/Wiki/issues>
