@@ -3,15 +3,15 @@ title: Developer Guide (7 GEO Resources)
 sidebar_position: 8
 ---
 
-This is the **seventh Part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide).
+This is the **seventh Part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide.md).
 
-If you haven't checked out the [sixth Part of this Guide](Developer-Guide-(6-Custom-Heads)), then please do that.
+If you haven't checked out the [sixth Part of this Guide](Developer-Guide-(6-Custom-Heads).md), then please do that.
 
 ## 1. A recap
 
 In the last part we discussed how to create custom heads and use these heads in items and categories.
 
-Today we will expand upon that knowledge and create a new ore that is obtainable through the [GEO - Miner](GEO-Miner).
+Today we will expand upon that knowledge and create a new ore that is obtainable through the [GEO - Miner](../../GPS/GEO-Miner.md).
 
 But before we dive into that, here is our code from the last part:
 
