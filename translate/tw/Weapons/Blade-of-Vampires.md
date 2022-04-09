@@ -1,10 +1,10 @@
 ---
-title: Blade of Vampires
+title: 吸血鬼之劍
 sidebar_position: 4
 ---
 
-The Blade of Vampires is a [Weapon](Weapons.md) added in Slimefun.
+吸血鬼之劍是黏液科技添加的[武器](Weapons.md).
 
-It is a Gold Sword which is enchanted with Fire Aspect II, Sharpness II and Unbreaking IV.
+它是一把金劍, 附魔有燃燒2, 鋒利2和耐久4.
 
-It also has Life Steal, which gives you a 45% chance to recover 2 Hearts of your Health each time you attack something with it.
+它還具有吸血效果, 每次你攻擊一個實體時, 你有45%機率會回2顆心.
