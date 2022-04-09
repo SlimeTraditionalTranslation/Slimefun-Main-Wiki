@@ -3,9 +3,9 @@ title: Developer Guide (4a Right Clicks)
 sidebar_position: 4
 ---
 
-This is the **fourth Part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide).
+This is the **fourth Part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide.md).
 
-If you haven't checked out the [third Part of this Guide](Developer-Guide-(3-Your-first-Item)), then please do that.
+If you haven't checked out the [third Part of this Guide](Developer-Guide-(3-Your-first-Item).md), then please do that.
 
 *The fourth part is divided into two sections, this is Section a*.
 
@@ -38,7 +38,7 @@ SlimefunItem sfItem = new SlimefunItem(itemGroup, itemStack, RecipeType.ENHANCED
 sfItem.register(this);
 ```
 
-Now, you can compile your addon and test it ingame. See [Compiling](Developer-Guide-(9-Compiling)) for details.
+Now, you can compile your addon and test it ingame. See [Compiling](Developer-Guide-(9-Compiling).md) for details.
 
 As you can see our Slimefunitem can already be seen and crafted ingame.
 
@@ -364,4 +364,4 @@ If you have any questions, feel free to hop on discord and ask them in `#program
 
 I hope this was helpful to you and I expect to see lots of awesome addons very soon!
 
-[**> Continue with Part 4b**](Developer-Guide-(4b-Radioactive-and-WitherProof))
+[**> Continue with Part 4b**](Developer-Guide-(4b-Radioactive-and-WitherProof).md)
