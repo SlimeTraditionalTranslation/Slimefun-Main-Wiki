@@ -20,7 +20,7 @@ When wearing the Slime Leggings, you gain Speed III.
 
 When wearing any piece of the Glowstone Set, you gain Night Vision (I).
 
-### Soulbound Armor
+### 靈魂綁定盔甲
 
 Any piece of this set will be kept on your death. You'll never lose it!
 
