@@ -3,7 +3,7 @@ title: Bows
 sidebar_position: 6
 ---
 
-Among the [Weapons](/docs/Slimefun/Weapons) it adds, Slimefun introduces three new bows: the Soulbound Bow, the Explosive Bow, and the Icy Bow.
+Among the [Weapons](Weapons.md) it adds, Slimefun introduces three new bows: the Soulbound Bow, the Explosive Bow, and the Icy Bow.
 
 They each have special properties and may be enchanted like any other Bow.
 
@@ -11,7 +11,7 @@ They each have special properties and may be enchanted like any other Bow.
 
 The Soulbound Bow remains in your inventory upon death.
 
-*See also: [Soulbound Weapons](Soulbound-Weapons)*
+*See also: [Soulbound Weapons](Soulbound-Weapons.md)*
 
 ## Explosive Bow
 

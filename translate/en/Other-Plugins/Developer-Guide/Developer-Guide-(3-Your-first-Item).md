@@ -3,9 +3,9 @@ title: Developer Guide (3 Your first Item)
 sidebar_position: 3
 ---
 
-This is the **third Part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide).
+This is the **third Part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide.md).
 
-If you haven't checked out the [second Part of this Guide](Developer-Guide-(2-Creating-the-Addon)), then please do that.
+If you haven't checked out the [second Part of this Guide](Developer-Guide-(2-Creating-the-Addon).md), then please do that.
 
 ## 1. A little recap
 
@@ -283,4 +283,4 @@ SeasonalItemGroup group = new SeasonalItemGroup(categoryId, categoryItem, tier, 
 LockedItemGroup category = new LockedItemGroup(categoryId, categoryItem, tier, parentItemGroupA.getKey(), parentItemGroupB.getKey());
 ```
 
-[**> Continue with Part 4a**](Developer-Guide-(4a-Right-Clicks))
+[**> Continue with Part 4a**](Developer-Guide-(4a-Right-Clicks).md)

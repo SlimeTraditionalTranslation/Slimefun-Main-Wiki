@@ -3,9 +3,9 @@ title: Developer Guide (2 Creating the Addon)
 sidebar_position: 2
 ---
 
-This is the **second Part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide).
+This is the **second Part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide.md).
 
-If you haven't checked out the [first Part of this Guide](Developer-Guide-(1-Project-Setup)), then please do that.
+If you haven't checked out the [first Part of this Guide](Developer-Guide-(1-Project-Setup).md), then please do that.
 
 ## 1. Your main class
 
@@ -103,4 +103,4 @@ You can use your Config to set up values that Server Owners should be able to co
 
 You will need to import each external class you will use.
 
-[**> Continue with Part 3**](Developer-Guide-(3-Your-first-Item))
+[**> Continue with Part 3**](Developer-Guide-(3-Your-first-Item).md)

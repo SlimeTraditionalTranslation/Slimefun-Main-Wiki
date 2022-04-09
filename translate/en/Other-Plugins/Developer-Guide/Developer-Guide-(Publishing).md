@@ -3,7 +3,7 @@ title: Developer Guide (Publishing)
 sidebar_position: 10
 ---
 
-This is the **last part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide).
+This is the **last part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide.md).
 
 ## Prerequisites
 
@@ -25,7 +25,7 @@ If you need help on choosing a license, check out [ChooseALicense.com](https://c
 
 In order to upload your project anywhere, you need to distribute the compiled `.jar` file of your addon.
 
-If you chose to use Maven for your project (as we suggested in [Part 1](https://github.com/Slimefun/Wiki/blob/master/pages/Developer-Guide-(1-Project-Setup).md)), you can simply run the following command:
+If you chose to use Maven for your project (as we suggested in [Part 1](Developer-Guide-(1-Project-Setup).md)), you can simply run the following command:
 
 ```console
 mvn clean package
@@ -63,7 +63,7 @@ Alternatively you can also use our [main service for releasing automatic develop
 
 Once your project has been uploaded, tell others about it!
 
-We recommend all addon developers to feature their addon on our public [Addons page](Addons).
+We recommend all addon developers to feature their addon on our public [Addons page](../Addons.md).
 
 Simply make a new pull request on our wiki repository, you can find a tutorial here:
 

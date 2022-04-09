@@ -104,14 +104,14 @@ We hope to make this a re-occurring thing. The basic premise is the following: A
 
 Here is a list of all Addon Jams that have been hosted so far:
 
-1. [Addon Jam 2020](Addon-Jam-2020)
-2. [Addon Jam 2021](Addon-Jam-2021)
+1. [Addon Jam 2020](./Addon-Jam/Addon-Jam-2020.md)
+2. [Addon Jam 2021](./Addon-Jam/Addon-Jam-2021.md)
 
 ## :black_nib: Create your own addons!
 
-Do you want to create your own Slimefun Addon? Check out this [Developer Guide](Developer-Guide).
+Do you want to create your own Slimefun Addon? Check out this [Developer Guide](./Developer-Guide/Developer-Guide.md).
 
 If you have made an Addon for Slimefun and want it to be listed on here, simply make a new pull request on our wiki repository. You can find a tutorial here:
 Expanding-the-Wiki.  
 If a pull request is not possible, then just create an Issue and select the "Addition" template:  
-https://github.com/Slimefun/Wiki/issues
+<https://github.com/Slimefun/Wiki/issues>

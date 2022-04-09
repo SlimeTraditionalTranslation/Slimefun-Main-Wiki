@@ -3,7 +3,7 @@ title: Blade of Vampires
 sidebar_position: 4
 ---
 
-The Blade of Vampires is a [Weapon](/docs/Slimefun/Weapons) added in Slimefun.
+The Blade of Vampires is a [Weapon](Weapons.md) added in Slimefun.
 
 It is a Gold Sword which is enchanted with Fire Aspect II, Sharpness II and Unbreaking IV.
 

@@ -3,9 +3,9 @@ title: Developer Guide (6 Custom Heads)
 sidebar_position: 7
 ---
 
-This is the **sixth Part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide).
+This is the **sixth Part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide.md).
 
-If you haven't checked out the [fifth Part of this Guide](Developer-Guide-(5-Researches)), then please do that.
+If you haven't checked out the [fifth Part of this Guide](Developer-Guide-(5-Researches).md), then please do that.
 
 ## 1. Our usual recap
 
@@ -49,7 +49,7 @@ This even includes Heads from Skins that are no longer in use.
 
 There are a lot of databases out there which collect or curate lists of cool heads to use.
 
-In this guide we will be using https://minecraft-heads.com/ as it is pretty handy and large.
+In this guide we will be using <https://minecraft-heads.com/> as it is pretty handy and large.
 
 Any tool or website that curates or generates heads will work though.
 
@@ -61,7 +61,7 @@ If you know a better tool or website, feel free to use that instead.
 
 To use a head ingame you will need to point to the skin it should be using.
 
-Minecraft uses an URL to the https://textures.minecraft.net/texture/ server to accomplish this. This URL is not stored as plain text though, it is part of a JSON-String which is then encoded in Base64.
+Minecraft uses an URL to the <https://textures.minecraft.net/texture/> server to accomplish this. This URL is not stored as plain text though, it is part of a JSON-String which is then encoded in Base64.
 
 Don't worry you don't need to understand any of that really, all you need to know is that each skin can be represented by a [Base64](https://en.wikipedia.org/wiki/Base64) String.
 
@@ -213,4 +213,4 @@ research.register();
 
 If you have any questions, feel free to hop on discord and ask them in `#programming-help`.
 
-[**> Continue with Part 7**](Developer-Guide-(7-GEO-Resources))
+[**> Continue with Part 7**](Developer-Guide-(7-GEO-Resources).md)

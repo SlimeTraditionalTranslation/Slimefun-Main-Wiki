@@ -28,18 +28,18 @@ You can also check out our [Javadocs](https://slimefun.github.io/javadocs/Slimef
 
 ## Table of Contents
 
-1. [Setting up your project](Developer-Guide-(1-Project-Setup))
-2. [Creating a new addon](Developer-Guide-(2-Creating-the-Addon))
-3. [Creating your first Item](Developer-Guide-(3-Your-first-Item))
+1. [Setting up your project](Developer-Guide-(1-Project-Setup).md)
+2. [Creating a new addon](Developer-Guide-(2-Creating-the-Addon).md)
+3. [Creating your first Item](Developer-Guide-(3-Your-first-Item).md)
 4. Adding features to your Item
-   - [Performing actions on right-clicking a block or an item](Developer-Guide-(4a-Right-Clicks))
-   - [Making an item radioactive or wither-proof](Developer-Guide-(4b-Radioactive-and-WitherProof))
-5. [Adding your own Research](Developer-Guide-(5-Researches))
-6. [Custom heads](Developer-Guide-(6-Custom-Heads))
-7. [Adding resources to the GEO Miner](Developer-Guide-(7-GEO-Resources))
+   - [Performing actions on right-clicking a block or an item](Developer-Guide-(4a-Right-Clicks).md)
+   - [Making an item radioactive or wither-proof](Developer-Guide-(4b-Radioactive-and-WitherProof).md)
+5. [Adding your own Research](Developer-Guide-(5-Researches).md)
+6. [Custom heads](Developer-Guide-(6-Custom-Heads).md)
+7. [Adding resources to the GEO Miner](Developer-Guide-(7-GEO-Resources).md)
 8. Creating electric machines
    - *Creating a simple input/output machine with recipes (soon)*
    - *Creating your own Generator (soon)*
-9. [Compiling and testing your addon](Developer-Guide-(9-Compiling))
+9. [Compiling and testing your addon](Developer-Guide-(9-Compiling).md)
 
-?. [Publishing your addon](Developer-Guide-(Publishing))
+?. [Publishing your addon](Developer-Guide-(Publishing).md)
