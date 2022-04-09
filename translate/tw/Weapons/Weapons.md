@@ -1,17 +1,17 @@
 ---
-title: Weapons Overview
+title: 武器總覽
 ---
 
-The Weapons category contains various items which can be used as weapons.
+五器類別包含可用做為武器的各種物品.
 
 ## 目錄
 
-* [Grandmas Walking Stick](Walking-Sticks.md)
-* [Grandpas Walking Stick](Walking-Sticks.md)
-* [Sword of Beheading](Sword-of-Beheading.md)
-* [Blade of Vampires](Blade-of-Vampires.md)
-* [Seismic Axe](Seismic-Axe.md)
-* [Soulbound Sword](Soulbound-Weapons.md)
-* [Soulbound Bow](Soulbound-Weapons.md)
-* [Explosive Bow](Bows.md)
-* [Icy Bow](Bows.md)
+* [奶奶的拐杖](Walking-Sticks.md)
+* [爺爺的枴杖](Walking-Sticks.md)
+* [斬首巨劍](Sword-of-Beheading.md)
+* [吸血鬼之劍](Blade-of-Vampires.md)
+* [地震斧](Seismic-Axe.md)
+* [靈魂綁定劍](Soulbound-Weapons.md)
+* [靈魂綁定弓](Soulbound-Weapons.md)
+* [爆裂弓](Bows.md)
+* [寒冰弓](Bows.md)
