@@ -5,8 +5,8 @@ sidebar_position: 9
 
 ## 我該如何 下載/安裝 黏液科技或它的附加?
 
-To download and install Slimefun you can refer to [this guide here](Installing-Slimefun.md).  
-You can find Addons for Slimefun4 on our ["Addons" - page](../Other-Plugins/Addons.md).
+要下載並安裝黏液科技, 你可以參考 [這個指南](Installing-Slimefun.md).  
+你也可以在我們的 ["附加" - 頁面](../Other-Plugins/Addons.md) 上找到黏液科技的附加.
 
 你可以安裝這些就像是你安裝黏液科技, 只要把它們放置在伺服器的 `/plugins/` 資料夾下.
 
@@ -32,13 +32,13 @@ You can find Addons for Slimefun4 on our ["Addons" - page](../Other-Plugins/Addo
 
 3. 你打算做甚麼, 與它預期該發生甚麼?
 
-Please also refer to [this page](How-to-report-bugs.md) for a much more in-depth guide on how to report issues.
+有關於任何報告問題的更深入指南, 請參閱[這個頁面](How-to-report-bugs.md).
 
 一旦你向我們發送這些資訊, 我們的員工或社群成員將會為你提供幫助. **不要提及 (ping) 任何身分組或成員**. 如果已經過了一段時間 (15分鐘以上), 那麼你可以提及"幫助"的身分組 (`@Helpful`). 不耐煩的提及身分組/成員 (**尤其是員工**) 你將會被警告或者被踢出伺服器.
 
 ## 護身符與終界護身符的有甚麼區別?
 
-The Ender Talismans work even while in the Ender Chest however the normal [Talismans](../Talismans/Talismans.md) requires for it to be in your inventory.
+終界護身符是你放在終界箱也可以繼續使用的, 但正常的[護符](../Talismans/Talismans.md)需要它在你的背包之中(不是頭顱背包喔!).
 
 ## 我可以堆疊護身符嗎?
 
@@ -48,7 +48,7 @@ The Ender Talismans work even while in the Ender Chest however the normal [Talis
 
 ## 我可以用石塊做甚麼?
 
-4 Stone Chunks can be put into the [Compressor](../Basic-Machines/Compressor.md) to craft one cobblestone.
+四個石塊可以放入[壓縮機](../Basic-Machines/Compressor.md)來製作回鵝卵石.
 
 ## 我該如何停用物品在單個世界?
 
@@ -69,15 +69,15 @@ The Ender Talismans work even while in the Ender Chest however the normal [Talis
 ## XYZ 是如何運作的?
 
 如果你真的想知道一個物品是如何運作的, 請參考 [我們的維基](https://github.com/Slimefun/Slimefun4/wiki).
-> **注意**: 這個維基仍然缺少一些頁面並且是由社群進行維護! If you can help add content then please refer to [this guide](Expanding-the-Wiki.md)
+> **注意**: 這個維基仍然缺少一些頁面並且是由社群進行維護! 如果你可以幫助添加內容, 請參考[這個指南](Expanding-the-Wiki.md)
 
 ## 我該如何修復黏液科技的物品?
 
-You will need to use the [Auto-Anvil](../Electric-Machines/Machines/Auto-Anvil.md) and [Duct Tape](../Miscellaneous-Items/Miscellaneous-Items.md).
+你需要使用 [自動鐵砧](../Electric-Machines/Machines/Auto-Anvil.md)和[強力膠帶](../Miscellaneous-Items/Miscellaneous-Items.md)來修復物品.
 
 ## 我可以附魔黏液科技的物品嗎?
 
-You can only enchant an Item from Slimefun by using an [Auto-Enchanter](../Electric-Machines/Machines/Auto-Enchanter.md).
+你只能通過使用[自動附魔器](../Electric-Machines/Machines/Auto-Enchanter.md)來對黏液科技的物品附魔.
 
 ## 冷卻單元可以在反應爐中持續多久?
 
