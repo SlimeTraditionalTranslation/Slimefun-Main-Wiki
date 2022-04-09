@@ -3,7 +3,7 @@ title: Developer Guide (9 Compiling)
 sidebar_position: 9
 ---
 
-This is a part of our Developer Guide, you can find a full overview on our [main page](Developer-Guide).
+This is a part of our Developer Guide, you can find a full overview on our [main page](Developer-Guide.md).
 
 This guide assumes you are using Maven for your project.
 
@@ -11,7 +11,7 @@ This guide assumes you are using Maven for your project.
 
 In order to test your addon, you need to compile the addon into a `.jar` file (the files that servers recognize as plugins).
 
-If you've chosen to use Maven for your project (as we suggested in [Part 1](https://github.com/Slimefun/Wiki/blob/master/pages/Developer-Guide-(1-Project-Setup).md)), you can simply run the following command in the root directory of your addon:
+If you've chosen to use Maven for your project (as we suggested in [Part 1](Developer-Guide-(1-Project-Setup).md)), you can simply run the following command in the root directory of your addon:
 
 ```console
 mvn clean package
@@ -79,4 +79,4 @@ As always, if you have any questions, you can ask them in `#programming-help` in
 
 ## Publishing
 
-If you wish, you can now [publish](Developer-Guide-(Publishing)) your addon.
+If you wish, you can now [publish](Developer-Guide-(Publishing).md) your addon.

@@ -17,7 +17,7 @@ This guide aims to help you at identifying issues and informing you on what **yo
 
 If everything fails, we will also help you how to make detailed and efficient bug reports, so that we can give you the best help possible.
 
-_Also see: [Common Issues](Common-Issues)_
+_Also see: [Common Issues](Common-Issues.md)_
 
 **But first off:**
 

@@ -41,7 +41,8 @@ The scores are calculated by taking the average of all scores by all reviewers f
 
 ## 1. Endrex by nahkd
 
-https://github.com/nahkd123/Endrex
+<https://github.com/nahkd123/Endrex>
+
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 9.6      | 9.05       | 8.0        | 4.75         | 7.65     | 7.6       | **7.78** |
@@ -83,7 +84,8 @@ But internally it lacks quite a bit of work and isn't the most user-friendly too
 
 ## 2. TranscEndence by Sfiguz7
 
-https://github.com/Sfiguz7/TranscEndence
+<https://github.com/Sfiguz7/TranscEndence>
+
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 2.75     | 8.85       | 8.2        | 7.95         | 8.2      | 8.7       | **7.44** |
@@ -118,7 +120,8 @@ A very user-friendly plugin with many awesome mechanics. Really a very unique ad
 
 ## 3. New-Beginnings by Tweep
 
-https://github.com/TweepCoding/New-Begginings
+<https://github.com/TweepCoding/New-Begginings>
+
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 7.75     | 7.65       | 7.05       | 7.1          | 8.3      | 6.4       | **7.38** |
@@ -154,7 +157,8 @@ There is not too much to say about this addon, it's fun. But the code has a lot 
 
 ## 4. End Combat by HAL989
 
-https://github.com/Gavin296/end-combat
+<https://github.com/Gavin296/end-combat>
+
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 9.2      | 8.2        | 5.45       | 5.6          | 7.25     | 6.35      | **7.01** |
@@ -193,7 +197,8 @@ The plugin is fun and interesting. It is a good interpretation of the theme too.
 
 ## 5. EnderPanda by Panda
 
-https://github.com/J3fftw1/EnderPanda
+<https://github.com/J3fftw1/EnderPanda>
+
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 6.75     | 7.5        | 5.6        | 8.85         | 8.05     | 5.25      | **7.00** |
@@ -228,7 +233,8 @@ The code is very clean and this addon is fun. However it isn't as user-friendly 
 
 ## 6. SlimeVoid by BigBadE
 
-https://github.com/BigBadE/SlimefunVoid
+<https://github.com/BigBadE/SlimefunVoid>
+
 | Accuracy | Creativity | Innovation | Code Quality | Gameplay | Mechanics | TOTAL    |
 | -------- | ---------- | ---------- | ------------ | -------- | --------- | -------- |
 | 2.65     | 6.1        | 7.4        | 3.5          | 6.0      | 2.9       | **4.76** |

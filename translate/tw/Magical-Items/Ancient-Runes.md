@@ -18,7 +18,7 @@ There is the Blank Rune, which is used as a base crafting material for the simpl
 There are 5 simple runes, Air, Earth, Fire, Water and Ender. These are used in low-end [Magical Gadgets](Magical-Gadgets) and to craft the other runes.  
 After those come the high-end runes, these are all also used to craft [Magical Gadgets](Magical-Gadgets). These are the Lightning and the Rainbow rune.
 
-### Soulbound Rune
+### 靈魂綁定符文
 
 This rune can be used to make any item Soulbound. This means that this item will stay in your inventory even on the event of your death.
 

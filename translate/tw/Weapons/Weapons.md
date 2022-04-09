@@ -1,17 +1,17 @@
 ---
-title: Weapons Overview
+title: 武器總覽
 ---
 
-The Weapons category contains various items which can be used as weapons.
+五器類別包含可用做為武器的各種物品.
 
 ## 目錄
 
-* [Grandmas Walking Stick](https://github.com/Slimefun/Slimefun4/wiki/Walking-Sticks)
-* [Grandpas Walking Stick](https://github.com/Slimefun/Slimefun4/wiki/Walking-Sticks)
-* [Sword of Beheading](https://github.com/Slimefun/Slimefun4/wiki/Sword-of-Beheading)
-* [Blade of Vampires](https://github.com/Slimefun/Slimefun4/wiki/Blade-of-Vampires)
-* [Seismic Axe](https://github.com/Slimefun/Slimefun4/wiki/Seismic-Axe)
-* [Soulbound Sword](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Weapons)
-* [Soulbound Bow](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Weapons)
-* [Explosive Bow](https://github.com/Slimefun/Slimefun4/wiki/Bows)
-* [Icy Bow](https://github.com/Slimefun/Slimefun4/wiki/Bows)
+* [奶奶的拐杖](Walking-Sticks.md)
+* [爺爺的枴杖](Walking-Sticks.md)
+* [斬首巨劍](Sword-of-Beheading.md)
+* [吸血鬼之劍](Blade-of-Vampires.md)
+* [地震斧](Seismic-Axe.md)
+* [靈魂綁定劍](Soulbound-Weapons.md)
+* [靈魂綁定弓](Soulbound-Weapons.md)
+* [爆裂弓](Bows.md)
+* [寒冰弓](Bows.md)

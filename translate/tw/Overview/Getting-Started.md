@@ -5,7 +5,7 @@ sidebar_position: 4
 
 If you have just started using Slimefun it may seem overwhelming or very complicated. You may not know where to start. If that sounds familiar then you have come to the right place!
 
-This guide assumes that you have already installed Slimefun, otherwise start by reading [How to install Slimefun](Installing-Slimefun)
+This guide assumes that you have already installed Slimefun, otherwise start by reading [How to install Slimefun](Installing-Slimefun.md)
 
 ## 1. Slimefun Guide
 
@@ -21,15 +21,15 @@ The very first and most basic Machines are found in the Category "Basic Machines
 
 ## 4. Enhanced Crafting Table
 
-This is the first machine you will need to build. You have to place a Crafting Table on top of a Dispenser. Most Slimefun Recipes are crafted by putting the recipe into the Dispenser, then right-clicking the Crafting Table. You can read more about this Machine [here](Enhanced-Crafting-Table).
+This is the first machine you will need to build. You have to place a Crafting Table on top of a Dispenser. Most Slimefun Recipes are crafted by putting the recipe into the Dispenser, then right-clicking the Crafting Table. You can read more about this Machine [here](../Basic-Machines/Enhanced-Crafting-Table.md).
 
 ## 5. Collecting Dust
 
-A lot of Recipes may require various Ingots/Alloys. You start off by crafting a [Gold Pan](Gold-Pan) in the [Enhanced Crafting Table](Enhanced-Crafting-Table). Right-Click Gravel with your [Gold Pan](Gold-Pan) and you will get [Sifted Ore](Sifted-Ore). Then process your [Sifted Ore](Sifted-Ore) by building an [Ore Washer](Ore-Washer). You will get lots of dusts (e.g. Copper, Tin, Zinc,...) from that, hold onto those and proceed to Step 6.
+A lot of Recipes may require various Ingots/Alloys. You start off by crafting a [Gold Pan](../Tools/Gold-Pan.md) in the [Enhanced Crafting Table](../Basic-Machines/Enhanced-Crafting-Table.md). Right-Click Gravel with your [Gold Pan](../Tools/Gold-Pan.md) and you will get [Sifted Ore](../Miscellaneous-Items/Sifted-Ore.md). Then process your [Sifted Ore](../Miscellaneous-Items/Sifted-Ore.md) by building an [Ore Washer](../Basic-Machines/Ore-Washer.md). You will get lots of dusts (e.g. Copper, Tin, Zinc,...) from that, hold onto those and proceed to Step 6.
 
 ## 6. The Smeltery
 
-Now it's time to turn your Dusts into Ingots. Start by building a [Smeltery](Smeltery) and smelt those into Ingots or Alloys. You can then use these Ingots and Alloys in a ton of recipes.
+Now it's time to turn your Dusts into Ingots. Start by building a [Smeltery](../Basic-Machines/Smeltery.md) and smelt those into Ingots or Alloys. You can then use these Ingots and Alloys in a ton of recipes.
 
 ## 7. Enjoy the plugin
 

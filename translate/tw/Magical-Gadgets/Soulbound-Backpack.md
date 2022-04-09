@@ -1,5 +1,5 @@
 ---
-title: Soulbound Backpack
+title: 靈魂綁定背包
 sidebar_position: 6
 ---
 
@@ -9,7 +9,7 @@ It only has 36 Inventory Slots which is 18 less than the Gilded [Backpack](Backp
 
 ## 也請參考
 
-* [Soulbound Weapons](Soulbound-Weapons)
-* [Soulbound Armor](Soulbound-Armor)
-* [Soulbound Tools](Soulbound-Tools)
-* [Soulbound Rune](Soulbound-Rune)
+* [靈魂綁定武器](Soulbound-Weapons)
+* [靈魂綁定盔甲](Soulbound-Armor)
+* [靈魂綁定工具](Soulbound-Tools)
+* [靈魂綁定符文](Soulbound-Rune)

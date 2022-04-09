@@ -3,7 +3,7 @@ title: Developer Guide (5 Researches)
 sidebar_position: 6
 ---
 
-This is the **fifth Part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide).
+This is the **fifth Part** of our Developer Guide, you can find a full overview on our [main page](Developer-Guide.md).
 
 If you haven't checked out the previous parts, then please do that now.
 
@@ -189,4 +189,4 @@ Players will now be required to unlock this cake before they can access it.
 
 If you have any questions, feel free to hop on discord and ask them in `#programming-help`.
 
-[**> Continue with Part 6**](Developer-Guide-(6-Custom-Heads))
+[**> Continue with Part 6**](Developer-Guide-(6-Custom-Heads).md)

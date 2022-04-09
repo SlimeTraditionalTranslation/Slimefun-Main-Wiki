@@ -1,5 +1,5 @@
 ---
-title: Soulbound Rune
+title: 靈魂綁定符文
 sidebar_position: 4
 ---
 

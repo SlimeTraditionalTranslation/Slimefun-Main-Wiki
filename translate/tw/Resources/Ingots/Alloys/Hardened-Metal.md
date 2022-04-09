@@ -30,7 +30,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 ### 物品
 
 * [Hercules' Pickaxe](Hercules'-Pickaxe)
-* [Seismic Axe](Seismic-Axe)
+* [地震斧](Seismic-Axe)
 * [Coal Generator II](Coal-Generator)
 * [Food Fabricator II](Food-Fabricator)
 * [Food Composter II](Food-Composter)

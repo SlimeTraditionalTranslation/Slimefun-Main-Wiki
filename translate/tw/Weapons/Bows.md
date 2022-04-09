@@ -1,22 +1,22 @@
 ---
-title: Bows
+title: 弓
 sidebar_position: 6
 ---
 
-Among the [Weapons](/docs/Slimefun/Weapons) it adds, Slimefun introduces three new bows: the Soulbound Bow, the Explosive Bow, and the Icy Bow.
+它添加在[武器](Weapons.md)類別之中, 黏液科技加入了三種新弓: 靈魂綁定弓, 爆裂弓, 寒冰弓.
 
-They each have special properties and may be enchanted like any other Bow.
+它們每個都有特殊屬性, 並且可以像任何弓一樣被附魔.
 
-## Soulbound Bow
+## 靈魂綁定弓
 
-The Soulbound Bow remains in your inventory upon death.
+靈魂綁定弓在你死後會繼續保留在身上.
 
-*See also: [Soulbound Weapons](Soulbound-Weapons)*
+*請看看: [靈魂綁定武器](Soulbound-Weapons.md)*
 
-## Explosive Bow
+## 爆裂弓
 
-Arrows fired by the Explosive Bow launch the Player or Mob they hit into the air.
+爆裂弓射出來的箭矢會將擊中的玩家或生物彈到空中.
 
-## Icy Bow
+## 寒冰弓
 
-Arrows fired by the Icy Bow prevent the Player or Mob they hit from moving for 2 seconds. They will be immune to freezing for 5 seconds afterwards.
+寒冰弓所射出來的箭矢會封鎖被擊中的玩家或生物的移動兩秒. 在這之後它們會免疫凍結五秒.
