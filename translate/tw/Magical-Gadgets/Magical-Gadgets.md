@@ -17,7 +17,7 @@ The Magical Gadgets contains various gadgets with magical powers. Use your [Magi
 - [Elemental Staff - Storm](Elemental-Staves)
 - [Magical Zombie Pills](Magical-Zombie-Pills)
 - [Infused Magnet](Infused-Magnet)
-- [Soulbound Backpack](Soulbound-Backpack)
+- [靈魂綁定背包](Soulbound-Backpack)
 - [Reinforced Spawner](Reinforced-Spawner)
 - [Scroll of Dimensional Teleposition](Scroll-of-Dimensional-Teleposition)
 - [Tome of Knowledge Sharing](Tome-of-Knowledge-Sharing)
