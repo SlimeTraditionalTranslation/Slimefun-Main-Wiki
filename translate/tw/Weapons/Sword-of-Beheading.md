@@ -1,22 +1,22 @@
 ---
-title: Sword of Beheading
+title: 斬首巨劍
 sidebar_position: 2
 ---
 
-The Sword of Beheading is a [Weapon](Weapons.md) added in Slimefun.
+斬首巨劍是黏液科技添加的[武器](Weapons.md).
 
-It is an Iron Sword enchanted with Beheading II, which has a chance to drop a Player's or Mob's head upon killing them.
+它是一把附有斬首2的魔法鐵劍, 殺死玩家或怪物時有機率掉落它們的頭顱.
 
-## Chance to drop head
+## 掉頭顱機率
 
-The table belows lists the chance for each applicable entity to drop their head upon being killed.
+下面的表格列出了每個適用的實體在被殺死時掉落頭顱的機率.
 
-| Entity type     | Drop chance |
-|:--------------- |:-----------:|
-| Player          |     70%     |
-| Creeper         |     40%     |
-| Skeleton        |     40%     |
-| Zombie          |     40%     |
-| Wither Skeleton |     25%     |
+| 實體類型 | 掉落機率 |
+|:---- |:----:|
+| 玩家   | 70%  |
+| 苦力怕  | 40%  |
+| 骷髏   | 40%  |
+| 殭屍   | 40%  |
+| 凋零骷髏 | 25%  |
 
-If you are using the [ExtraHeads](../Other-Plugins/Addons.md#official-addons) addon, it also increases your chance to obtain heads from other mobs.
+如果你是使用[更多頭顱](../Other-Plugins/Addons.md#official-addons)的附加, 它也會增加你從其他怪物上掉落頭顱的機率.
