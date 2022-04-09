@@ -11,7 +11,7 @@ Right-click a block of Soul Sand while holding a Nether Gold Pan in your main ha
 
 The block will break and drop Quartz, a Gold Nugget, a Nether Wart, Blaze Powder, Glowstone Dust or a Ghast Tear.
 
-## Drop chance
+## 掉落機率
 
 Each item you can get with a Nether Gold Pan has a different probability to drop, listed below.
 
