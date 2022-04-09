@@ -1,8 +1,8 @@
 ---
-title: Seismic Axe
+title: 地震斧
 sidebar_position: 3
 ---
 
-The Seismic Axe is a [Weapon](Weapons.md) added in Slimefun.
+地震斧是黏液科技添加的[武器](Weapons.md).
 
-It is an Iron Axe with a special ability: when used (right click), it visually launches up to 10x1 blocks up in the air in the direction the Player is looking at, and pushes any entity in its way 4 blocks away. However, this consumes 4 points of durability, so using this ability can deplete the item very quickly.
+它是一把具有特殊能力的鐵斧: 當你使用時 (右鍵), 它會朝著玩家所看的方向最多震起來10x1格方塊, 並將任何實體推出4格方塊遠. 但是, 這會消耗4點耐久度, 因此使用這個技能可能會很快消耗完這個物品.
