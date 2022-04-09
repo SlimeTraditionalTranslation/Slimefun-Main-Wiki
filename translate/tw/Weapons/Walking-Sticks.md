@@ -1,8 +1,8 @@
 ---
-title: Walking Sticks
+title: 拐杖
 sidebar_position: 1
 ---
 
-The Walking Sticks are [Weapons](Weapons.md) added in Slimefun.
+拐杖是黏液科技添加的[武器](Weapons.md).
 
-They are Sticks with different enchantments: Grandmas Walking Stick is enchanted with Knockback II, while Grandpas Walking Stick is enchanted with Knockback V.
+它們是具有不同附魔的拐杖: 奶奶的拐杖附有擊退2的附魔, 而爺爺的枴杖附有擊退5的附魔.
