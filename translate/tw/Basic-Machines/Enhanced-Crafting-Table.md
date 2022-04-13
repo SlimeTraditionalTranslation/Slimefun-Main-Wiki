@@ -1,5 +1,5 @@
 ---
-title: Enhanced Crafting Table
+title: 進階合成台
 sidebar_position: 1
 ---
 
