@@ -6,7 +6,7 @@ This category contains various machines that have simple functionalities and do 
 
 ## 目錄
 
-* [Enhanced Crafting Table](Enhanced-Crafting-Table)
+* [進階合成台](Enhanced-Crafting-Table)
 * [Grind Stone](Grind-Stone)
 * [Armor Forge](Armor-Forge)
 * [Ore Crusher](Ore-Crusher)
