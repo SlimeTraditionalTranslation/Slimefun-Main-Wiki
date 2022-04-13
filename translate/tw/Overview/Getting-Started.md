@@ -3,34 +3,42 @@ title: 入門指南
 sidebar_position: 4
 ---
 
-If you have just started using Slimefun it may seem overwhelming or very complicated. You may not know where to start. If that sounds familiar then you have come to the right place!
+如果你剛開始使用黏液科技，它可能看起來很繁瑣或非常複雜。 你可能不知道該從哪裡開始。 如果這聽起來很熟悉，那麼你就來對地方了！
 
-This guide assumes that you have already installed Slimefun, otherwise start by reading [How to install Slimefun](Installing-Slimefun.md)
+本指南假定你已經安裝了黏液科技，否則請閱讀 [ 如何安裝黏液科技](Installing-Slimefun.md)
 
-## 1. Slimefun Guide
+## 1. Slimefun指南
 
-The very first Item you will need on your journey is the Slimefun Guide. Do `/sf guide` to obtain it and Right-Click the Book to open it. You will now be presented with all Categories Slimefun can offer. In each Category you will find Items that Slimefun (or Addons) have added. You can click on any Item to see it's Recipe. Take a moment to browse through the guide.
+在你的旅程中，你需要的第一個物品是 Slimefun指南 輸入 `/sf guide` 獲取並拿着這本書右鍵以打開。 現在你可以看到黏液科技提供的所有類別。 在每個類別裡，你都會找到黏液科技 (或它的附加) 添加的物品。 您可以點擊隨意一個物品來查看它的配方。 花點時間瀏覽一下指南吧。
 
-## 2. Researching
+## 2. 研究
 
-You will notice that a lot of Slimefun Items could be locked (depending on your Server Setup). This means that you will either need a certain permission to use the item or that you have to research the Item first. To research an Item, simply click on an Item in your Guide that says "LOCKED". Researching Items will cost you XP levels, so make sure to stock up on Experience.
+你可能會看到很多黏液科技物品被鎖住 (取決於你的服務器設置)。 這表示你需要獲得特定權限才能使用該物品，或者你要先研究該物品。 要研究物品，只需點擊指南中顯示 “已鎖定” 的物品。 研究物品會消耗你的經驗等級，所以一定要累積經驗。
 
-## 3. Multiblocks
+## 3. 多重方塊
 
-The very first and most basic Machines are found in the Category "Basic Machines", most of these are actually Multiblocks. You can see whether it is a multiblock by hovering over the Item to the left of the recipe. Multiblocks are machines that are built in the world. The 3rd row of the recipe are your bottom blocks, then build above them according to the recipe.
+最早也是最基本的機器可以在 “基本機器” 類別中找到，其中大部分實際上是多重方塊。 你可以通過將滑鼠游標停在配方左側的物品上來查看它是否是多重。 多重方塊是在世界上建造的機器。 配方的第三行是你的底部積木，然後根據配方在它們上面建造。
 
-## 4. Enhanced Crafting Table
+## 4. 進階合成台
 
-This is the first machine you will need to build. You have to place a Crafting Table on top of a Dispenser. Most Slimefun Recipes are crafted by putting the recipe into the Dispenser, then right-clicking the Crafting Table. You can read more about this Machine [here](../Basic-Machines/Enhanced-Crafting-Table.md).
+這是你需要建造的第一台機器。 你要在發射器頂部放置一個工作台。 大多數黏液科技食譜是將食譜放入發射器中，然後右鍵工作台來製作的。 你可以在此處 </a> 閱讀有關此機器
 
-## 5. Collecting Dust
+ 的更多信息。</p> 
 
-A lot of Recipes may require various Ingots/Alloys. You start off by crafting a [Gold Pan](../Tools/Gold-Pan.md) in the [Enhanced Crafting Table](../Basic-Machines/Enhanced-Crafting-Table.md). Right-Click Gravel with your [Gold Pan](../Tools/Gold-Pan.md) and you will get [Sifted Ore](../Miscellaneous-Items/Sifted-Ore.md). Then process your [Sifted Ore](../Miscellaneous-Items/Sifted-Ore.md) by building an [Ore Washer](../Basic-Machines/Ore-Washer.md). You will get lots of dusts (e.g. Copper, Tin, Zinc,...) from that, hold onto those and proceed to Step 6.
 
-## 6. The Smeltery
 
-Now it's time to turn your Dusts into Ingots. Start by building a [Smeltery](../Basic-Machines/Smeltery.md) and smelt those into Ingots or Alloys. You can then use these Ingots and Alloys in a ton of recipes.
+## 5. 收集礦粉
 
-## 7. Enjoy the plugin
+許多食譜可能需要各種錠/合金。 你首先要在 [ 進階合成台 ](../Basic-Machines/Enhanced-Crafting-Table.md) 中製作 [ 掏金盤 ](../Tools/Gold-Pan.md)。 用你的 [ 掏金盤 ](../Tools/Gold-Pan.md) 右鍵礫石，你會得到 [ 篩礦 ](../Miscellaneous-Items/Sifted-Ore.md)。 然後通過建造 [ 礦石清洗機 ](../Basic-Machines/Ore-Washer.md) 來處理你的 [ 篩礦 ](../Miscellaneous-Items/Sifted-Ore.md)。 你會從中得到很多礦粉 (例如銅、錫、鋅……)，請保留這些礦粉並繼續進行第 6 步。
 
-Now we should have covered everything you need to know in order to start playing with Slimefun. Have fun and enjoy your adventure!
+
+
+## 6. 冶煉爐
+
+現在是時候把你的礦粉變成錠了。 首先建造一個 [ 冶煉廠 ](../Basic-Machines/Smeltery.md) ，然後將其冶煉成錠或合金。 然後，您可以在大量食譜中使用這些錠和合金。
+
+
+
+## 7. 享受插件
+
+現在我們應該已經介紹了開始玩黏液科技需要了解的所有內容。 玩得開心，享受你的冒險！
