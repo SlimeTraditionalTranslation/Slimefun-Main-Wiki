@@ -1,19 +1,19 @@
 ---
-title: How to report bugs
+title: 如何回報錯誤
 sidebar_position: 5
 ---
 
-Reporting bugs is crucial to this open-source project.
+回報錯誤對於這個開源專案至關重要。
 
-So please consider reporting bugs on our [Issue Tracker](https://github.com/Slimefun/Slimefun4/issues)
+所以請考慮在我們的 [ 問題跟踪器 ](https://github.com/Slimefun/Slimefun4/issues) 上報告錯誤
 
-But before reporting a bug, you should read through the following Troubleshooting Guide.
+但在報告錯誤之前，你應該閱讀以下故障排除指南。
 
-Many issues you come across can be solved on your side and save us a lot of time and effort.
+你遇到的許多問題都可以由你解決，為我們節省大量時間和精力。
 
-## Troubleshooting Guide
+## 故障排除指南
 
-This guide aims to help you at identifying issues and informing you on what **you** can do to prevent these issues.
+本指南旨在幫助你識別問題並告知 ** 你 ** 可以採取哪些措施來防止這些問題。
 
 If everything fails, we will also help you how to make detailed and efficient bug reports, so that we can give you the best help possible.
 
