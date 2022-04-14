@@ -3,7 +3,7 @@ title: Tin Ingot
 sidebar_position: 4
 ---
 
-## Obtaining
+## 取得
 
 Smelting one [Tin Dust](Tin-Dust) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory) yields one Tin Ingot.
 
