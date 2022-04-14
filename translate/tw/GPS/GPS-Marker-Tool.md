@@ -5,7 +5,7 @@ sidebar_position: 3
 
 The GPS Marker Tool is a tool in the [GPS](GPS) category.
 
-## Obtaining
+## 取得
 
 The GPS Marker Tool can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
