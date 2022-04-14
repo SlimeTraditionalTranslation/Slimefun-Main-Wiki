@@ -6,7 +6,7 @@ sidebar_position: 7
 The Reinforced Spawner is an item in the [Magical Gadgets](Magical-Gadgets) category.  
 They are the working counterpart of [Broken Spawners](Broken-Spawner).
 
-## Obtaining
+## 取得
 
 A Reinforced Spawner can be obtained by repairing a [Broken Spawner](Broken-Spawner) at an [Ancient Altar](Ancient-Altar). The mob type will be the same as the original spawner it came from.
 
