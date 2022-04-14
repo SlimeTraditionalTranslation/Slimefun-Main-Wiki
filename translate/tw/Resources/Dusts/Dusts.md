@@ -14,7 +14,7 @@ Slimefun adds the following 9 dusts as [resources](/docs/Slimefun/Resources):
 * [Zinc Dust](Zinc-Dust)
 * [Magnesium Dust](Magnesium-Dust)
 
-## Obtaining
+## 取得
 
 Dusts can be obtained by processing [Sifted Ore](Sifted-Ore) through an [Ore Washer](Ore-Washer) or an [Electric Dust Washer](Electric-Dust-Washer).
 
