@@ -73,57 +73,57 @@ _另請參閱： [ 常見問題 ](Common-Issues.md)_
 
 可能你的問題已經被回報過了，這種情況下請不要再回報。 但我們鼓勵你對該問題發表評論，並提供一些有關你如何重現該問題的信息。
 
-### 5. 搜索錯誤報告和堆棧跟踪
+### 5. 搜索錯誤報告和堆棧跟蹤
 
-Before you venture off and hunt down those error-reports and stacktraces, keep in mind that those things should always be posted via [pastebin](https://pastebin.com/) when reporting via our Issue Tracker.
+在你冒險尋找那些錯誤報告和堆棧跟蹤之前，請記住，在通過我們的問題跟蹤器報告時，這些內容應該始終通過 [pastebin](https://pastebin.com/) 發布。
 
-1. Navigate to the directory `/plugins/Slimefun/error-reports/` and check if any error-reports have been generated there.
+1. 導航到目錄 `/plugins/Slimefun/error-reports/` 並檢查那裡是否生成了任何錯誤報告。
 
-   Please post them along with your issue if they correlate with the problem.
+   如果它們與問題相關，請將它們與你的問題一起發布。
 
-2. Open your server's console and check if you can see any stacktraces.
+2. 打開伺服器的控制台並檢查是否可以看到任何堆棧跟蹤。
 
-(Stacktraces are those things that look really scary and you cannot wrap your mind around how to read them) See if the phrase "slimefun" comes up in it. Attach it to your bug report then.
+（堆棧跟蹤是那些看起來非常可怕的東西，你無法思考如何閱讀它們） 看看裡面是否出現了 “slimefun” 這個短語。 然後將其附加到你的錯誤報告中。
 
-**It is very important to always post the FULL stacktrace, snip off one single word and it all becomes useless, so please make sure to include everything you see.**
+**始終發布完整的堆棧跟踪非常重要，少了一個字它就沒用了，所以請確保你有完整發布所有內容。**
 
-Note that stacktraces that contain "slimefun" in them or even outright say they are caused by Slimefun, they maybe aren't.
+請注意，其中有 “slimefun” 字眼的堆棧跟踪甚至直會接說它們是由 Slimefun 引起的BUG，但它們可能無關黏液科技。
 
-If the name of one of your installed addons comes up in that stacktrace, post it on that addon's bug tracker instead.
+如果你安裝的插件之一的名稱出現在該堆棧跟踪中，請將其發佈在該插件的錯誤跟踪器上。
 
 如果你沒有對服務器的文件訪問權限，請聯繫你的一位管理員，向他們解釋你的問題並將他們鏈接到本指南。
 
-### 6. Make sure it is Slimefun!
+### 6. 確保它是黏液科技！
 
-When you encounter problems with content in Slimefun, then please make sure that the Item/Block/Machine is actually from Slimefun and not from an addon.
+當你在黏液科技中遇到內容問題時，請確保物品目 / 方塊 / 機器實際上來自黏液科技，而不是來自其他附加。
 
-If your problem revolves around items from ExoticGarden or any other Slimefun addons, then report them on their bug tracker and not here.
+如果你的問題與異域花園或任何其他黏液科技插件的附加有關，請在它們的錯誤跟踪器上回報，而不是在這裡。
 
-### 7. Gather as much information as possible
+### 7. 收集盡可能多的資訊
 
-When we say you should be detailed, we mean it.
+當我們說你應該詳細點的時候，我們是認真的。
 
-Try to experiment out some things before reporting.
+請在報告前試試一些東西。
 
-* Is only that item affected or are other (similar) items broken as well?
-* Does the bug only happen if you hold a certain item?
-* Have you tried jumping, left- or right-clicking or dancing around?
-* Does the issue require a creeper to be watching behind your back?
-* Does it only happen on your server? **Have you tried talking to others on our discord server about it?**
+* 是只有那個物品受到影響，還是其他（類似）物品也壞掉了？
+* 該錯誤是否僅在你持有某個物品時才會發生？
+* 你是否有試過跳躍、左鍵或右鍵點擊或四處跑跳？
+* 這個問題是否需要一個人在你背後觀察？
+* 這個問題只發生在你的伺服器上嗎？ ** 你有在我們的Discord伺服器上跟別人聊過嗎？**
 
-These are just some more or less serious examples. Every bit of information helps.
+這只是些或多或少嚴重的例子。 每一個資訊都會有幫助。
 
-The narrower and detailed you can get, the better.
+越詳細、範圍越窄越好
 
-### 8. Posting the Issue via GitHub
+### 8. 透過 GitHub 回報問題
 
-If updating or restarting did not help, then please report your issue via our [Issue Tracker](https://github.com/Slimefun/Slimefun4/issues/).
+如果更新或重啟沒有效果，請透過我們的 [ 問題跟踪器 ](https://github.com/Slimefun/Slimefun4/issues/) 報告你的問題。
 
-* We will need all the version information you gathered in Step 1.
-* Please give a detailed description of the issue
-* Give us very specific information on what you did when that issue occurred
-* Explain what you **expected** to happen, a misunderstanding of what is supposed to happen could also be the root cause of the problem
+* 我們需要你在步驟 1 中收集的所有版本信息。
+* 請詳細描述你的問題
+* 向我們提供有關你在該問題發生時所做的事的具體資料
+* 解釋你 ** 期望 ** 會發生什麼，對應該發生什麼的誤解也可能是問題的根本原因
 
-We hope this little guide helps you make helpful and precise bug reports.
+我們希望這個小指南可以幫助你做出有用且準確的錯誤報告。
 
-Thanks for making it this far!
+謝謝你走到這一步！
