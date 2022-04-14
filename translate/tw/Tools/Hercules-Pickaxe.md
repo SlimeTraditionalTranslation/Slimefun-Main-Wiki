@@ -5,7 +5,7 @@ sidebar_position: 7
 
 The Hercules' Pickaxe is an item in the [tools](Tools) category.
 
-## Obtaining
+## 取得
 
 The Hercules' Pickaxe can be crafted in a [Magic Workbench](Magic-Workbench).
 
