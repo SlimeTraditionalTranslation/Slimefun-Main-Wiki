@@ -7,7 +7,7 @@ The Pickaxe of Vein Mining is an item in the [tools](Tools) category.
 
 It is an unenchanted Diamond Pickaxe which can mine entire ore veins at once.
 
-## Obtaining
+## 取得
 
 The Pickaxe of Vein Mining can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
