@@ -3,7 +3,7 @@ title: Lead Ingot
 sidebar_position: 7
 ---
 
-## Obtaining
+## 取得
 
 Smelting one [Lead Dust](Lead-Dust) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory) yields one Lead Ingot.
 
@@ -19,7 +19,7 @@ Lead Ingots are used in the following [alloys](Ingots#Alloys) for the [Smeltery]
 
 It is used in the following recipes:
 
-* [Trash Can](Trash-Can)
+* [垃圾桶](Trash-Can)
 * [Output Chest](Output-Chest)
 * [Wither-Proof Glass](Wither-Proof-Blocks)
 * [Wither-Proof Obsidian](Wither-Proof-Blocks)
@@ -29,4 +29,4 @@ It is used in the following recipes:
 * [Auto-Breeder](Auto-Breeder)
 * [GPS Activation Device (Personal)](GPS-Activation-Device)
 * [Nuclear Reactor](Reactors)
-* [Reactor Access Port](Reactors)
+* [反應爐端口](Reactors)
