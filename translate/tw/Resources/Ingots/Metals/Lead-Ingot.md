@@ -20,7 +20,7 @@ Lead Ingots are used in the following [alloys](Ingots#Alloys) for the [Smeltery]
 It is used in the following recipes:
 
 * [垃圾桶](Trash-Can)
-* [Output Chest](Output-Chest)
+* [輸出箱](Output-Chest)
 * [Wither-Proof Glass](Wither-Proof-Blocks)
 * [Wither-Proof Obsidian](Wither-Proof-Blocks)
 * [Electrified Crucible](Electrified-Crucible)
