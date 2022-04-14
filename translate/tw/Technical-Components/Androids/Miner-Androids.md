@@ -5,7 +5,7 @@ sidebar_position: 3
 
 An Android specialized for mining purposes, but can used to break other blocks too.
 
-## Obtaining
+## 取得
 
 Miner Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
