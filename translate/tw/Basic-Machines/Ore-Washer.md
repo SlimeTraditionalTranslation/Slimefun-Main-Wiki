@@ -3,15 +3,15 @@ title: Ore Washer
 sidebar_position: 9
 ---
 
-The Ore Washer is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. It is a multiblock structure.
+The Ore Washer is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. 它是一個多重方塊結構。
 
-## Obtaining
+## 取得
 
 The Ore Washer is a multiblock structure, it consists of a cauldron, a fence and a dispenser.
 
 **Note:** It doesn't matter which side the dispenser is facing, place it to your liking.
 
-A complete setup should look like this:
+完整的設定應如下所示：
 
 ![Ore Washer Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-ore-washer.png)
 
