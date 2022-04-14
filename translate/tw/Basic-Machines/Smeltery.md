@@ -1,5 +1,5 @@
 ---
-title: Smeltery
+title: 冶煉爐
 sidebar_position: 6
 ---
 
@@ -12,7 +12,7 @@ sidebar_position: 6
 
 該配方可以在你的 Slimefun 指南中找到，但這是最終版本：
 
-![Smeltery Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-smeltery.png)
+![冶煉爐設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-smeltery.png)
 
 你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest) 來接住你製作的物品。 如果沒有 [輸出箱](Output-Chest)，物品只會回到發射器中。
 
@@ -26,5 +26,5 @@ sidebar_position: 6
 由於冶煉廠的火經常熄滅，因此請確保準備好打火石或使用以下之一：
 
 * 在冶煉廠下方兩格放置一塊地獄岩，這樣火就不會在沒有使用的情況下隨機熄滅。
-* 使用裝滿打火石的發射器再次點燃火焰。 You can hook it up to an Observer Block or a redstone clock to automate the re-ignition.
-* Utilize the [Automatic Ignition Chamber](Automatic-Ignition-Chamber), which will automatically re-ignite the fire.
+* 使用裝滿打火石的發射器再次點燃火焰。 你可以將其連接至偵測器方塊或紅石來自動化重新點火.
+* 使用[自動點火器](Automatic-Ignition-Chamber), 它將會自動重新點火.
