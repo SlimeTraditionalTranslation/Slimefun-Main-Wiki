@@ -3,7 +3,7 @@ title: Redstone Alloy Ingot
 sidebar_position: 14
 ---
 
-## Obtaining
+## 取得
 
 Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery](Electric-Smeltery) yields one Redstone Alloy Ingot:
 
