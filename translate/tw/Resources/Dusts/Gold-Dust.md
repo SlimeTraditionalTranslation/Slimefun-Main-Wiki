@@ -5,7 +5,7 @@ sidebar_position: 2
 
 Gold Dust is one of the nine [dusts](/docs/Slimefun/Resources/Dusts) added in Slimefun.
 
-## Obtaining
+## 取得
 
 - Crushing Gold Ore in an [Ore Crusher](Ore-Crusher) or an [Electric Ore Grinder](Electric-Ore-Grinder) yields two pieces of Gold Dust.
 
