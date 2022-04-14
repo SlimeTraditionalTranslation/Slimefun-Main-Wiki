@@ -15,65 +15,65 @@ sidebar_position: 5
 
 本指南旨在幫助你識別問題並告知 ** 你 ** 可以採取哪些措施來防止這些問題。
 
-If everything fails, we will also help you how to make detailed and efficient bug reports, so that we can give you the best help possible.
+如果都沒有用，我們也會教你如何製作詳細和有效的錯誤報告，以便給你最好的幫助。
 
-_Also see: [Common Issues](Common-Issues.md)_
+_另請參閱： [ 常見問題 ](Common-Issues.md)_
 
-**But first off:**
+**但首先：**
 
-Always remember that Slimefun4 is open-source and community-developed.
+永遠記住，黏液科技是開源和社區開發的。
 
-But most importantly: It is free...
+但最重要的是：它是免費的...
 
-So do **not** expect us to magically fix everything for you and be available 24/7.
+所以 ** 請不要 ** 期望我們神奇地為你解決所有問題並 24/7 提供服務。
 
-If you really enjoy this plugin, then please follow this guide, it'd make our lives a lot easier and would help us focus on important issues.
+如果你真的喜歡這個插件，那麼請遵循這個指南，它會讓我們的生活更輕鬆，並幫助我們專注於重要問題。
 
-It's the least you can do to relieve our shoulders.
+這是你最起碼能做到並可以減輕我們的負擔的事。
 
-### 1. Checking your versions
+### 1. 檢查你在使用的版本
 
-It is absolutely **crucial** that you check your versions, 90% of issues can already be solved in this step alone.
+檢查版本是 ** 絕對的關鍵 ** ，僅此步驟就可以解決 90％的問題。
 
-Gather the following information:
+收集下列資訊：
 
-* **Your Server Software** _(Are you running Bukkit, Spigot, Paper or something else?)_
-* **Your Minecraft Version** _(Is it 1.8, is it 1.14, 1.9001? You should know that.)_
-* **Your Slimefun Version** _(What version have you installed? Is it a DEV build or a "stable" version?)_
+* ** 你的伺服器軟件 ** _（你正在運行 Bukkit、Spigot、Paper 還是其他軟件？）_
+* ** 你的 Minecraft 版本 ** _（是 1.8，是 1.14，還是 1.9001？ 你應該知道的。）_
+* ** 你的黏液科技版本 ** _（你安裝了什麼版本？ 它是 DEV 版本還是 “穩定” 版本？）_
 
-You can quickly gather all this info at once by running the command `/sf versions`.
+你可以通過運行指令 `/sf versions` 快速收集所有這些信息。
 
-If your Server Owner has not given you access to this command, then Shift and Right-Click your Slimefun Guide, there should be a Book and Quill there that will at least tell you your Minecraft and Slimefun Version. That is already very helpful!
+如果你的伺服器管理員沒有授予你訪問此命令的權限，則 Shift 並右鍵單擊您的 Slimefun 指南，那裡應該有一本書籍和羽毛筆，至少可以告訴你你的 Minecraft 和黏液科技版本。 這已經很有幫助了！
 
-If you are reporting a bug on us, then we will need this info, otherwise we have absolutely no chance to figure out what we're dealing with.
+如果你向我們報告錯誤，那麼我們將需要此信息，否則我們絕對沒有機會弄清楚需要處理的問題。
 
-It's like finding a nail in a pile of hay, but the pile is on fire and on an entirely different planet than the nail.
+這就像在一堆乾草中發現一根釘子，但是這堆乾草著火了，並且與釘子在完全不同的星球上。
 
-**So please, please, PLEEEAASEE tell us the exact versions you are running, "latest" is NOT HELPING**.
+** 所以，請，拜託告訴我們你正在運行的確切版本，“最新” 沒有幫助 **。
 
-### 2. Checking for updates
+### 2. 檢查有無更新
 
-The next step is to compare the versions you acquired in step 1 to the most recent versions.
+下一步是將你在第 1 步中獲得的版本與最新版本進行比較。
 
-* **Is your Server Software up to date?** _(Check if there has been an update to Spigot, Paper, Bukkit or whatever you are using)_
-* **Is Slimefun up to date?** _(You can check whether there are newer versions than yours [on the download page](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/))_
-* **Are you using a DEV build?** _(Stable builds are, well "stable" but far from bug-free)_
+* **你的服務器軟件是最新的嗎？** _（檢查 Spigot、Paper、Bukkit 或你正在使用的任何東西是否有更新）_
+* **黏液科技是最新的嗎？** _（你可以在下載頁面查看是否有比你的版本 [ 更新的版本 ](https://xmikux.github.io/builds/xMikux/Slimefun4/master/)）_
+* ** 你使用的是 DEV 構建嗎？** _（穩定的構建非常 “穩定” 但並非無缺陷）_
 
-To add on to the last point: We will not be accepting bug reports from "stable" versions, switch to a much later development version and see if your issue persists first.
+補充最後一點：我們不會接受來自 “穩定” 版本的錯誤報告，請切換到更高版本的開發版本，然後先查看你的問題是否仍然存在。
 
-If you don't have file access to the server, then contact one of your admins, explain them your issue and link them to this guide.
+如果你沒有對服務器的文件訪問權限，請聯繫你的一位管理員，向他們解釋你的問題並將他們鏈接到本指南。
 
-### 3. Try restarting your Server
+### 3. 嘗試重開你的伺服器
 
-This is not a joke. Try turning it off and on again, often times it can work and fix your problem.
+這不是一個玩笑。 嘗試將其關閉再打開，通常它可以正常運作並解決你的問題。
 
-### 4. See if it is a known issue
+### 4. 看看是不是已知問題
 
-Take a look at our [Issue Tracker](https://github.com/Slimefun/Slimefun4/issues).
+看看我們的 [ 問題跟踪器 ](https://github.com/Slimefun/Slimefun4/issues)。
 
-Maybe your issue has already been reported, please don't post it again in that case. But you are encouraged to comment on that issue and give some information on how you were able to reproduce the problem.
+可能你的問題已經被回報過了，這種情況下請不要再回報。 但我們鼓勵你對該問題發表評論，並提供一些有關你如何重現該問題的信息。
 
-### 5. Search for error-reports and stacktraces
+### 5. 搜索錯誤報告和堆棧跟踪
 
 Before you venture off and hunt down those error-reports and stacktraces, keep in mind that those things should always be posted via [pastebin](https://pastebin.com/) when reporting via our Issue Tracker.
 
@@ -91,7 +91,7 @@ Note that stacktraces that contain "slimefun" in them or even outright say they 
 
 If the name of one of your installed addons comes up in that stacktrace, post it on that addon's bug tracker instead.
 
-If you don't have file access to the server, then contact one of your admins, explain them your issue and link them to this guide.
+如果你沒有對服務器的文件訪問權限，請聯繫你的一位管理員，向他們解釋你的問題並將他們鏈接到本指南。
 
 ### 6. Make sure it is Slimefun!
 
