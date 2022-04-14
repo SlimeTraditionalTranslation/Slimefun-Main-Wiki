@@ -13,7 +13,7 @@ sidebar_position: 12
 
 完整的設定應如下所示：
 
-![Automated Panning Machine Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-automated-panning-machine.png)
+![自動掏金機設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-automated-panning-machine.png)
 
 你還可以在鍋釜旁邊放置一個 [輸出箱](Output-Chest) 來收集你的物品。 如果沒有 [輸出箱](Output-Chest)，那麼它將被丟到地板門的上面。
 
