@@ -7,7 +7,7 @@ Iron Ingots are an item in vanilla Minecraft.
 
 Although they are not added by Slimefun, the plugin offers an additional way to obtain them, and they are used in various new recipes.
 
-## Obtaining
+## 取得
 
 You can produce Iron Ingots by smelting [Iron Dust](Iron-Dust) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory).
 
