@@ -5,7 +5,7 @@ sidebar_position: 8
 
 Enriched Nether Ice is a [Resource](/docs/Slimefun/Resources) that can be used to create [Nether Ice Coolant Cells](Coolant-Cells) which can be used as coolant for the [Nether Reactor](Reactors).
 
-## Obtaining
+## 取得
 
 Enriched Nether Ice is crafted with a [Heated Pressure Chamber](Heated-Pressure-Chamber) using 1 [Plutonium](Plutonium) and 1 [Nether Ice](Nether-Ice).
 
