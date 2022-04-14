@@ -5,7 +5,7 @@ sidebar_position: 14
 
 The Juicer is a [Basic Machine](/docs/Slimefun/Basic-Machines) which can be used to create juices from certain fruits.
 
-## Obtaining
+## 取得
 
 The Juicer is a multiblock structure, it consists of a dispenser, a nether brick fence and some glass.
 
