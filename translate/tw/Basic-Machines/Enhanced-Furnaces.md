@@ -1,28 +1,28 @@
 ---
-title: Enhanced Furnaces
+title: 強化熔爐
 sidebar_position: 17
 ---
 
-Enhanced Furnaces are a type of [Basic Machine](/docs/Slimefun/Basic-Machines) added by Slimefun.
+強化熔爐是黏液科技添加的 [基礎機器](/docs/Slimefun/Basic-Machines) 的一種。
 
-They are identical in function to the vanilla Furnace, but have enhanced processing speed, fuel efficiency and luck.
+它們在功能上與原版熔爐相同，但具有更高的處理速度、燃料效率和幸運。
 
-## Enhanced Furnace Tiers
+## 強化熔爐等級
 
-There are 13 tiers of Enhanced Furnaces, each with different modifiers listed below.
+強化熔爐有 13 個等級，每層都有下面列出的不同效果。
 
-| 等級              | Processing Speed | 燃料效率 | Luck |
-| --------------- | ---------------- | ---- | ---- |
-| I               | 1x               | 1x   | 1x   |
-| II              | 2x               | 1x   | 1x   |
-| III             | 2x               | 2x   | 1x   |
-| IV              | 3x               | 2x   | 1x   |
-| V               | 3x               | 2x   | 2x   |
-| VI              | 3x               | 3x   | 2x   |
-| VII             | 4x               | 3x   | 2x   |
-| VIII            | 4x               | 4x   | 2x   |
-| IX              | 5x               | 4x   | 2x   |
-| X               | 5x               | 5x   | 2x   |
-| XI              | 5x               | 5x   | 3x   |
-| Reinforced      | 10x              | 10x  | 3x   |
-| Carbonado Edged | 20x              | 10x  | 3x   |
+| 等級   | 處理速度 | 燃料效率 | 幸運 |
+| ---- | ---- | ---- | -- |
+| I    | 1x   | 1x   | 1x |
+| II   | 2x   | 1x   | 1x |
+| III  | 2x   | 2x   | 1x |
+| IV   | 3x   | 2x   | 1x |
+| V    | 3x   | 2x   | 2x |
+| VI   | 3x   | 3x   | 2x |
+| VII  | 4x   | 3x   | 2x |
+| VIII | 4x   | 4x   | 2x |
+| IX   | 5x   | 4x   | 2x |
+| X    | 5x   | 5x   | 2x |
+| XI   | 5x   | 5x   | 3x |
+| 強化合金 | 10x  | 10x  | 3x |
+| 黑鑽石  | 20x  | 10x  | 3x |
