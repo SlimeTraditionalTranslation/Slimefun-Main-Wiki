@@ -7,7 +7,7 @@ The Pickaxe of the Seeker is an item in the [tools](Tools) category.
 
 It is an unenchanted diamond pickaxe which can help you locate nearby ore.
 
-## Obtaining
+## 取得
 
 The Pickaxe of the Seeker can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
