@@ -5,7 +5,7 @@ sidebar_position: 7
 
 The Oil Pump is a placeable machine added in the [GPS](GPS) category.
 
-## Obtaining
+## 取得
 
 The Oil Pump can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
