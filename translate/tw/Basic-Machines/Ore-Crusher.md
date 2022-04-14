@@ -3,13 +3,13 @@ title: Ore Crusher
 sidebar_position: 4
 ---
 
-The Ore Crusher is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. It is a multiblock structure.
+The Ore Crusher is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. 它是一個多重方塊結構。
 
-## Obtaining
+## 取得
 
 The Ore Crusher is a multiblock structure, it consists of a dispenser, a nether brick fence and 2 iron bars.
 
-A complete setup should look like this:
+完整的設定應如下所示：
 
 ![Ore Crusher Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-ore-crusher.png)
 
