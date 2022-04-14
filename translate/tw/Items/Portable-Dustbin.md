@@ -5,7 +5,7 @@ sidebar_position: 2
 
 The Portable Dustbin is an [Item](/docs/Slimefun/Items) that has a unique use.
 
-## Obtaining
+## 取得
 
 The Portable Dustbin can be crafted in the [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
