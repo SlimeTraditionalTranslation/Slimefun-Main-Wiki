@@ -6,7 +6,7 @@ sidebar_position: 1
 An Energy Regulator is the core part of an [Energy Network](Electric-Machines) which allows energy to be transferred.  
 It is essential to a working energy network.
 
-## Obtaining
+## 取得
 
 An Energy Regulator can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
