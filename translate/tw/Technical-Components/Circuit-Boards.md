@@ -5,7 +5,7 @@ sidebar_position: 1
 
 Circuit Boards are [Technical Components](Technical-Components) that can be used in various crafting recipes.
 
-## Obtaining
+## 取得
 
 ### Basic Circuit Board
 
