@@ -7,7 +7,7 @@ The Explosive Shovel is an item in the [tools](Tools) category.
 
 It is an unenchanted diamond shovel which can dig several blocks at once.
 
-## Obtaining
+## 取得
 
 The Explosive Shovel can be crafted in a [Magic Workbench](Magic-Workbench).
 
