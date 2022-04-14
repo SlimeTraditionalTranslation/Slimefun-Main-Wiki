@@ -3,7 +3,7 @@ title: 鋸木機
 sidebar_position: 10
 ---
 
-The Table Saw is a very straightforward [machine](/docs/Slimefun/Basic-Machines).
+鋸木機是一個非常簡單的[機器](/docs/Slimefun/Basic-Machines).
 
 You can use it to turn logs into 8 planks instead of the normal 4 you would get when using a Crafting Table.
 
