@@ -3,13 +3,13 @@ title: Pressure Chamber
 sidebar_position: 7
 ---
 
-The Pressure Chamber is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. It is a multiblock structure.
+The Pressure Chamber is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. 它是一個多重方塊結構。
 
-## Obtaining
+## 取得
 
 The Pressure Chamber is a multiblock structure, it consists of a dispenser, 2 smooth stone slabs, a piece of glass, a cauldron and 4 pistons.
 
-A complete setup should look like this:
+完整的設定應如下所示：
 
 ![Pressure Chamber Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-pressure-chamber.png)
 
