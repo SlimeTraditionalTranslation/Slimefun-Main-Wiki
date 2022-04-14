@@ -5,7 +5,7 @@ sidebar_position: 12
 
 The Ancient Pedestal is a block in the [Magical Gadgets](Magical-Gadgets) category. It is essential in building a working [Ancient Altar](Ancient-Altar).
 
-## Obtaining
+## 取得
 
 The Ancient Pedestal can be crafted in a [Magic Workbench](Magic-Workbench).
 
