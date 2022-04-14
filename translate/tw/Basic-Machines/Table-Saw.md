@@ -1,5 +1,5 @@
 ---
-title: Table Saw
+title: 鋸木機
 sidebar_position: 10
 ---
 
@@ -9,7 +9,7 @@ You can use it to turn logs into 8 planks instead of the normal 4 you would get 
 
 ## How to build a Table Saw
 
-The recipe is already found in your Slimefun Guide, but here is the final version:
+該配方可以在你的 Slimefun 指南中找到，但這是最終版本：
 
 ![Table Saw Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-table-saw.png)
 
