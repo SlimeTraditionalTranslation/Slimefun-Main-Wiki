@@ -11,7 +11,7 @@ sidebar_position: 4
 
 完整的設定應如下所示：
 
-![Ore Crusher Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-ore-crusher.png)
+![礦石粉碎機設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-ore-crusher.png)
 
 你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest) 來收集你的資源。 如果沒有 [輸出箱](Output-Chest)，則將其放入發射器中。
 
