@@ -11,7 +11,7 @@ sidebar_position: 8
 
 完整的設定應如下所示：
 
-![Magic Workbench Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-magic-workbench.png)
+![魔法合成台設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-magic-workbench.png)
 
 你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest) 來收集你的物品。 如果沒有 [輸出箱](Output-Chest)，則將其放入發射器中。
 
