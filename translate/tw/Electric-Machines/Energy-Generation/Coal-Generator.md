@@ -5,7 +5,7 @@ sidebar_position: 3
 
 The Coal Generator is a type of [Energy Generator](Electric-Machines#energy-generation).
 
-## Obtaining
+## 取得
 
 All tiers of coal generators can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
