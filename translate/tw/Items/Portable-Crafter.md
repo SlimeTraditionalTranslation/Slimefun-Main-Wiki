@@ -5,7 +5,7 @@ sidebar_position: 1
 
 The Portable Crafter is an [Item](/docs/Slimefun/Items) that has a unique use.
 
-## Obtaining
+## 取得
 
 The Portable Crafter can be crafted in the [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
