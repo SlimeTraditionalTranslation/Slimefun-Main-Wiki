@@ -8,7 +8,7 @@ This category contains various machines that have simple functionalities and do 
 
 * [進階合成台](Enhanced-Crafting-Table)
 * [Grind Stone](Grind-Stone)
-* [Armor Forge](Armor-Forge)
+* [盔甲鍛造台](Armor-Forge)
 * [Ore Crusher](Ore-Crusher)
 * [Compressor](Compressor)
 * [Makeshift Smeltery](Makeshift-Smeltery)
