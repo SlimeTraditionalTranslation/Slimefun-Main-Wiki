@@ -13,10 +13,10 @@ sidebar_position: 3
 
 完整的設定應如下所示：
 
-![Armor Forge Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-armor-forge.png)
+![盔甲鍛造台設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-armor-forge.png)
 
-你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest) ，以收集你製作的盔甲。 If there is no [Output Chest](Output-Chest), then it will be put in the dispenser.
+你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest) ，以收集你製作的盔甲。 如果沒有 [輸出箱](Output-Chest)，則將其放入發射器中。
 
 ## 使用方法
 
-The Armor Forge can be used to craft [Armor](Armor) and [Magical Armor](Magical-Armor).
+盔甲鍛造台可用於製作 [盔甲](Armor) 和 [魔法盔甲](Magical-Armor)。
