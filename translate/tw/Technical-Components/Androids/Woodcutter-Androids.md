@@ -5,7 +5,7 @@ sidebar_position: 5
 
 An Android that specializes in automating the process of harvesting and replanting trees. This Android will work with all types of wood.
 
-## Obtaining
+## 取得
 
 Woodcutter Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
