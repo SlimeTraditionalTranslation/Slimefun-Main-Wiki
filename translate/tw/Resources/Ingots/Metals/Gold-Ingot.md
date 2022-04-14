@@ -7,7 +7,7 @@ Slimefun adds 11 new Gold Ingots to the game.
 
 They are differentiated by their purity (measured in "carats"), with the lowest purity being 4 and the highest being 24.
 
-## Obtaining
+## 取得
 
 Smelting [Gold Dust](Gold-Dust) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory) produces a 4-carat Gold Ingot.
 
