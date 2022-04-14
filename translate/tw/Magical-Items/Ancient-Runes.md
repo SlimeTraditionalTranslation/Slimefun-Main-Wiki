@@ -5,7 +5,7 @@ sidebar_position: 3
 
 Ancient Runes are part of the [Magical Items](Magical-Items) category. There are currently 11 different runes and a blank one.
 
-## Obtaining
+## 取得
 
 Every single rune is made in the [Ancient Altar](Ancient-Altar) and their recipes can be found in the Slimefun guide.
 
