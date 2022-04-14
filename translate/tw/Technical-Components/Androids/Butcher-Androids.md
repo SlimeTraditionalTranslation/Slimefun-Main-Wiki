@@ -5,7 +5,7 @@ sidebar_position: 7
 
 An Android that specializes in killing hostile mobs or/and animals.
 
-## Obtaining
+## 取得
 
 Butcher Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
