@@ -3,13 +3,13 @@ title: Compressor
 sidebar_position: 5
 ---
 
-The Compressor is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. It is a multiblock structure.
+The Compressor is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. 它是一個多重方塊結構。
 
-## Obtaining
+## 取得
 
 The Compressor is a multiblock structure, it consists of a dispenser, a nether brick fence and 2 pistons.
 
-A complete setup should look like this:
+完整的設定應如下所示：
 
 ![Compressor Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-compressor.png)
 
