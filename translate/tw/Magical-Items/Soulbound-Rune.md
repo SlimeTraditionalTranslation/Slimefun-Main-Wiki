@@ -7,7 +7,7 @@ The Soulbound Rune is a [Magical Item](Magical-Items) in Slimefun.
 
 The rune prevents the item it is used on from being dropped upon death, similarly to [Soulbound armor](Soulbound-Armor), [tools](Soulbound-Tools) and [weapons](Soulbound-Weapons).
 
-## Obtaining
+## 取得
 
 Soulbound Runes can be crafted by performing the appropriate ritual at an [Ancient Altar](Ancient-Altar).
 
