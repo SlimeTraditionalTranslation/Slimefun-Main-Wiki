@@ -12,7 +12,7 @@ title: 基礎機器概述
 * [礦石粉碎機](Ore-Crusher)
 * [Compressor](Compressor)
 * [簡易冶煉爐](Makeshift-Smeltery)
-* [Smeltery](Smeltery)
+* [冶煉爐](冶煉爐)
 * [加壓室](Pressure-Chamber)
 * [魔法合成台](Magic-Workbench)
 * [礦物洗滌機](Ore-Washer)
