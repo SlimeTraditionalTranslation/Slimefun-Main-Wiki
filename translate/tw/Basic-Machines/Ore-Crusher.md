@@ -1,22 +1,22 @@
 ---
-title: Ore Crusher
+title: 礦石粉碎機
 sidebar_position: 4
 ---
 
-The Ore Crusher is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. 它是一個多重方塊結構。
+礦石粉碎機屬於 [基礎機器](/docs/Slimefun/Basic-Machines) 類別。 它是一個多重方塊結構。
 
 ## 取得
 
-The Ore Crusher is a multiblock structure, it consists of a dispenser, a nether brick fence and 2 iron bars.
+礦石粉碎機是一個多重方塊結構，它由一個發射器、一個地獄磚牆和 2 個鐵柵欄組成。
 
 完整的設定應如下所示：
 
 ![Ore Crusher Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-ore-crusher.png)
 
-You can also place an [Output Chest](Output-Chest) next to the dispenser to collect your resources. If there is no [Output Chest](Output-Chest), then it will be put in the dispenser.
+你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest) 來收集你的資源。 如果沒有 [輸出箱](Output-Chest)，則將其放入發射器中。
 
 ## 使用方法
 
-The Ore Crusher is mainly used to crush ores into their minerals, but it has other uses too.
+礦石粉碎機主要用於將礦石粉碎成礦物，但它也有其他用途。
 
-Check out the Ore Crusher in the Slimefun Guide in-game for more recipes.
+查看遊戲中 Slimefun指南中的礦石粉碎機以獲取更多合成表。
