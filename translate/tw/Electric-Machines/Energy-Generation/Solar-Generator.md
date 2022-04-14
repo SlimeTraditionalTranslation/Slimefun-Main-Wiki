@@ -6,7 +6,7 @@ sidebar_position: 1
 The Solar Generator is a type of [Energy Generator](Electric-Machines).  
 Unlike most other generators, it does not need to be fueled, requiring only direct sunlight. However, it does not generate power at night until you reach the last tier of solar generators.
 
-## Obtaining
+## 取得
 
 All tiers of solar generators can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
