@@ -5,7 +5,7 @@ sidebar_position: 6
 
 An Android that specializes in automating the fishing process.
 
-## Obtaining
+## 取得
 
 Fisherman Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
