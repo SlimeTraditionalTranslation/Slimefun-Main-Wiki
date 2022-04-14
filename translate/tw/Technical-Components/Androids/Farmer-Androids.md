@@ -5,7 +5,7 @@ sidebar_position: 4
 
 An Android that specializes in automating the farming process..
 
-## Obtaining
+## 取得
 
 Farmer Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
