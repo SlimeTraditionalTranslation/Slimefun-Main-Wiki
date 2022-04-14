@@ -5,7 +5,7 @@ sidebar_position: 6
 
 The Combustion Reactor is a type of [Energy Generator](Electric-Machines#energy-generation).
 
-## Obtaining
+## 取得
 
 A Combustion Reactor can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
