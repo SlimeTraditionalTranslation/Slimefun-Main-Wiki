@@ -24,7 +24,7 @@ Slimefun Gold Ingots cannot substitute regular Gold Ingots in vanilla recipes. I
 It is also used in the following recipes:
 
 * [Gold Ingot (6-Carat)](Gold-Ingot#Gold-Ingot-6-Carat)
-* [Block Placer](Block-Placer)
+* [方塊放置器](Block-Placer)
 
 ### Gold Ingot (6-Carat)
 
