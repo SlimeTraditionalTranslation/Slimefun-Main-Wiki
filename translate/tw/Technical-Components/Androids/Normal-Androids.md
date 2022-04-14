@@ -5,7 +5,7 @@ sidebar_position: 2
 
 A Normal Android is used as a base to create a specialized Android.
 
-## Obtaining
+## 取得
 
 Normal Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
