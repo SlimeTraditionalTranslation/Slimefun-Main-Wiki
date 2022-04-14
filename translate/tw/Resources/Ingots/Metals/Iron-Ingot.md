@@ -27,7 +27,7 @@ Additionally, Iron Ingots are used to make the following alloys:
 They are also a crafting ingredient for the following items and machines:
 
 * [Ancient Rune [Lightning]](Ancient-Runes)
-* [Block Placer](Block-Placer)
+* [方塊放置器](Block-Placer)
 * [Electric Gold Pan (II)](Electric-Gold-Pan)
 * [Portable Dustbin](Portable-Dustbin)
 * [Slime Armor](Magical-Armor#the-leather-&-iron-slime-set)
