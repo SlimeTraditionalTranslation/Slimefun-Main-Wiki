@@ -3,7 +3,7 @@ title: Composter
 sidebar_position: 15
 ---
 
-The Composter is part of the [Basic Machines](/docs/Slimefun/Basic-Machines) category.
+堆肥桶屬於 [基礎機器](/docs/Slimefun/Basic-Machines) 類別。
 
-It can be used to create dirt, netherrack, soul sand and netherwart from organic materials.  
-This can be very useful early on to get some nether items.  
+它可以用來從有機材料中製造泥土、地獄岩、靈魂沙和地獄疙瘩。  
+這對於早期獲得一些地獄物品非常有用。  
