@@ -3,22 +3,22 @@ title: 進階合成台
 sidebar_position: 1
 ---
 
-The Enhanced Crafting Table is an essential [Basic Machine](/docs/Slimefun/Basic-Machines) in Slimefun.
+進階合成台是黏液科技中必不可少的 [基礎機器](/docs/Slimefun/Basic-Machines)。
 
-It is used to craft many Slimefun items, from the most basic to the most complex.
+它用於製作許多黏液科技物品，從最基本的到最複雜的。
 
-## How to build an Enhanced Crafting Table
+## 如何建造一個進階合成台
 
-The recipe can be found in your Slimefun Guide. To build it, you need to place a Crafting Table on top of a Dispenser.
+合成表可以在你的 Slimefun指南中找到。 你需要在發射器頂部放置一個工作台來建造它。
 
-A complete Enhanced Crafting Table looks like this:
+一個完整的進階合成台如下所示：
 
-![Enhanced Crafting Table Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-enhanced-crafting-table.png)
+![進階合成台設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-enhanced-crafting-table.png)
 
-You can also place an [Output Chest](Output-Chest) next to the Dispenser to collect your crafted items.
+你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest) 來收集你的製作物品。
 
-## How to use an Enhanced Crafting Table
+## 如何使用進階合成台
 
-Place your items in the correct pattern in the Dispenser, then right click the Crafting Table.
+將你的物品以正確的排序放入發射器中，然後右鍵點擊工作台。
 
-If the recipe is correct, the crafted item will appear in the Dispenser (or the Output Chest next to it).
+如果合成表正確，則製作的物品將出現在發射器（或旁邊的輸出箱）中。
