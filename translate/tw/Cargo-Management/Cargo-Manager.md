@@ -1,20 +1,24 @@
 ---
-title: Cargo Manager
+title: 物流核心
 sidebar_position: 2
 ---
 
-A Cargo Manager is the core part of a [cargo management system](Cargo-Management). It allows items to be moved within a cargo network.
+物流核心是 [物流管理系統](Cargo-Management) 的核心部分。 它可以讓物品在物流網絡內移動。
 
-## Obtaining
+## 取得
 
-A cargo manager can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
+物流核心可以在
+
+ [ 進階合成台](Enhanced-Crafting-Table) 上製作。</p> 
+
+
 
 ## 使用方法
 
-A cargo manager is a requirement of every cargo network, as it allows the transfer of items between the nodes in its range. It does not move items by itself: instead, it must be [connected](Connector-Node) to [input](Input-Node) and [output nodes](Output-Node) (or [advanced output nodes](Advanced-Output-Node)).
+物流核心是每個物流網絡的必需品，因為它允許在它範圍內的節點之間傳輸物品。 它不會自行移動物品：相反，它必須與 [ 物流節點 (輸入)](Input-Node) 和 [ 物流節點 (輸出) [相連](Connector-Node) ](Output-Node) （或 [ 高級物流節點 (輸出)](Advanced-Output-Node)）。
 
-To be connected, a cargo manager must be aligned within 6 blocks of a cargo node, in a straight line (no diagonals).
+要連接，物流核心必須在物流節點的 6 個方塊內，在一條直線上（無對角線）對齊。
 
-There can only be one cargo manager per cargo network. Only [connector nodes](Connector-Node) can be used to extend its range.
+每個物流網絡只能有一個物流核心。 只有 [ 物流節點 (中繼) ](Connector-Node) 可用來擴展物流網絡的範圍。
 
-By default, a cargo manager will emit red particles throughout its range, as well as through any connected connector nodes. This visual effect can be turned on or off by right-clicking the cargo manager.
+默認情況下，物流核心將在它範圍內以及通過任何連接的物流節點 (中繼)發射紅色粒子。 可以通過右鍵點擊物流核心來開啟或關閉此視覺效果。
