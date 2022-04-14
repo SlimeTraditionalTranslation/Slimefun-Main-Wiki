@@ -5,7 +5,7 @@ sidebar_position: 18
 
 The Block-Placer is a part of the [Basic Machines](/docs/Slimefun/Basic-Machines) category. It is a craftable item which places the placeable blocks present in the dispenser.
 
-## Obtaining
+## 取得
 
 The Block-Placer can be crafted using the [Enchanted Crafting Table](Enhanced-Crafting-Table). A crafted Block placer looks like the following: ![Block Placer Showcase](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/block-placer-showcase.png)
 
