@@ -5,7 +5,7 @@ sidebar_position: 1
 
 Iron Dust is one of the nine [dusts](/docs/Slimefun/Resources/Dusts) added in Slimefun.
 
-## Obtaining
+## 取得
 
 Crushing Iron Ore in an [Ore Crusher](Ore-Crusher) or an [Electric Ore Grinder](Electric-Ore-Grinder) yields two pieces of Iron Dust, effectively doubling it.
 
