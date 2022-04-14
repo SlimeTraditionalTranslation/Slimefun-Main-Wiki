@@ -3,7 +3,7 @@ title: Corinthian Bronze Ingot
 sidebar_position: 7
 ---
 
-## Obtaining
+## 取得
 
 Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery](Electric-Smeltery) yields one Corinthian Bronze Ingot:
 
