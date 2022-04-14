@@ -3,13 +3,13 @@ title: Grind Stone
 sidebar_position: 2
 ---
 
-The Grind Stone is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. It is a multiblock structure.
+The Grind Stone is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. 它是一個多重方塊結構。
 
-## Obtaining
+## 取得
 
 The Grind Stone is a multiblock structure, it consists of a dispenser and a fence.
 
-A complete setup should look like this:
+完整的設定應如下所示：
 
 ![Grind Stone Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-grind-stone.png)
 
