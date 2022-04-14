@@ -5,7 +5,7 @@ sidebar_position: 2
 
 The Bio Reactor is a type of [Energy Generator](Electric-Machines#energy-generation).
 
-## Obtaining
+## 取得
 
 A Bio Reactor can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
