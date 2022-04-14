@@ -9,7 +9,7 @@ Carbon is a [Resource](/docs/Slimefun/Resources) that can be used to craft a var
 - Compressed Carbon
 - Carbon Chunk
 
-## Obtaining
+## 取得
 
 Carbon can be crafted in the [Compressor](Compressor) using 8 Coal.  
 Compressed Carbon can be crafted in the [Compressor](Compressor) using 4 Carbon.  
