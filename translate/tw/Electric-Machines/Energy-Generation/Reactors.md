@@ -6,7 +6,7 @@ sidebar_position: 7
 Reactors are a way to [Generate Energy](Electric-Machines) fast and efficiently.  
 There are currently two types of Reactors. Both of these require to be surrounded by water next to the reactor. Below and above are not necessary.
 
-## Reactor Access Port
+## 反應爐端口
 
 The Reactor Access Port can be found in the [Cargo Management](Cargo-Management) category.  
 It has to be placed exactly 3 blocks above the reactor and it can be used to interact with the Reactor from the outside.  
