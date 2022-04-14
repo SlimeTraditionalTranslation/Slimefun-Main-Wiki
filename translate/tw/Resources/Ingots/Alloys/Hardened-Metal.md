@@ -3,7 +3,7 @@ title: Hardened Metal
 sidebar_position: 12
 ---
 
-## Obtaining
+## 取得
 
 Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery](Electric-Smeltery) yields one Hardened Metal:
 
