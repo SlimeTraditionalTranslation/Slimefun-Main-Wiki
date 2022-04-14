@@ -3,7 +3,7 @@ title: Silver Ingot
 sidebar_position: 5
 ---
 
-## Obtaining
+## 取得
 
 Smelting one [Silver Dust](Silver-Dust) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory) yields one Silver Ingot.
 
@@ -17,5 +17,5 @@ Silver Ingots are used in the following recipes:
 * [Energy Regulator](Energy-Regulator)
 * [Food Fabricator](Food-Fabricator)
 * [Freezer](Freezer)
-* [Cargo Motor](Cargo-Motor)
-* [Cargo Node (Connector)](Connector-Node)
+* [物流機械](Cargo-Motor)
+* [物流節點 (中繼)](Connector-Node)
