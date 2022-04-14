@@ -5,7 +5,7 @@ sidebar_position: 11
 
 The GPS Activation Device is a placeable tool added in the [GPS](GPS) category.
 
-## Obtaining
+## 取得
 
 The GPS Activation Device can be crafted in groups of eight in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
