@@ -28,7 +28,7 @@ The Christmas Present is even more special because it has Santa's Magic!
 
 When you open 1 of these, you obtain a random item.
 
-### Obtaining
+### 取得
 
 The present can be crafted in a [Magic Workbench](Magic-Workbench) like so:
 
