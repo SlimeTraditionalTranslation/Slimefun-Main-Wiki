@@ -1,31 +1,31 @@
 ---
-title: Basic Machines Overview
+title: 基礎機器概述
 ---
 
-This category contains various machines that have simple functionalities and do not require any electricity.
+此類別包含各種功能簡單且不需要任何電力的機器。
 
 ## 目錄
 
 * [進階合成台](Enhanced-Crafting-Table)
-* [Grind Stone](Grind-Stone)
+* [研磨機](Grind-Stone)
 * [盔甲鍛造台](Armor-Forge)
-* [Ore Crusher](Ore-Crusher)
+* [礦石粉碎機](Ore-Crusher)
 * [Compressor](Compressor)
-* [Makeshift Smeltery](Makeshift-Smeltery)
+* [簡易冶煉爐](Makeshift-Smeltery)
 * [Smeltery](Smeltery)
-* [Pressure Chamber](Pressure-Chamber)
-* [Magic Workbench](Magic-Workbench)
-* [Ore Washer](Ore-Washer)
-* [Table Saw](Table-Saw)
-* [Industrial Miner](Industrial-Miners)
-* [Advanced Industrial Miner](Industrial-Miners)
-* [Automated Panning Machine](Automated-Panning-Machine)
-* [Automatic Ignition Chamber](Automatic-Ignition-Chamber)
+* [加壓室](Pressure-Chamber)
+* [魔法合成台](Magic-Workbench)
+* [礦物洗滌機](Ore-Washer)
+* [鋸木機](Table-Saw)
+* [工業挖礦機](Industrial-Miners)
+* [高級工業挖礦機](Industrial-Miners)
+* [自動掏金機](Automated-Panning-Machine)
+* [自動點火器](Automatic-Ignition-Chamber)
 * [Juicer](Juicer)
 * [Composter](Composter)
 * [Crucible](Crucible)
-* [Enhanced Furnace (Tier I-XI)](Enhanced-Furnaces)
-* [Reinforced Furnace](Enhanced-Furnaces)
-* [Carbonado-Edged Furnace](Enhanced-Furnaces)
-* [Block Placer](Block-Placer)
-* [Output Chest](Output-Chest)
+* [強化熔爐 (I-XI)](Enhanced-Furnaces)
+* [強化合金熔爐](Enhanced-Furnaces)
+* [黑鑽石熔爐](Enhanced-Furnaces)
+* [方塊放置器](Block-Placer)
+* [輸出箱](Output-Chest)
