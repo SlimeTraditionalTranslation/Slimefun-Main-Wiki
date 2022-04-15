@@ -19,11 +19,11 @@ Additionally, "daytime" for a solar generator is after 23850 ticks and before 12
 
 Solar generators do not have a buffer, so any unused energy produced by them will be lost if it is not stored in a [capacitor](Energy-Capacitors).
 
-## Tiers
+## 等級
 
 The table below compares the energy production of solar generators.
 
-| 等級                        |             Energy              |
+| 等級                        |               能量                |
 |:------------------------- |:-------------------------------:|
 | Solar Generator           |              4 J/s              |
 | Advanced Solar Generator  |             16 J/s              |
