@@ -19,7 +19,7 @@ Each item you can get with a Nether Gold Pan has a different probability to drop
 | -------------- | ------ |
 | Quartz         | 50%    |
 | Gold Nugget    | 25%    |
-| Nether Wart    | 10%    |
+| 地獄疙瘩           | 10%    |
 | Blaze Powder   | 8%     |
 | Glowstone Dust | 5%     |
 | Ghast Tear     | 2%     |
