@@ -13,54 +13,54 @@ A Bio Reactor can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-T
 
 A Bio Reactor must be placed within 7 blocks of an [Energy Regulator](Energy-Regulator), an [Energy Connector](Energy-Connector), or an [Energy Capacitor](Energy-Capacitors) in a cross format (not diagonally), and provided with the appropriate fuel.
 
-## Tiers
+## 等級
 
 The Bio Reactor only has one tier.
 
-| 等級 | Energy | Buffer |
-| -- | ------ | ------ |
-| I  | 8 J/s  | 128 J  |
+| 等級 | 能量    | 緩衝    |
+| -- | ----- | ----- |
+| I  | 8 J/s | 128 J |
 
 ## 燃料
 
 This generator can be fueled with various organic items.
 
-| 燃料                 | Burning time | Total |
-|:------------------ |:------------:|:-----:|
-| Rotten Flesh       |      2s      | 16 J  |
-| Spider Eye         |      2s      | 16 J  |
-| Bone               |      2s      | 16 J  |
-| String             |      2s      | 16 J  |
-| Apple              |      3s      | 24 J  |
-| Melon Slice        |      3s      | 24 J  |
-| Melon              |     27s      | 216 J |
-| Pumpkin            |      3s      | 24 J  |
-| Pumpkin Seeds      |      3s      | 24 J  |
-| Melon Seeds        |      3s      | 24 J  |
-| Wheat              |      3s      | 24 J  |
-| Wheat Seeds        |      3s      | 24 J  |
-| Carrot             |      3s      | 24 J  |
-| Potato             |      3s      | 24 J  |
-| Sugar Cane         |      3s      | 24 J  |
-| Nether Wart        |      3s      | 24 J  |
-| Any Mushrooms      |      2s      | 16 J  |
-| Vines              |      2s      | 16 J  |
-| Cactus             |      2s      | 16 J  |
-| Lily Pad           |      2s      | 16 J  |
-| Chorus Fruit       |      8s      | 64 J  |
-| Kelp               |      1s      |  8 J  |
-| Dried Kelp         |      2s      | 16 J  |
-| Dried Kelp Block   |     20s      | 160 J |
-| Seagrass           |      1s      |  8 J  |
-| Sea Pickle         |      2s      | 16 J  |
-| Bamboo             |      2s      | 16 J  |
-| Sweet Berries      |      2s      | 16 J  |
-| Any Flowers        |      1s      |  8 J  |
-| Honeycomb          |      4s      | 32 J  |
-| Honeycomb Block    |     40s      | 320 J |
-| Shroomlight        |      4s      | 32 J  |
-| Strange Nether Goo |     16s      | 128 J |
-| Any Leaves         |      1s      |  8 J  |
-| Any Saplings       |      1s      |  8 J  |
-| Any Corals         |      2s      | 16 J  |
-| Any Coral Blocks   |      2s      | 16 J  |
+| 燃料      | 燃燒時間 |  總共   |
+|:------- |:----:|:-----:|
+| 腐肉      |  2s  | 16 J  |
+| 蜘蛛眼     |  2s  | 16 J  |
+| 骨頭      |  2s  | 16 J  |
+| 線       |  2s  | 16 J  |
+| 蘋果      |  3s  | 24 J  |
+| 西瓜片     |  3s  | 24 J  |
+| 西瓜      | 27s  | 216 J |
+| 南瓜      |  3s  | 24 J  |
+| 南瓜種子    |  3s  | 24 J  |
+| 西瓜種子    |  3s  | 24 J  |
+| 小麥      |  3s  | 24 J  |
+| 小麥種子    |  3s  | 24 J  |
+| 胡蘿蔔     |  3s  | 24 J  |
+| 馬鈴薯     |  3s  | 24 J  |
+| 甘蔗      |  3s  | 24 J  |
+| 地獄疙瘩    |  3s  | 24 J  |
+| 任何蘑菇    |  2s  | 16 J  |
+| 藤蔓      |  2s  | 16 J  |
+| 仙人掌     |  2s  | 16 J  |
+| 荷葉      |  2s  | 16 J  |
+| 歌萊果     |  8s  | 64 J  |
+| 海帶      |  1s  |  8 J  |
+| 海帶乾     |  2s  | 16 J  |
+| 海帶乾塊    | 20s  | 160 J |
+| 海草      |  1s  |  8 J  |
+| 海鞘      |  2s  | 16 J  |
+| 竹子      |  2s  | 16 J  |
+| 甜莓      |  2s  | 16 J  |
+| 任何花朵    |  1s  |  8 J  |
+| 蜂巢      |  4s  | 32 J  |
+| 蜂巢塊     | 40s  | 320 J |
+| 蕈光體     |  4s  | 32 J  |
+| 奇怪的地獄黏液 | 16s  | 128 J |
+| 任何樹葉    |  1s  |  8 J  |
+| 任何樹苗    |  1s  |  8 J  |
+| 任何珊瑚    |  2s  | 16 J  |
+| 任何珊瑚方塊  |  2s  | 16 J  |
