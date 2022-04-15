@@ -3,7 +3,7 @@ title: 強化熔爐
 sidebar_position: 17
 ---
 
-強化熔爐是黏液科技添加的 [基礎機器](/docs/Slimefun/Basic-Machines) 的一種。
+Enhanced Furnaces are a type of [Basic Machine](Basic-Machines.md) added by Slimefun.
 
 它們在功能上與原版熔爐相同，但具有更高的處理速度、燃料效率和幸運。
 
