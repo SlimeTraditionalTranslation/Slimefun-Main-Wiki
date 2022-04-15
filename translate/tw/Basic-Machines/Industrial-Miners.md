@@ -3,7 +3,7 @@ title: 工業挖礦機
 sidebar_position: 11
 ---
 
-工業挖礦機屬於 [基礎機器](/docs/Slimefun/Basic-Machines) 類別。
+The Industrial Miners are part of the [Basic Machines](Basic-Machines.md) category.
 
 這些機器將從它們下方的區域挖掘礦石（直到它們挖到基岩），然後將它們放入箱子中。  
 你必須先將燃料放入箱子中才能開始工作，有關每種燃料的更多信息可以在 Slimefun指南中找到。
