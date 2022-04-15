@@ -9,11 +9,11 @@ You can obtain Juices by processing the corresponding Fruit/Vegetable in a [Juic
 
 ## List of Juices
 
-| Juice              | Fruit/Vegetable | Effect                      |
-| ------------------ | --------------- | --------------------------- |
-| Apple Juice        | Apples          | Restores 3.0 hunger bars    |
-| Carrot Juice       | Carrots         | Restores 3.0 hunger bars    |
-| Melon Juice        | Melon Slices    | Restores 3.0 hunger bars    |
-| Pumpkin Juice      | Pumpkins        | Restores 3.0 hunger bars    |
-| Sweet Berry Juice  | Sweet Berries   | Restores 3.0 hunger bars    |
-| Golden Apple Juice | Golden Apples   | Absorption I for 20 seconds |
+| 果汁   | 水果/蔬菜 | 效果         |
+| ---- | ----- | ---------- |
+| 蘋果汁  | 蘋果    | 恢復 3.0 飽食度 |
+| 胡蘿蔔汁 | 胡蘿蔔   | 恢復 3.0 飽食度 |
+| 西瓜汁  | 西瓜片   | 恢復 3.0 飽食度 |
+| 南瓜汁  | 南瓜    | 恢復 3.0 飽食度 |
+| 甜莓汁  | 甜莓    | 恢復 3.0 飽食度 |
+| 金蘋果汁 | 金蘋果   | 吸收 I 20秒   |
