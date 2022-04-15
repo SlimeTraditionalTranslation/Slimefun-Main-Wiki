@@ -7,7 +7,7 @@ The Food Fabricator is an [Electric Machine](Electric-Machines) that can be used
 
 ## Food Fabricator Tiers
 
-| Machine Level | Power  | Speed Multiplier | Buffer |
-|:-------------:|:------:|:----------------:|:------:|
-|       I       | 14 J/s |        1x        | 256 J  |
-|      II       | 48 J/s |        6x        | 512 J  |
+| Machine Level | Power  | Speed Multiplier |  緩衝   |
+|:-------------:|:------:|:----------------:|:-----:|
+|       I       | 14 J/s |        1x        | 256 J |
+|      II       | 48 J/s |        6x        | 512 J |
