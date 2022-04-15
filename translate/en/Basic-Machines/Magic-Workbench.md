@@ -3,7 +3,7 @@ title: Magic Workbench
 sidebar_position: 8
 ---
 
-The Magic Workbench is a [Basic Machine](/docs/Slimefun/Basic-Machines) in Slimefun. It is a multiblock structure.
+The Magic Workbench is a [Basic Machine](Basic-Machines.md) in Slimefun. It is a multiblock structure.
 
 ## Obtaining
 
@@ -13,11 +13,11 @@ A complete setup should look like this:
 
 ![Magic Workbench Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-magic-workbench.png)
 
-You can also place an [Output Chest](Output-Chest) next to the dispenser to collect your items. If there is no [Output Chest](Output-Chest), then it will be put in the dispenser.
+You can also place an [Output Chest](Output-Chest.md) next to the dispenser to collect your items. If there is no [Output Chest](Output-Chest.md), then it will be put in the dispenser.
 
 ## Usage
 
-It is used to craft many [Magical Items](Magical-Items) and [Magical Gadgets](Magical-Gadgets).
+It is used to craft many [Magical Items](../Magical-Items/Magical-Items.md) and [Magical Gadgets](../Magical-Gadgets/Magical-Gadgets.md).
 
 Check out the Magical Workbench in the Slimefun Guide in-game for all possible recipes.
 

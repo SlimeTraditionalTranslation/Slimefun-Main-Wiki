@@ -3,7 +3,7 @@ title: Grind Stone
 sidebar_position: 2
 ---
 
-The Grind Stone is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. It is a multiblock structure.
+The Grind Stone is in the [Basic Machines](Basic-Machines.md) category. It is a multiblock structure.
 
 ## Obtaining
 
@@ -13,7 +13,7 @@ A complete setup should look like this:
 
 ![Grind Stone Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-grind-stone.png)
 
-You can also place an [Output Chest](Output-Chest) next to the dispenser to collect your resources. If there is no [Output Chest](Output-Chest), then it will be put in the dispenser.
+You can also place an [Output Chest](Output-Chest.md) next to the dispenser to collect your resources. If there is no [Output Chest](Output-Chest.md), then it will be put in the dispenser.
 
 ## Usage
 

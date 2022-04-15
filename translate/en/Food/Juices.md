@@ -3,9 +3,9 @@ title: Juices
 sidebar_position: 6
 ---
 
-Juices are [Food](/docs/Slimefun/Food) items added by Slimefun.
+Juices are [Food](Food.md) items added by Slimefun.
 
-You can obtain Juices by processing the corresponding Fruit/Vegetable in a [Juicer](Juicer).
+You can obtain Juices by processing the corresponding Fruit/Vegetable in a [Juicer](../Basic-Machines/Juicer.md).
 
 ## List of Juices
 

@@ -3,7 +3,7 @@ title: Enhanced Furnaces
 sidebar_position: 17
 ---
 
-Enhanced Furnaces are a type of [Basic Machine](/docs/Slimefun/Basic-Machines) added by Slimefun.
+Enhanced Furnaces are a type of [Basic Machine](Basic-Machines.md) added by Slimefun.
 
 They are identical in function to the vanilla Furnace, but have enhanced processing speed, fuel efficiency and luck.
 
