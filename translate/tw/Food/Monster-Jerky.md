@@ -1,5 +1,5 @@
 ---
-title: Monster Jerky
+title: 腐肉乾
 sidebar_position: 6
 ---
 
