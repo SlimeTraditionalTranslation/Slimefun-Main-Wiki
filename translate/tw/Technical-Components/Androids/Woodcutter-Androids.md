@@ -14,7 +14,7 @@ Woodcutter Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Craf
 This Android will harvest and replant any type of wood they're facing.  
 Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
 
-## Tiers
+## 等級
 
 There is only one tier of the Woodcutter Android.
 
