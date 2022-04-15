@@ -1,5 +1,5 @@
 ---
-title: Fortune Cookie
+title: 幸運餅乾
 sidebar_position: 1
 ---
 
