@@ -3,7 +3,7 @@ title: Juicer
 sidebar_position: 14
 ---
 
-果汁機是 [基礎機器](/docs/Slimefun/Basic-Machines) ，可以用部分水果製作果汁。
+The Juicer is a [Basic Machine](Basic-Machines.md) which can be used to create juices from certain fruits.
 
 ## 取得
 
@@ -11,4 +11,4 @@ sidebar_position: 14
 
 ![果汁機放置方式](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-juicer.png)
 
-你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest) 來收集你的資源。
+You can also place an [Output Chest](Output-Chest.md) next to the dispenser to collect the juices.
