@@ -13,11 +13,11 @@ All tiers of lava generators can be crafted in an [Enhanced Crafting Table](Enha
 
 A lava generator must be placed within 7 blocks of an [Energy Regulator](Energy-Regulator), an [Energy Connector](Energy-Connector), or an [Energy Capacitor](Energy-Capacitors) in a cross format (not diagonally), and provided with the appropriate fuel.
 
-## Tiers
+## 等級
 
 There are currently two tiers of lava generators.
 
-| 等級 | Energy | Buffer |
+| 等級 |   能量   |   緩衝   |
 |:--:|:------:|:------:|
 | I  | 20 J/s | 512 J  |
 | II | 40 J/s | 1024 J |
@@ -26,6 +26,6 @@ There are currently two tiers of lava generators.
 
 This generator can only be fueled with lava buckets.
 
-| 燃料          | Burning time | Total (Tier I) | Total (Tier II) |
-|:----------- |:------------:|:--------------:|:---------------:|
-| Lava Bucket |     40s      |     800 J      |     1.6 kJ      |
+| 燃料          | 燃燒時間 | Total (Tier I) | Total (Tier II) |
+|:----------- |:----:|:--------------:|:---------------:|
+| Lava Bucket | 40s  |     800 J      |     1.6 kJ      |
