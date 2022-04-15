@@ -13,15 +13,15 @@ Farmer Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting
 
 Farmer Androids can be programmed to harvest or/and plant crops. Supported crops are listed below.
 
-- Wheat
-- Carrot
-- Pumpkin
+- 小麥
+- 胡蘿蔔
+- 南瓜
 - Beetroot
-- Potato
+- 馬鈴薯
 
 Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
 
-## Tiers
+## 等級
 
 There are two tiers on the Farmer Android, each with different modifiers listed below.
 
