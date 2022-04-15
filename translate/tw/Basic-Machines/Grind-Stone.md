@@ -3,7 +3,7 @@ title: 研磨機
 sidebar_position: 2
 ---
 
-研磨機屬於 [基本機器](/docs/Slimefun/Basic-Machines) 類別。 它是一個多重方塊結構。
+The Grind Stone is in the [Basic Machines](Basic-Machines.md) category. 它是一個多重方塊結構。
 
 ## 取得
 
@@ -13,7 +13,7 @@ sidebar_position: 2
 
 ![研磨機設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-grind-stone.png)
 
-你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest) 來收集你的資源。 如果沒有 [輸出箱](Output-Chest)，則將其放入發射器中。
+You can also place an [Output Chest](Output-Chest.md) next to the dispenser to collect your resources. If there is no [Output Chest](Output-Chest.md), then it will be put in the dispenser.
 
 ## 使用方法
 
