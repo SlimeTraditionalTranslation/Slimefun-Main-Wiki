@@ -20,7 +20,7 @@ Butcher Androids can be programmed to kill:
 
 This can also can be paired with an [EXP Collector](EXP-Collector) for an automated EXP Farm. Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
 
-## Tiers
+## 等級
 
 There are three tiers on the Butcher Android, each with different modifiers listed below.
 
