@@ -13,11 +13,11 @@ The GPS Transmitters can be crafted in an [Enhanced Crafting Table](Enhanced-Cra
 
 The GPS Transmitter adds GPS network complexity equal to `TierModifier * Height + TierBonus`, based on the tier of the Transmitter and its Y-coordinate.
 
-## Tiers
+## 等級
 
 The table below describes differences between tiers of Transmitters.
 
-| 等級                        | Buffer | Consumption | Tier Modifier | Tier Bonus |
+| 等級                        | 緩衝     | Consumption | Tier Modifier | Tier Bonus |
 | ------------------------- | ------ | ----------- | ------------- | ---------- |
 | GPS Transmitter           | 16 J   | 2 J/s       | 1             | 0          |
 | Advanced GPS Transmitter  | 64 J   | 6 J/s       | 4             | 100        |
