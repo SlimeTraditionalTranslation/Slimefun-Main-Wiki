@@ -15,21 +15,21 @@ A Combustion Reactor must be placed within 7 blocks of an [Energy Regulator](Ene
 
 Once it is placed, right-click it and place fuel in its inventory (two slots on the left).
 
-## Tiers
+## 等級
 
 There is only one tier of the Combustion Reactor.
 
-| 等級 | Energy | Buffer |
-|:--:|:------:|:------:|
-| I  | 24 J/s | 256 J  |
+| 等級 |   能量   |  緩衝   |
+|:--:|:------:|:-----:|
+| I  | 24 J/s | 256 J |
 
 ## 燃料
 
 This generator can be fueled using Buckets of Oil and Buckets of Fuel.
 
-| 燃料             | Burning time | Total (Tier I) |
-|:-------------- |:------------:|:--------------:|
-| Bucket of Oil  |     30s      |     720 J      |
-| Bucket of Fuel |     90s      |    2.16 kJ     |
+| 燃料             | 燃燒時間 | Total (Tier I) |
+|:-------------- |:----:|:--------------:|
+| Bucket of Oil  | 30s  |     720 J      |
+| Bucket of Fuel | 90s  |    2.16 kJ     |
 
 Note that it is more efficient to turn your Buckets of Oil into Buckets of Fuel in a [Refinery](Refinery) before burning them as fuel.
