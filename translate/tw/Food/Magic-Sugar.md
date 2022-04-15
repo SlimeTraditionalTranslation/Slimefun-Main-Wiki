@@ -1,5 +1,5 @@
 ---
-title: Magic Sugar
+title: 魔法糖
 sidebar_position: 5
 ---
 
