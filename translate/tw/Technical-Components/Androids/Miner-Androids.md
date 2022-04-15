@@ -13,7 +13,7 @@ Miner Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-
 
 This android can be used to create tunnels, caves, and alikes. Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
 
-## Tiers
+## 等級
 
 There is only one tier in this miner android.
 
