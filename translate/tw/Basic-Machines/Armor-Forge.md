@@ -3,7 +3,7 @@ title: 盔甲鍛造台
 sidebar_position: 3
 ---
 
-盔甲鍛造台屬於 [基礎機器](/docs/Slimefun/Basic-Machines) 的類別。 它是一個多重方塊結構。
+The Armor Forge is in the [Basic Machines](Basic-Machines.md) category. 它是一個多重方塊結構。
 
 ## 取得
 
@@ -15,8 +15,8 @@ sidebar_position: 3
 
 ![盔甲鍛造台設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-armor-forge.png)
 
-你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest) ，以收集你製作的盔甲。 如果沒有 [輸出箱](Output-Chest)，則將其放入發射器中。
+You can also place an [Output Chest](Output-Chest.md) next to the dispenser to collect your crafted armor. If there is no [Output Chest](Output-Chest.md), then it will be put in the dispenser.
 
 ## 使用方法
 
-盔甲鍛造台可用於製作 [盔甲](Armor) 和 [魔法盔甲](Magical-Armor)。
+The Armor Forge can be used to craft [Armor](../Armor/Armor.md) and [Magical Armor](../Magical-Armor/Magical-Armor.md).
