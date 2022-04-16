@@ -1,9 +1,9 @@
 ---
-title: Compressor
+title: 壓縮機
 sidebar_position: 5
 ---
 
-The Compressor is in the [Basic Machines](Basic-Machines.md) category. 它是一個多重方塊結構。
+壓縮機屬於 [基礎機器](Basic-Machines.md) 類別。 它是一個多重方塊結構。
 
 ## 取得
 
@@ -13,7 +13,7 @@ The Compressor is in the [Basic Machines](Basic-Machines.md) category. 它是一
 
 ![壓縮機設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-compressor.png)
 
-You can also place an [Output Chest](Output-Chest.md) next to the dispenser to collect your compressed items. 如果沒有 [輸出箱](Output-Chest.md)，則將盔甲放入發射器中。
+你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest.md) 來收集你的壓縮物品。 如果沒有 [輸出箱](Output-Chest.md)，則會將成品放置在發射器中。
 
 ## 使用方法
 
