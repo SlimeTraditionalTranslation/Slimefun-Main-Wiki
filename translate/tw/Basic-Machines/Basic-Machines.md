@@ -10,8 +10,8 @@ title: 基礎機器概述
 * [研磨機](Grind-Stone.md)
 * [盔甲鍛造台](Armor-Forge.md)
 * [礦石粉碎機](Ore-Crusher.md)
-* [Compressor](Compressor.md)
-* [Makeshift Smeltery](Makeshift-Smeltery) <!-- Broken Link -->
+* [壓縮機](Compressor.md)
+* [簡易冶煉爐](Makeshift-Smeltery) <!-- Broken Link -->
 * [冶煉爐](Smeltery.md)
 * [加壓室](Pressure-Chamber.md)
 * [魔法合成台](Magic-Workbench.md)
@@ -21,9 +21,9 @@ title: 基礎機器概述
 * [高級工業挖礦機](Industrial-Miners.md)
 * [自動掏金機](Automated-Panning-Machine.md)
 * [自動點火器](Automatic-Ignition-Chamber.md)
-* [Juicer](Juicer.md)
-* [Composter](Composter.md)
-* [Crucible](Crucible.md)
+* [果汁機](Juicer.md)
+* [堆肥桶](Composter.md)
+* [坩鍋](Crucible.md)
 * [強化熔爐 (I-XI)](Enhanced-Furnaces.md)
 * [強化合金熔爐](Enhanced-Furnaces.md)
 * [黑鑽石熔爐](Enhanced-Furnaces.md)
