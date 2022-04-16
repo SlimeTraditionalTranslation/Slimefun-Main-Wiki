@@ -13,7 +13,7 @@ The Magic Workbench is a [Basic Machine](Basic-Machines.md) in Slimefun. 它是�
 
 ![魔法合成台設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-magic-workbench.png)
 
-You can also place an [Output Chest](Output-Chest.md) next to the dispenser to collect your items. If there is no [Output Chest](Output-Chest.md), then it will be put in the dispenser.
+You can also place an [Output Chest](Output-Chest.md) next to the dispenser to collect your items. 如果沒有 [輸出箱](Output-Chest.md)，則將盔甲放入發射器中。
 
 ## 使用方法
 
