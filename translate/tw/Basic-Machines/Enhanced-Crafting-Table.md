@@ -3,7 +3,7 @@ title: 進階合成台
 sidebar_position: 1
 ---
 
-The Enhanced Crafting Table is an essential [Basic Machine](Basic-Machines.md) in Slimefun.
+進階合成台是黏液科技中必不可少的 [基礎機器](Basic-Machines.md)。
 
 它用於製作許多黏液科技物品，從最基本的到最複雜的。
 
@@ -15,7 +15,7 @@ The Enhanced Crafting Table is an essential [Basic Machine](Basic-Machines.md) i
 
 ![進階合成台設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-enhanced-crafting-table.png)
 
-You can also place an [Output Chest](Output-Chest.md) next to the Dispenser to collect your crafted items.
+你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest.md) 來收集你的製作物品。
 
 ## 如何使用進階合成台
 
