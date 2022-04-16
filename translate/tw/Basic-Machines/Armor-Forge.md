@@ -15,7 +15,7 @@ sidebar_position: 3
 
 ![盔甲鍛造台設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-armor-forge.png)
 
-你也可以在發射器旁邊放置一個 [輸出箱](Output-Chest.md) ，以收集你製作的盔甲。 如果沒有 [輸出箱](Output-Chest.md)，則將盔甲放入發射器中。
+你也可以在發射器旁邊放置一個 [輸出箱](Output-Chest.md) ，以收集你製作的盔甲。 如果沒有 [輸出箱](Output-Chest.md)，則會將成品放置在發射器中。
 
 ## 使用方法
 
