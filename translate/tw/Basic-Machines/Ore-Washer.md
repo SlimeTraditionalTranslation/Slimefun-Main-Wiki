@@ -15,7 +15,7 @@ The Ore Washer is in the [Basic Machines](Basic-Machines.md) category. 它是一
 
 ![洗礦機設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-ore-washer.png)
 
-You can also place an [Output Chest](Output-Chest.md) next to the dispenser to collect your washed ores. If there is no [Output Chest](Output-Chest.md), then it will be put in the dispenser.
+You can also place an [Output Chest](Output-Chest.md) next to the dispenser to collect your washed ores. 如果沒有 [輸出箱](Output-Chest.md)，則將盔甲放入發射器中。
 
 ## 使用方法
 
