@@ -3,7 +3,7 @@ title: 礦物洗滌機
 sidebar_position: 9
 ---
 
-The Ore Washer is in the [Basic Machines](Basic-Machines.md) category. 它是一個多重方塊結構。
+礦物洗滌機屬於 [基礎機器](Basic-Machines.md) 類別。 它是一個多重方塊結構。
 
 ## 取得
 
@@ -15,11 +15,11 @@ The Ore Washer is in the [Basic Machines](Basic-Machines.md) category. 它是一
 
 ![洗礦機設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-ore-washer.png)
 
-You can also place an [Output Chest](Output-Chest.md) next to the dispenser to collect your washed ores. 如果沒有 [輸出箱](Output-Chest.md)，則將盔甲放入發射器中。
+你也可以在發射器旁邊放置一個 [輸出箱](Output-Chest.md) 來收集你洗過的礦石。 如果沒有 [輸出箱](Output-Chest.md)，則會將成品放置在發射器中。
 
 ## 使用方法
 
-Most common use is to wash [Sifted Ore](../Miscellaneous-Items/Sifted-Ore.md) into [Dusts](../Resources/Dusts/Dusts.md).
+最常見的用途是將 [篩礦](../Miscellaneous-Items/Sifted-Ore.md) 洗成 [礦粉](../Resources/Dusts/Dusts.md)。
 
 查看遊戲中 Slimefun指南中的礦物洗滌機以了解更多用途。
 
