@@ -3,11 +3,11 @@ title: 方塊放置器
 sidebar_position: 18
 ---
 
-The Block-Placer is a part of the [Basic Machines](Basic-Machines.md) category. 它是一種可製作的物品，可以放置發射器中的可放置方塊。
+方塊放置器是[基礎機器](Basic-Machines.md)類別的一部分。 它是一種可製作的物品，可以放置發射器中的可放置方塊。
 
 ## 取得
 
-The Block-Placer can be crafted using the [Enchanted Crafting Table](Enhanced-Crafting-Table.md). 精心製作的方塊放置器如下所示： ![方塊放置器展示](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/block-placer-showcase.png)
+方塊放置器可以使用 [進階合成台](Enhanced-Crafting-Table.md) 製作。 精心製作的方塊放置器如下所示： ![方塊放置器展示](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/block-placer-showcase.png)
 
 ## 使用方法
 
