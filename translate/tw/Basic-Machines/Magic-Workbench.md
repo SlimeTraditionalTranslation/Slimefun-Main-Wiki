@@ -3,7 +3,7 @@ title: 魔法合成台
 sidebar_position: 8
 ---
 
-The Magic Workbench is a [Basic Machine](Basic-Machines.md) in Slimefun. 它是一個多重方塊結構。
+魔法合成台是黏液科技中的 [基礎機器](Basic-Machines.md)。 它是一個多重方塊結構。
 
 ## 取得
 
@@ -13,11 +13,11 @@ The Magic Workbench is a [Basic Machine](Basic-Machines.md) in Slimefun. 它是�
 
 ![魔法合成台設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-magic-workbench.png)
 
-You can also place an [Output Chest](Output-Chest.md) next to the dispenser to collect your items. 如果沒有 [輸出箱](Output-Chest.md)，則將盔甲放入發射器中。
+你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest.md) 來收集你的物品。 如果沒有 [輸出箱](Output-Chest.md)，則會將成品放置在發射器中。
 
 ## 使用方法
 
-It is used to craft many [Magical Items](../Magical-Items/Magical-Items.md) and [Magical Gadgets](../Magical-Gadgets/Magical-Gadgets.md).
+它用於製作許多 [魔法物品](../Magical-Items/Magical-Items.md) 和 [魔法工具](../Magical-Gadgets/Magical-Gadgets.md)。
 
 查看遊戲中 Slimefun指南中的魔法合成台，了解所有的合成表。
 
