@@ -14,7 +14,7 @@ sidebar_position: 6
 
 ![冶煉爐設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-smeltery.png)
 
-You can also place an [Output Chest](Output-Chest.md) next to the dispenser to catch your crafted Items. Without an [Output Chest](Output-Chest.md), the items will just land back in the dispenser.
+你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest.md) 來接住你製作的物品。 如果沒有 [輸出箱](Output-Chest.md)，物品只會回到發射器中。
 
 ## 如何使用冶煉爐
 
@@ -27,4 +27,4 @@ You can also place an [Output Chest](Output-Chest.md) next to the dispenser to c
 
 * 在冶煉廠下方兩格放置一塊地獄岩，這樣火就不會在沒有使用的情況下隨機熄滅。
 * 使用裝滿打火石的發射器再次點燃火焰。 你可以將其連接至偵測器方塊或紅石來自動化重新點火.
-* Utilize the [Automatic Ignition Chamber](Automatic-Ignition-Chamber.md), which will automatically re-ignite the fire.
+* 使用[自動點火器](Automatic-Ignition-Chamber.md), 它將會自動重新點火.
