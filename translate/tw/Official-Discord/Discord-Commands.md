@@ -3,11 +3,11 @@ title: Discord Commands
 sidebar_position: 2
 ---
 
-Before continuing to read, make sure to first read the [Rules of our Discord Server](Discord-Rules).
+Before continuing to read, make sure to first read the [Rules of our Discord Server](Discord-Rules.md).
 
 Note that the following commands only work on our [Official Discord Server](https://discord.gg/fsD4Bkh).
 
-If you are looking for the commands you can perform ingame then see [this page](Commands).
+If you are looking for the commands you can perform ingame then see [this page](../Overview/Commands.md).
 
 ## 指令
 
@@ -39,10 +39,10 @@ Here is a full list:
 
 | Tag            | 描述                                                                                                                                                                                                                                     |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `?rules`       | Gives you a direct link to our [Server Rules](Discord-Rules).                                                                                                                                                                          |
+| `?rules`       | Gives you a direct link to our [Server Rules](Discord-Rules.md).                                                                                                                                                                       |
 | `?bugs`        | Gives you an overview over our bug-reports policy. We only accept bug reports via GitHub, not Discord.                                                                                                                                 |
-| `?addons`      | Gives you a full list of all available Addons for Slimefun4, as well as a link to our [Developer Guide](Developer-Guide).                                                                                                              |
-| `?devguide`    | This will give you a direct link to our [Developer Guide](Developer-Guide).                                                                                                                                                            |
+| `?addons`      | Gives you a full list of all available Addons for Slimefun4, as well as a link to our [Developer Guide](../Other-Plugins/Developer-Guide/Developer-Guide.md).                                                                          |
+| `?devguide`    | This will give you a direct link to our [Developer Guide](../Other-Plugins/Developer-Guide/Developer-Guide.md).                                                                                                                        |
 | `?download`    | Gives you a download link for the latest version of [Slimefun4](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/) and [CS-CoreLib](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/). |
 | `?infopls`     | This is a very common tag you will see on our server. This gives you a list of all the things you need to do in order to properly report an issue with Slimefun.                                                                       |
 | `?segmenting`  | This tag is used to remind you to relax your "Enter" key sometimes. We don't need 30 messages from you if you could have easily put all of that in a single message.                                                                   |
