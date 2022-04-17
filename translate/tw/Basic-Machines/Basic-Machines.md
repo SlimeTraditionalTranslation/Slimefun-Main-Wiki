@@ -1,31 +1,31 @@
 ---
-title: Basic Machines Overview
+title: 基礎機器概述
 ---
 
-This category contains various machines that have simple functionalities and do not require any electricity.
+此類別包含各種功能簡單且不需要任何電力的機器。
 
 ## 目錄
 
-* [Enhanced Crafting Table](Enhanced-Crafting-Table)
-* [Grind Stone](Grind-Stone)
-* [Armor Forge](Armor-Forge)
-* [Ore Crusher](Ore-Crusher)
-* [Compressor](Compressor)
-* [Makeshift Smeltery](Makeshift-Smeltery)
-* [Smeltery](Smeltery)
-* [Pressure Chamber](Pressure-Chamber)
-* [Magic Workbench](Magic-Workbench)
-* [Ore Washer](Ore-Washer)
-* [Table Saw](Table-Saw)
-* [Industrial Miner](Industrial-Miners)
-* [Advanced Industrial Miner](Industrial-Miners)
-* [Automated Panning Machine](Automated-Panning-Machine)
-* [Automatic Ignition Chamber](Automatic-Ignition-Chamber)
-* [Juicer](Juicer)
-* [Composter](Composter)
-* [Crucible](Crucible)
-* [Enhanced Furnace (Tier I-XI)](Enhanced-Furnaces)
-* [Reinforced Furnace](Enhanced-Furnaces)
-* [Carbonado-Edged Furnace](Enhanced-Furnaces)
-* [Block Placer](Block-Placer)
-* [Output Chest](Output-Chest)
+* [進階合成台](Enhanced-Crafting-Table.md)
+* [研磨機](Grind-Stone.md)
+* [盔甲鍛造台](Armor-Forge.md)
+* [礦石粉碎機](Ore-Crusher.md)
+* [壓縮機](Compressor.md)
+* [簡易冶煉爐](Makeshift-Smeltery) <!-- Broken Link -->
+* [冶煉爐](Smeltery.md)
+* [加壓室](Pressure-Chamber.md)
+* [魔法合成台](Magic-Workbench.md)
+* [礦物洗滌機](Ore-Washer.md)
+* [鋸木機](Table-Saw.md)
+* [工業挖礦機](Industrial-Miners.md)
+* [高級工業挖礦機](Industrial-Miners.md)
+* [自動掏金機](Automated-Panning-Machine.md)
+* [自動點火器](Automatic-Ignition-Chamber.md)
+* [果汁機](Juicer.md)
+* [堆肥桶](Composter.md)
+* [坩鍋](Crucible.md)
+* [強化熔爐 (I-XI)](Enhanced-Furnaces.md)
+* [強化合金熔爐](Enhanced-Furnaces.md)
+* [黑鑽石熔爐](Enhanced-Furnaces.md)
+* [方塊放置器](Block-Placer.md)
+* [輸出箱](Output-Chest.md)

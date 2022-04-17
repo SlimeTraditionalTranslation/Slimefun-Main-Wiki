@@ -3,7 +3,7 @@ title: Magnesium Ingot
 sidebar_position: 9
 ---
 
-## Obtaining
+## 取得
 
 Smelting one [Magnesium Dust](Magnesium-Dust) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory) yields one Magnesium Ingot.
 

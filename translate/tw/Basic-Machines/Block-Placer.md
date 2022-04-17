@@ -1,20 +1,20 @@
 ---
-title: Block Placer
+title: 方塊放置器
 sidebar_position: 18
 ---
 
-The Block-Placer is a part of the [Basic Machines](/docs/Slimefun/Basic-Machines) category. It is a craftable item which places the placeable blocks present in the dispenser.
+方塊放置器是[基礎機器](Basic-Machines.md)類別的一部分。 它是一種可製作的物品，可以放置發射器中的可放置方塊。
 
-## Obtaining
+## 取得
 
-The Block-Placer can be crafted using the [Enchanted Crafting Table](Enhanced-Crafting-Table). A crafted Block placer looks like the following: ![Block Placer Showcase](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/block-placer-showcase.png)
+方塊放置器可以使用 [進階合成台](Enhanced-Crafting-Table.md) 製作。 精心製作的方塊放置器如下所示： ![方塊放置器展示](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/block-placer-showcase.png)
 
 ## 使用方法
 
-The Block-Placer can place any placeable block or object in the face of the dispenser. It cannot function as a dispenser or dropper, i.e. it cannot dispense or drop objects.
+方塊放置器可以將任何可放置的方塊或物體放置在發射器的正面。 它不能用作發射器或漏斗，即它不能分配或掉落物品。
 
-You can place the block placer just like you do for any other dispenser or dropper. ![Block Placer Placed](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/block-placer-placed.png)
+你可以像放置任何其他發射器或漏斗一樣放置方塊放置器。 ![已放置的方塊放置器](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/block-placer-placed.png)
 
-The powering circuit is simply with redstone (just like dispensers or droppers). And it places a random block from its inventory on the face of the dispenser on the rising edge of the redstone signal. ![Block Placer Powering](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/block-placer-powering.png)
+供電電路很簡單，只有紅石（就像發射器或漏斗一樣）。 被紅石觸發時，它會隨機放出放在它裡面的方塊。 ![方塊放置器啟動](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/block-placer-powering.png)
 
-It will only place the blocks which are placeable and ignore all dispenseable items. ![Block Placer Placing Blocks](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/block-placer-placing.png)
+它只會放置可放置的方塊並忽略所有可分配的物品。 ![方塊放置器放置方塊](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/block-placer-placing.png)

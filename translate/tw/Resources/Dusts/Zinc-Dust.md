@@ -5,7 +5,7 @@ sidebar_position: 8
 
 Zinc Dust is one of the nine [dusts](/docs/Slimefun/Resources/Dusts) added in Slimefun.
 
-## Obtaining
+## 取得
 
 Zinc Dust has a ~11.11% chance of being extracted from [Sifted Ore](Sifted-Ore), by processing it through an [Ore Washer](Ore-Washer) or an [Electric Dust Washer](Electric-Dust-Washer).
 

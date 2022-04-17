@@ -5,7 +5,7 @@ sidebar_position: 2
 
 A Normal Android is used as a base to create a specialized Android.
 
-## Obtaining
+## 取得
 
 Normal Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
@@ -13,7 +13,7 @@ Normal Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting
 
 Normal Androids can only be programmed to move. Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
 
-## Tiers
+## 等級
 
 There are three tiers on the Normal Android, each with different modifiers listed below.
 
@@ -29,14 +29,14 @@ Each tier requires different types of fuel, their possible fuels are listed belo
 
 ### Basic Tier
 
-| 物品               | 持續時間   |
-| ---------------- | ------ |
-| Block of Coal    | 1m 20s |
-| Dried Kelp Block | 1m 10s |
-| Blaze Rod        | 45s    |
-| Coal/Charcoal    | 8s     |
-| Any Wood Log     | 2s     |
-| Any Planks Type  | 1s     |
+| 物品              | 持續時間   |
+| --------------- | ------ |
+| Block of Coal   | 1m 20s |
+| 海帶乾塊            | 1m 10s |
+| Blaze Rod       | 45s    |
+| Coal/Charcoal   | 8s     |
+| Any Wood Log    | 2s     |
+| Any Planks Type | 1s     |
 
 ### Advanced Tier
 

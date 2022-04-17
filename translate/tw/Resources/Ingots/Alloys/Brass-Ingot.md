@@ -3,7 +3,7 @@ title: Brass Ingot
 sidebar_position: 4
 ---
 
-## Obtaining
+## 取得
 
 Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery](Electric-Smeltery) yields one Brass Ingot:
 
@@ -26,4 +26,4 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 
 * [Electric Ingot Factory II/III](Electric-Ingot-Factory)
 * [Android Memory Core](機器人)
-* [Output Node](Output-Node)
+* [物流節點 (輸出)](Output-Node)

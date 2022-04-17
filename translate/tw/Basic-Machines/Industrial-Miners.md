@@ -1,20 +1,20 @@
 ---
-title: Industrial Miner
+title: 工業挖礦機
 sidebar_position: 11
 ---
 
-The Industrial Miners are part of the [Basic Machines](/docs/Slimefun/Basic-Machines) category.
+工業挖礦機屬於 [基礎機器](Basic-Machines.md) 類別。
 
-These machines will dig up ores from the area underneath them (until they find bedrock) and will then proceed to put them in the chest.  
-You have to put fuel in the chest before it is able to start working, more info on each fuel can be found in the Slimefun guide.
+這些機器將從它們下方的區域挖掘礦石（直到它們挖到基岩），然後將它們放入箱子中。  
+你必須先將燃料放入箱子中才能開始工作，有關每種燃料的更多信息可以在 Slimefun指南中找到。
 
-![Industrial Miners setup](https://raw.githubusercontent.com/Slimefun/Slimefun4-Wiki/master/images/multiblock-industrial-miners.png)
+![工業挖礦機放置方式](https://raw.githubusercontent.com/Slimefun/Slimefun4-Wiki/master/images/multiblock-industrial-miners.png)
 
-On the image you can see the setup of the Industrial Miner and the Advanced Industrial Miner respectively.
+在圖片上，你可以分別看到工業挖礦機和高級工業挖礦機的放置方式。
 
-## Industrial Miners Tiers
+## 工業挖礦機等級
 
-| Miner                     | Fueled By           | Area  |
-|:------------------------- |:------------------- |:-----:|
-| Industrial Miner          | Burnable Items      |  7x7  |
-| Advanced Industrial Miner | Bucket of Lava/Fuel | 11x11 |
+| 挖礦機     | 燃料       |  區域   |
+|:------- |:-------- |:-----:|
+| 工業挖礦機   | 可燃物品     |  7x7  |
+| 高級工業挖礦機 | 熔岩 / 燃料桶 | 11x11 |

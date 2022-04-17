@@ -3,7 +3,7 @@ title: Gilded Iron
 sidebar_position: 11
 ---
 
-## Obtaining
+## 取得
 
 Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery](Electric-Smeltery) yields one Gilded Iron:
 

@@ -7,7 +7,7 @@ Broken Spawners are an item in the [Magical Items](Magical-Items) category.
 
 As the name implies, they do not function in this state.
 
-## Obtaining
+## 取得
 
 A Broken Spawner can be acquired by destroying a vanilla spawner with a [Pickaxe of Containment](Pickaxe-of-Containment). The mob type will be the same as the original, working spawner.
 

@@ -1,18 +1,22 @@
 ---
-title: Connector Node
+title: 物流節點 (中繼)
 sidebar_position: 3
 ---
 
-A Connector Node is the component of a [cargo network](Cargo-Management) which connects the different parts of the network.
+物流節點 (中繼) 是連接網絡不同部分的 [ 貨運網絡 ](Cargo-Management) 的組件。
 
-## Obtaining
+## 取得
 
-Connector nodes can be crafted in groups of four in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
+物流節點 (中繼) 可以在
+
+ [ 進階合成台](Enhanced-Crafting-Table) 上製作。</p> 
+
+
 
 ## 使用方法
 
-A connector node must be aligned within 6 blocks of a [cargo manager](Cargo-Manager) or another connector in range of one, in a straight line (no diagonals).
+物流節點 (中繼) 必須在 [ 物流核心 ](Cargo-Manager) 的 6 個方塊內對齊，或者和一格範圍內的另一個連接器在一條直線上（無對角線）對齊。
 
-Connector nodes extend the network's range by an additional 6 blocks. Any [input](Input-Node) and [ouput nodes](Output-Node) in that range will be connected to the network.
+物流節點 (中繼) 將網絡的範圍再往外擴展 6 個方塊。 該範圍內的任何 [ 輸入 ](Input-Node) 和 [ 輸出節點 ](Output-Node) 都將連接到網絡。
 
-By default, a connector emits red particles along its range when it is connected to a cargo manager. Right-clicking a connector node will display a message about its connection status.
+默認情況下，物流節點 (中繼) 在連接到物流核心時會沿其範圍發射紅色粒子。 右鍵點擊物流節點 (中繼) 將顯示有關其連接狀態的資訊。

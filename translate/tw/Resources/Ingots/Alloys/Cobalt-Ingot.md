@@ -3,7 +3,7 @@ title: Cobalt Ingot
 sidebar_position: 6
 ---
 
-## Obtaining
+## 取得
 
 Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery](Electric-Smeltery) yields one Cobalt Ingot:
 
@@ -24,4 +24,4 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * [Electric Gold Pan III](Electric-Gold-Pan)
 * [GPS Control Panel](GPS-Control-Panel)
 * [GPS Activation Device (Personal)](GPS-Activation-Device)
-* [Output Node](Output-Node)
+* [物流節點 (輸出)](Output-Node)

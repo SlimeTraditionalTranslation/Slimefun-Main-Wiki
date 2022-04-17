@@ -5,7 +5,7 @@ sidebar_position: 6
 
 An Android that specializes in automating the fishing process.
 
-## Obtaining
+## 取得
 
 Fisherman Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 
@@ -13,7 +13,7 @@ Fisherman Androids can be crafted in an [Enhanced Crafting Table](Enhanced-Craft
 
 You have to put water underneath the Android in order for it to work. Androids need fuel in order to work, you have to fill them with the [Required Fuel](Normal-Androids#power-source) before booting!
 
-## Tiers
+## 等級
 
 There are three tiers on the Fisherman Android, each with different modifiers listed below.
 
@@ -33,14 +33,14 @@ These are items that you can get when using the Fisherman Android:
 - Pufferfish
 - Cooked Cod
 - Cooked Salmon
-- Bone
-- String
+- 骨頭
+- 線
 - Ink Sac
-- Kelp
+- 海帶
 - Stick
-- Rotten Flesh
+- 腐肉
 - Leather
-- Bamboo
+- 竹子
 - Saddle
 - Name Tag
 - Nautilus Shell

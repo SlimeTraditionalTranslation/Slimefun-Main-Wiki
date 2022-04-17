@@ -3,7 +3,7 @@ title: Reinforced Alloy Ingot
 sidebar_position: 15
 ---
 
-## Obtaining
+## 取得
 
 Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery](Electric-Smeltery) yields one Reinforced Alloy Ingot:
 
@@ -28,7 +28,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 ## 使用方法
 
 * [Solar Helmet](Technical-Gadgets#solar-helmet)
-* [Reinforced Furnace](Enhanced-Furnaces)
+* [強化合金熔爐](Enhanced-Furnaces)
 * [Large Energy Capacitor](Energy-Capacitors)
 * [Heated Pressure Chamber II](Heated-Pressure-Chamber)
 * [Auto Anvil](Auto-Anvil)

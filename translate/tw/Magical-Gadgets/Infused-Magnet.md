@@ -7,6 +7,6 @@ The Infused Magnet is part of the [Magical Gadgets](Magical-Gadgets) category.
 
 It is a useful item that picks up nearby items in a bigger range than you normally could.
 
-## Obtaining
+## 取得
 
 This item can be crafted in the [Magic Workbench](Magic-Workbench).

@@ -8,7 +8,7 @@ The produced [Organic Fertilizer](Miscellaneous-Items) can be used as fuel for o
 
 ## Food Composter Tiers
 
-| 等級 | Power  | Speed Multiplier | Buffer |
-|:--:|:------:|:----------------:|:------:|
-| I  | 16 J/s |       1.0x       | 256 J  |
-| II | 52 J/s |      10.0x       | 512 J  |
+| 等級 | Power  | Speed Multiplier |  緩衝   |
+|:--:|:------:|:----------------:|:-----:|
+| I  | 16 J/s |       1.0x       | 256 J |
+| II | 52 J/s |      10.0x       | 512 J |

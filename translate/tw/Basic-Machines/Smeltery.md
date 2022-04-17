@@ -1,30 +1,30 @@
 ---
-title: Smeltery
+title: 冶煉爐
 sidebar_position: 6
 ---
 
-The Smeltery is one of the most fundamental Slimefun machines.  
-It is not only used to smelt dusts into Ingots but also for making Alloys.
+冶煉爐是最基本的黏液科技機器之一。  
+它不僅用於將礦粉熔煉成鋼錠，還用於製造合金。
 
-**NOTE: The Smeltery requires fire beneath it. While smelting items, the fire will randomly get consumed, so make sure to reignite it when that happens.**
+**注意：冶煉爐下面需要火。 熔煉物品時，火焰會隨機 ，因此請務必在發生這種情況時重新點燃它。**
 
-## How to build a Smeltery
+## 如何建造冶煉廠
 
-The recipe is already found in your Slimefun Guide, but here is the final version:
+該配方可以在你的 Slimefun 指南中找到，但這是最終版本：
 
-![Smeltery Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-smeltery.png)
+![冶煉爐設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-smeltery.png)
 
-You can also place an [Output Chest](Output-Chest) next to the dispenser to catch your crafted Items. Without an [Output Chest](Output-Chest), the items will just land back in the dispenser.
+你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest.md) 來接住你製作的物品。 如果沒有 [輸出箱](Output-Chest.md)，物品只會回到發射器中。
 
-## How to use the Smeltery
+## 如何使用冶煉爐
 
-If you want to craft an Item using the Smeltery, get your items ready and put them into the dispenser (shape does not matter).  
-Now right-click the Nether Brick Fence and you should see the Smeltery craft your item.
+如果你想使用冶煉爐製作物品，請準備好物品並將它們放入發射器（形狀無關緊要）。  
+現在右鍵點擊地獄磚牆，你應該會看到冶煉爐製作你的物品。
 
-## Tips and tricks
+## 提示
 
-Since the Smeltery's fire can be consumed every so often, make sure to either have a Flint and Steel ready or do one of the following tricks:
+由於冶煉廠的火經常熄滅，因此請確保準備好打火石或使用以下之一：
 
-* Put a piece of netherrack 2 blocks under the Smeltery, so the fire does not randomly go out without actually using it.
-* Use a dispenser filled with Flint & Steel to ignite the fire again. You can hook it up to an Observer Block or a redstone clock to automate the re-ignition.
-* Utilize the [Automatic Ignition Chamber](Automatic-Ignition-Chamber), which will automatically re-ignite the fire.
+* 在冶煉廠下方兩格放置一塊地獄岩，這樣火就不會在沒有使用的情況下隨機熄滅。
+* 使用裝滿打火石的發射器再次點燃火焰。 你可以將其連接至偵測器方塊或紅石來自動化重新點火.
+* 使用[自動點火器](Automatic-Ignition-Chamber.md), 它將會自動重新點火.

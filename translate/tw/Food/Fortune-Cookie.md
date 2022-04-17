@@ -1,6 +1,6 @@
 ---
-title: Fortune Cookie
+title: 幸運餅乾
 sidebar_position: 1
 ---
 
-A Fortune Cookie is a [Food](/docs/Slimefun/Food) item added by Slimefun. When consumed, it displays a message about your future.
+A Fortune Cookie is a [Food](Food.md) item added by Slimefun. When consumed, it displays a message about your future.

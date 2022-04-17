@@ -1,18 +1,18 @@
 ---
-title: Trash Can
+title: 垃圾桶
 sidebar_position: 7
 ---
 
-A Trash Can is a container that destroys any item placed in it, much like the [Portable Dustbin](Portable-Dustbin).  
-Unlike its portable equivalent, it must be placed down before it can be used, and it is fully compatible with cargo nodes, making it easy to destroy any unwanted items in a [Cargo Network](Cargo-Management).
+垃圾箱跟 [隨身垃圾桶](Portable-Dustbin) 一樣，是一個可以破壞放在裡面的物品的容器  
+不同的地方是，它必須放下才能使用，並且與物流節點完全兼容，可以輕鬆銷毀 [物流網絡](Cargo-Management) 中任何不需要的物品。
 
-## Obtaining
+## 取得
 
-A trash can can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
+垃圾桶可以在 [進階合成台](Enhanced-Crafting-Table) 上製作。
 
 ## 使用方法
 
-Right-clicking a trash can after placing it (also right click) displays a chest-like interface where items can be moved.  
-Items disappear shortly after being placed in a trash can, unlike the portable dustbin, which waits for the interface to be closed.
+放置垃圾桶後右鍵點擊會顯示一個類似箱子的界面，可以在其中移動物品。  
+物品放入垃圾桶後很快就會消失，不像便攜式垃圾箱會等待界面關閉再消失。
 
-You can move items into a trash can manually, but it is also able to receive items through an [Output Node](Output-Node) or an [Advanced Output Nodes](Advanced-Output-Node).
+你可以手動將物品移入垃圾桶，但它也可以通過 [物流節點 (輸出)](Output-Node) 或 [高級物流節點 (輸出)](Advanced-Output-Node) 接收物品。

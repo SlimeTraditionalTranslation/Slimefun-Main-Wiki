@@ -1,29 +1,36 @@
 ---
-title: Input Node
+title: 物流節點 (輸入)
 sidebar_position: 4
 ---
 
-An Input Node is the component of a [cargo network](Cargo-Management) which filters and distributes items to be received by [output nodes](Output-Node) (or [advanced output nodes](Advanced-Output-Node)).
+物流節點 (輸入) 是 [物流網絡](Cargo-Management) 的組件，它過濾和分發要由 [物流節點 (輸出)](Output-Node) （或 [高級物流節點 (輸出)](Advanced-Output-Node)）接收的物品。
 
-## Obtaining
+## 取得
 
-Input nodes can be crafted in groups of two in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
+物流節點 (輸入) 可以在
+ [進階合成台](Enhanced-Crafting-Table) 上製作。</p> 
+
+
 
 ## 使用方法
 
-Input nodes move items from the container on which they are placed into the network, as long as there is an available matching output node in the network.
+只要網絡中有可用的匹配物流節點 (輸出)，物流節點 (輸入) 就會將物品從放置它們的容器移入網絡。
 
-### Placement
 
-A cargo input node must be placed (shift-right click) onto a container or [machine](Electric-Machines), and aligned within 6 blocks of a [cargo manager](Cargo-Manager) or a [connector](Connector-Node) in range of one (no diagonals).
 
-### Configuration
+### 放置
 
-Right-clicking an input node displays an interface to configure the following settings, from left to right:
+物流節點 (輸入) 必須放置（蹲下右鍵）到容器或 [機器](Electric-Machines) 上，並在 [物流核心](Cargo-Manager) 或 [物流節點 (中繼)](Connector-Node) 的 6 個方塊內對齊，範圍為 1（無對角線）。
 
-* **3x3 grid** - Items placed there are included/excluded from being sent into the network.
-* **Type: Whitelist/Blacklist** - Controls whether the items in the grid are whitelisted (included) or blacklisted (excluded).
-* **Include Sub-IDs/Durability** - If enabled, only the items with the same durability as the ones in the grid will be whitelisted/blacklisted.
-* **Round-Robin Mode** - If enabled, items will be distributed equally on the channel.
-* **Include Lore** - If enabled, only the items with the same lore as the ones in the grid will be whitelisted/blacklisted.
-* **Channel** - The channel in which items are sent.
+
+
+### 設定
+
+右鍵點擊物流節點 (輸入)會顯示配置以下設置的界面，從左到右：
+
+* **3x3 格子界面 ** - 放置在那裡的物品會被包含 / 排除。
+* ** 類型：白名單 / 黑名單 ** - 控製界面中的物品是列入白名單（包括）還是列入黑名單（排除）。
+* **包括子 ID/耐久性** - 如果啟用，只有與界面中的物品具有相同耐久性的物品才會被列入白名單/黑名單。
+* **循環模式** - 如果啟用，物品將在頻道上平均分配。
+* **包括敘述** - 如果啟用，只有與界面中的物品具有相同敘述的物品才會被列入白名單/黑名單。
+* **頻道** - 從中獲取物品的頻道。

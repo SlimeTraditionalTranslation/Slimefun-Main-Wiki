@@ -77,7 +77,7 @@ sidebar_position: 1
 | Networks (網路)                            | Sefiraat                                 | <details><summary>展開</summary>網路是一個附加, 皆是以直接蛋強大的方式提供 AE2/Refined Storage 風格的儲存解決方案. 這個附加可以與黏液科技核心的物流一起工作, 讓你可以輕鬆大將大量容量的儲存與當前的自動化一起放入 這個附加可以與黏液科技核心的物流一起工作, 讓你可以輕鬆大將大量容量的儲存與當前的自動化一起放入</details> | [維基](https://github.com/Sefiraat/Networks/wiki)                                       | [GitHub](https://github.com/Sefiraat/Networks)                      | [建構](https://thebusybiscuit.github.io/builds/Sefiraat/Networks/master/)                    |
 | SfChunkInfo (黏液區塊資訊)                     | FN_FAL113                                | <details><summary>展開</summary>使用指令來掃描單個區塊中的黏液科技方塊數量.</details> | [自述文件](https://github.com/FN-FAL113/SfChunkInfo/blob/main/README.md)                  | [GitHub](https://github.com/FN-FAL113/SfChunkInfo)                  | [建構](https://thebusybiscuit.github.io/builds/FN-FAL113/SfChunkInfo/main/)                  |
 | VillagerUtil (村民工具包)                     | Apeiros-46B                              | <details><summary>展開</summary>村民工具包添加了一些工具, 可以方便的運送村民, 治癒殭屍村民, 循環交易等等.</details> | [自述文件](https://github.com/Apeiros-46B/VillagerUtil/blob/main/README.md)               | [GitHub](https://github.com/Apeiros-46B/VillagerUtil)               | [建構](https://thebusybiscuit.github.io/builds/Apeiros-46B/VillagerUtil/main)                |
-| Missile Warfare ()                       | Kaiyan2006                               | <details><summary>展開</summary>Missile Warfare 為黏液科技添加了一堆導彈, 可以向其他人進行發射!</details> | N/A                                                                                   | [GitHub](https://github.com/koiboi-dev/MissileWarfare)              | [發布版](https://github.com/koiboi-dev/MissileWarfare/releases)                               |
+| Missile Warfare (導彈戰爭)                   | Kaiyan2006                               | <details><summary>展開</summary>Missile Warfare 為黏液科技添加了一堆導彈, 可以向其他人進行發射!</details> | N/A                                                                                   | [GitHub](https://github.com/koiboi-dev/MissileWarfare)              | [發布版](https://github.com/koiboi-dev/MissileWarfare/releases)                               |
 | SlimefunAdvancements ?(黏液進度表)            | char321                                  | <details><summary>展開</summary>SlimefunAdvancements 添加了完全可配置的成就系統. 讓你輕鬆制做你自己的進度!</details> | [自述文件](https://github.com/qwertyuioplkjhgfd/SlimefunAdvancements/blob/main/README.md) | [Github](https://github.com/qwertyuioplkjhgfd/SlimefunAdvancements) | [建構](https://thebusybiscuit.github.io/builds/qwertyuioplkjhgfd/SlimefunAdvancements/main/) |
 
 ## :gift: 第三方插件
@@ -106,8 +106,8 @@ sidebar_position: 1
 
 ## :black_nib: 製作屬於自己的附加!
 
-你想製作屬於你自己的黏液科技附加嗎? Check out this [Developer Guide](./Developer-Guide/Developer-Guide.md).
+你想製作屬於你自己的黏液科技附加嗎? 查看此 [開發人員指南](./Developer-Guide/Developer-Guide.md).
 
-如果你為黏液科技製作了一個附加並希望它在此列表列出, 只需要在我們的 Wiki 儲存庫上提出一個合併請求. You can find a tutorial here: Expanding-the-Wiki.  
-If a pull request is not possible, then just create an Issue and select the "Addition" template:  
+如果你為黏液科技製作了一個附加並希望它在此列表列出, 只需要在我們的 Wiki 儲存庫上提出一個合併請求. 你可以在此處找到教程: 擴展維基.  
+如果無法做一個合併請求, 則只需要創建一個問題並選擇"添加"模板:  
 <https://github.com/Slimefun/Wiki/issues>

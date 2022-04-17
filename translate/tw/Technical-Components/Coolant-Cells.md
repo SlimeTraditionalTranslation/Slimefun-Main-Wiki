@@ -5,7 +5,7 @@ sidebar_position: 12
 
 Coolant Cells are a set of [Technical Components](Technical-Components) that are used as coolant for the [Nuclear Reactor](Reactors) and [Nether Star Reactor](Reactors).
 
-## Obtaining
+## 取得
 
 ### Reactor Coolant Cell
 

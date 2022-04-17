@@ -5,7 +5,7 @@ sidebar_position: 14
 
 Wither-Proof Blocks are a set of [Technical Components](Technical-Components) that have special properties and can be used to craft the [Wither Assembler](Wither-Assembler).
 
-## Obtaining
+## 取得
 
 Both the Wither-Proof Obsidian and Wither-Proof Glass can be crafted in the [Enhanced Crafting Table](Enhanced-Crafting-Table)
 

@@ -3,7 +3,7 @@ title: Bronze Ingot
 sidebar_position: 5
 ---
 
-## Obtaining
+## 取得
 
 Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery](Electric-Smeltery) yields one Bronze Ingot:
 
@@ -26,4 +26,4 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 ### 物品
 
 * [GPS Transmitter](GPS-Transmitter)
-* [Cargo Node (Connector)](Connector-Node)
+* [物流節點 (中繼)](Connector-Node)

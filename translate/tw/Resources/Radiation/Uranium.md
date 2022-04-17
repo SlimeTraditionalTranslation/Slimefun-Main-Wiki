@@ -5,7 +5,7 @@ sidebar_position: 3
 
 Uranium is a [Resource](/docs/Slimefun/Resources) that can be used to power [Nuclear Reactors](Electric-Machines#energy-generation) or to create even better radioactive fuels.
 
-## Obtaining
+## 取得
 
 Uranium can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table) using 4 [Small Chunks of Uranium](Miscellaneous-Items).
 

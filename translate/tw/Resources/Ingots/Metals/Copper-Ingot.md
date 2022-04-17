@@ -3,7 +3,7 @@ title: Copper Ingot
 sidebar_position: 3
 ---
 
-## Obtaining
+## 取得
 
 Smelting one [Copper Dust](Copper-Dust) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory) yields one Copper Ingot.
 

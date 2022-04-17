@@ -7,6 +7,6 @@ The Infused Hopper can be found in the [Magical Gadgets](Magical-Gadgets) catego
 
 It is an upgraded version of the Hopper, it picks up all items in a 7x7x7 area around itself.
 
-## Obtaining
+## 取得
 
 This item can be crafted in the [Ancient Altar](Ancient-Altar).

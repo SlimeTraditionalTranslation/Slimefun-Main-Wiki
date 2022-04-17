@@ -6,7 +6,7 @@ sidebar_position: 7
 Reactors are a way to [Generate Energy](Electric-Machines) fast and efficiently.  
 There are currently two types of Reactors. Both of these require to be surrounded by water next to the reactor. Below and above are not necessary.
 
-## Reactor Access Port
+## 反應爐端口
 
 The Reactor Access Port can be found in the [Cargo Management](Cargo-Management) category.  
 It has to be placed exactly 3 blocks above the reactor and it can be used to interact with the Reactor from the outside.  
@@ -14,10 +14,10 @@ This provides an easy way to add Fuel/Coolant or take some of the byproduct.
 
 ## Reactor Types
 
-| Type                |  Power  | Buffer | 燃料                                  | Cooling                  | Side Effects                 |
-|:------------------- |:-------:|:------:| ----------------------------------- | ------------------------ | ---------------------------- |
-| Nuclear Reactor     | 500 J/s |  1.0x  | Neptunium, Uranium, Boosted Uranium | Reactor Coolant Cells    | N/A                          |
-| Nether Star Reactor | 40 J/s  |  3.0x  | Nether Stars                        | Nether Ice Coolant Cells | Nearby Entities get Withered |
+| Type                |  Power  |  緩衝  | 燃料                                  | Cooling                  | Side Effects                 |
+|:------------------- |:-------:|:----:| ----------------------------------- | ------------------------ | ---------------------------- |
+| Nuclear Reactor     | 500 J/s | 1.0x | Neptunium, Uranium, Boosted Uranium | Reactor Coolant Cells    | N/A                          |
+| Nether Star Reactor | 40 J/s  | 3.0x | Nether Stars                        | Nether Ice Coolant Cells | Nearby Entities get Withered |
 
 ## Example Setup
 

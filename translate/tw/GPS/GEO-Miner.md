@@ -5,7 +5,7 @@ sidebar_position: 8
 
 The GEO Miner is a placeable machine added in the [GPS](GPS) category.
 
-## Obtaining
+## 取得
 
 The GEO Miner can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 

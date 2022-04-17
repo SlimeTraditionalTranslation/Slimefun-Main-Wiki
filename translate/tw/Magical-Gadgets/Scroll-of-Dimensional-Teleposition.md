@@ -7,6 +7,6 @@ The Scroll of Dimensional Teleposition is part of the [Magical Gadgets](Magical-
 
 It is used to turn entities around by 180°.
 
-## Obtaining
+## 取得
 
 This item can be crafted in the [Magic Workbench](Magic-Workbench).

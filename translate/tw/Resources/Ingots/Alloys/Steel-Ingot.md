@@ -3,7 +3,7 @@ title: Steel Ingot
 sidebar_position: 17
 ---
 
-## Obtaining
+## 取得
 
 Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery](Electric-Smeltery) yields one Steel Ingot:
 
@@ -28,7 +28,7 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * [Steel Multi Tool](Multi-Tools)
 * [Steel Jet Boots](Jet-Boots)
 * [Steel Plate](Miscellaneous-Items)
-* [Enhanced Furnace (Tier I-XI)](Enhanced-Furnaces)
+* [強化熔爐 (I-XI)](Enhanced-Furnaces)
 * [Big Energy Capacitor](Energy-Capacitors)
 * [Electric Furnace III](Electric-Furnace)
 * [GPS Transmitter](GPS-Transmitter)

@@ -3,7 +3,7 @@ title: Aluminum Ingot
 sidebar_position: 6
 ---
 
-## Obtaining
+## 取得
 
 Smelting one [Aluminum Dust](Aluminum-Dust) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory) yields one Aluminum Ingot.
 
@@ -19,7 +19,7 @@ Aluminum Ingots are used in the following [alloys](Ingots#Alloys) for the [Smelt
 
 It is used in the following recipes:
 
-* [Trash Can](Trash-Can)
+* [垃圾桶](Trash-Can)
 * [Synthetic Sapphire](Synthetic-Sapphire)
 * [Synthetic Emerald](Synthetic-Emerald)
 * [Cooling Unit](Cooling-Unit)

@@ -3,7 +3,7 @@ title: Solder Ingot
 sidebar_position: 16
 ---
 
-## Obtaining
+## 取得
 
 Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery](Electric-Smeltery) yields one Solder Ingot:
 

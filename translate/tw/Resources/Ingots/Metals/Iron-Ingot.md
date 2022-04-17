@@ -7,7 +7,7 @@ Iron Ingots are an item in vanilla Minecraft.
 
 Although they are not added by Slimefun, the plugin offers an additional way to obtain them, and they are used in various new recipes.
 
-## Obtaining
+## 取得
 
 You can produce Iron Ingots by smelting [Iron Dust](Iron-Dust) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory).
 
@@ -27,7 +27,7 @@ Additionally, Iron Ingots are used to make the following alloys:
 They are also a crafting ingredient for the following items and machines:
 
 * [Ancient Rune [Lightning]](Ancient-Runes)
-* [Block Placer](Block-Placer)
+* [方塊放置器](Block-Placer)
 * [Electric Gold Pan (II)](Electric-Gold-Pan)
 * [Portable Dustbin](Portable-Dustbin)
 * [Slime Armor](Magical-Armor#the-leather-&-iron-slime-set)

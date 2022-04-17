@@ -1,22 +1,22 @@
 ---
-title: Grind Stone
+title: 研磨機
 sidebar_position: 2
 ---
 
-The Grind Stone is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. It is a multiblock structure.
+研磨機屬於 [基本機器](Basic-Machines.md) 類別。 它是一個多重方塊結構。
 
-## Obtaining
+## 取得
 
-The Grind Stone is a multiblock structure, it consists of a dispenser and a fence.
+研磨機是一個多重方塊結構，它由一個發射器和一個柵欄組成。
 
-A complete setup should look like this:
+完整的設定應如下所示：
 
-![Grind Stone Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-grind-stone.png)
+![研磨機設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-grind-stone.png)
 
-You can also place an [Output Chest](Output-Chest) next to the dispenser to collect your resources. If there is no [Output Chest](Output-Chest), then it will be put in the dispenser.
+你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest.md) 來收集你的資源。 如果沒有 [輸出箱](Output-Chest.md)，則會將成品放置在發射器中。
 
 ## 使用方法
 
-The Grind Stone can be used to grind items/blocks into other items/blocks, check out the Grind Stone in the Slimefun Guide in-game for more recipes.
+研磨機可用於將物品/方塊研磨成其他物品/方塊，請查看遊戲中 Slimefun指南中的研磨機以獲取更多合成表。
 
-To use the Grind Stone, you need to put your items in the dispenser and then right click the fence to convert your items, if a viable conversion is possible.
+要使用研磨機，你需要將物品放入發射器中，然後右鍵點擊柵欄以轉換你的物品（如果可以進行轉換的話）。

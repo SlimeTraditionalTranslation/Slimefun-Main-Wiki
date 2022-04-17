@@ -54,7 +54,7 @@ For more information on the individual items in this category, see the table of 
 * [Electric Press](Electric-Press)
 * [Electric Smeltery](Electric-Smeltery)
 * [Electrified Crucible](Electrified-Crucible)
-* [Fluid Pump](Fluid-Pump)
+* [流體泵](Fluid-Pump)
 * [Food Composter](Food-Composter)
 * [Food Fabricator](Food-Fabricator)
 * [Freezer](Freezer)

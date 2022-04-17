@@ -3,7 +3,7 @@ title: Damascus Steel Ingot
 sidebar_position: 8
 ---
 
-## Obtaining
+## 取得
 
 Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery](Electric-Smeltery) yields one Damascus Steel Ingot:
 

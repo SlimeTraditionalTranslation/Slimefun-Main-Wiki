@@ -7,7 +7,7 @@ The Pickaxe of Containment is an item in the [Tools](Tools) category.
 
 It is an Iron Pickaxe which allows you to pick up spawners. Although it can be enchanted like any other tool, it is not affected by the Fortune enchantment.
 
-## Obtaining
+## 取得
 
 The Pickaxe of Containment can be crafted at a [Magic Workbench](Magic-Workbench).
 

@@ -5,7 +5,7 @@ sidebar_position: 2
 
 GPS Control Panel is a placeable tool in [GPS](GPS) category.
 
-## Obtaining
+## 取得
 
 GPS Control Panel can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 

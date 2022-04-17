@@ -3,7 +3,7 @@ title: Zinc Ingot
 sidebar_position: 8
 ---
 
-## Obtaining
+## 取得
 
 Smelting one [Zinc Dust](Zinc-Dust) in a [Smeltery](Smeltery) or an [Electric Ingot Factory](Electric-Ingot-Factory) yields one Zinc Ingot.
 

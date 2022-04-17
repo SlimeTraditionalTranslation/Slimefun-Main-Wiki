@@ -5,7 +5,7 @@ sidebar_position: 6
 
 The Portable Geo-Scanner is a tool added in the [GPS](GPS) category. It is a portable version of the [GPS Geo-Scanner](GPS-Geo-Scanner).
 
-## Obtaining
+## 取得
 
 The Portable Geo-Scanner can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 

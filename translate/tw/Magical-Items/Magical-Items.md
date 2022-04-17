@@ -19,7 +19,7 @@ This is a category that contains a bunch of items to craft [Magical Gadgets](Mag
 - [Synthetic Shulker Shell](Magical-Items#Synthetic-Shulker-Shell)
 - [Broken Spawner](Broken-Spawner)
 - [Ancient Runes](Ancient-Runes)
-- [Strange Nether Goo](Magical-Items#Strange-Nether-Goo)
+- [奇怪的地獄黏液](Magical-Items#Strange-Nether-Goo)
 
 ## Simple Items
 
@@ -51,6 +51,6 @@ This item is crafted in an [Ancient Altar](Ancient-Altar) and is used for variou
 
 This item can be used a substitute for vanilla Shulker Shells. This way you don't always have to travel in the End to get your Shulker boxes.
 
-### Strange Nether Goo
+### 奇怪的地獄黏液
 
 This item is obtained by bartering with piglins and is used to craft the [Ancient Rune \[Villagers\]](Ancient-Runes).

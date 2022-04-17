@@ -1,22 +1,22 @@
 ---
-title: Pressure Chamber
+title: 加壓室
 sidebar_position: 7
 ---
 
-The Pressure Chamber is in the [Basic Machines](/docs/Slimefun/Basic-Machines) category. It is a multiblock structure.
+加壓室屬於 [基礎機器](Basic-Machines.md) 類別。 它是一個多重方塊結構。
 
-## Obtaining
+## 取得
 
-The Pressure Chamber is a multiblock structure, it consists of a dispenser, 2 smooth stone slabs, a piece of glass, a cauldron and 4 pistons.
+加壓室是一個多重方塊結構，它由一個發射器、2 個平滑石半磚、一塊玻璃、一個鍋釜和 4 個活塞組成。
 
-A complete setup should look like this:
+完整的設定應如下所示：
 
-![Pressure Chamber Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-pressure-chamber.png)
+![加壓室設置](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-pressure-chamber.png)
 
-You can also place an [Output Chest](Output-Chest) next to the dispenser to collect your items. If there is no [Output Chest](Output-Chest), then it will be put in the dispenser.
+你還可以在發射器旁邊放置一個 [輸出箱](Output-Chest.md) 來收集你的物品。 如果沒有 [輸出箱](Output-Chest.md)，則會將成品放置在發射器中。
 
 ## 使用方法
 
-The Pressure Chamber is used to put pressure on items, check out the Pressure Chamber in the Slimefun Guide in-game for more recipes.
+加壓室用於對物品施加壓力，請查看遊戲中的 Slimefun指南中的加壓室以獲取更多合成表。
 
-To use the Pressure Chamber, put the items (with the correct pattern) in the dispenser and your items will be output when you right click the cauldron.
+要使用加壓室，請將物品（正確的順序）放入發射器中，當你右鍵點擊鍋釜時，你的物品將被輸出。

@@ -8,7 +8,7 @@ Tier I Talismans only work while you carry them in your inventory, while Tier II
 
 Note that some Talismans will be consumed upon use.
 
-| Talisman                       | Effect                                                                | Consumable |
+| Talisman                       | 效果                                                                    | Consumable |
 | ------------------------------ | --------------------------------------------------------------------- | ---------- |
 | Talisman of the Anvil          | Fully repairs 1 Tool once it breaks                                   | Yes        |
 | Talisman of the Miner          | 20% chance to double all Ores you mine                                | No         |

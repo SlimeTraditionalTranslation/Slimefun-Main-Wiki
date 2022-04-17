@@ -8,7 +8,7 @@ sidebar_position: 3
 Energy Capacitors are [Electric Components](Electric-Machines) which can store and transfer energy in an energy network.  
 There are five "tiers" of capacitors, each with an increasing capacity.
 
-## Obtaining
+## 取得
 
 All six tiers of energy capacitors can be crafted in an [Enchanced Crafting Table](Enhanced-Crafting-Table).
 

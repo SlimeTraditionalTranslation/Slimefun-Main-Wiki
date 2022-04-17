@@ -5,7 +5,7 @@ sidebar_position: 3
 
 The Grappling Hook is a useful [tool](Tools) which provides great mobility, allowing you to access otherwise hard-to-reach places.
 
-## Obtaining
+## 取得
 
 The Grappling Hook can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
 

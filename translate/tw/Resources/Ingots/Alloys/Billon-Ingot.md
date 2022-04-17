@@ -3,7 +3,7 @@ title: Billon Ingot
 sidebar_position: 3
 ---
 
-## Obtaining
+## 取得
 
 Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery](Electric-Smeltery) yields one Billon Ingot:
 
@@ -29,5 +29,5 @@ Combining the following items in a [Smeltery](Smeltery) or an [Electric Smeltery
 * [Billon Jet Boots](Jet-Boots)
 * [Medium Energy Capacitor](Energy-Capacitors)
 * [Food Fabricator](Food-Fabricator)
-* [Input Node](Input-Node)
+* [物流節點 (輸入)](Input-Node)
 * [GPS Activation Device (Shared)](GPS-Activation-Device)

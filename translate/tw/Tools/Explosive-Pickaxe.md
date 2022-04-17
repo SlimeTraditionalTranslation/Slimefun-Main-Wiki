@@ -7,7 +7,7 @@ The Explosive Pickaxe is an item in the [tools](Tools) category.
 
 It is an unenchanted diamond pickaxe which can mine several blocks at once.
 
-## Obtaining
+## 取得
 
 The Explosive Pickaxe can be crafted in a [Magic Workbench](Magic-Workbench).
 
