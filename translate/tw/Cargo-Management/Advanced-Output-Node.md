@@ -3,28 +3,21 @@ title: 高級物流節點 (輸出)
 sidebar_position: 6
 ---
 
-高級物流節點 (輸出) 是 [ 貨物網絡 ](Cargo-Management) 的一個組件，它可以接收由 [ 物流節點 (輸入) ](Input-Node) 發送的物品。
+An Advanced Output Node is a component of a [cargo network](Cargo-Management.md) which can receive items sent by [input nodes](Input-Node.md).
 
-它是比 [ 物流節點 (輸出) ](Output-Node) 更複雜的類型，允許設置過濾物品。
+It is a more complex type of [output node](Output-Node.md), with additional settings to filter items.
 
 ## 取得
 
-高級物流節點 (輸出)
-可以在 [ 進階合成台 ](Enhanced-Crafting-Table) 中製作。</p> 
-
-
+Advanced output nodes can be crafted in an [Enhanced Crafting Table](../Basic-Machines/Enhanced-Crafting-Table.md).
 
 ## 使用方法
 
 高級物流節點 (輸出) 將網絡中與其設置匹配的物品移動到放置它們的儲存單元中。
 
-
-
 ### 放置
 
-高級物流節點 (輸出) 必須放置（蹲下右鍵）到一個容器或 [機器](Electric-Machines)上，並在 [物流核心](Cargo-Manager) 或 [物流節點 (中繼)](Connector-Node) 的 6 個方塊內對齊，範圍為 1格（無對角線）。
-
-
+An advanced output node must be placed (shift-right click) onto a container or [machine](../Electric-Machines/Electric-Machines.md), and aligned within 6 blocks of a [cargo manager](Cargo-Manager.md) or a [connector](Connector-Node.md) in range of one (no diagonals).
 
 ### 設定
 
