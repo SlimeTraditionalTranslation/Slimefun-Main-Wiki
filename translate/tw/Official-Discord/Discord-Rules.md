@@ -188,18 +188,18 @@ This channel is **ONLY** for showcasing your Server, any other messages will be 
 
 This channel is only for discussions around bugs, **not for reporting them.**
 
-For reporting bugs, please consult [How to report bugs](How-to-report-bugs).
+For reporting bugs, please consult [How to report bugs](../Overview/How-to-report-bugs.md).
 
 Before posting here, please follow this short guide:
 
 1. Run `/sf versions`
 2. Capture the output of that command and include it in your message.
-3. Are there any errors? If so, then post them via https://pastebin.com (Posting an error in the chat will result in auto-deletion)
-4. See if there are newer versions of Slimefun and CS-CoreLib available. (https://thebusybiscuit.github.io/builds/)
+3. Are there any errors? If so, then post them via <https://pastebin.com> (Posting an error in the chat will result in auto-deletion)
+4. See if there are newer versions of Slimefun and CS-CoreLib available. (<https://thebusybiscuit.github.io/builds/>)
 5. Try to be as clear as possible, the minimum is two sentences. ("X does not work" is not helpful)
 6. Double-check that you are using a "DEV - ..." build of Slimefun and CS-CoreLib, other builds are considered old or unofficial. **We will not accept bug reports from old or unofficial versions, RC versions will also be rejected since they are outdated.**
 
-For more info on how to debug your issues and make proper bug reports, please read [How to report bugs](How-to-report-bugs).
+For more info on how to debug your issues and make proper bug reports, please read [How to report bugs](../Overview/How-to-report-bugs.md).
 
 ### #questions
 
@@ -281,4 +281,4 @@ Our Discord server has a lot of roles too, some are considered staff, some are e
 
 ## 也請參考
 
-You may also want to take a look at our list of [Discord commands](Discord-Commands)
+You may also want to take a look at our list of [Discord commands](Discord-Commands.md)
