@@ -4,11 +4,11 @@ title: 物流管理概述
 
 物流管理是黏液科技的物品運輸系統。
 
-有了它，你幾乎可以在任何距離上快速自動地在箱子或 [ 機器 ](Electric-Machines) 之間移動物品。
+With it, you can quickly and automatically move items between containers or [machines](../Electric-Machines/Electric-Machines.md) over virtually any distance.
 
-物流管理網絡需要一個 [ 物流核心 ](Cargo-Manager)。 它可以運輸物品並為你提供有關你的網絡的信息。
+A cargo management network requires a [cargo manager](Cargo-Manager.md). 它可以運輸物品並為你提供有關你的網絡的信息。
 
-在容器或機器上放置 [ 物流節點 (輸入) ](Input-Node) 和 [ 物流節點 (輸出) ](Output-Node) 可以讓裡面的物品分別進入或離開網絡。 這些節點必須在貨物管理器的直接範圍內，或者它們可以連接到一個具有 [ 物流節點 (中繼) ](Connector-Node) 的節點。
+Placing [input](Input-Node.md) and [output nodes](Output-Node.md) on a container or machine allows the items in it to enter or exit the network, respectively. These nodes have to be in the direct range of a cargo manager, or they can be connected to one with [connector nodes](Connector-Node.md).
 
 物流網絡中的物品最多通過 16 個單獨的頻道運輸，每個頻道都標有不同顏色的羊毛。
 
@@ -16,10 +16,10 @@ title: 物流管理概述
 
 ## 目錄
 
-* [物流機械](Cargo-Motor)
-* [物流核心](Cargo-Manager)
-* [物流節點 (中繼)](Connector-Node)
-* [物流節點 (輸入)](Input-Node)
-* [物流節點 (輸出)](Output-Node)
-* [高級物流節點 (輸出)](Advanced-Output-Node)
-* [垃圾桶](Trash-Can)
+* [物流機械](Cargo-Motor.md)
+* [物流核心](Cargo-Manager.md)
+* [物流節點 (中繼)](Connector-Node.md)
+* [物流節點 (輸入)](Input-Node.md)
+* [物流節點 (輸出)](Output-Node.md)
+* [高級物流節點 (輸出)](Advanced-Output-Node.md)
+* [垃圾桶](Trash-Can.md)
