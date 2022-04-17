@@ -3,13 +3,13 @@ title: Advanced Output Node
 sidebar_position: 6
 ---
 
-An Advanced Output Node is a component of a [cargo network](Cargo-Management) which can receive items sent by [input nodes](Input-Node).
+An Advanced Output Node is a component of a [cargo network](Cargo-Management.md) which can receive items sent by [input nodes](Input-Node.md).
 
-It is a more complex type of [output node](Output-Node), with additional settings to filter items.
+It is a more complex type of [output node](Output-Node.md), with additional settings to filter items.
 
 ## Obtaining
 
-Advanced output nodes can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
+Advanced output nodes can be crafted in an [Enhanced Crafting Table](../Basic-Machines/Enhanced-Crafting-Table.md).
 
 ## Usage
 
@@ -17,7 +17,7 @@ Advanced output nodes move the items in the network matching their settings into
 
 ### Placement
 
-An advanced output node must be placed (shift-right click) onto a container or [machine](Electric-Machines), and aligned within 6 blocks of a [cargo manager](Cargo-Manager) or a [connector](Connector-Node) in range of one (no diagonals).
+An advanced output node must be placed (shift-right click) onto a container or [machine](../Electric-Machines/Electric-Machines.md), and aligned within 6 blocks of a [cargo manager](Cargo-Manager.md) or a [connector](Connector-Node.md) in range of one (no diagonals).
 
 ### Configuration
 

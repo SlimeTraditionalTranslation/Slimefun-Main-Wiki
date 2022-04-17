@@ -3,11 +3,11 @@ title: Input Node
 sidebar_position: 4
 ---
 
-An Input Node is the component of a [cargo network](Cargo-Management) which filters and distributes items to be received by [output nodes](Output-Node) (or [advanced output nodes](Advanced-Output-Node)).
+An Input Node is the component of a [cargo network](Cargo-Management.md) which filters and distributes items to be received by [output nodes](Output-Node.md) (or [advanced output nodes](Advanced-Output-Node.md)).
 
 ## Obtaining
 
-Input nodes can be crafted in groups of two in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
+Input nodes can be crafted in groups of two in an [Enhanced Crafting Table](../Basic-Machines/Enhanced-Crafting-Table.md).
 
 ## Usage
 
@@ -15,7 +15,7 @@ Input nodes move items from the container on which they are placed into the netw
 
 ### Placement
 
-A cargo input node must be placed (shift-right click) onto a container or [machine](Electric-Machines), and aligned within 6 blocks of a [cargo manager](Cargo-Manager) or a [connector](Connector-Node) in range of one (no diagonals).
+A cargo input node must be placed (shift-right click) onto a container or [machine](../Electric-Machines/Electric-Machines.md), and aligned within 6 blocks of a [cargo manager](Cargo-Manager.md) or a [connector](Connector-Node.md) in range of one (no diagonals).
 
 ### Configuration
 
