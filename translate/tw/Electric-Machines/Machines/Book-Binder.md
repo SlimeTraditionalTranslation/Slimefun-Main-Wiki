@@ -3,7 +3,7 @@ title: Book Binder
 sidebar_position: 7
 ---
 
-The Book Binder is an [Electric Machine](Electric-Machines) which can be used to combine different books together (much like an anvil would).
+The Book Binder is an [Electric Machine](../Electric-Machines.md) which can be used to combine different books together (much like an anvil would).
 
 ## Book Binder Tiers
 
