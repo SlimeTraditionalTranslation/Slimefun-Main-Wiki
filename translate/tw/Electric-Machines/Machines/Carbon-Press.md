@@ -3,7 +3,7 @@ title: Carbon Press
 sidebar_position: 8
 ---
 
-The Carbon Press is an [Electric Machine](Electric-Machines) which can be used to craft all [Carbon](Carbon)-like items.
+The Carbon Press is an [Electric Machine](../Electric-Machines.md) which can be used to craft all [Carbon](../../Resources/Elements-and-compounds/Carbon.md)-like items.
 
 ## Carbon Press Tiers
 
