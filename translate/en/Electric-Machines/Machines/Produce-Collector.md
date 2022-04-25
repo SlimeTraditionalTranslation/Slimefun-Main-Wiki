@@ -3,7 +3,7 @@ title: Produce Collector
 sidebar_position: 27
 ---
 
-The Produce Collector is an [Electric Machine](Electric-Machines) which can be used to collect produce from nearby animals.  
+The Produce Collector is an [Electric Machine](../Electric-Machines.md) which can be used to collect produce from nearby animals.  
 It can collect Milk from nearby Cows if provided with Buckets, and it can collect Mushroom Stew from nearby Mushroom Cows if provided with Bowls.  
 
 ## Tiers

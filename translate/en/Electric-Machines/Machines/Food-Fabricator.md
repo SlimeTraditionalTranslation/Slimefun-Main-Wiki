@@ -3,7 +3,7 @@ title: Food Fabricator
 sidebar_position: 23
 ---
 
-The Food Fabricator is an [Electric Machine](Electric-Machines) that can be used to create [Organic Food](Miscellaneous-Items) which is used as fuel in a few other [Electric Machines](Electric-Machines).
+The Food Fabricator is an [Electric Machine](../Electric-Machines.md) that can be used to create [Organic Food](../../Miscellaneous-Items/Miscellaneous-Items.md) which is used as fuel in a few other [Electric Machines](../Electric-Machines.md).
 
 ## Food Fabricator Tiers
 

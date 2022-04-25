@@ -3,9 +3,9 @@ title: Electric Dust Washer
 sidebar_position: 12
 ---
 
-The Electric Dust Washer is an [Electric Machine](Electric-Machines) which obtains [Dusts](Dusts) from [Sifted Ore](Sifted-Ore).
+The Electric Dust Washer is an [Electric Machine](../Electric-Machines.md) which obtains [Dusts](../../Resources/Dusts/Dusts.md) from [Sifted Ore](../../Miscellaneous-Items/Sifted-Ore.md).
 
-It's the electric version of the [Ore Washer](Ore-Washer), only it does not generate by-products and thus improves the yield rate.
+It's the electric version of the [Ore Washer](../../Basic-Machines/Ore-Washer.md), only it does not generate by-products and thus improves the yield rate.
 
 ## Electric Dust Washer Tiers
 

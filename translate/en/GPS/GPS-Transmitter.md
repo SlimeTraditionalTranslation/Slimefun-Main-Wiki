@@ -3,11 +3,11 @@ title: GPS Transmitter
 sidebar_position: 1
 ---
 
-The GPS Transmitter is a basic component of a GPS network, which is a building block of the [GPS](GPS) category.
+The GPS Transmitter is a basic component of a GPS network, which is a building block of the [GPS](GPS.md) category.
 
 ## Obtaining
 
-The GPS Transmitters can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
+The GPS Transmitters can be crafted in an [Enhanced Crafting Table](../Basic-Machines/Enhanced-Crafting-Table.md).
 
 ## Usage and mechanics
 

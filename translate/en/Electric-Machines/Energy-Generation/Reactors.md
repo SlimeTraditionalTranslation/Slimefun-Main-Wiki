@@ -3,12 +3,12 @@ title: Reactors
 sidebar_position: 7
 ---
 
-Reactors are a way to [Generate Energy](Electric-Machines) fast and efficiently.  
+Reactors are a way to [Generate Energy](../Electric-Machines.md) fast and efficiently.  
 There are currently two types of Reactors. Both of these require to be surrounded by water next to the reactor. Below and above are not necessary.  
 
 ## Reactor Access Port
 
-The Reactor Access Port can be found in the [Cargo Management](Cargo-Management) category.  
+The Reactor Access Port can be found in the [Cargo Management](../../Cargo-Management/Cargo-Management.md) category.  
 It has to be placed exactly 3 blocks above the reactor and it can be used to interact with the Reactor from the outside.  
 This provides an easy way to add Fuel/Coolant or take some of the byproduct.
 

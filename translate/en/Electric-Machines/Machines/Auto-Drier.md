@@ -3,7 +3,7 @@ title: Auto Drier
 sidebar_position: 4
 ---
 
-The Auto Drier is an [Electric Machine](Electric-Machines) which can dry items into other items.  
+The Auto Drier is an [Electric Machine](../Electric-Machines.md) which can dry items into other items.  
 It is also able to dry cooked meat into a more saturated version.
 
 If you want to know all the recipes, just open the machine's page in the Slimefun guide.

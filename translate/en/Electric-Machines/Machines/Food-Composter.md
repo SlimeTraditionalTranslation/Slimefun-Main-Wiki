@@ -3,8 +3,8 @@ title: Food Composter
 sidebar_position: 22
 ---
 
-The Food Composter is an [Electric Machine](Electric-Machines) which can be used to create [Organic Fertilizer](Miscellaneous-Items) from [Organic Food](Miscellaneous-Items).  
-The produced [Organic Fertilizer](Miscellaneous-Items) can be used as fuel for other machines.
+The Food Composter is an [Electric Machine](../Electric-Machines.md) which can be used to create [Organic Fertilizer](../../Miscellaneous-Items/Miscellaneous-Items.md) from [Organic Food](../../Miscellaneous-Items/Miscellaneous-Items.md).  
+The produced [Organic Fertilizer](../../Miscellaneous-Items/Miscellaneous-Items.md) can be used as fuel for other machines.
 
 ## Food Composter Tiers
 

@@ -3,9 +3,9 @@ title: Crop Growth Accelerator
 sidebar_position: 10
 ---
 
-The Crop Growth Accelerator is an [Electric Machine](Electric-Machines) which accelerates the growth speed of your crops.  
+The Crop Growth Accelerator is an [Electric Machine](../Electric-Machines.md) which accelerates the growth speed of your crops.  
 
-It runs on [Organic Fertilizer](Miscellaneous-Items) which is made in the [Food Composter](Food-Composter).
+It runs on [Organic Fertilizer](../../Miscellaneous-Items/Miscellaneous-Items.md) which is made in the [Food Composter](Food-Composter.md).
 
 ## Crop Growth Accelerator Tiers
 

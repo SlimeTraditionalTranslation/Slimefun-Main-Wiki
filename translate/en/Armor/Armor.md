@@ -28,7 +28,7 @@ The Gilded Iron Armor Set is a Gold Armor Set with Protection VIII and Unbreakin
 
 ### Hazmat Suit
 
-The Hazmat suit is a (orange/black-dyed) Leather Armor Set which provides full immunity towards [Radiation](Radiation) and Bee Stings when wearing the full set.  
+The Hazmat suit is a (orange/black-dyed) Leather Armor Set which provides full immunity towards [Radiation](../Resources/Radiation/Radiation.md) and Bee Stings when wearing the full set.  
 
 The Scuba Helmet allows you to breath underwater.  
 The Hazma Suit Chestplate makes you immune to fire and lava.
@@ -39,4 +39,4 @@ The Gold Armor Set is a vanilla Gold Armor Set with Unbreaking X on every piece.
 
 ## See also
 
-* [Magical Armor](Magical-Armor)
+* [Magical Armor](../Magical-Armor/Magical-Armor.md)

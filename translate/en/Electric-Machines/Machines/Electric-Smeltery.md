@@ -3,10 +3,10 @@ title: Electric Smeltery
 sidebar_position: 19
 ---
 
-The Electric Smeltery is an [Electric Machine](Electric-Machines) which creates [Alloys](Ingots#Alloys) from [Ingots](Ingots).  
-If you want to smelt [Dusts](Dusts) into [Ingots](Ingots), take a look at the [Electric Ingot Factory](Electric-Ingot-Factory).
+The Electric Smeltery is an [Electric Machine](../Electric-Machines.md) which creates [Alloys](../../Resources/Ingots/Ingots.md#alloys) from [Ingots](../../Resources/Ingots/Ingots.md).  
+If you want to smelt [Dusts](../../Resources/Dusts/Dusts.md) into [Ingots](../../Resources/Ingots/Ingots.md), take a look at the [Electric Ingot Factory](Electric-Ingot-Factory.md).
 
-It is the automated version of the [Smeltery](Smeltery).
+It is the automated version of the [Smeltery](../../Basic-Machines/Smeltery.md).
 
 ## Electric Smeltery Tiers
 

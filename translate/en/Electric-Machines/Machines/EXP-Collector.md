@@ -3,8 +3,8 @@ title: EXP Collector
 sidebar_position: 11
 ---
 
-The EXP-Collector is an [Electric Machine](Electric-Machines) which can be used to collect exp.  
-It stores the exp in [Flasks of Knowledge](Flask-of-Knowledge).
+The EXP-Collector is an [Electric Machine](../Electric-Machines.md) which can be used to collect exp.  
+It stores the exp in [Flasks of Knowledge](../../Magical-Gadgets/Flask-of-Knowledge.md).
 
 ## EXP-Collector Tiers
 

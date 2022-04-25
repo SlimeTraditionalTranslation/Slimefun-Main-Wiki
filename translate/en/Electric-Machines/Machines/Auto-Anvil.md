@@ -3,8 +3,8 @@ title: Auto Anvil
 sidebar_position: 2
 ---
 
-The Auto Anvil is an [Electric Machine](Electric-Machines) which can repair your tools and weapons.  
-It achieves this by using [Duct Tape](Miscellaneous-Items) to repair your items based on the Repairing Efficiency of the machine.
+The Auto Anvil is an [Electric Machine](../Electric-Machines.md) which can repair your tools and weapons.  
+It achieves this by using [Duct Tape](../../Miscellaneous-Items/Miscellaneous-Items.md) to repair your items based on the Repairing Efficiency of the machine.
 
 ## Auto Anvil Tiers
 

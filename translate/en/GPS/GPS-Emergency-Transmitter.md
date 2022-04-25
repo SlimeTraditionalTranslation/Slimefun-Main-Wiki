@@ -3,11 +3,11 @@ title: GPS Emergency Transmitter
 sidebar_position: 4
 ---
 
-GPS Emergency Transmitter is an item added in the [GPS](GPS) category.
+GPS Emergency Transmitter is an item added in the [GPS](GPS.md) category.
 
 ## Obtaining
 
-GPS Emergency Transmitter can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table)
+GPS Emergency Transmitter can be crafted in an [Enhanced Crafting Table](../Basic-Machines/Enhanced-Crafting-Table.md)
 
 ## Usage
 

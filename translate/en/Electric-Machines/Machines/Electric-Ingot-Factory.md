@@ -3,10 +3,10 @@ title: Electric Ingot Factory
 sidebar_position: 15
 ---
 
-The Electric Ingot Factory is an [Electric Machine](Electric-Machines) which smelts [Dusts](Dusts) into their corresponding [Ingots](Ingots).  
-It cannot smelt [Alloys](Ingots#alloys) from [Ingots](Ingots).
+The Electric Ingot Factory is an [Electric Machine](../Electric-Machines.md) which smelts [Dusts](../../Resources/Dusts/Dusts.md) into their corresponding [Ingots](../../Resources/Ingots/Ingots.md).  
+It cannot smelt [Alloys](../../Resources/Ingots/Ingots.md#alloys) from [Ingots](../../Resources/Ingots/Ingots.md).
 
-The [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer) is the opposite of this machine.
+The [Electric Ingot Pulverizer](Electric-Ingot-Pulverizer.md) is the opposite of this machine.
 
 ## Electric Ingot Factory Tiers
 
