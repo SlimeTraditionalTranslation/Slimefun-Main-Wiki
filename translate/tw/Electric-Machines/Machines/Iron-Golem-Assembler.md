@@ -3,7 +3,7 @@ title: Iron Golem Assembler
 sidebar_position: 26
 ---
 
-The Iron Golem Assembler is an [Electric Machine](Electric-Machines) which can be used to automatically assemble Iron Golems.
+The Iron Golem Assembler is an [Electric Machine](../Electric-Machines.md) which can be used to automatically assemble Iron Golems.
 
 ## 等級
 
