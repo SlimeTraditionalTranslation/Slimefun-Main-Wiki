@@ -3,7 +3,7 @@ title: 流體泵
 sidebar_position: 21
 ---
 
-The Fluid Pump is an [Electric Machine](Electric-Machines) which can be used to collect fluids from the nearby environment.  
+The Fluid Pump is an [Electric Machine](../Electric-Machines.md) which can be used to collect fluids from the nearby environment.  
 This can be used to obtain an infinite source of both water and lava, which can be very useful.  
 Do note you have to provide the machine with a constant supply of empty buckets.
 
