@@ -28,7 +28,7 @@ title: 盔甲總覽
 
 ### 防護服套裝
 
-防護服套裝是一個 (橘色/黑色染色) 的皮革套裝, 穿著全套時可以完全免疫 [輻射](Radiation) 和蜜蜂螫傷.
+The Hazmat suit is a (orange/black-dyed) Leather Armor Set which provides full immunity towards [Radiation](../Resources/Radiation/Radiation.md) and Bee Stings when wearing the full set.
 
 潛水頭盔可以讓你在水下呼吸.  
 防護衣可以讓你免疫火與岩漿.
@@ -39,4 +39,4 @@ title: 盔甲總覽
 
 ## 也請參考
 
-* [魔法盔甲](Magical-Armor)
+* [魔法盔甲](../Magical-Armor/Magical-Armor.md)
