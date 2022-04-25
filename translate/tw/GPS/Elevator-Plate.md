@@ -3,11 +3,11 @@ title: Elevator Plate
 sidebar_position: 12
 ---
 
-The Elevator Plate is a placeable device added in the [GPS](GPS) category.
+The Elevator Plate is a placeable device added in the [GPS](GPS.md) category.
 
 ## 取得
 
-The Elevator Plate can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
+The Elevator Plate can be crafted in an [Enhanced Crafting Table](../Basic-Machines/Enhanced-Crafting-Table.md).
 
 ## 使用方法
 
