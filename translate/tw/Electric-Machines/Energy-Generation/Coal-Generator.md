@@ -3,15 +3,15 @@ title: Coal Generator
 sidebar_position: 3
 ---
 
-The Coal Generator is a type of [Energy Generator](Electric-Machines#energy-generation).
+The Coal Generator is a type of [Energy Generator](../Electric-Machines.md#energy-generation).
 
 ## 取得
 
-All tiers of coal generators can be crafted in an [Enhanced Crafting Table](Enhanced-Crafting-Table).
+All tiers of coal generators can be crafted in an [Enhanced Crafting Table](../../Basic-Machines/Enhanced-Crafting-Table.md).
 
 ## 使用方法
 
-A coal generator must be placed within 7 blocks of an [Energy Regulator](Energy-Regulator), an [Energy Connector](Energy-Connector), or an [Energy Capacitor](Energy-Capacitors) in a cross format (not diagonally), and provided with the appropriate fuel.
+A coal generator must be placed within 7 blocks of an [Energy Regulator](../Energy-Management/Energy-Regulator.md), an [Energy Connector](../Energy-Management/Energy-Connector.md), or an [Energy Capacitor](../Energy-Management/Energy-Capacitors.md) in a cross format (not diagonally), and provided with the appropriate fuel.
 
 ## 等級
 
@@ -43,4 +43,4 @@ Despite being a "coal" generator, this generator can also be fueled with blaze r
 | Any Wooden Doors           | 3s     | 48 J           | 90 J            |
 | Any Signs                  | 2s     | 32 J           | 60 J            |
 
-Note that it is twice as efficient to turn your logs into planks in a [Table Saw](Table-Saw) before burning them as fuel.
+Note that it is twice as efficient to turn your logs into planks in a [Table Saw](../../Basic-Machines/Table-Saw.md) before burning them as fuel.
