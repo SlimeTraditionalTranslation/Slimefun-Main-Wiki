@@ -3,11 +3,11 @@ title: Tome of Knowledge Sharing
 sidebar_position: 9
 ---
 
-The Tome of Knowledge Sharing is part of the [Magical Gadgets](Magical-Gadgets) category.
+The Tome of Knowledge Sharing is part of the [Magical Gadgets](Magical-Gadgets.md) category.
 
 ## 取得
 
-This item can be crafted in the [Magic Workbench](Magic-Workbench).
+This item can be crafted in the [Magic Workbench](../Basic-Machines/Magic-Workbench.md).
 
 ## 使用方法
 
