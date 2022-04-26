@@ -3,11 +3,11 @@ title: 物流節點 (輸入)
 sidebar_position: 4
 ---
 
-An Input Node is the component of a [cargo network](Cargo-Management.md) which filters and distributes items to be received by [output nodes](Output-Node.md) (or [advanced output nodes](Advanced-Output-Node.md)).
+物流節點 (輸入) 是 [物流網絡](Cargo-Management.md) 的組件，它過濾和分發要由 [物流節點 (輸出)](Output-Node.md) （或 [高級物流節點 (輸出)](Advanced-Output-Node.md)）接收的物品。
 
 ## 取得
 
-Input nodes can be crafted in groups of two in an [Enhanced Crafting Table](../Basic-Machines/Enhanced-Crafting-Table.md).
+物流節點 (輸出) 可以在 [進階合成台](../Basic-Machines/Enhanced-Crafting-Table.md) 中以兩個為一組製作。
 
 ## 使用方法
 
@@ -15,7 +15,7 @@ Input nodes can be crafted in groups of two in an [Enhanced Crafting Table](../B
 
 ### 放置
 
-A cargo input node must be placed (shift-right click) onto a container or [machine](../Electric-Machines/Electric-Machines.md), and aligned within 6 blocks of a [cargo manager](Cargo-Manager.md) or a [connector](Connector-Node.md) in range of one (no diagonals).
+物流節點 (輸入) 必須放置（蹲下右鍵）到容器或 [機器](../Electric-Machines/Electric-Machines.md) 上，並在 [物流核心](Cargo-Manager.md) 或 [物流節點 (中繼)](Connector-Node.md) 的 6 個方塊內對齊，範圍為 1（無對角線）。
 
 ### 設定
 
