@@ -12,7 +12,7 @@ This page contains information regarding following items:
 
 ## Obtaining & Usage
 
-These items can be found in the [Magical Gadgets](Magical-Gadgets) category. Their exact recipes can be found in-game.  
+These items can be found in the [Magical Gadgets](Magical-Gadgets.md) category. Their exact recipes can be found in-game.  
 The Elytra Scale is a crafting component, while the other three are usable elytras.
 
 | 物品               | Specialities       |

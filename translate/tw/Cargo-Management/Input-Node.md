@@ -3,26 +3,19 @@ title: 物流節點 (輸入)
 sidebar_position: 4
 ---
 
-物流節點 (輸入) 是 [物流網絡](Cargo-Management) 的組件，它過濾和分發要由 [物流節點 (輸出)](Output-Node) （或 [高級物流節點 (輸出)](Advanced-Output-Node)）接收的物品。
+物流節點 (輸入) 是 [物流網絡](Cargo-Management.md) 的組件，它過濾和分發要由 [物流節點 (輸出)](Output-Node.md) （或 [高級物流節點 (輸出)](Advanced-Output-Node.md)）接收的物品。
 
 ## 取得
 
-物流節點 (輸入) 可以在
- [進階合成台](Enhanced-Crafting-Table) 上製作。</p> 
-
-
+物流節點 (輸出) 可以在 [進階合成台](../Basic-Machines/Enhanced-Crafting-Table.md) 中以兩個為一組製作。
 
 ## 使用方法
 
 只要網絡中有可用的匹配物流節點 (輸出)，物流節點 (輸入) 就會將物品從放置它們的容器移入網絡。
 
-
-
 ### 放置
 
-物流節點 (輸入) 必須放置（蹲下右鍵）到容器或 [機器](Electric-Machines) 上，並在 [物流核心](Cargo-Manager) 或 [物流節點 (中繼)](Connector-Node) 的 6 個方塊內對齊，範圍為 1（無對角線）。
-
-
+物流節點 (輸入) 必須放置（蹲下右鍵）到容器或 [機器](../Electric-Machines/Electric-Machines.md) 上，並在 [物流核心](Cargo-Manager.md) 或 [物流節點 (中繼)](Connector-Node.md) 的 6 個方塊內對齊，範圍為 1（無對角線）。
 
 ### 設定
 

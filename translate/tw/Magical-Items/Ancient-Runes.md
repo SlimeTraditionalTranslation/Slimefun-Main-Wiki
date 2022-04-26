@@ -3,11 +3,11 @@ title: Ancient Runes
 sidebar_position: 3
 ---
 
-Ancient Runes are part of the [Magical Items](Magical-Items) category. There are currently 11 different runes and a blank one.
+Ancient Runes are part of the [Magical Items](Magical-Items.md) category. There are currently 11 different runes and a blank one.
 
 ## 取得
 
-Every single rune is made in the [Ancient Altar](Ancient-Altar) and their recipes can be found in the Slimefun guide.
+Every single rune is made in the [Ancient Altar](../Magical-Gadgets/Ancient-Altar.md) and their recipes can be found in the Slimefun guide.
 
 ## The Runes
 
@@ -15,8 +15,8 @@ Every single rune is made in the [Ancient Altar](Ancient-Altar) and their recipe
 
 There is the Blank Rune, which is used as a base crafting material for the simple runes.
 
-There are 5 simple runes, Air, Earth, Fire, Water and Ender. These are used in low-end [Magical Gadgets](Magical-Gadgets) and to craft the other runes.  
-After those come the high-end runes, these are all also used to craft [Magical Gadgets](Magical-Gadgets). These are the Lightning and the Rainbow rune.
+There are 5 simple runes, Air, Earth, Fire, Water and Ender. These are used in low-end [Magical Gadgets](../Magical-Gadgets/Magical-Gadgets.md) and to craft the other runes.  
+After those come the high-end runes, these are all also used to craft [Magical Gadgets](../Magical-Gadgets/Magical-Gadgets.md). These are the Lightning and the Rainbow rune.
 
 ### 靈魂綁定符文
 

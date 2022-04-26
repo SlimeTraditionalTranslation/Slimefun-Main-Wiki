@@ -3,7 +3,7 @@ title: Freezer
 sidebar_position: 24
 ---
 
-The Freezer is an [Electric Machine](Electric-Machines) which can be used to freeze a lot of items.  
+The Freezer is an [Electric Machine](../Electric-Machines.md) which can be used to freeze a lot of items.  
 This can be a very useful machine, for example, to create blue ice in the long-run.
 
 ## Freezer Tiers

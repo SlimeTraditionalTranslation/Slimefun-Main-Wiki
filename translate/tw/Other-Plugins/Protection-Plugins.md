@@ -69,7 +69,7 @@ N/A = 不適用
 
 ## 為你的保護插件添加支持
 
-保護集成在 dough (https://github.com/baked-libs/dough).
+Protection Integration is handled in dough <https://github.com/baked-libs/dough>.
 
 要對自己的插件進行支持, 你所需要的是對該專案發出合併請求.
 

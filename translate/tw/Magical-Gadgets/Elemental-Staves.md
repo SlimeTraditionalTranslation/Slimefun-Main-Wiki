@@ -3,11 +3,11 @@ title: Elemental Staves
 sidebar_position: 3
 ---
 
-The Elemental Staves are five kinds of [Magical Gadgets](Magical-Gadgets).
+The Elemental Staves are five kinds of [Magical Gadgets](Magical-Gadgets.md).
 
 ## 取得
 
-Elemental staves can be crafted in a [Magic Workbench](Magic-Workbench).
+Elemental staves can be crafted in a [Magic Workbench](../Basic-Machines/Magic-Workbench.md).
 
 ## 使用方法
 

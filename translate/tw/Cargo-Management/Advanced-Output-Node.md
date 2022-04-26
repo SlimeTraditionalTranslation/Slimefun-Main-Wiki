@@ -3,14 +3,16 @@ title: 高級物流節點 (輸出)
 sidebar_position: 6
 ---
 
-高級物流節點 (輸出) 是 [ 貨物網絡 ](Cargo-Management) 的一個組件，它可以接收由 [ 物流節點 (輸入) ](Input-Node) 發送的物品。
+高級物流節點 (輸出) 是 [物流網路](Cargo-Management.md) 的一個組件，它可以接收由
+物流節點 (輸入)</1 > 發送的物品。</p> 
 
-它是比 [ 物流節點 (輸出) ](Output-Node) 更複雜的類型，允許設置過濾物品。
+它是比 [物流節點 (輸出)](Output-Node.md) 更複雜的類型，允許設置過濾物品。
+
+
 
 ## 取得
 
-高級物流節點 (輸出)
-可以在 [ 進階合成台 ](Enhanced-Crafting-Table) 中製作。</p> 
+高級物流節點 (輸出) 可以在[進階合成台](../Basic-Machines/Enhanced-Crafting-Table.md)中製作。
 
 
 
@@ -22,7 +24,7 @@ sidebar_position: 6
 
 ### 放置
 
-高級物流節點 (輸出) 必須放置（蹲下右鍵）到一個容器或 [機器](Electric-Machines)上，並在 [物流核心](Cargo-Manager) 或 [物流節點 (中繼)](Connector-Node) 的 6 個方塊內對齊，範圍為 1格（無對角線）。
+高級物流節點 (輸出) 必須放置（蹲下右鍵）到一個容器或 [機器](../Electric-Machines/Electric-Machines.md)上，並在 [物流核心](Cargo-Manager.md) 或 [物流節點 (中繼)](Connector-Node.md) 的 6 個方塊內對齊，範圍為 1格（無對角線）。
 
 
 

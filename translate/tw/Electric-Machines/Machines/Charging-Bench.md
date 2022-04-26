@@ -3,7 +3,7 @@ title: Charging Bench
 sidebar_position: 9
 ---
 
-The Charging Bench is an [Electric Machine](Electric-Machines) which can be used to charge items like bacpacks.
+The Charging Bench is an [Electric Machine](../Electric-Machines.md) which can be used to charge items like bacpacks.
 
 ## 等級
 
