@@ -7,7 +7,7 @@ These items do not have special properties on their own, so underneath you'll fi
 
 ## 目錄
 
-* [Sifted Ore](Sifted-Ore)
+* [Sifted Ore](Sifted-Ore.md)
 * Wheat Flour
 * Steel Plate
 * Chain
