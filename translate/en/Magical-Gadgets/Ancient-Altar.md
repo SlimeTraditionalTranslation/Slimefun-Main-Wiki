@@ -3,16 +3,16 @@ title: Ancient Altar
 sidebar_position: 11
 ---
 
-The Ancient Altar is a block in the [Magical Gadgets](Magical-Gadgets) category, as well as a Multiblock structure.  
-It is used to craft other [Magical Items](Magical-Items) and gadgets, and to repair [Broken Spawners](Broken-Spawner) so they become [Reinforced Spawners](Reinforced-Spawner).
+The Ancient Altar is a block in the [Magical Gadgets](Magical-Gadgets.md) category, as well as a Multiblock structure.  
+It is used to craft other [Magical Items](../Magical-Items/Magical-Items.md) and gadgets, and to repair [Broken Spawners](../Magical-Items/Broken-Spawner.md) so they become [Reinforced Spawners](Reinforced-Spawner.md).
 
 ## Obtaining
 
-The Ancient Altar block can be crafted in a [Magic Workbench](Magic-Workbench).
+The Ancient Altar block can be crafted in a [Magic Workbench](../Basic-Machines/Magic-Workbench.md).
 
 ## Usage
 
-The Ancient Altar block on its own has no use. In order to have a working altar, the Ancient Altar must be surrounded by 8 [Ancient Pedestals](Ancient-Pedestal), 2 blocks away from it in cardinal directions and 1 block away diagonally.
+The Ancient Altar block on its own has no use. In order to have a working altar, the Ancient Altar must be surrounded by 8 [Ancient Pedestals](Ancient-Pedestal.md), 2 blocks away from it in cardinal directions and 1 block away diagonally.
 
 A working Ancient Altar looks like this:
 
