@@ -237,7 +237,7 @@ To build against RC-15 for example, simply replace your version like this:
 
 You can find a full list of versions to build against in the "Releases" section on Slimefun's github repository:
 
-https://github.com/Slimefun/Slimefun4/releases
+<https://github.com/Slimefun/Slimefun4/releases>
 
 You can also find a "Maven dependency reference" for every released version. Simply copy & paste/replace the version tag into your `pom.xml` to update your dependency.
 
