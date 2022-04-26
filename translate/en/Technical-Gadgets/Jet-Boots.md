@@ -3,7 +3,7 @@ title: Jet Boots
 sidebar_position: 4
 ---
 
-Jet Boots are part of the [Technical Gadgets](Technical-Gadgets) category. They need to be charged in a [Charging Bench](Charging-Bench) before usage.
+Jet Boots are part of the [Technical Gadgets](Technical-Gadgets.md) category. They need to be charged in a [Charging Bench](../Electric-Machines/Machines/Charging-Bench.md) before usage.
 
 They can be used to fly around using electricity. Put the Jet Boots in your boots slot and crouch to use.
 

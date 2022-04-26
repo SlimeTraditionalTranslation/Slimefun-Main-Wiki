@@ -29,7 +29,7 @@ Now, send us the following information (in the `#bug-discussions` channel):
 1. Run /sf versions and send us a screenshot. We need the exact versions you are using, otherwise, we will not be able to help you.
 "latest" is not helping us at all. So please run that command. (If you don't have access to this command then Shift-Right-Click your Slimefun Guide, you can find your versions in the uppermost middle slot.)
 
-2. Check your console, are there any errors? (If so, then post them via https://pastebin.com/)
+2. Check your console, are there any errors? (If so, then post them via <https://pastebin.com/>)
 
 3. What do you intend to happen and what is happening?
 

@@ -69,7 +69,7 @@ Here is a list of all plugins we support by default.
 
 ## Adding Support for your protection plugin
 
-Protection Integration is handled in dough (https://github.com/baked-libs/dough).
+Protection Integration is handled in dough <https://github.com/baked-libs/dough>.
 
 To add support for your own plugin, all you have to do is make a Pull Request to that repository.
 

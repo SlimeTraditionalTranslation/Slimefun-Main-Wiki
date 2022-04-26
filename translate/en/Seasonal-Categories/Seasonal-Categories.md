@@ -7,8 +7,8 @@ Do note that with `/sf cheat`, this can be bypassed.
 
 ## Table of contents
 
-* [Christmas Seasonal Category](Christmas-Seasonal-Category)
-* [Valentines Day Seasonal Category](Valentines-Day-Seasonal-Category)
-* [Easter Seasonal Category](Easter-Seasonal-Category)
-* [Birthday Seasonal Category](Birthday-Seasonal-Category)
-* [Halloween Seasonal Category](Halloween-Seasonal-Category)
+* [Christmas Seasonal Category](Christmas-Seasonal-Category.md)
+* [Valentines Day Seasonal Category](Valentines-Day-Seasonal-Category.md)
+* [Easter Seasonal Category](Easter-Seasonal-Category.md)
+* [Birthday Seasonal Category](Birthday-Seasonal-Category.md)
+* [Halloween Seasonal Category](Halloween-Seasonal-Category.md)
