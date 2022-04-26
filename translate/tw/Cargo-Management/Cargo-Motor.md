@@ -3,13 +3,13 @@ title: 物流機械
 sidebar_position: 1
 ---
 
-A Cargo Motor is an item in the [Cargo Management](Cargo-Management.md) category.
+物流機械是 [物流管理](Cargo-Management.md) 類別中的物品。
 
-It is a crafting ingredient in cargo-related and [electric machine](../Electric-Machines/Electric-Machines.md) recipes.
+它是用與物流相關和 [電力與能源](../Electric-Machines/Electric-Machines.md) 配方中的合成材料。
 
 ## 取得
 
-Cargo motors can be crafted in groups of four in an [Enhanced Crafting Table](../Basic-Machines/Enhanced-Crafting-Table.md).
+物流機械可以在 [進階合成台](../Basic-Machines/Enhanced-Crafting-Table.md) 上製作。
 
 ## 使用方法
 
