@@ -3,7 +3,7 @@ title: Jetpacks
 sidebar_position: 1
 ---
 
-Jetpacks are part of the [Technical Gadgets](Technical-Gadgets) category. They need to be charged in a [Charging Bench](Charging-Bench) before usage.
+Jetpacks are part of the [Technical Gadgets](Technical-Gadgets.md) category. They need to be charged in a [Charging Bench](../Electric-Machines/Machines/Charging-Bench.md) before usage.
 
 They can be used to fly around using electricity. Put the Jetpack in your chestplate slot and crouch to use.
 
