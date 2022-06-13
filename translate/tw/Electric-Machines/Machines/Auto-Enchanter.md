@@ -10,10 +10,10 @@ It will then return empty books without enchants and the enchanted piece.
 
 There are 2 tiers of the Auto Enchanter and they have the following properties:
 
-| 等級 | 能量     | 緩衝     | Speed |
-| -- | ------ | ------ | ----- |
-| I  | 18 J/s | 128 J  | 1.0 x |
-| II | 48 J/s | 1028 J | 3.0 x |
+| 等級 | 能量           | 緩衝     | Speed |
+| -- | ------------ | ------ | ----- |
+| I  | 18 J/Sf Tick | 128 J  | 1.0 x |
+| II | 48 J/Sf Tick | 1028 J | 3.0 x |
 
 ## Tip
 
