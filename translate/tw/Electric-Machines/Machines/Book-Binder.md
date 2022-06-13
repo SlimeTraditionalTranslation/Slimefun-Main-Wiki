@@ -10,7 +10,7 @@ The Book Binder is an [Electric Machine](../Electric-Machines.md) which can be u
 The Book Binder currently only has one tier.  
 The duration of the action depends on how many enchants and what level they are.
 
-**Power Usage:** 16 J/s
+**Power Usage:** 16 J/Sf Tick
 
 ## Book Binder Settings
 
