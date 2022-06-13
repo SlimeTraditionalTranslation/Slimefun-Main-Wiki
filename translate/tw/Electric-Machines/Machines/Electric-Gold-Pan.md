@@ -9,7 +9,7 @@ Unlike the [Electric Dust Washer](Electric-Dust-Washer.md) it still produces by-
 
 ## Electric Gold Pan Tiers
 
-| 等級  |    Power     | Speed Multiplier |
+| 等級  |      電量      | Speed Multiplier |
 |:---:|:------------:|:----------------:|
 |  I  | 2 J/Sf Tick  |       1.0x       |
 | II  | 4 J/Sf Tick  |       3.0x       |
