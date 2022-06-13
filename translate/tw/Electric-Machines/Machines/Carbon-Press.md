@@ -7,7 +7,7 @@ The Carbon Press is an [Electric Machine](../Electric-Machines.md) which can be 
 
 ## Carbon Press Tiers
 
-| 等級  |     Power     | Speed Multiplier |
+| 等級  |      電量       | Speed Multiplier |
 |:---:|:-------------:|:----------------:|
 |  I  | 20 J/Sf Tick  |       1.0x       |
 | II  | 50 J/Sf Tick  |       3.0x       |
