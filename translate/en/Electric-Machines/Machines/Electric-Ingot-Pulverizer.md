@@ -12,4 +12,4 @@ The [Electric Ingot Factory](Electric-Ingot-Factory.md) is the opposite of this 
 There is only one tier of the Electric Ingot Pulverizer and it has the following properties:  
 
 **Speed multiplier**: 1.0x  
-**Power Usage**: 14 J/s  
+**Power Usage**: 14 J/Sf Tick  

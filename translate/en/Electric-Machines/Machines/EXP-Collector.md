@@ -10,5 +10,5 @@ It stores the exp in [Flasks of Knowledge](../../Magical-Gadgets/Flask-of-Knowle
 
 The EXP-Collector currently only has one tier.
 
-**Power Usage:** 20 J/s
+**Power Usage:** 20 J/Sf Tick
 **Power Buffer:** 1024 J

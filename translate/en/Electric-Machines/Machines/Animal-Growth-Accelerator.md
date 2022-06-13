@@ -11,5 +11,5 @@ It runs on [Organic Food](../../Miscellaneous-Items/Miscellaneous-Items.md) whic
 
 There is only one tier of the Animal Growth Accelerator and it has the following properties:  
 
-**Power Usage**: 28 J/s  
+**Power Usage**: 28 J/Sf Tick  
 **Buffer**: 1024 J  
