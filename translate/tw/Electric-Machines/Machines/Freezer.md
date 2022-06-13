@@ -8,7 +8,7 @@ This can be a very useful machine, for example, to create blue ice in the long-r
 
 ## Freezer Tiers
 
-| 等級 | Power  | Speed Multiplier |  緩衝   |
-|:--:|:------:|:----------------:|:-----:|
-| I  | 18 J/s |       1.0x       | 256 J |
-| II | 30 J/s |       2.0x       | 256 J |
+| 等級 |    Power     | Speed Multiplier |  緩衝   |
+|:--:|:------------:|:----------------:|:-----:|
+| I  | 18 J/Sf Tick |       1.0x       | 256 J |
+| II | 30 J/Sf Tick |       2.0x       | 256 J |
