@@ -9,7 +9,7 @@ This machine is practically a vanilla minecraft furnace, the only difference bei
 
 ## Electric Furnace Tiers
 
-| 等級  |    Power     | Speed Multiplier |
+| 等級  |      電量      | Speed Multiplier |
 |:---:|:------------:|:----------------:|
 |  I  | 4 J/Sf Tick  |       1.0x       |
 | II  | 6 J/Sf Tick  |       2.0x       |
