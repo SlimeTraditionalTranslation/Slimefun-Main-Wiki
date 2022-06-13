@@ -10,7 +10,7 @@ If you want to know all the recipes, just open the [Crucible](../../Basic-Machin
 
 ## Electrified Crucible Tiers
 
-| 等級  |     Power     | Speed Multiplier |
+| 等級  |      電量       | Speed Multiplier |
 |:---:|:-------------:|:----------------:|
 |  I  | 48 J/Sf Tick  |       1.0x       |
 | II  | 80 J/Sf Tick  |       2.0x       |
