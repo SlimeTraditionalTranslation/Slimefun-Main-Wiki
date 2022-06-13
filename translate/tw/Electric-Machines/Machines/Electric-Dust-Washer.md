@@ -9,7 +9,7 @@ It's the electric version of the [Ore Washer](../../Basic-Machines/Ore-Washer.md
 
 ## Electric Dust Washer Tiers
 
-| 等級  |    Power     |  Time  |  緩衝   | Energy/Ore |
+| 等級  |      電量      |  Time  |  緩衝   | Energy/Ore |
 |:---:|:------------:|:------:|:-----:|:----------:|
 |  I  | 6 J/Sf Tick  |  4 s   | 128 J |    24 J    |
 | II  | 10 J/Sf Tick |  2 s   | 128 J |    20 J    |
