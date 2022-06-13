@@ -12,9 +12,9 @@ The Reactor Access Port can be found in the [Cargo Management](../../Cargo-Manag
 It has to be placed exactly 3 blocks above the reactor and it can be used to interact with the Reactor from the outside.  
 This provides an easy way to add Fuel/Coolant or take some of the byproduct.
 
-## Reactor Types
+## 反應爐類型
 
-| Type                |     Power     |  緩衝  | 燃料                                  | Cooling                  | Side Effects                 |
+| 類型                  |      電量       |  緩衝  | 燃料                                  | Cooling                  | Side Effects                 |
 |:------------------- |:-------------:|:----:| ----------------------------------- | ------------------------ | ---------------------------- |
 | Nuclear Reactor     | 500 J/Sf Tick | 1.0x | Neptunium, Uranium, Boosted Uranium | Reactor Coolant Cells    | N/A                          |
 | Nether Star Reactor | 40 J/Sf Tick  | 3.0x | Nether Stars                        | Nether Ice Coolant Cells | Nearby Entities get Withered |
