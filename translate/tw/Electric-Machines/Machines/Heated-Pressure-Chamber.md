@@ -9,7 +9,7 @@ It is a more robust and more powerful version of the [Pressure Chamber](../../Ba
 
 ## Heated Pressure Chamber Tiers
 
-| 等級 |    Power     | Speed Multiplier |
+| 等級 |      電量      | Speed Multiplier |
 |:--:|:------------:|:----------------:|
 | I  | 10 J/Sf Tick |       1.0x       |
 | II | 44 J/Sf Tick |       5.0x       |
