@@ -9,7 +9,7 @@ It runs on [Organic Fertilizer](../../Miscellaneous-Items/Miscellaneous-Items.md
 
 ## Crop Growth Accelerator Tiers
 
-| 等級 |    Power     | Speed Multiplier | Radius |
+| 等級 |      電量      | Speed Multiplier | Radius |
 |:--:|:------------:|:----------------:|:------:|
 | I  | 50 J/Sf Tick |      3/time      |  7x7   |
 | II | 60 J/Sf Tick |      4/time      |  9x9   |
