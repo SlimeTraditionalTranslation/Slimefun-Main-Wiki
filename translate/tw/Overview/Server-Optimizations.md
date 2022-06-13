@@ -88,18 +88,18 @@ options:
 
 ## 5. 較慢的 Tick-rates
 
-許多黏液科技的方塊在定期執行代碼, 這個設置默認值是每隔 12 刻 (tick) 來運行一次這些任務 (20刻 = 1秒).
+Many Slimefun blocks execute code on a very regular basis, the default for this setting is set to run these tasks every 10 MC ticks (20 MC ticks = 1 second).
 
 你可以增加這個延遲來減慢運行速度, 這*可能*有助於你的伺服器性能. 但是你不應該把它設置的太高, 否則你的玩家可能會抱怨他們的機器運行得太慢.
 
-你可以在 `plugins/Slimefun/config.yml` 中設定這個設置. 我們建議只在必要時對默認的12刻做小的改動.
+你可以在 `plugins/Slimefun/config.yml` 中設定這個設置. We recommend to only make small changes to the default value of 10 MC ticks when necessary.
 
 ```yaml
 URID:
-  custom-ticker-delay: 12
+  custom-ticker-delay: 10
 ```
 
-與此設定類似, 黏液科技會定期檢查玩家的裝備, 以應用穿戴時特定裝備的效果. 這個任務的默認設置是10刻 (tick) (20刻 = 秒).
+與此設定類似, 黏液科技會定期檢查玩家的裝備, 以應用穿戴時特定裝備的效果. The default setting for this task is set to 10 MC ticks (20 MC ticks = 1 second).
 
 你也可以在必要時改變這個值.
 
