@@ -10,7 +10,7 @@ If you want to know all the recipes, just open the machine in the Slimefun guide
 
 ## Electric Ore Grinder Tiers
 
-| 等級 |    Power     | Speed Multiplier |
+| 等級 |      電量      | Speed Multiplier |
 |:--:|:------------:|:----------------:|
 | I  | 12 J/Sf Tick |       1.0x       |
 | II | 30 J/Sf Tick |       4.0x       |
