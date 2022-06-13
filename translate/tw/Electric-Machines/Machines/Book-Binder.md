@@ -17,7 +17,7 @@ The duration of the action depends on how many enchants and what level they are.
 By default, you cannot use this machine to get books above the vanilla limit.  
 However for server owners it is possible to adjust this and either add a custom limit, or no limit at all.
 
-| 名稱                       | 描述                                                                            | Type    | Default Value |
+| 名稱                       | 描述                                                                            | 類型      | Default Value |
 | ------------------------ | ----------------------------------------------------------------------------- | ------- | ------------- |
 | bypass-vanilla-max-level | If enabled, you will be able to create books higher than vanilla allows.      | boolean | false         |
 | has-custom-max-level     | If enabled, the new limit will be the integer provided in `custom-max-level`. | boolean | false         |
