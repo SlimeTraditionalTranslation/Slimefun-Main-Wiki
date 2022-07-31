@@ -56,7 +56,7 @@ _另請參閱： [常見問題](Common-Issues.md)_
 下一步是將你在第 1 步中獲得的版本與最新版本進行比較。
 
 * **你的服務器軟件是最新的嗎？** _（檢查 Spigot、Paper、Bukkit 或你正在使用的任何東西是否有更新）_
-* **黏液科技是最新的嗎？** _（你可以在下載頁面查看是否有比你的版本 [更新的版本 ](https://xmikux.github.io/builds/xMikux/Slimefun4/master/)）_
+* **黏液科技是最新的嗎？** _（你可以在下載頁面查看是否有比你的版本 [更新的版本](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)）_
 * ** 你使用的是 DEV 構建嗎？** _（穩定的構建非常 “穩定” 但並非無缺陷）_
 
 補充最後一點：我們不會接受來自 “穩定” 版本的錯誤報告，請切換到更高版本的開發版本，然後先查看你的問題是否仍然存在。

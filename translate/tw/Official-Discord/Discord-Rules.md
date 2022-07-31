@@ -267,7 +267,7 @@ A Ban is the final form of punishment. After you are banned you will no longer b
 
 Our Discord server has a lot of roles too, some are considered staff, some are earned or self-given. Here is a complete list
 
-| Role            | Type                                                   | 權限                               |
+| Role            | 類型                                                     | 權限                               |
 | --------------- | ------------------------------------------------------ | -------------------------------- |
 | **Admin**       | **Staff member**                                       | **Everything**                   |
 | **Moderator**   | **Staff member**                                       | **Warnings, mutes and kicks**    |

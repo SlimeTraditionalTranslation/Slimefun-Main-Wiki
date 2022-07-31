@@ -10,7 +10,7 @@ It is the automated version of the [Smeltery](../../Basic-Machines/Smeltery.md).
 
 ## Electric Smeltery Tiers
 
-| 等級 | Power  | Speed Multiplier |
-|:--:|:------:|:----------------:|
-| I  | 20 J/s |       1.0x       |
-| II | 40 J/s |       3.0x       |
+| 等級 |      電量      | Speed Multiplier |
+|:--:|:------------:|:----------------:|
+| I  | 20 J/Sf Tick |       1.0x       |
+| II | 40 J/Sf Tick |       3.0x       |

@@ -17,10 +17,10 @@ A coal generator must be placed within 7 blocks of an [Energy Regulator](../Ener
 
 There are currently two tiers of coal generators.
 
-| 等級 | 能量     | 緩衝    |
-| -- | ------ | ----- |
-| I  | 16 J/s | 64 J  |
-| II | 30 J/s | 256 J |
+| 等級 | 能量           | 緩衝    |
+| -- | ------------ | ----- |
+| I  | 16 J/Sf Tick | 64 J  |
+| II | 30 J/Sf Tick | 256 J |
 
 ## 燃料
 

@@ -17,10 +17,10 @@ A lava generator must be placed within 7 blocks of an [Energy Regulator](../Ener
 
 There are currently two tiers of lava generators.
 
-| 等級 |   能量   |   緩衝   |
-|:--:|:------:|:------:|
-| I  | 20 J/s | 512 J  |
-| II | 40 J/s | 1024 J |
+| 等級 |      能量      |   緩衝   |
+|:--:|:------------:|:------:|
+| I  | 20 J/Sf Tick | 512 J  |
+| II | 40 J/Sf Tick | 1024 J |
 
 ## 燃料
 

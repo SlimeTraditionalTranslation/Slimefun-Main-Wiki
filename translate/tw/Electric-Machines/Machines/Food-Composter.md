@@ -8,7 +8,7 @@ The produced [Organic Fertilizer](../../Miscellaneous-Items/Miscellaneous-Items.
 
 ## Food Composter Tiers
 
-| 等級 | Power  | Speed Multiplier |  緩衝   |
-|:--:|:------:|:----------------:|:-----:|
-| I  | 16 J/s |       1.0x       | 256 J |
-| II | 52 J/s |      10.0x       | 512 J |
+| 等級 |      電量      | Speed Multiplier |  緩衝   |
+|:--:|:------------:|:----------------:|:-----:|
+| I  | 16 J/Sf Tick |       1.0x       | 256 J |
+| II | 52 J/Sf Tick |      10.0x       | 512 J |
